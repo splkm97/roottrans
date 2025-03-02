@@ -38,63 +38,63 @@ tooltip.fish.rabbit=토끼 물고기
 tooltip.fish.mouse=쥐 물고기
 tooltip.fishmonochrome=
 tooltip.tutorial.hatedoutcast=증오받는 추방자
-tooltip.tutorial.mostcommonsuit=Most Common Suit
-Log.Explore.NoItems=[faction name] explores a ruin in a [suit icon] clearing, but it contained no items.
-scenario.garden.name=Grand Garden
-scenario.conquest.name=Conquest
-scenario.restlesssouls.name=Restless Souls
-scenario.fishing.name=Gone Fishing
-scenario.angry.name=Angry Otters
-scenario.shippingempire.name=Shipping Empire
-achievement.rf.cult.leader=Cult Leader
-achievement.rf.company.man=Company Man
-achievement.rf.corner.market=Corner the Market
-achievement.rf.feathful.crusader=Faithful Crusader
-achievement.rf.peddler=Prosperous Peddler
-achievement.rf.connected=It's All Connected
-achievement.rf.scoundrel=Dirty Rotten Scoundrel
-achievement.rf.bodyguard=Bodyguard
-root.vagabond.vagrant=Vagrant
-root.vagabond.vagrant.ability.title=Instigate
-root.vagabond.vagrant.ability.text=Initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
-root.vagabond.arbiter=Arbiter
-root.vagabond.arbiter.ability.title=Protector
-root.vagabond.arbiter.ability.text=Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
-root.vagabond.scoundrel=Scoundrel
-root.vagabond.scoundrel.ability.title=Scorched Earth
-root.vagabond.scoundrel.ability.text=Discard your torch to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
-tuber.canis.abilities.LizardCultAbilities.CultSanctifyAbility=Choose a building to sanctify.
-playmat.boughthandcard=Bought Hand Card!
-playmat.boughtriverboats=Bought Riverboats!
-playmat.boughtmercenaries=Bought Mercenaries!
-prompts.gameresults.winner.LizardCult=Lizard Cult Wins!
-prompts.gameresults.winner.RiverfolkCompany=Riverfolk Company Wins!
-tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=Choose a warrior to convert
-vagabond.title.SecondVagabond_Thief=Thief Vagabond
-vagabond.title.SecondVagabond_Tinker=Tinker Vagabond
-vagabond.title.SecondVagabond_Ranger=Ranger Vagabond
-vagabond.title.SecondVagabond_Vagrant=Vagrant Vagabond
-vagabond.title.SecondVagabond_Arbiter=Arbiter Vagabond
-vagabond.title.SecondVagabond_Scoundrel=Scoundrel Vagabond
-vagabond.title.vagabond_Vagrant=Vagrant Vagabond
-vagabond.title.vagabond_Arbiter=Arbiter Vagabond
-vagabond.title.vagabond_Scoundrel=Scoundrel Vagabond
-ftt.servicecost=Service Cost
-tooltip.ui.liz.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
-tooltip.ui.liz.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake=Choose an item to take.
-tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake.opponent=Vagabond is choosing an item to take from the Ruin.
-tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>Vagrant</b></size>\
-<b>Instigate</b> — Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
-tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>Arbiter</b></size>\
-<b>Protector</b> — Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
-tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>Scoundrel</b></size>\
-<b>Scorched Earth</b> — Discard your <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
-tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>Ranger</b></size>\
-<b>Hideout</b> — Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
-tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>Thief</b></size>\
-<b>Steal</b> — Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
-tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>Tinker</b></size>\
-<b>Day Labor</b> — Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
-tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>Vagrant</b></size>\
-tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>Arbiter</b></size>\
+tooltip.tutorial.mostcommonsuit=가장 많은 문양
+Log.Explore.NoItems=[faction name]이(가) [suit icon] 공터의 유적을 탐색했으나, 아이템이 없었습니다.
+scenario.garden.name=대정원
+scenario.conquest.name=정복
+scenario.restlesssouls.name=불안한 영혼들
+scenario.fishing.name=낚시 삼매경
+scenario.angry.name=성난 수달
+scenario.shippingempire.name=해상 제국
+achievement.rf.cult.leader=교단 지도자
+achievement.rf.company.man=기업인
+achievement.rf.corner.market=시장 독점
+achievement.rf.feathful.crusader=신실한 성전사
+achievement.rf.peddler=번창하는 행상인
+achievement.rf.connected=모든 것은 연결되어 있다
+achievement.rf.scoundrel=비열한 악당
+achievement.rf.bodyguard=보디가드
+root.vagabond.vagrant=방랑자
+root.vagabond.vagrant.ability.title=선동
+root.vagabond.vagrant.ability.text=자신이 있는 공터에서 전투를 시작합니다. 공격자와 방어자를 모두 선택하며, 각 진영의 말을 제거합니다.
+root.vagabond.arbiter=중재자
+root.vagabond.arbiter.ability.title=보호자
+root.vagabond.arbiter.ability.text=전투에서 주사위를 굴리기 전, 방어자는 중재자가 같은 공터에 있다면 그의 지원을 요청할 수 있습니다. 중재자는 <sprite name="1VP">를 획득하며, 방어자의 최대 공격력에 손상되지 않은 검을 추가합니다.
+root.vagabond.scoundrel=악당
+root.vagabond.scoundrel.ability.title=초토화
+root.vagabond.scoundrel.ability.text=횃불을 버리고 자신이 있는 공터의 모든 적을 제거합니다. 이후 이 공터에는 말을 배치하거나 이동할 수 없습니다.
+tuber.canis.abilities.LizardCultAbilities.CultSanctifyAbility=축성할 건물을 선택하세요.
+playmat.boughthandcard=핸드 카드 구매!
+playmat.boughtriverboats=보트 구매!
+playmat.boughtmercenaries=용병 구매!
+prompts.gameresults.winner.LizardCult=도마뱀 교단 승리!
+prompts.gameresults.winner.RiverfolkCompany=리버포크 주식회사 승리!
+tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=개종할 전사를 선택하세요.
+vagabond.title.SecondVagabond_Thief=도둑 방랑자
+vagabond.title.SecondVagabond_Tinker=땜장이 방랑자
+vagabond.title.SecondVagabond_Ranger=레인저 방랑자
+vagabond.title.SecondVagabond_Vagrant=부랑자 방랑자
+vagabond.title.SecondVagabond_Arbiter=중재자 방랑자
+vagabond.title.SecondVagabond_Scoundrel=악당 방랑자
+vagabond.title.vagabond_Vagrant=부랑자 방랑자
+vagabond.title.vagabond_Arbiter=중재자 방랑자
+vagabond.title.vagabond_Scoundrel=악당 방랑자
+ftt.servicecost=서비스 비용
+tooltip.ui.liz.warriorcount=<size=125%><b>남은 전사</b></size>\
+tooltip.ui.liz.cardsinhand=<size=125%><b>손패</b></size>\
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake=가져갈 아이템을 선택하세요.
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake.opponent=방랑자가 유적에서 가져갈 아이템을 선택 중입니다.
+tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>부랑자</b></size>\
+<b>선동</b> — <sprite name="torch">을(를) 소모하여 자신이 있는 공터에서 전투를 시작합니다. 공격자와 방어자를 직접 선택하며, 양쪽의 말을 제거합니다.
+tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>중재자</b></size>\
+<b>보호자</b> — 전투에서 주사위를 굴리기 전, 방어자는 중재자가 같은 공터에 있다면 그의 지원을 요청할 수 있습니다. 중재자는 <sprite name="1VP">를 획득하며, 방어자의 최대 공격력에 손상되지 않은 검을 추가합니다.
+tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>악당</b></size>\
+<b>초토화</b> — <sprite name="torch">을(를) 버리고 자신이 있는 공터의 모든 적을 제거합니다. 이후 이 공터에는 말을 배치하거나 이동할 수 없습니다.
+tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>레인저</b></size>\
+<b>은신처</b> — <sprite name="torch">을(를) 소모하여 아이템 3개를 수리합니다. 이후 즉시 낮 단계를 종료합니다.
+tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>도둑</b></size>\
+<b>훔치기</b> — <sprite name="torch">을(를) 소모하여 같은 공터에 있는 플레이어에게서 무작위로 카드 한 장을 가져옵니다.
+tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>땜장이</b></size>\
+<b>노동</b> — <sprite name="torch">을(를) 소모하여 자신이 있는 공터의 문양과 일치하는 버려진 카드 한 장을 가져옵니다.
+tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>부랑자</b></size>\
+tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>중재자</b></size>\
