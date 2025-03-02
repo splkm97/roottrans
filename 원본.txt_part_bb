@@ -2,9 +2,9 @@ tutorial1.destroyroost=잘 했어요! 그들의 <sprite name="Roost"><color=#336
 tutorial2.faction.info=침략하는 <color=#CC6633>고양이 후작</color>은 숲의 방대한 자원을 활용하여 경제적이고 군사적인 기계를 구축하려 합니다. 그녀는 숲에 건물을 건설하여 승리 점수 <style="vptext">VP</style>를 얻습니다. <br><br>일반적인 게임에서는 첫 번째로 <style="vpnumdd">30</style> 점을 얻은 플레이어가 승리합니다! 이번 시나리오에서는 <style="vpnumddteen">12</style> 점을 얻을 수 있는지 확인해보세요.
 tutorial2.setup.keep=게임을 시작할 때 <color=#CC6633>고양이 후작</color>은 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 코너에 있는 청소 한 곳에 배치합니다.
 tutorial2.setup.keep2=<sprite name="KeepToken"> <color=#CC6633>요새</color></sprite>는 당신 왕국의 근본입니다. 적들은 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>가 있는 청소에서 건물을 짓거나 조각을 배치할 수 없지만, 이동은 가능합니다.
-tutorial2.setup.keep3>지금 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 배치하세요.
+tutorial2.setup.keep3=지금 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 배치하세요.
 tutorial2.setup.warriors=<color=#CC6633>고양이 후작</color>의 군대는 다른 팩션들보다 매우 많은 숫자를 자랑합니다. 당신은 <sprite name="marquise"><color=#CC6633>전사</color></sprite>를 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 제외한 모든 청소에 배치합니다. 그 청소는 <color=#336699>이어리</color> 영토입니다.
-tutorial2.setup.buildings>마지막으로, <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>가 있는 청소나 그와 인접한 곳에 건물 하나씩 배치해야 합니다.
+tutorial2.setup.buildings=마지막으로, <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>가 있는 청소나 그와 인접한 곳에 건물 하나씩 배치해야 합니다.
 tutorial2.setup.eyrie=<color=#336699>이어리</color>가 나타나서 빈 청소에 <sprite name="Roost"><color=#336699>둥지</color></sprite>를 지었습니다. 꽤 잘 방어되고 있습니다.
 tutorial2.turn1.workshops=낮 시간이 시작될 때, 당신은 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>을 사용하여 손에 있는 카드를 제작할 기회를 가집니다.
 tutorial2.turn1.craftcost.a=<sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>은 각각 그 청소의 문양을 제공하여 제작 비용을 지불하는 데 기여합니다. 예를 들어, 두 개의 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>이 <sprite name="foxicon"> 청소에 있다면, 이 <sprite name="ArmsTrader">무기 상인</sprite> 카드를 제작할 수 있습니다.

@@ -15,20 +15,20 @@ tutorial4.sympathy.4=잘 했습니다. 두 번째 <sprite name="Sympathy"><color
 tutorial4.sympathy.4b=<sprite name="Sympathy"><color=#008D3F>동조</color> 점수 계산에 대해 더 알아보려면 아바타를 선택하세요.
 tutorial4.sympathy.4b.gamepad=<sprite name="Switch_LeftBumper">를 눌러 <sprite name="Sympathy"><color=#008D3F>동조</color> 점수 계산에 대해 더 알아보세요.
 tutorial4.sympathy.5=<color=#008D3F>동조</color>가 <color=#008D3F>동조 트랙</color>에서 높아지면, 동조를 퍼뜨리는 데 더 많은 <color=#008D3F>지지자</color>가 필요하고, 더 많은 <style="vptext">VP</style>를 얻습니다.
-tutorial4.craft.1>낮에 <sprite name="Sympathy"><color=#008D3F>동조</color>는 공터의 문양을 사용하여 공예 비용을 지불하는 데 기여합니다. 이는 <color=#336699>이어리 둥지</color>와 <color=#CC6633>고양이 후작의 작업장</color>처럼 작동합니다. 이제 공예를 시작합시다!
+tutorial4.craft.1=낮에 <sprite name="Sympathy"><color=#008D3F>동조</color>는 공터의 문양을 사용하여 공예 비용을 지불하는 데 기여합니다. 이는 <color=#336699>이어리 둥지</color>와 <color=#CC6633>고양이 후작의 작업장</color>처럼 작동합니다. 이제 공예를 시작합시다!
 tutorial4.mobilize.1=<color=#008D3F>조직화</color>를 사용하여 손에 남은 카드를 <color=#008D3F>지지자</color>로 변환하세요. <color=#008D3F>기지</color>를 건설하기 전까지 <color=#008D3F>지지자</color>는 최대 5명까지만 보유할 수 있습니다.
 tutorial4.endturn1=혁명이 깨어났습니다. 하지만 지금은 휴식할 시간입니다.
 tutorial4.aiturn1.1=이 숲의 반란자들을 무시하세요! 이건 토끼의 신성모독입니다! <color=#CC6633>고양이 후작</color>이 당신의 정당한 지배자입니다!
 tutorial4.turn2.revolt.1=지지를 구축한 것은 시작에 불과합니다. 이제 일어날 때가 왔습니다. <color=#008D3F>봉기</color>하세요!
 tutorial4.turn2.revolt.2=아래 공터를 선택하세요. 봉기를 일으키기 위해 해당 공터의 문양에 맞는 <color=#008D3F>지지자</color> 2명을 사용해야 합니다.
 tutorial4.turn2.revolt.3=<color=#008D3F>봉기</color>는 그 공터에 있는 모든 적의 유닛, 토큰, 건물을 파괴합니다. 그런 다음 그곳에 <color=#008D3F>기지</color>를 건설하고, 같은 문양을 가진 공터에서의 동조 공터 수만큼 전사를 배치합니다!
-tutorial4.turn2.revolt.4>우리는 숲에서 3개의 <color=#008D3F>기지</color>만 가질 수 있습니다 (<sprite name="BaseMouse"><sprite name="BaseFox"><sprite name="BaseRabbit">), 각각 다른 공터 유형에 해당하는 기지입니다.
-tutorial4.turn2.revolt.5>아, 새로운 <sprite name="Officer"><color=#008D3F>장교</color>와 함께 우리의 새로운 <color=#008D3F>기지</color>가 도착한 것 같습니다. 그는 저녁 군사 작전을 안내하는 데 도움을 줄 것입니다.
-tutorial4.turn2.evening.1>이제 <sprite name="Officer"><color=#008D3F>장교</color> 수에 맞는 저녁 군사 작전 행동을 사용할 수 있습니다.
-tutorial4.turn2.evening.2>하나의 군사 행동을 사용하여 <color=#008D3F>전사</color>를 <sprite name="AlliWarrior"><color=#008D3F>모병</color>하세요.
-tutorial4.AIturn2.1>이 토끼들의 반란을 진압할 시간입니다!
-tutorial4.AIturn2.2>상대가 전사를 동조하는 공터로 이동시키거나 <sprite name="Sympathy"><color=#008D3F>동조</color> 토큰을 파괴하면 <sprite name="Outrage"><color=#008D3F>분노</color>가 발생합니다. 이로 인해 상대는 손에 있는 카드 중 해당 공터의 문양을 <color=#008D3F>지지자</color>로 추가해야 합니다.
-tutorial4.AIturn2.3>우리는 너무 교활하게 당했습니다!tutorial4.AIturn2.4=당신이 공격당하고 있습니다. 다행히도, <color=#008D3F>우드랜드 연합</color>은 <sprite name="Guerilla"><color=#008D3F>게릴라 전쟁</color></sprite>의 달인입니다. 방어 시, 공격자가 된 것처럼 전투에서 높은 주사위를 사용합니다.
+tutorial4.turn2.revolt.4=우리는 숲에서 3개의 <color=#008D3F>기지</color>만 가질 수 있습니다 (<sprite name="BaseMouse"><sprite name="BaseFox"><sprite name="BaseRabbit">), 각각 다른 공터 유형에 해당하는 기지입니다.
+tutorial4.turn2.revolt.5=아, 새로운 <sprite name="Officer"><color=#008D3F>장교</color>와 함께 우리의 새로운 <color=#008D3F>기지</color>가 도착한 것 같습니다. 그는 저녁 군사 작전을 안내하는 데 도움을 줄 것입니다.
+tutorial4.turn2.evening.1=이제 <sprite name="Officer"><color=#008D3F>장교</color> 수에 맞는 저녁 군사 작전 행동을 사용할 수 있습니다.
+tutorial4.turn2.evening.2=하나의 군사 행동을 사용하여 <color=#008D3F>전사</color>를 <sprite name="AlliWarrior"><color=#008D3F>모병</color>하세요.
+tutorial4.AIturn2.1=이 토끼들의 반란을 진압할 시간입니다!
+tutorial4.AIturn2.2=상대가 전사를 동조하는 공터로 이동시키거나 <sprite name="Sympathy"><color=#008D3F>동조</color> 토큰을 파괴하면 <sprite name="Outrage"><color=#008D3F>분노</color>가 발생합니다. 이로 인해 상대는 손에 있는 카드 중 해당 공터의 문양을 <color=#008D3F>지지자</color>로 추가해야 합니다.
+tutorial4.AIturn2.3=우리는 너무 교활하게 당했습니다!tutorial4.AIturn2.4=당신이 공격당하고 있습니다. 다행히도, <color=#008D3F>우드랜드 연합</color>은 <sprite name="Guerilla"><color=#008D3F>게릴라 전쟁</color></sprite>의 달인입니다. 방어 시, 공격자가 된 것처럼 전투에서 높은 주사위를 사용합니다.
 tutorial4.turn3.goal.1=<sprite name="Sympathy"><color=#008D3F>동조</color></sprite>를 퍼뜨리고, 카드를 제작하며, 적의 건물을 제거하여 <style="vpnumddteen">15</style>점을 얻고 이 시나리오를 완료하세요.
 tutorial4.organize.goal=<sprite name="Organize"><color=#008D3F>조직화</color></sprite> 행동을 사용하여 <sprite name="AlliWarrior"><color=#008D3F>전사</color></sprite>를 희생하고 <sprite name="Sympathy"><color=#008D3F>동조</color></sprite>를 얻으세요.
 tutorial4.law.1=적이 세 명 이상의 전사를 보유한 공터에서는 <color=#008D3F>지지자</color>가 추가로 필요하여 <sprite name="Sympathy"><color=#008D3F>동조</color></sprite>를 퍼뜨릴 수 있습니다. 정말로 적과 맞서 싸우지 않는 한, 더 저렴한 공터로 퍼뜨리세요.
