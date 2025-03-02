@@ -1,53 +1,53 @@
-tooltip.ui.vagabond.secondvagabond_scoundrel=<size=125%><b>Scoundrel</b></size>\
-prompt.tutorial.riverfolk.upsell.title=Riverfolk Tutorials
-prompt.tutorial.riverfolk.upsell.description=The Riverfolk Company and Lizard Cult are part of The Riverfolk Expansion. Visit the store to learn more?
-tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.opponent=Lizard Cult is choosing a Conspiracy
-Firsttime.ally=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the [faction name]. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
-factionnames.RiverfolkCompany=Riverfolk Company
-aiplayername.secondvagabond=Vagabond
-playmat.enlisted=Enlisted!
-prompts.vagabonditems.novalidchoices=You cannot take two items of the same type from ruins.
-playmat.establishtradepost=Establish Trade Post!
-playmat.export=Export!
-prompts.gameresults.winner.SecondVagabond=Vagabond Wins
-prompt.selectaplayer=Select A Player!
-Log.riverfolk.Favor.Craft=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name], removing all enemy pieces in [suit icon] clearings.
-tooltip.ui.riverfolk.craftedcards=<size=125%><b>Crafted Cards</b></size>\
-tooltip.ui.lizards.crafteditems=<size=125%><b>Crafted Items</b></size>\
-tooltip.ui.lizards.craftedcards=<size=125%><b>Crafted Cards</b></size>\
-tuber.canis.abilities.CraftAbility.lizardcult=Choose a card to craft using gardens in the outcast suit.
-tuber.canis.abilities.CraftAbility.lizardcult.opponent=Lizard Cult is choosing a card to craft
-tuber.canis.actions.LizardCultActions.ConfirmScoreForNoPoints=Choosing this card would score you 0 points. Are you sure you wish to continue?
-prompt.vagabond.enlistarbiter.title=Enlist Arbiter
-prompt.export=Choose a card to Export.
-shortfactionnames.RiverfolkCompany=Riverfolk
-shortfactionnames.lizardcult=Lizard Cult
-root.vagabond.adventurer=Adventurer
-root.vagabond.adventurer.ability.title=Improvise
-root.vagabond.adventurer.ability.title.required=Improvise Required
-root.vagabond.adventurer.ability.text=Once per turn, you may damage any item to treat it as another item for a quest.
-root.vagabond.harrier=Harrier
-root.vagabond.harrier.ability.title=Glide
-root.vagabond.harrier.ability.text=Move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
-root.vagabond.ronin=Ronin
-root.vagabond.ronin.ability.title=Swift Strike
-root.vagabond.ronin.ability.text=In battle, you may exhaust a sword to deal an extra hit.
-tuber.canis.abilities.VagabondAbilities.GlideAbility.Destination=Choose a clearing to glide to.
-vagabond.swiftstrike.activate=Would you like to exhaust a sword to deal an extra hit?
-vagabond.improvise.activate=Would you like to Improvise this quest?
-vagabond.improvise.item=Choose an item to damage for Improvise.
-vagabond.improvise.item.opponent=[player] is choosing an item to damage for Improvise.
-vagabond.improvise.item.quest=Choose which quest item to exhaust.
-Log.Quest.Improvise=[faction name] Improvised, exhausting a [item icon] and damaging a [item icon 2] to complete the [name] quest.
-log.vagabond.ronin.ability=[faction name] used Swift Strike, exhausting [item icon] to add an additional hit.
-log.vagabond.harrier.ability=[faction name] used Glide to move, soaring across the sky.
-tooltip.ability.vagabond.glide=<size=125%><b>Glide</b></size> - Exhaust <sprite name="torch"> to move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
-tooltip.ui.vagabond.Vagabond_Adventurer=<size=125%><b>Adventurer</b></size>\
-tooltip.ui.vagabond.Vagabond_Harrier=<size=125%><b>Harrier</b></size>\
-<b>Glide</b> — Exhaust <sprite name="torch"> to move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
-tooltip.ui.vagabond.Vagabond_Ronin=<size=125%><b>Ronin</b></size>\
-tooltip.ui.vagabond.SecondVagabond_Harrier=<size=125%><b>Harrier</b></size>\
-tooltip.ui.vagabond.SecondVagabond_Ronin=<size=125%><b>Ronin</b></size>\
+tooltip.ui.vagabond.secondvagabond_scoundrel=<size=125%><b>악당</b></size>\
+prompt.tutorial.riverfolk.upsell.title=리버포크 튜토리얼
+prompt.tutorial.riverfolk.upsell.description=리버포크 주식회사와 도마뱀 교단은 *Riverfolk* 확장의 일부입니다. 스토어에서 자세히 알아보시겠습니까?
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.opponent=도마뱀 교단이 음모를 선택 중입니다.
+Firsttime.ally=이제 <sprite name="Allied"><color=#4E6F89>[faction name]</color>과(와) 동맹이 되었습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 자신의 공터에 있는 그들의 전사를 지휘하여 이동하거나 전투를 수행할 수 있습니다.
+factionnames.RiverfolkCompany=리버포크 주식회사
+aiplayername.secondvagabond=방랑자
+playmat.enlisted=입대 완료!
+prompts.vagabonditems.novalidchoices=유적에서 동일한 유형의 아이템 두 개를 가져올 수 없습니다.
+playmat.establishtradepost=거래소 개설!
+playmat.export=수출!
+prompts.gameresults.winner.SecondVagabond=방랑자 승리!
+prompt.selectaplayer=플레이어 선택!
+Log.riverfolk.Favor.Craft=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작했습니다. [suit icon] 공터에 있는 모든 적 말을 제거합니다.
+tooltip.ui.riverfolk.craftedcards=<size=125%><b>제작된 카드</b></size>\
+tooltip.ui.lizards.crafteditems=<size=125%><b>제작된 아이템</b></size>\
+tooltip.ui.lizards.craftedcards=<size=125%><b>제작된 카드</b></size>\
+tuber.canis.abilities.CraftAbility.lizardcult=버려진 문양의 정원을 사용하여 제작할 카드를 선택하세요.
+tuber.canis.abilities.CraftAbility.lizardcult.opponent=도마뱀 교단이 제작할 카드를 선택 중입니다.
+tuber.canis.actions.LizardCultActions.ConfirmScoreForNoPoints=이 카드를 선택하면 점수를 획득하지 못합니다. 계속하시겠습니까?
+prompt.vagabond.enlistarbiter.title=중재자 입대
+prompt.export=수출할 카드를 선택하세요.
+shortfactionnames.RiverfolkCompany=리버포크
+shortfactionnames.lizardcult=도마뱀 교단
+root.vagabond.adventurer=모험가
+root.vagabond.adventurer.ability.title=즉흥 연주
+root.vagabond.adventurer.ability.title.required=즉흥 연주 필요
+root.vagabond.adventurer.ability.text=턴당 한 번, 아이템 하나를 손상시켜 다른 아이템처럼 사용할 수 있습니다.
+root.vagabond.harrier=하리어
+root.vagabond.harrier.ability.title=활공
+root.vagabond.harrier.ability.text=아무 공터로 이동할 수 있습니다 (적대적 공터 포함). 동맹을 동반할 수 없으며, 장화를 소모할 필요가 없습니다.
+root.vagabond.ronin=로닌
+root.vagabond.ronin.ability.title=질풍참
+root.vagabond.ronin.ability.text=전투 중 검을 하나 소모하여 추가 피해를 입힐 수 있습니다.
+tuber.canis.abilities.VagabondAbilities.GlideAbility.Destination=이동할 공터를 선택하세요.
+vagabond.swiftstrike.activate=검을 하나 소모하여 추가 피해를 입히겠습니까?
+vagabond.improvise.activate=이 퀘스트에서 즉흥 연주를 사용하시겠습니까?
+vagabond.improvise.item=즉흥 연주를 위해 손상시킬 아이템을 선택하세요.
+vagabond.improvise.item.opponent=[player]이(가) 즉흥 연주를 위해 손상시킬 아이템을 선택 중입니다.
+vagabond.improvise.item.quest=소모할 퀘스트 아이템을 선택하세요.
+Log.Quest.Improvise=[faction name]이(가) 즉흥 연주를 사용하여 [item icon]을(를) 소모하고 [item icon 2]을(를) 손상시켜 [name] 퀘스트를 완료했습니다.
+log.vagabond.ronin.ability=[faction name]이(가) 질풍참을 사용하여 [item icon]을(를) 소모하고 추가 피해를 입혔습니다.
+log.vagabond.harrier.ability=[faction name]이(가) 활공을 사용하여 하늘을 가로질러 이동했습니다.
+tooltip.ability.vagabond.glide=<size=125%><b>활공</b></size> - <sprite name="torch">을(를) 소모하여 아무 공터로 이동할 수 있습니다 (적대적 공터 포함). 동맹을 동반할 수 없으며, 장화를 소모할 필요가 없습니다.
+tooltip.ui.vagabond.Vagabond_Adventurer=<size=125%><b>모험가</b></size>\
+tooltip.ui.vagabond.Vagabond_Harrier=<size=125%><b>하리어</b></size>\
+<b>활공</b> — <sprite name="torch">을(를) 소모하여 아무 공터로 이동할 수 있습니다 (적대적 공터 포함). 동맹을 동반할 수 없으며, 장화를 소모할 필요가 없습니다.
+tooltip.ui.vagabond.Vagabond_Ronin=<size=125%><b>로닌</b></size>\
+tooltip.ui.vagabond.SecondVagabond_Harrier=<size=125%><b>하리어</b></size>\
+tooltip.ui.vagabond.SecondVagabond_Ronin=<size=125%><b>로닌</b></size>\
 tooltip.ui.vagabond.SecondVagabond_Adventurer=<size=125%><b>Adventurer</b></size>\
 vagabond.title.Vagabond_Adventurer=Adventurer
 vagabond.title.Vagabond_Ronin=Ronin
