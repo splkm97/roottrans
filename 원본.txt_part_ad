@@ -1,0 +1,300 @@
+playerinfo.used.title=Used
+settings.gameplay.title=Gameplay
+button.commit=Commit
+RFT.Thematic.Intro=<color=#397F7F>The Riverfolk Company</color> has set up shop on the great river running through the woodland. As the other factions purchase <color=#397F7F>services</color>, the <color=#397F7F>Riverfolk</color> will be able to fund new trade posts across the forest. The construction of these posts is a viable way to score victory points, but so too are dividends gained from hoarding wealth.
+RFT.character.intro=Well hey there chum. Let me wash my hands real quick, they smell like clams.
+RFT.set.up=In the meantime, take care of set-up for me and place 4 <color=#397F7F>warriors</color> in clearings along the river.
+RFT.services.1=We've got the best <color=#397F7F>services</color> in town!
+RFT.services.2=At the start of their Birdsong, your opponents may purchase <color=#397F7F>services</color> by taking warriors from their supply and adding them to your <color=#397F7F>payments</color> area.
+RFT.services.3=Those <color=#397F7F>payments</color> become the <color=#397F7F>funds</color> that determine the actions you can take on your turn.
+rft.set.price=During set up and each Evening, you determine <color=#397F7F>service</color> prices. Let's play hardball and set them all to 3.
+rft.bs.intro.funds=Our <color=#397F7F>service</color> prices were so steep we didn't get any buyers. However, each game we start with three <color=#397F7F>payments</color> represented by warrior icons.
+rft.gather.funds=During Birdsong, you move all <color=#397F7F>payments</color> to your <color=#397F7F>funds</color> to spend on actions during daylight.
+rft.basic.funds=You can move, battle, and draw cards by committing <color=#397F7F>funds</color>. These <color=#397F7F>funds</color> move to your <color=#397F7F>commitments</color> area and won't be available to spend again until your next turn.
+rft.basic.battle=Commit a <color=#397F7F>fund</color> to battle the Marquise in your <sprite name="ClearingRabbit"> clearing before they recruit more warriors.
+rft.battle.2=Well done. You're more of a fighter than I expected!
+rft.battle.enemy=You otter know better than to attack the Marquise!
+rft.recruit=Recruit now in the clearing you battled in to replace the <color=#397F7F>warrior</color> we lost in battle.
+rft.recruit.2=Recruiting is costly. <color=#397F7F>Funds</color> used to Recruit go to your supply rather than your commitments. This means they won't return to your <color=#397F7F>funds</color> on your following turn.
+rft.draw=Unlike many other factions, you don't draw at end of turn. To draw cards you must commit a <color=#397F7F>fund</color> to use the draw action.
+rft.set.cost=During Evening, you may change the prices of your <color=#397F7F>services</color>. Let's hold a sale! Bring the cost of <color=#397F7F>riverboats</color> down to 1 and your other <color=#397F7F>services</color> down to 2.
+rtf.marquise.hand.card=Those baked goods you have on offer look delicious!
+rtf.marquise.hand.card.2=Clam cake again? Excuse me while a cough up a hairball...
+rft.lizard.riverboats=Your <color=#397F7F>riverboats</color> will be of much use to the cult. Blessings of the scaled one to you.
+rft.enemy.funds=Our sale was a success! We have a nice variety of funds to use for our actions this turn.
+rft.trade.post=You can spend 2 <color=#397F7F>funds</color> matching the faction of a clearings ruler to place a <sprite name="TradePost"><color=#397F7F>trade post token</color> and <color=#397F7F>warrior</color> there (so long as that clearing doesn't already have a <color=#397F7F>trade post</color>).
+rft.trade.post.2=When you place a trade post, you score <style="vpnum">2</style>. <sprite name="TradePost"><color=#397F7F>Trade posts</color> are used to craft, allow you to score dividends, and enable other players to buy more <color=#397F7F>services</color> from you.
+rtf.craft=Each <sprite name="TradePost"><color=#397F7F>trade post</color> you have built also contributes its suit towards crafting cards.
+rtf.fund.choice=You must commit a <color=#397F7F>fund</color> for each <sprite name="TradePost"><color=#397F7F>trade post</color> used during crafting. You have a choice of which faction type to spend. Select either.
+RFT.Swimmers=Us Riverfolk are great swimmers. We treat rivers as paths during movement and ignore the ruler restriction when moving through rivers.
+rtf.trade.post.protect=Let's move 2 <color=#397F7F>warriors</color> along the river to our <sprite name="TradePost"><color=#397F7F>trade post</color> to protect it.
+rtf.battle.workshop=That Marquise workshop is vulnerable. Attack!
+rft.marquise.traitor=From trader to traitor I see. You will pay for this, river scum!
+rft.set.service.t2=Let's leave our <color=#397F7F>service</color> costs alone for now. If it ain’t broke, don’t fix it!
+rtf.t3.enemy.service=Each enemy is allowed to buy one <color=#397F7F>service</color> from you a turn, plus an additional <color=#397F7F>service</color> for each clearing with a <sprite name="TradePost"><color=#397F7F>trade post</color> and one of their pieces.
+rtf.t3.mercenaries.split=The buyer of your mercenaries must split casualties evenly between their pieces and your hired warriors, with the buyer taking odd hits.
+rtf.alt.craft=Us <color=#397F7F>Riverfolk</color> are innovative crafters. Instead of resolving the effect of a crafted card, we can add a warrior to our <color=#397F7F>payments</color>. Use the <color=#397F7F>Export</color> button to craft for this reward.
+rtf.t3.recruit=Each time a <color=#397F7F>trade post</color> is destroyed, we lose half our <color=#397F7F>funds</color> (rounded up). Let's recruit another <color=#397F7F>warrior</color> to make sure our <sprite name="TradePost"><color=#397F7F>trade post</color> are well guarded.
+rtf.t3.dividends=During our Birdsong, we score dividends so long as we have a <sprite name="TradePost"><color=#397F7F>trade post</color> on the map. Dividends score <style="vpone">1</style> for every 2 <color=#397F7F>funds</color> we didn't use on our previous turn. Pass the turn to save <color=#397F7F>funds</color> for dividends.
+rff.t3.set.service=You've got quite the instinct for trade. Go ahead and set the <color=#397F7F>services</color> however you would like.
+rft.bs.protectionism=Looks like we didn't receive any payments this round. No matter, you move two warriors from your supply to payments as a consolation prize.
+rft.off.rails=Establish another <sprite name="TradePost"><color=#397F7F>trade post</color> and score <style="vpnumddteen">15</style> to prove us <color=#397F7F>Riverfolk</color> are more than mere merchants.
+rft.goal.vp=Score <style="vpnumddteen">15</style> ({0}/{1})
+rft.goal.tradepost=Build one more <sprite name="TradePost"><color=#397F7F>Trade Post</color>
+FTT.Riverfolk.removed.TP=Destroyed <sprite name="TradePost"><color=#397F7F>Trade Posts</color> don't return to your supply and continue to provide their crafting ability even though they are no longer on the map.
+lct.intro=The <color=#748421>Lizard Cult</color> wishes to spread our gospel throughout the woodland. You must seek <color=#748421>outcasts</color> and <color=#748421>acolytes</color> to crusade for your cause and defend your sanctum. But your fight is not with tooth and claw alone. Tending to your <sprite name="Garden"><color=#748421>Gardens</color> reveals a path to victory through mysterious rituals.
+lct.place.warriors=You start the game with 4 humble <color=#748421>warriors</color> and a <sprite name="Garden"><color=#748421>Garden</color> building in the corner clearing opposite the Marquise de Cat Keep.
+lct.adjacent.warriors=In addition, you place a warrior in each clearing adjacent to your starting <sprite name="Garden"><color=#748421>Garden</color>.
+lct.explain.reveal=During Daylight, you perform <color=#748421>ritual</color> actions by revealing cards from your hand.
+lct.recruit.intro=Using the <color=#748421>Recruit</color> ritual you may reveal a card from your hand to recruit a warrior in a clearing matching its suit.
+lct.reveal.icon=The cards you reveal are moved to the <sprite name="eyeicon"> area and can't be used for rituals again until your next turn.
+lct.first.build=Let's try another <color=#748421>ritual</color> using a different card in our hand. Use the <color=#748421>Build</color> ritual to reveal a <sprite name="mouseicon"> card and place a <sprite name="Garden"><color=#748421>Garden</color> in a matching clearing you rule.
+lct.pilgrims=You automatically rule any clearing where you have a <sprite name="Garden"><color=#748421>Garden</color>. Even non-believers are in awe of their divine properties.
+lct.garden=<sprite name="Garden"><color=#748421>Gardens</color> can be used to score points with the <color=#748421>Score</color> ritual. Tap your avatar to learn more about <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.garden.gamepad=<sprite name="Garden"><color=#748421>Gardens</color> can be used to score points with the <color=#748421>Score</color> ritual. Press <sprite name="Switch_LeftBumper"> to learn more about <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.garden.track=The more <sprite name="Garden"><color=#748421>Gardens</color> you have on the map of a suit, the more points you score when using the <color=#748421>Score</color> ritual.
+lct.garden.draw=You uncover a <sprite name="DrawCard"> when you have two <sprite name="Garden"><color=#748421>Gardens</color> of the same suit on the map. Doing so increases the cards you draw during Evening.
+lct.score=Use the <color=#748421>Score</color> ritual to discard a <sprite name="mouseicon"> card and gain <style="vpnum">2</style>. This is a unique and powerful ritual that requires you discard the card you used rather than reveal it.
+lct.score.2=You may perform the <color=#748421>Score</color> ritual only once per suit each turn.
+lct.return=The cards you revealed for rituals are now returned to your hand.
+lct.strategy=Carefully managing the suits in your hand is key to the cult's success.
+lct.marquise.dialog.attack=Time to kick these zealots back to the stone age! En garde!
+lct.revenge=These whiskered heathens have dealt a blow to our warriors. Thankfully, our <color=#748421>Revenge</color> ability allows us to transform our fallen defending <color=#748421>warriors</color> into <color=#748421>acolytes</color>.
+lct.pick.outcast=The <color=#748421>Outcast</color> determines the clearing suits you can interact with using your <color=#748421>acolytes</color>. Choosing <sprite name="mouseicon"> will allow us to wage war against enemies in <sprite name="mouseicon"> clearings this turn.
+lct.pick.outcast.2=In a typical game you will choose the initial <color=#748421>Outcast</color> suit during setup, but the cult makes exceptions for true believers like you.
+lct.intro.conspiracy=Now that we have an <color=#748421>Outcast</color> and enough <color=#748421>acolytes</color>, we can perform <color=#748421>conspiracies</color> during Birdsong. <color=#748421>Conspiracies</color> are a set of conflict oriented actions that use <color=#748421>acolytes</color> instead of cards in hand.
+lct.crusade=Spend two <color=#748421>acolytes</color> to use the <color=#748421>Crusade</color> Conspiracy. This will allow you to move 2 warriors from a clearing matching the suit of the <color=#748421>Outcast</color> to battle in an adjacent clearing.
+lct.t2.marquise=These wackos again? A fistful of steel should show them who's boss!
+lct.flavor.battle=May this burning pyre of sawdust please the gods.
+lct.hatred.birds=Because of your <color=#748421>Hatred of Birds</color>, your <sprite name="birdicon"> cards can't be used as any suit for performing rituals. Instead they are used for a unique ritual called <color=#748421>Sacrifice</color>.
+lct.intro.sacrifice=Reveal <sprite name="birdicon"> cards for the <color=#748421>Sacrifice</color> ritual to transform warriors in your supply into more <color=#748421>Acolytes</color> that can be used for <color=#748421>Conspiracies</color>.
+lct.t2.ritual=Our rituals offer flexibility in where to recruit and build on the map. Let's <color=#748421>Recruit</color> to a new area of the map now.
+lct.t2.craft=Reveal a <sprite name="rabbiticon"> to add a <sprite name="Garden"><color=#748421>Garden</color> to the clearing where you destroyed your enemy's sawmill.
+lct.t2.craft.2=<sprite name="Garden"><color=#748421>Gardens</color> matching the suit of the outcast contribute towards crafting during evening. Use their crafting power to score Root Tea.
+lct.lost.souls=Used and discarded cards from all players go to the <color=#748421>Lost Souls</color> pile rather than the discard pile. The most common suit of these <color=#748421>Lost Souls</color> will determine the suit of the <color=#748421>Outcast</color> at the start of your turn.
+lct.enemy.lost.souls=Enemy cards go to the <color=#748421>Lost Souls</color> pile as well. Watch out, even a careful plot to control the <color=#748421>Outcast</color> suit can be disrupted by clever opponents.
+lct.t3.outcast=At the start of your turn, the most common suit in the <color=#748421>Lost Souls</color> pile (ignoring <sprite name="birdicon">) determines the new <color=#748421>Outcast</color>. Then the <color=#748421>lost souls</color> pile is sent to the discard pile.
+lct.t3.outcast.2=Since <sprite name="rabbiticon"> was the most common suit, it becomes the new Outcast.
+lct.t3.crusade.battle=There is more than one way to <color=#748421>Crusade</color>. Rather than move from an <color=#748421>Outcast</color> clearing and battle in a neighboring clearing you can also battle in the <color=#748421>Outcast</color> clearing itself. Do so now to protect your <sprite name="Garden"><color=#748421>Garden</color>.
+lct.t3.crusade.battle.2=Success. However, you lost a warrior in the battle. Remember, only <color=#748421>warriors</color> lost in battles where you were the DEFENDER seek revenge by becoming <color=#748421>acolytes</color>.
+lct.t3.sacrifice=Use the <color=#748421>Sacrifice</color> action three times to gain more <color=#748421>acolytes</color>.
+lct.t3.recruit=Use the <color=#748421>Recruit</color> action to place another <color=#748421>warrior</color> near your <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.t3.recruit.2=Finally let's <color=#748421>Recruit</color> again to establish rule in the <sprite name="rabbiticon"> clearing near your <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.t3.discard=You have too many cards in hand. Discarding two bunny cards will help to ensure the <color=#748421>Outcast</color> will become the <color=#748421>Hated Outcast</color>.
+lct.t3.discard.2=Being hated sounds bad you say? No no... the righteous are often misunderstood. Patience friend, you will see.
+lct.t4.hated.outcast=As foretold, the most common suit in the Lost Souls pile is the same as the suit of the current <color=#748421>Outcast</color>. When this happens, the <color=#748421>Outcast</color> becomes the <color=#748421>Hated Outcast</color>, reducing the cost of your <color=#748421>conspiracies</color> by 1!
+lct.t4.convert=The <color=#748421>Lizard Cult</color> welcomes new blood with open arms. Use the <color=#748421>Convert</color> conspiracy to replace an enemy warrior in an <color=#748421>Outcast</color> clearing with one of our own.
+lct.t4.sanctify=We must purify not only souls, but false monuments as well. Use <color=#748421>Sanctify</color>, to replace an enemy building with a <sprite name="Garden"><color=#748421>Garden</color>.
+lct.t4.off.rails=Your knowledge of our sacred text is nearly complete. Score <style="vpnumddteen">12</style> to prove your undying allegiance to the <color=#748421>Lizard Cult</color>.
+lct.goal.12vp=Score <style="vpnumddteen">12</style> ({0}/{1})
+lct.ftt.garden.removed=When a <color=#748421>garden</color> is removed, it returns to your garden track, often reducing the victory points scored by rituals. In addition, you lose a random card in hand. Protect <sprite name="Garden"><color=#748421>Garden</color> at all costs.
+scenario.garden.tier1description=You can't win unless you have 5 gardens on the map of the same suit.
+scenario.garden.tier2description=You can't win unless you have at least 3 gardens on the map in each suit.
+scenario.conquest.tier1description=Your Revenge ability is replaced with Conquest: When attacking, enemy warriors you remove in battle become Acolytes.
+scenario.conquest.tier2description=Your Revenge ability is replaced with Conquest: When attacking, enemy warriors you remove in battle become Acolytes. Opponents start with <style="vpnum">5</style>.
+scenario.restlesssouls.tier1description=At the start of your turn, swap your hand with the Lost Souls pile (Max 7. Skipped first turn).
+scenario.restlesssouls.tier2description=At the start of your turn, swap your hand with the Lost Souls pile (Max 7. Skipped first turn).
+scenario.fishing.tier1description=At the start of each of your turns, fish appear in rivers. When you move through a river path with a fish, it becomes a crafting piece in its suit color until end of turn.
+scenario.fishing.tier2description=At the start of each of your turns, fish appear in rivers. When you move through a river path with a fish, it becomes a crafting piece in its suit color until end of turn. Enemies start with <style="vpnum">3</style>.
+scenario.angry.tier1description=Defeated enemy warriors are added to your commitments. Enemies won't purchase your services. You start the game with Brutal Tactics in play.
+scenario.angry.tier2description=Defeated enemy warriors are added to your commitments. Enemies won't purchase your services and start with <style="vpnum">3</style>.
+scenario.shippingempire.tier1description=You can't score victory points. You win immediately when you have a trade post in each river clearing.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations=Choose river clearings for your 4 starting warriors.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations.opponent=Riverfolk Company is choosing river clearings for their starting warriors.
+tuber.canis.actions.RiverfolkCompanyActions.SetRiverfolkServicePrices=Set service prices until your next turn.
+tuber.canis.actions.RiverfolkCompanyActions.SetRiverfolkServicePrices.opponent=Riverfolk Company is setting service prices.
+tuber.canis.undo.riverfolkCompanySetupUndo=Press continue button to complete setup.
+tuber.canis.undo.riverfolkCompanySetupUndo.opponent=Waiting for Riverfolk to confirm set up.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkTradePostDestroyed.ChooseFundsToLose=Choose funds to lose for your removed trade post.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkTradePostDestroyed.ChooseFundsToLose.opponent=Waiting for Riverfolk to remove funds for their removed trade post.
+tuber.canis.actions.RiverfolkCompanyActions.DaylightChoice=Choose an action.
+tuber.canis.actions.RiverfolkCompanyActions.DaylightChoice.opponent=Riverfolk is pondering their next action.
+tuber.canis.actions.RiverfolkCompanyActions.BuyRiverfolkServices=Choose any Riverfolk services to buy.
+tuber.canis.actions.RiverfolkCompanyActions.BuyRiverfolkServices.opponent=[player] is considering Riverfolk services.
+tuber.canis.actions.RiverfolkCompanyActions.ChooseRiverfolkHandCard=Choose a card from the Riverfolk's hand to take.
+tuber.canis.actions.RiverfolkCompanyActions.ChooseRiverfolkHandCard.opponent=[player] is considering a Riverfolk hand card to take.
+tuber.canis.actions.RiverfolkCompanyActions.CommitFund=Commit Funds.
+tuber.canis.actions.RiverfolkCompanyActions.CommitFund.opponent=Riverfolk is committing funds.
+tuber.canis.actions.RiverfolkCompanyActions.SpendFund=Spend Funds.
+tuber.canis.actions.RiverfolkCompanyActions.SpendFund.opponent=Riverfolk is spending funds.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkEstablishTradePostAbility=Choose a location for this trade post.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkEstablishTradePostAbility.opponent=Riverfolk is placing a trade post.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility=Choose a river clearing to place a warrior.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility.opponent=Opponent is choosing a river clearing to place a warrior.
+tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseStarting=Choose a clearing for your garden.
+tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseStarting.opponent=Lizard Cult are choosing where to place their garden.
+tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseOutcast=Choose an initial suit for the Outcast.
+tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseOutcast.opponent=Lizard Cult is choosing an initial suit for the Outcast.
+tuber.canis.undo.lizardCultSetupUndo=Press continue button to complete setup.
+tuber.canis.undo.lizardCultSetupUndo.opponent=Waiting for the Lizard Cult to confirm set up.
+tuber.canis.abilities.LizardCultAbilities.CultCrusadeBattleAbility=Choose who to attack.
+tuber.canis.abilities.LizardCultAbilities.CultCrusadeBattleAbility.opponent=[player] is choosing who to attack.
+tuber.canis.actions.LizardCultActions.RevealCardCost=Choose a card to reveal.
+tuber.canis.actions.LizardCultActions.RevealCardCost.opponent=Lizard Cult is choosing a card to reveal.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction=Choose a Conspiracy.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant=Choose a Conspiracy or crafted card to use.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant.opponent=Lizard Cult is choosing a Conspiracy or crafted card to use.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction=Choose a Ritual.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions=No Rituals to choose. Press continue button.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.opponent=Lizard Cult is choosing a Ritual.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions.opponent=Lizard Cult is choosing a Ritual.
+tuber.canis.actions.CraftActivations=Choose a card to craft.
+tuber.canis.actions.CraftActivations.opponent=[player] is considering crafting options.
+tuber.canis.actions.CraftActivations.NoActions=No cards to craft. Press continue button
+tuber.canis.actions.CraftActivations.NoActions.opponent=[player] is considering crafting options.
+tuber.canis.actions.VagabondActions.EnlistVagabondArbiter=Enlist the Arbiter Vagabond to add [X] undamaged <sprite name="sword"> to your maximum hits (and give them <sprite name="1VP">)?
+tuber.canis.actions.VagabondActions.EnlistVagabondArbiter.opponent=[player] is considering options.
+tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing=Choose a clearing to burn with Scorched Earth.
+tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing.opponent=Vagabond is choosing a clearing to burn with Scorched Earth.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker=Choose an attacker to Instigate into battle.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker.opponent=Vagabond is choosing an attacker to Instigate into battle.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender=Choose a defender to Instigate into battle.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender.opponent=Vagabond is choosing a defender to Instigate into battle.
+tooltip.ui.lizardcult.acolytes=<size=125%><b>Acolytes</b></size>\
+<size=125%><b>Draw Rate</b></size>\
+Draw this many cards in Evening. Draw more cards by building Gardens.=Draw Rate
+tooltip.ability.lizardcult.build=<size=125%><b>Build</b></size>\
+tooltip.ability.lizardcult.convert=<size=125%><b>Convert</b></size>\
+tooltip.ability.lizardcult.crusade=<size=125%><b>Crusade (battle)</b></size>\
+tooltip.ability.lizardcult.moveandbattle=<size=125%><b>Crusade (move and battle)</b></size>\
+tooltip.ability.lizardcult.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.ability.lizardcult.sacrifice=<size=125%><b>Sacrifice</b></size>\
+tooltip.ability.lizardcult.sanctify=<size=125%><b>Sanctify</b></size>\
+tooltip.ability.lizardcult.score=<size=125%><b>Score</b></size>\
+tooltip.playmat.lizardstack=<size=125%><b>Lizard Cult Warriors</b></size>
+tooltip.playmat.garden=<size=125%><b>Garden</b></size>\
+aiplayername.riverfolkCompany=Riverfolk Company
+aiplayername.lizardCult=Lizard Cult
+riverfolkWithColor=<color=#397F7F>Riverfolk Company</color>
+cultWithColor=<color=#748421>Lizard Cult</color>
+vagabondWithColorAndCharacter=<color=#436979>[character name] Vagabond</color>
+vagabondWithColorAndCharacter2=<color=#436979>[character name 2] Vagabond</color>
+tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>Hated Outcast</b></size>\
+tooltip.ui.lizardcult.outcast=<size=125%><b>Outcast</b></size>\
+log.riverfolk.protectionism=<color=#397F7F>Riverfolk Company</color> adds [X] warriors to payments since it was empty at the start of Birdsong.
+log.riverfolk.dividends=<color=#397F7F>Riverfolk Company</color> gains [X] victory points from dividends.
+log.riverfolk.gather=<color=#397F7F>Riverfolk Company</color> moves [X] warriors into their funds.
+log.riverfolk.move=<color=#397F7F>Riverfolk Company</color> commits a fund to move [X] warriors into a [suit icon] clearing.
+log.riverfolk.move.one=<color=#397F7F>Riverfolk Company</color> commits a fund to move 1 warrior into a [suit icon] clearing.
+log.riverfolk.battle=<color=#397F7F>Riverfolk Company</color> commits a fund to initiate a battle against [faction name 2] in a [suit icon] clearing.
+Log.riverfolk.Craft.Persistent=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name].
+Log.riverfolk.Craft.Item=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name], gaining [item icon] and [X] <style="vptext">VP</style>.
+Log.Riverfolk.Craft.for.Warriors=<color=#397F7F>Riverfolk Company</color> commits [X] funds to craft [name] for a payment instead of the cards effect.
+log.riverfolk.draw=<color=#397F7F>Riverfolk Company</color> commits [X] funds to draw a card.
+log.riverfolk.recruit=<color=#397F7F>Riverfolk Company</color> spends a fund to recruit a warrior in a [suit icon] clearing.
+log.riverfolk.trade.post=<color=#397F7F>Riverfolk Company</color> spends [X] funds to establish a trade post in a [suit icon] clearing, scoring <style=vpnum">2</style>.
+log.riverfolk.set.price=<color=#397F7F>Riverfolk Company</color> sets [service name] service price to [X].
+log.riverfolk.setup=<color=#397F7F>Riverfolk Company</color> adds [X] warriors to a [suit icon] clearing for set up.
+log.riverfolk.trade.discard=<color=#397F7F>Riverfolk Company</color> loses [X] funds because a trade post was removed.
+log.buy.service.hand=[faction name] purchases the Hand Card service from the Riverfolk Company for [X], taking [suit icon][name].
+log.buy.service.riverboats=[faction name] purchases the Riverboats service from the Riverfolk Company for [X].
+log.buy.service.mercenaries=[faction name] purchases the Mercenaries service from the Riverfolk Company for [X].
+log.cult.setup.garden=<color=#748421>Lizard Cult</color> places their starting garden and 4 warriors in a [suit icon] clearing. 1 warrior is placed in each adjacent clearing.
+log.cult.outcast=The Outcast becomes [suit icon].
+log.cult.outcast.hated=The [suit icon] Outcast is now hated.
+log.cult.outcast.no.change=The Hated Outcast stays [suit icon].
+log.cult.crusade=<color=#748421>Lizard Cult</color> spends [X] acolytes to Crusade.
+log.cult.convert=<color=#748421>Lizard Cult</color> spends [X] acolytes to Convert a [faction name] warrior in a [suit icon] clearing to a Lizard Cult warrior.
+log.cult.sanctify=<color=#748421>Lizard Cult</color> spends [X] acolytes to Sanctify a [faction name] building in a [suit icon] clearing, replacing it with a garden.
+log.cult.build=<color=#748421>Lizard Cult</color> reveals [name] to build a garden in a [suit icon] clearing.
+log.cult.recruit=<color=#748421>Lizard Cult</color> reveals [name] to recruit a warrior in a [suit icon] clearing.
+log.cult.score=<color=#748421>Lizard Cult</color> discards [name] to score [suit icon] gardens for [X] victory points.
+log.cult.sacrifice=<color=#748421>Lizard Cult</color> reveals [name] to gain an acolyte.
+log.cult.lost.garden=<color=#748421>Lizard Cult</color> discards the random card [name] because a garden was removed.
+log.vagabond.explore.failure=[faction name] fails to find a legal item to take when exploring in [suit icon] clearing.
+log.vagabond.scorched.earth=[faction name] removes <sprite name="torch"> to use their Scorched Earth ability in a [suit icon] clearing. The following pieces are removed: [piece list]
+log.vagabond.vagrant.ability=<color=#4E6F89>Vagabond</color> exhausts <sprite name="torch"> to instigate a battle between [faction name] and [faction name 2] in a [suit icon] clearing.
+log.vagabond.arbiter.ability=[faction name] enlists the Arbiter <color=#4E6F89>Vagabond's</color> help in battle adding [X] swords to their max hits. The Arbiter scores [X2] <style="vptext">VP</style> in return.
+tooltip.lizardcult.gardens.description=Gardens in the suit of the outcast contribute towards crafting in evening. Whenever a garden is removed, discard a random card from your hand.
+tooltip.ui.hand.reveal.liz=<size=125%><b>Lizard Cult Hand</b></size> View Lizard Cult cards that have been revealed.
+tooltip.ui.lostsouls.liz=Lost Souls
+playmat.sacrifice=Sacrifice!
+ftt.twovagabond.create=You may now create games with two <color=#4E6F89>Vagabonds</color>. We recommend doing so in games with higher player counts.
+ftt.twovagabond.quest=<color=#4E6F89>Vagabonds</color> share a single hand of quests. If you have your eye on one, make sure to complete it before your opponent does.
+ftt.twovagabond.explore=Each <sprite name="Ruins"><color=#4E6F89>ruin</color> holds two items in a game with two <color=#4E6F89>Vagabonds</color>. These items are randomized from a pool of 2 <sprite name="sword">, 2 <sprite name="bag">, 2 <sprite name="boot">, and 2 <sprite name="hammer">.
+ftt.twovagabond.explore.2=When you explore a <sprite name="Ruins"><color=#4E6F89>ruin</color> with two items, you may take your pick of the items there. However, you may not select an item of same type as another item you hold that was also taken from a ruin.
+ftt.service.intro.1=At the start of Birdsong, players may purchase services from the Riverfolk. To purchase a service, players move warriors equal to the service cost from their supply to the Riverfolk payments area.
+ftt.service.intro.2=Hand Card: Steal a card from the Riverfolk's hand
+ftt.service.intro.3=Riverboats: Treat rivers as paths until the end of turn.
+ftt.service.intro.4=Mercenaries: During Daylight and Evening this turn, treat Riverfolk warriors as your own for rule and battle. The Vagabond isn't allowed to use this ability.
+ftt.service.intro.5=Note that the Vagabond pays for services by exhausting items at the start of Birdsong before refresh. For each item the Vagabond exhausts to do so, the Riverfolk places one of their own warriors into Payments.
+tutorial.title.tutorialR01=Sacred Scales
+tutorial.description.tutorialR01=Learn to play the Lizard Cult
+tutorial.title.tutorialR02=Rollin' On the River
+tutorial.description.tutorialR02=Learn to play the Riverfolk Company
+playmat.sanctify=Sanctify!
+playmat.lizscore=Score!
+playmat.revenge=Revenge!
+stinger.title.fear=Fear of the Faithful
+playmat.convert=Convert!
+key.handcard=Hand Card
+key.riverboats=Riverboats
+key.mercenaries=Mercenaries
+tuber.canis.abilities.LizardCultAbilities.CultBuildAbility=Choose a clearing for your garden.
+tuber.canis.abilities.LizardCultAbilities.CultRecruitAbility=Choose a clearing to recruit a warrior.
+tuber.canis.abilities.LizardCultAbilities.CultScoreAbility=Choose a card to score.
+tooltip.fish.fox=Fox Fish
+tooltip.fish.rabbit=Rabbit Fish
+tooltip.fish.mouse=Mouse Fish
+tooltip.fishmonochrome=
+tooltip.tutorial.hatedoutcast=Hated Outcast
+tooltip.tutorial.mostcommonsuit=Most Common Suit
+Log.Explore.NoItems=[faction name] explores a ruin in a [suit icon] clearing, but it contained no items.
+scenario.garden.name=Grand Garden
+scenario.conquest.name=Conquest
+scenario.restlesssouls.name=Restless Souls
+scenario.fishing.name=Gone Fishing
+scenario.angry.name=Angry Otters
+scenario.shippingempire.name=Shipping Empire
+achievement.rf.cult.leader=Cult Leader
+achievement.rf.company.man=Company Man
+achievement.rf.corner.market=Corner the Market
+achievement.rf.feathful.crusader=Faithful Crusader
+achievement.rf.peddler=Prosperous Peddler
+achievement.rf.connected=It's All Connected
+achievement.rf.scoundrel=Dirty Rotten Scoundrel
+achievement.rf.bodyguard=Bodyguard
+root.vagabond.vagrant=Vagrant
+root.vagabond.vagrant.ability.title=Instigate
+root.vagabond.vagrant.ability.text=Initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+root.vagabond.arbiter=Arbiter
+root.vagabond.arbiter.ability.title=Protector
+root.vagabond.arbiter.ability.text=Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
+root.vagabond.scoundrel=Scoundrel
+root.vagabond.scoundrel.ability.title=Scorched Earth
+root.vagabond.scoundrel.ability.text=Discard your torch to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
+tuber.canis.abilities.LizardCultAbilities.CultSanctifyAbility=Choose a building to sanctify.
+playmat.boughthandcard=Bought Hand Card!
+playmat.boughtriverboats=Bought Riverboats!
+playmat.boughtmercenaries=Bought Mercenaries!
+prompts.gameresults.winner.LizardCult=Lizard Cult Wins!
+prompts.gameresults.winner.RiverfolkCompany=Riverfolk Company Wins!
+tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=Choose a warrior to convert
+vagabond.title.SecondVagabond_Thief=Thief Vagabond
+vagabond.title.SecondVagabond_Tinker=Tinker Vagabond
+vagabond.title.SecondVagabond_Ranger=Ranger Vagabond
+vagabond.title.SecondVagabond_Vagrant=Vagrant Vagabond
+vagabond.title.SecondVagabond_Arbiter=Arbiter Vagabond
+vagabond.title.SecondVagabond_Scoundrel=Scoundrel Vagabond
+vagabond.title.vagabond_Vagrant=Vagrant Vagabond
+vagabond.title.vagabond_Arbiter=Arbiter Vagabond
+vagabond.title.vagabond_Scoundrel=Scoundrel Vagabond
+ftt.servicecost=Service Cost
+tooltip.ui.liz.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.liz.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake=Choose an item to take.
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake.opponent=Vagabond is choosing an item to take from the Ruin.
+tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>Vagrant</b></size>\
+<b>Instigate</b> — Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>Arbiter</b></size>\
+<b>Protector</b> — Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
+tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>Scoundrel</b></size>\
+<b>Scorched Earth</b> — Discard your <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
+tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>Ranger</b></size>\
+<b>Hideout</b> — Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
+tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>Thief</b></size>\
+<b>Steal</b> — Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
+tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>Tinker</b></size>\
+<b>Day Labor</b> — Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
+tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>Vagrant</b></size>\
+tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>Arbiter</b></size>\

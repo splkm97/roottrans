@@ -1,0 +1,300 @@
+tooltip.playmat.hundredswarlord=<size=125%><b>Warlord</b></size>
+tooltip.ability.hundreds.craftforvp=<size=125%><b>Craft for  <style="vptext">VP</style></b></size>\
+tooltip.ability.hundreds.crafttohoard=<size=125%><b>Craft to Hoard</b></size>\
+tooltip.ability.hundreds.build=<size=125%><b>Build</b></size>\
+tooltip.playmat.relic.title=<size=125%><b>Relics</b></size>\
+tooltip.configure.player=Configure Player
+tooltip.ability.hundreds.temperamental.normal=<size=125%><b>Temperamental</b></size>\
+tooltip.ability.hundreds.temperamental.heroic=<size=125%><b>Temperamental</b></size>\
+title.lordofthehundreds=Lord of the Hundreds
+rule.lordofthehundreds.intro1=<i>Claiming to be the one true voice of the Woodland, the Lord of the Hundreds consolidates power by crushing all dissent. In their Evening, they score points based on how many clearings they</i> <b>oppress</b>—<i>clearings they rule that have no enemy pieces at all. Their swarming army is led by the</i> <b>warlord</b><i>, a warrior-demagogue whose shifting</i> <b>mood</b> <i>provides fleeting advantages.
+rule.lordofthehundreds.intro2=By piling items onto their towering</i> <b>Hoard</b><i>,the Hundreds grow in</i> <b>Command</b> <i>and</i> <b>Prowess</b><i>, which let them take more actions and attract more warriors to their warlord. If that is not enough, they can incite torch-wielding</i> <b>mobs</b> <i>to raze the Woodland.</i>
+rule.lordofthehundreds.setup1=<b>Step 1: Place Warriors</b><br>Place your warlord, 4 warriors, and 1 stronghold in a corner clearing that another player has not chosen as their starting clearing.
+lht.1.14.gamepad=Evening falls, but the raiding has just begun. You can discard a card to <color=#B40518><b>Incite</b></color> a <sprite name="Mob"><color=#B40518><b>mob</b></color> in a matching clearing that has a <sprite name="HundredsWarrior"><color=#B40518>warrior</color> but no <sprite name="Mob">!
+lht.2.12.gamepad=To build a <sprite name="Stronghold"><color=#B40518>stronghold</color>, you must spend a card of a suit matching the clearing you want to build in.
+lht.3.5.gamepad=Craft the <sprite name="teapot"> in your hand to continue growing your <color=#B40518>Hoard</color>.
+title.keepersiniron=Keepers in Iron
+prompt.hundreds.choosetoloot.header=Loot the Defender?
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber=Choose the number of warriors to move with your warlord
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber.opponent=[player] are advancing their warlord.
+shortfactionnames.keepersiniron=Keepers
+shortfactionnames.lordofthehundreds=Hundreds
+prompt.advancedsetup.keepersiniron.homeland.1=Choose a homeland clearing to place four warriors. It must be on the map edge with 2+ clearings between it and enemy homelands.
+prompt.advancedsetup.keepersiniron.homeland.1.opponent=[player] is choosing a homeland clearing.
+prompt.advancedsetup.keepersiniron.homeland.2=Choose a second homeland clearing to place four warriors. It must be adjacent to your other homeland, on the map edge, and with 2+ clearings between it and enemy homelands.
+prompt.advancedsetup.keepersiniron.homeland.2.opponent=[player] is choosing a second homeland clearing.
+prompt.advancedsetup.lordofthehundreds.homeland=Choose a homeland clearing to place your warlord, 4 warriors, and a stronghold. It must be on the map edge with 2+ clearings between it and enemy homelands.
+prompt.advancedsetup.lordofthehundreds.homeland.opponent=[player] is choosing a homeland clearing.
+tooltip.devoutknights.battle=<size=125%><b>Devout Knights</b></size><br>The first hit is ignored because there is a relic and Keepers warrior in this clearing.
+tooltip.wrathful.battle=<size=125%><b>Wrathful Mood</b></size><br>As attacker in battle with their warlord, Hundreds deal an additional hit.
+tooltip.stubborn.battle=<size=125%><b>Stubborn Mood</b></size><br>In battle with their warlord, Hundreds ignore the first hit they take.
+warning.keepers.ironritual=You will no longer be able to win this challenge if you recover this relic. Are you sure you want to do so?
+prompt.retinueselect.header=Choose Retinue card to use
+prompt.supporterselect.header=Choose Supporter card to use
+prompt.buildingselect.cats.toggle=Choose wood to spend
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraftTemp=Unable to craft (Temperamental). Press continue.
+scenario.classic.tier1description=Normal game against two Easy AI.
+scenario.classic.tier2description=Normal game against two Medium AI.
+scenario.classic.tier3description=Normal game against three Hard AI.
+scenario.fairfight.description=Ambush cards are removed from the deck.
+scenario.fairfight.tier2description=Ambush cards are removed from the deck. Opponents start with <style="vpnum">5</style>.
+scenario.assemblyline.description.1=Gain an additional <style="vpone">1</style> whenever you craft a card. Opponents start with <style="vpnumddteen">10</style> and all players need <style="vpnumdd">40</style> to win.
+scenario.assemblyline.description.3=Gain an additional <style="vpnum">2</style> whenever you craft a card. Opponents start with <style="vpnumdd">25</style> and all players need <style="vpnumdd">50</style> to win.
+scenario.scrappyfighters.tier1description=There are no Armorers in the deck. There are double the number of Sappers, Brutal Tactics, and Command Warren.
+scenario.scrappyfighters.tier2description=There are no Armorers in the deck. There are double the number of Sappers, Brutal Tactics, and Command Warren in the deck and your opponents each start with one of them.
+scenario.riverwaywarfare.description=Clearings connected by rivers are considered adjacent.
+scenario.riverwaywarfare.tier2description=Clearings connected by rivers are considered adjacent. Opponents start with <style="vpnum">5</style>.
+scenario.totaldomination.description=You begin the game with a random dominance card in hand. You can only win using dominance.
+scenario.battleinthebranches.description=Warriors can move into and out of forests and battle in them. At the end of a players turn, if they control more forests than any other player, they draw a card.
+scenario.thelonggame.tier1description=The first player to <style="vpnumdd">40</style> wins.
+scenario.thelonggame.tier2description=The first player to <style="vpnumdd">50</style> wins. Enemies start with <style="vpnum">5</style>
+scenario.thelonggame.tier3description=The first player to <style="vpnumdd">60</style> wins. Enemies start with <style="vpnumddteen">10</style>
+scenario.medic.tier1description=Your Field Hospital ability automatically rescues warriors for no cost.
+scenario.medic.tier2description=Your Field Hospital ability automatically rescues warriors for no cost. Each enemy starts with Brutal Tactics and <style="vpnum">5</style> .
+scenario.builder.tier2description=You start with three sawmills at the start of the game and one warrior in those spaces instead of a warrior in each clearing.
+scenario.builder.tier3description=You start with three sawmills at the start of the game and one warrior in those spaces instead of a warrior in each clearing. Building sawmills does not score you victory points.
+scenario.castlesiege.tier1description=You can't win unless the Marquise keep is destroyed.
+scenario.castlesiege.tier3description=You can't win unless the Marquise keep is destroyed. The Marquise start with three additional warriors in their keep.
+scenario.thetrueking.tier1description=Whenever you enter turmoil you keep the same leader but lose an additional <style="vpone">1</style> .
+scenario.thetrueking.tier2description=Whenever you enter turmoil you keep the same leader but lose an additional <style="vpnum">2</style> .
+scenario.thetrueking.tier3description=If you enter turmoil, you lose.
+scenario.ruletheroost.tier1description=You can't score <style="vptext">VP</style> . Instead, you win if you place all your roosts. Enemies gain <style="vpnum">3</style> when destroying your roosts.
+scenario.ruletheroost.tier2description=You can't score <style="vptext">VP</style> . Instead, you win if you place all your roosts. Enemies gain <style="vpnum">4</style> when destroying your roosts and have it out for them.
+scenario.pacifist.tier1description=You can't initiate attacks or strikes.
+scenario.pacifist.tier2description=You can't initiate attacks or strikes. You can't win without reaching the highest level of friendship with another player.
+scenario.winwin.tier1description=You can only win in a coalition. You start with a dominance card in hand.
+scenario.winwin.tier2description=You can only win in a coalition. You start with only a dominance card in hand.
+scenario.baseofsupport.tier1description=You can't win unless you have all three bases on the map.
+scenario.baseofsupport.tier2description=You can't win unless you have all three bases on the map. Enemies start with <style="vpnum">5</style> .
+scenario.statehood.tier1description=You start with a base on the map in a corner space with 1 warrior and 1 officer. You cannot start revolts. Training costs you an additional matching card.
+scenario.statehood.tier2description=You start with a base on the map in a corner space with 1 warrior and 1 officer. You cannot start revolts. Training costs you two additional matching cards.
+vagabond.coalition.1=In four player games, the Vagabond can play a dominance card to form a coalition with the enemy with the fewest victory points.
+vagabond.coalition.2=In a coalition the vagabond can no longer win with their own score. Instead, they share the victory if the player they made the coalition with wins.
+scenario.classic.name=Classic
+scenario.fairfight.name=Fair Fight
+scenario.assemblyline.name=Assembly Line
+scenario.scrappyfighters.name=Scrappy Fighters
+scenario.riverwaywarfare.name=Riverway Warfare
+scenario.totaldomination.name=Total Domination
+scenario.battleinthebranches.name=Battle in the Branches
+scenario.thelonggame.name=The Long Game
+scenario.medic.name=Medic!
+scenario.builder.name=Builder
+scenario.castlesiege.name=Castle Siege
+scenario.thetrueking.name=The True King
+scenario.ruletheroost.name=Rule the Roost
+scenario.pacifist.name=Pacifist
+scenario.winwin.name=Win-Win
+scenario.baseofsupport.name=Base of Support
+scenario.statehood.name=Statehood
+root.attribute.mouse=mouse
+root.attribute.fox=fox
+root.attribute.rabbit=rabbit
+root.cardname.favorofthefoxes=Favor of the Foxes
+root.cardname.favorofthemice=Favor of the Mice
+root.cardname.favoroftherabbits=Favor of the Rabbits
+root.cardname.royalclaim=Royal Claim
+root.cardname.bakesale=Bake Sale
+root.cardname.investments=Investments
+root.cardname.protectionracket=Protection Racket
+root.cardname.scoutingparty=Scouting Party
+root.cardname.armorers=Armorers
+root.cardname.brutaltactics=Brutal Tactics
+root.cardname.sword=Sword
+root.cardname.armstrader=Arms Trader
+root.cardname.foxfolksteel=Foxfolk Steel
+root.cardname.roottea=Root Tea
+root.cardname.anvil=Anvil
+root.cardname.sappers=Sappers
+root.cardname.smugglerstrail=Smuggler's Trail
+root.cardname.birdybindle=Birdy Bindle
+root.cardname.gentlyusedknapsack=Gently Used Knapsack
+root.cardname.mouseinasack=Mouse-in-a-Sack
+root.cardname.travelgear=Travel Gear
+root.cardname.woodlandrunners=Woodland Runners
+root.cardname.avisittofriends=A Visit to Friends
+root.cardname.crossbow=Crossbow
+root.cardname.commandwarren=Command Warren
+root.cardname.standanddeliver=Stand and Deliver!
+root.cardname.betterburrowbank=Better Burrow Bank
+root.cardname.taxcollector=Tax Collector
+root.cardname.cobbler=Cobbler
+root.cardname.codebreakers=Codebreakers
+root.cardname.dominance=Dominance
+root.cardname.coalition=Coalition
+root.cardname.ambush=Ambush!
+root.cardtext.favoroftherabbits=Remove all enemy pieces in rabbit clearings.
+root.cardtext.favorofthefoxes=Remove all enemy pieces in fox clearings.
+root.cardtext.favorofthemice=Remove all enemy pieces in mouse clearings.
+root.cardtext.royalclaim=In Birdsong, may discard this to score one point per clearing you rule.
+root.cardtext.craftcoinstack=<size=200%><sprite name="coinstack">, <sprite name="3VP"></size>
+root.cardtext.scoutingparty=As attacker in battle, you are not affected by ambush cards.
+root.cardtext.armorers=In battle, may discard this to ignore all rolled hits taken.
+root.cardtext.brutaltactics=In battle as attacker, may deal an extra hit, but defender scores one point.
+root.cardtext.craftsword=<size=200%><sprite name="sword">, <sprite name="2VP"></size>
+root.cardtext.roottea=<size=200%><sprite name="teapot">, <sprite name="2VP"></size>
+root.cardtext.anvil=<size=200%><sprite name="hammer">, <sprite name="2VP"></size>
+root.cardtext.sappers=In battle as a defender, may discard this to deal an extra hit.
+root.cardtext.craftbag=<size=200%><sprite name="bag">, <sprite name="1VP"></size>
+root.cardtext.craftboot=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
+root.cardtext.crossbow=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
+root.cardtext.commandwarren=At start of Daylight, may initiate a battle.
+root.cardtext.standanddeliver=In Birdsong, may take a random card from another player. That player scores one point.
+root.cardtext.betterburrowbank=At start of Birdsong, you and another player draw a card.
+root.cardtext.taxcollector=Once in Daylight, may remove one of your warriors to draw a card.
+root.cardtext.cobbler=At start of Evening, may take a move.
+root.cardtext.codebreakers=Once in Daylight, may look at another player's hand.
+root.cardtext.dominance.suit=If spent for suit, make available.
+root.cardtext.dominance.points=If you have at least 10 points, play during Daylight. You can no longer score <style="vptext">VP</style>.
+root.cardtext.dominance.clearingtext.rabbit=You win the game if you rule three rabbit clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.fox=You win the game if you rule three fox clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.mouse=You win the game if you rule three mouse clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.bird=You win the game if you rule two opposite corners at the start of your Birdsong.
+root.cardtext.dominance.vagabond=In games of four or more, as Vagabond, you may form a coalition.
+root.cardtext.ambush.any=You may ambush in any clearing.
+root.cardtext.ambush.fox=You may ambush in a fox clearing.
+root.cardtext.ambush.mouse=You may ambush in a mouse clearing
+root.cardtext.ambush.rabbit=You may ambush in a rabbit clearing.
+root.cardtext.ambush.startofbattle=At start of battle, defender may play to deal two immediate hits. Cancel if attacker plays matching ambush.
+root.quest.header=Quest Card
+root.quest.clearingtype.rabbit=in a rabbit clearing.
+root.quest.clearingtype.fox=in a fox clearing.
+root.quest.clearingtype.mouse=in a mouse clearing.
+root.quest.claimtext=Claim this quest and pick a reward.
+root.quest.eitheror=or
+root.quest.requireditems=Items Required
+root.quest.drawtwo=Draw <size=200%><sprite name="twocards"></size>
+root.quest.foxvp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="foxquest"></size>
+root.quest.mousevp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="mousequest"></size>
+root.quest.rabbitvp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="rabbitquest"></size>
+root.quest.repairashed=Repair a Shed
+root.quest.logisticshelp=Logistics Help
+root.quest.guardduty=Guard Duty
+root.quest.giveaspeech=Give a Speech
+root.quest.fundraising=Fundraising
+root.quest.fendoffabear=Fend off a Bear
+root.quest.expelbandits=Expel Bandits
+root.quest.escort=Escort
+root.quest.errand=Errand
+root.eyrie.leader=Eyrie Leader
+root.eyrie.builder=Builder
+root.eyrie.builder.text=Ignore your Disdain for Trade when you craft.
+root.eyrie.commander=Commander
+root.eyrie.commander.text=As attacker in battle, you deal an extra hit.
+root.eyrie.despot=Despot
+root.eyrie.despot.text=If you remove at least one enemy building or token in battle, score one point.
+root.eyrie.charismatic=Charismatic
+root.eyrie.charismatic.text=You place two warriors, not one, each time you recruit.
+root.eyrie.actions={0} & {1}
+root.eyrie.action.move=Move
+root.eyrie.action.recruit=Recruit
+root.eyrie.action.build=Build
+root.eyrie.action.battle=Battle
+root.eyrie.loyalvizier=Loyal Vizier
+root.vagabond.ranger=Ranger
+root.vagabond.ranger.ability.title=Hideout
+root.vagabond.ranger.ability.text=Repair three items. Then, immediately end Daylight.
+root.vagabond.tinker=Tinker
+root.vagabond.tinker.ability.title=Day Labor
+root.vagabond.tinker.ability.text=Take a card from the discard pile matching your clearing.
+root.vagabond.thief=Thief
+root.vagabond.thief.ability.title=Steal
+root.vagabond.thief.ability.text=Take a random card from a player in your clearing.
+root.vagabond.startingitems=Starting Items
+root.cardtext.dominance.clearingtext.rabbit.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.fox.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.mouse.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.bird.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.craftcoinstack.override.eyrie=<size=200%><sprite name="coinstack">, <sprite name="DisdainVP"></size>
+root.cardtext.craftsword.override.eyrie=<size=200%><sprite name="sword">, <sprite name="DisdainVP"></size>
+root.cardtext.roottea.override.eyrie=<size=200%><sprite name="teapot">, <sprite name="DisdainVP"></size>
+root.cardtext.anvil.override.eyrie=<size=200%><sprite name="hammer">, <sprite name="DisdainVP"></size>
+root.cardtext.craftbag.override.eyrie=<size=200%><sprite name="bag">, <sprite name="1VP"></size>
+root.cardtext.craftboot.override.eyrie=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
+root.cardtext.crossbow.override.eyrie=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
+root.rootbot.trait.empty=
+root.mechMarquise.trait.ironWill=Iron Will
+root.mechMarquise.trait.ironWill.bold=<size=125%><b>Iron Will</b></size>
+root.mechMarquise.trait.ironWill.text=Whenever you Recruit in Escalated Daylight, place double the warriors.
+root.mechMarquise.trait.hospitals=Hospitals
+root.mechMarquise.trait.hospitals.bold=<size=125%><b>Hospitals</b></size>
+root.mechMarquise.trait.hospitals.text=At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place two warriors in the clearing with the keep token.
+root.mechMarquise.trait.fortified=Fortified
+root.mechMarquise.trait.fortified.bold=<size=125%><b>Fortified</b></size>
+root.mechMarquise.trait.fortified.text=Your buildings each take two hits to remove.<br>Taking a single hit with a building has no effect.
+root.mechMarquise.trait.blitz=Blitz
+root.mechMarquise.trait.blitz.bold=<size=125%><b>Blitz</b></size>
+root.mechMarquise.trait.blitz.text=After you move, find the clearing you rule of the highest priority without any enemy pieces.<br>Move all but one warrior from the clearing. Then, battle in the destination clearing.
+root.electricEyrie.trait.warTax=War Tax
+root.electricEyrie.trait.warTax.bold=<size=125%><b>War Tax</b></size>
+root.electricEyrie.trait.warTax.text=Whenever you remove an enemy building or token, its owner loses one victory point.
+root.electricEyrie.trait.swoop=Swoop
+root.electricEyrie.trait.swoop.bold=<size=125%><b>Swoop</b></size>
+root.electricEyrie.trait.swoop.text=At the end of Daylight, place two warriors in the clearing of highest priority with no Eyrie pieces.
+root.electricEyrie.trait.relentless=Relentless
+root.electricEyrie.trait.relentless.bold=<size=125%><b>Relentless</b></size>
+root.electricEyrie.trait.relentless.text=After resolving the Decree, remove all defenseless buildings and tokens in any clearing with Eyrie warriors.
+root.electricEyrie.trait.nobility=Nobility
+root.electricEyrie.trait.nobility.bold=<size=125%><b>Nobility</b></size>
+root.electricEyrie.trait.nobility.text=You now fall into turmoil if you cannot place a roost or a warrior.<br>Whenever you fall into turmoil, you do not lose victory points. Instead, you score one victory point per bird card in the Decree.
+root.automatedAlliance.trait.informants=Informants
+root.automatedAlliance.trait.informants.bold=<size=125%><b>Informants</b></size>
+root.automatedAlliance.trait.informants.text=Defenseless sympathy tokens benefit from Automated Ambush.
+root.automatedAlliance.trait.popularity=Popularity
+root.automatedAlliance.trait.popularity.bold=<size=125%><b>Popularity</b></size>
+root.automatedAlliance.trait.popularity.text=Enemies do not score victory points for removing sympathy tokens.
+root.automatedAlliance.trait.veterans=Veterans
+root.automatedAlliance.trait.veterans.bold=<size=125%><b>Veterans</b></size>
+root.automatedAlliance.trait.veterans.text=Gain the Guerrilla Warfare ability of the Woodland Alliance.<br>(In battle as defender, you use the higher roll and the attacker uses the lower roll.)
+root.automatedAlliance.trait.wildfire=Wildfire
+root.automatedAlliance.trait.wildfire.bold=<size=125%><b>Wildfire</b></size>
+root.automatedAlliance.trait.wildfire.text=At the end of evening, Spread Sympathy. Do not score points for placing this sympathy token.
+root.vagabot.trait.marksman=Marksman
+root.vagabot.trait.marksman.bold=<size=125%><b>Marksman</b></size>
+root.vagabot.trait.marksman.text=At the start of battle as attacker, deal an immediate hit.
+root.vagabot.trait.helper=Helper
+root.vagabot.trait.helper.bold=<size=125%><b>Helper</b></size>
+root.vagabot.trait.helper.text=Whenever you Aid, score one extra victory point, and the aided player draws two cards instead of one.
+root.vagabot.trait.berserker=Berserker
+root.vagabot.trait.berserker.bold=<size=125%><b>Berserker</b></size>
+root.vagabot.trait.berserker.text=Whenever you Battle, instead move to the nearest clearing with the most pieces and target the player with the most pieces there.<br>In evening, repair one more item.
+root.vagabot.trait.adventurer=Adventurer
+root.vagabot.trait.adventurer.bold=<size=125%><b>Adventurer</b></size>
+root.vagabot.trait.adventurer.text=You can Battle no more than once per turn.<br>At the end of Daylight, repeat Quest as many times as possible.
+root.vagabot.thief.text=Steal: Take a random card from the enemy in your clearing with most points there, then most pieces there.
+root.vagabot.tinker.text=Day Labor: Craft the top card in the discard pile with an item, scoring <sprite name="1VP">.<br>Start the game with one fewer item.
+root.vagabot.ranger.text=Hideout: If you have three or more damaged items, slip into a random adjacent forest.
+root.mechMarquise.difficulty.easy=Easy
+root.mechMarquise.difficulty.normal=Normal
+root.electricEyrie.difficulty.easy=Easy
+root.electricEyrie.difficulty.normal=Normal
+root.automatedAlliance.difficulty.easy=Easy
+root.automatedAlliance.difficulty.normal=Normal
+root.vagabot.difficulty.easy=Easy
+root.vagabot.difficulty.normal=Normal
+root.difficulty.challenging=Challenging
+root.difficulty.nightmare=Nightmare
+root.suit.mouse=Mouse
+root.suit.fox=Fox
+root.suit.rabbit=Rabbit
+tutorial1.turn1.preintro=Welcome to Root, a game of warfare and adventure where four unique factions struggle for control over the vast woodlands.
+tutorial1.turn1.intro=In this scenario, you will play as the ambitious <color=#CC6633>Marquise de Cat</color>. Long before they became the military and industrial powerhouse they are today, the <color=#CC6633>Marquise</color> came to the forest with a small band of warriors and a few modest buildings.
+tutorial1.turn1.movelesson=Move a <sprite name="marquise"><color=#CC6633>warrior</color> into a neighboring clearing to expand your rule.
+tutorial1.turn1.suits=Each clearing has a "suit" representing the community of creatures living there: Mouse <sprite name="ClearingMouse">, Fox <sprite name="ClearingFox">, and Rabbit <sprite name="ClearingRabbit">.
+tutorial1.turn1.control=Excellent! Because you have more pieces in that clearing than any enemy, you rule it.
+tutorial1.turn1.movelesson.2=When you use the March action, you get to make 2 moves. Make another move now.
+tutorial1.turn1.endofturn=Let's end our turn and rest. We have a big day of building ahead.
+tutorial1.turn2.wood=Your <sprite name="CatSawmill"><color=#CC6633>sawmills</color> generate 1 <sprite name="Wood"><color=#CC6633>wood</color> at the start of your turn. <sprite name="Wood"><color=#CC6633>Wood</color> is used to create buildings.
+tutorial1.turn2.build=Let's build a <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> to get more <sprite name="marquise"><color=#CC6633>warriors</color> into the forest. Select the Build button.
+tutorial1.turn2.recruiter=This clearing is purrrfect. Pay 1 <sprite name="Wood"><color=#CC6633>wood</color> to build the <sprite name="CatRecruiter"><color=#CC6633>recruiter</color>.
+tutorial1.turn2.daylight=Use the recruit action to place a <sprite name="marquise"><color=#CC6633>warrior</color> at each of your <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> buildings.
+tutorial1.turn2.goal=I hear the flapping of wings in the distance. Move quickly to establish your hold on the forest before your feathery foes the <color=#336699>Eyrie</color> arrive.
+tutorial1.goal.clearings=Rule 5 clearings ({0}/{1})
+tutorial1.turn2.endofturn=After three actions, the day has finished for the mighty <color=#CC6633>Marquise</color>.
+tutorial1.EyrieAppear=As I feared, an <sprite name="eyrie"><color=#336699>Eyrie warrior</color> has seized a nearby clearing. They aren't friendly to outsiders.
+tutorial1.goal.movewarriorstoeyrie=March your <sprite name="marquise"><color=#CC6633>warriors</color> into the clearing occupied by the <sprite name="eyrie"><color=#336699>Eyrie</color> to challenge them.
+tutorial1.firstbattle.intro=Our <sprite name="marquise"><color=#CC6633>warriors</color> will surely triumph over these vile birds. Select Battle to fight them off.
+tutorial1.goal.defeatalleyrie=Defeat all <sprite name="eyrie"><color=#336699>Eyrie warriors</color>
+tutorial1.roostintroduction=<color=#336699>The Eyrie</color> have built a <sprite name="Roost"><color=#336699>roost</color> that can recruit more of their warriors. You must attack and destroy it before their flock becomes too strong!
+tutorial1.goal.destroy2roosts=Destroy the <sprite name="Roost"><color=#336699>roost</color>
+tutorial1.roostbattle=During battle your hits defeat enemy <sprite name="eyrie"><color=#336699>warriors</color> first. Any remaining hits carry over to the <sprite name="Roost"><color=#336699>roost</color>.

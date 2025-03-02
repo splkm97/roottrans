@@ -1,0 +1,300 @@
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteMob.opponent=[player] are Inciting!
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.JubilantChooseRoll.opponent=[player] are placing mobs using Jubilant.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseMoveWarlord.opponent=[player] are moving.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoWarlord.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOrBattle.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOnly.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceBattleOnly.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoActions.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.CommandNoActions.opponent=[player] are choosing a Command action to take.
+scenario.ironritual.name=Iron Ritual
+scenario.ironritual.tier1description=You can’t win unless you have 3 relics of different types (figure, tablet, jewelry) spread evenly between 3 different corner clearings.
+scenario.ironritual.tier2description=You can’t win unless you have 3 relics of different values (1,2,3) spread evenly between the 3 different corner clearings you didn't start the game in.
+scenario.winterschill.name=Winter's Chill
+scenario.winterschill.tier1description=Live off the Land is replaced with Huddle Up - At the start of Evening, remove each Keeper warrior in a clearing with no other Keeper warriors.
+scenario.winterschill.tier2description=Live off the Land is replaced with Relic-Bound - At the start of Evening, remove one Keeper warrior from each clearing without a relic.
+scenario.deliverymission.name=Delivery Mission
+scenario.deliverymission.tier1description=You can’t recover at waystations. Instead, relics are automatically recovered at the start of your Evening while in a clearing with a Vagabond. The Move or Recover column of your Retinue is replaced with Move.
+scenario.deliverymission.tier2description=You can’t recover at waystations. Instead, relics are automatically recovered at the start of your Evening while in a clearing with the Marquise Keep or a Woodland Alliance base. The Move or Recover column of your Retinue is replaced with Move. You may only recruit at waystations that have a matching relic in their clearing.
+scenario.temperamental.name=Temperamental
+scenario.temperamental.tier1description=Your mood is determined randomly each turn (among legal options). Once per turn, you may reroll your mood to a new one.
+scenario.temperamental.tier2description=Your mood is determined randomly each turn (among legal options).You may only build while you are Grandiose, Lavish, or Stubborn. You may only craft while you are Relentless, Bitter, or Jubilant. You may only Raze while you are Rowdy or Wrathful.
+scenario.infiltrationmission.name=Infiltration Mission
+scenario.infiltrationmission.tier1description=Oppression is replaced with Infiltration - Score in the Evening based on clearings an enemy rules that have a Hundreds warrior or warlord in them.
+scenario.infiltrationmission.tier2description=Oppression is replaced with Infiltration - Score in the Evening based on clearings an enemy rules with at least four pieces that have a Hundreds warrior or warlord in them.
+scenario.mobjustice.name=Mob Justice
+scenario.mobjustice.tier1description=You can’t start battles in clearings without a mob there.
+scenario.mobjustice.tier2description=You can’t start battles in clearings without a mob there. You start with 1 less mob and 3 less strongholds in your supply.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitStronghold=At warrior supply limit. Choose a Stronghold to recruit a warrior. ([X] remaining)
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitStronghold.opponent=[player] are recruiting.
+tuber.canis.abilities.LordOfTheHundredsPlayer.TemperamentalChallengeAbility.ChooseCard=Spend a matching card to reroll your mood.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsSetup.ChooseMobJustice=Choose a clearing to place a mob.
+tuber.canis.actions.ContinueToEvening=Continue to Evening.
+tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.DeliveryMissionRecruitClearing=Choose a clearing with a waystation to recruit a warrior there.
+tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.DeliveryMissionRecruitClearing.opponent=[player] are recruiting.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.TemperamentalMoodChosen=Mood randomly determined.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.TemperamentalMoodChosen.opponent=[player] are choosing a new mood.
+aiplayername.keepersiniron=Keepers in Iron
+aiplayername.lordofthehundreds=Lord of the Hundreds
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.LavishNoItems=No items to remove for Lavish.  Press continue.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.LavishNoItems.opponent=[player] are removing items from their Hoard to place warriors
+lht.intro.1=The Woodland trembles - the <color=#B40518>Hundreds</color> have anointed a new warlord. Their legions of warriors and torch-wielding mobs will raze clearings to the ground at their demagogue's command.<br>Gaining items increases their actions, and their leader's fickle mood empowers their forces.
+lht.intro.2=You there! The old <sprite name="HundredsWarlord"><color=#B40518>warlord</color> has fallen. A new <sprite name="HundredsWarrior"><color=#B40518>warrior</color> has been chosen to take his place. Long live the <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.setup.1=Place your <sprite name="Stronghold"><b><color=#B40518>stronghold</color></b>, <sprite name="HundredsWarlord"><color=#B40518><b>warlord</b></color> and 4 <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in this clearing.
+lht.setup.2=From this <sprite name="Stronghold"><color=#B40518>stronghold</color> you'll recruit <sprite name="HundredsWarrior"><color=#B40518>warriors</color> and craft items to fill your <color=#B40518><b>Hoard</b></color>, empowering your actions.
+lht.1.1=During Birdsong, your <sprite name="Stronghold"><color=#B40518>stronghold</color> recruits 1 <sprite name="HundredsWarrior"><color=#B40518>warrior</color>, and another is recruited at your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> due to <color=#B40518><b>Prowess of the Hundreds</color></b>.
+lht.1.2=Now let's see... what <b><color=#B40518>mood</color></b> is your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> in today?
+lht.1.3=<color=#B40518>Moods</color> give powerful new abilities to the <color=#B40518>Hundreds</color>, but they change every turn! This turn, let's show the <color=#CC6633>Marquise</color> your <color=#B40518>Wrathful</color> might!
+lht.1.4=Daylight breaks! Hold off on crafting anything for now.
+lht.1.5=The number of actions you can take is determined by your <color=#B40518>Hoard</color> of items, which can be viewed by selecting your portrait.
+lht.1.6=<sprite name="boot">, <sprite name="bag">, and <sprite name="coinstack"> items add to your <color=#B40518><b>Command</b></color>, increasing your ability to build <sprite name="Stronghold"><color=#B40518>strongholds</color>, move, and battle.
+lht.1.7=<sprite name="hammer">, <sprite name="teapot">, <sprite name="sword">, and <sprite name="crossbow"> items add to your <color=#B40518><b>Prowess</b></color>, increasing the number of <sprite name="HundredsWarrior"><color=#B40518>warriors</color> you recruit and giving your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> extra actions.
+lht.1.8=Since you have no <color=#B40518>Command</color> items, you can only take a single action. Kick this wayward <sprite name="marquise"><color=#CC6633>warrior</color> out of your starting clearing!
+lht.1.9=Great. Now it's time for your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to <b><color=#B40518>advance</color></b>!
+lht.1.10=With no <color=#B40518>Prowess</color> items, you can only <color=#B40518>advance</color> once, moving your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> along with any <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in the same clearing, then battling in the new clearing.
+lht.1.11=Lead your <sprite name="HundredsWarrior"><color=#B40518>warriors</color> into glorious battle against the <color=#CC6633>Marquise</color>! Move two of them with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> into this clearing.
+lht.1.12=Now, battle!
+lht.1.13=An unfortunate roll, but your <color=#B40518>Wrathful mood</color> dealt a hit anyway! The <color=#CC6633>Marquise</color> will think twice about loitering so close to your forces in the future.
+lht.1.14=Evening falls, but the raiding has just begun. You can spend a card to <color=#B40518><b>Incite</b></color> a <sprite name="Mob"><color=#B40518><b>mob</b></color> in a matching clearing that has a <sprite name="HundredsWarrior"><color=#B40518>warrior</color> but no <sprite name="Mob">!
+lht.1.14b=If the <color=#CC6633>Marquise</color> doesn't deal with it, you'll claim an item from the ruin.
+lht.1.15=Each turn you score for each clearing you've <color=#B40518><b>Oppressed</b></color>. <color=#B40518>Oppressed</color> clearings are those that you rule which have no enemy pieces at all - no warriors, no tokens, no buildings, nothing.
+lht.1.16=You've <color=#B40518>Oppressed</color> one clearing, scoring <sprite name="1VP">. You'll need to do a lot better if you want rule the Woodland!
+lht.1.17=Finally, you draw a card. Then we'll see what those petty <color=#CC6633>Marquise</color> attempt!
+lht.2.1=Ha! The foolish <color=#CC6633>Marquise</color> didn't even try to disperse your mob. Now that clearing will be <color=#B40518><b>Razed</b></color>!
+lht.2.2=When a mob <color=#B40518>Razes</color> a clearing, all enemy buildings and tokens are removed - but not warriors. You score normally for this.
+lht.2.3=Then, if that clearing has a ruin, you claim an item from it to add to your <color=#B40518>Hoard</color>.
+lht.2.4=After, the mob spreads from its current clearing. The <sprite name="MobDie"><color=#B40518>die</color> dictates the clearing suit...
+lht.2.5=...<sprite name="ClearingMouse">! Place the new mob in the <sprite name="ClearingMouse"> clearing to the East. It won't <color=#B40518>Raze</color> your own <sprite name="Stronghold"><color=#B40518>strongholds</color>, and you can more easily defend it from the <color=#CC6633>Marquise</color>.
+lht.2.6=Thanks to the <sprite name="sword"> your <sprite name="Mob"><color=#B40518>mob</color> unearthed, your <color=#B40518>Prowess</color> increased to 2! You'll now recruit <i>2</i> <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in your <sprite name="HundredsWarlord"><color=#B40518>warlord's</color> clearing each turn, in addition to the usual 1 at each <sprite name="Stronghold"><color=#B40518>stronghold</color>.
+lht.2.7=Today, let's show the <color=#CC6633>Marquise</color> how <color=#B40518>Stubborn</color> the <color=#B40518>Hundreds</color> can be!
+lht.2.8=Use your <sprite name="Stronghold"><color=#B40518>stronghold</color> to craft the <sprite name="bag"> you drew last turn.
+lht.2.9=There are two different ways to craft an item: if you want to score the points for it, it won't be added to your <color=#B40518>Hoard</color> - you'll have to discard it due to your <color=#B40518><b>Contempt for Trade</b></color>.
+lht.2.10=But you can instead choose to forgo the points and add the item to your <color=#B40518>Hoard</color>, increasing your <color=#B40518>Prowess</color> or <color=#B40518>Command</color> (depending on the item). Do so now.
+lht.2.11=Now, it's time to <color=#B40518>Command the Hundreds</color>. Build another <sprite name="Stronghold"><color=#B40518>stronghold</color>.
+lht.2.12=To build a <sprite name="Stronghold"><color=#B40518>stronghold</color>, you must spend a card of a suit matching the clearing you want to build in.
+lht.2.13=Well done. Since the <sprite name="bag"> you crafted earlier is a <color=#B40518>Command</color> item, you can take another action each turn! Reinforce the <sprite name="ClearingRabbit"> clearing you invaded with another <sprite name="HundredsWarrior"><color=#B40518>warrior</color>.
+lht.2.14=It's once again time to <color=#B40518>advance</color>! Two <sprite name="HundredsWarrior"><color=#B40518>warriors</color> should stay behind to secure your <sprite name="ClearingRabbit"> clearing, but move the rest with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to crush those cats!
+lht.2.15=Good! Your <color=#B40518>Stubborn mood</color> blocked the hit. You have 2 <color=#B40518>Prowess</color> now thanks to finding that <sprite name="sword">, so <color=#B40518>advance</color> again with two of your <color=#B40518>warriors</color>.
+lht.2.16=The Woodland cowers before you! Continue to the Evening.
+lht.2.17=Save your cards rather than <color=#B40518>Inciting</color> further.
+lht.2.18=You're <color=#B40518>Oppressing</color> 4 clearings , so you score <sprite name="2VP">!
+lht.3.1=Time for the <sprite name="Mob"><color=#B40518>mob</color> to spread. The roll is... <sprite name="ClearingRabbit">. Add a <sprite name="Mob"> to the Northern <sprite name="ClearingRabbit"> clearing.
+lht.3.2=The recruitment effort is going well thanks to your increased <color=#B40518>Prowess</color> and the <sprite name="Stronghold"><color=#B40518>stronghold</color> you built last turn.
+lht.3.3=Each item in your <color=#B40518>Hoard</color> prevents you from picking a certain <color=#B40518>mood</color>. Be careful not to craft items that would prevent a <color=#B40518>Mood</color> you're planning to use later.
+lht.3.4=It's high time for a <color=#B40518>Grandiose</color> display of power! By allowing your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to <color=#B40518>advance</color> before you take other actions, you can claim clearings and build <sprite name="Stronghold"><color=#B40518>strongholds</color> in them on the same turn.
+lht.3.5=Craft the <sprite name="teapot"> in your hand to continue growing your <color=#B40518>Hoard</color>.
+lht.3.6=This progresses the <color=#B40518>Prowess track</color>, but your total remains 2 for now. One more <color=#B40518>Prowess</color> item will increase it to 3!
+lht.3.7=Now, charge with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color>! Leave 1 <sprite name="HundredsWarrior"><color=#B40518>warrior</color> behind to continue <color=#B40518>Oppressing</color> that clearing.
+lht.3.8=Move another 2 <sprite name="HundredsWarrior"><color=#B40518>warriors</color> with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> and attack that bunch of mangey cats!
+lht.3.9=You may have defeated our leader, <color=#CC6633>Marquise</color>, but another will soon take their place!
+lht.3.10=<sprite name="Stronghold"><color=#B40518>Strongholds</color> are even more important to the <color=#B40518>Hundreds</color> than the <color=#CC6633>Marquise's</color> buildings are to them - like a <color=#CC6633>workshop</color> and a <color=#CC6633>recruiter</color> combined. It would be wise to build more.
+lht.3.11=Reposition two of your <sprite name="HundredsWarrior"><color=#B40518>warriors</color> into that Eastern <sprite name="ClearingFox"> clearing.
+lht.3.12=No cards to <color=#B40518>Incite</color> with...
+lht.3.13=The 5 clearings you're <color=#B40518>Oppressing</color> are worth <sprite name="3VP">!
+lht.4.1=With no <sprite name="ClearingRabbit"> clearings adjacent to one of your <sprite name="Mob"><color=#B40518>mobs</color> that don't already have a <sprite name="Mob">, they aren't able to spread their wretched chaos this turn!
+lht.4.2=Without a <sprite name="HundredsWarlord"><color=#B40518>warlord</color>, you can't recruit <sprite name="HundredsWarrior"><color=#B40518>warriors</color> based on your <color=#B40518>Prowess</color>. Your <sprite name="Stronghold"><color=#B40518>strongholds</color> still recruit <sprite name="HundredsWarrior">, but without a leader, the <color=#B40518>Hundreds</color> will be lost!
+lht.4.3=Any worthy <sprite name="HundredsWarrior"><color=#B40518>warrior</color> can become a leader in such dire times. <color=#B40518><b>Anoint</b></color> a <sprite name="HundredsWarrior"> in this clearing as your new <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.4.4=Hah! Under bold new leadership, we will claim the Woodland for good! First order of business - the <color=#B40518>Hundreds</color> require cards. It's time to get <color=#B40518>Rowdy</color>!
+lht.4.5=Nothing to craft for now...
+lht.4.6=Next, march three <sprite name="HundredsWarrior"><color=#B40518>warriors</color> to reinforce your new <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.4.7=Keep them moving!
+lht.4.8=The <color=#CC6633>Marquise</color> crafted a <sprite name="boot"> last turn. <color=#B40518>Advance</color> with four <sprite name="HundredsWarrior"><color=#B40518>warriors</color> and <color=#B40518><b>Loot</b></color> it from them!
+lht.4.9=Whenever you attack, you can choose to <color=#B40518>Loot</color>. You deal no rolled hits, but if you rule the clearing at the end of the battle, you steal an item from the defender's item box.
+lht.4.10=Haha! Make your enemy's crafting skills work for <i>you</i>! Take that <sprite name="boot">!
+lht.4.11=When <color=#B40518>Advancing</color> with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color>, you can choose to only move or battle instead of doing both. Battle again to soften up the <color=#CC6633>Marquise</color>.
+lht.4.12=They felt that! Continue to Evening.
+lht.4.13=Hold off on <color=#B40518>Inciting</color> more for now.
+lht.4.14=You're <color=#B40518>Oppressing</color> 5 clearings for <style="vpnum">3</style>!
+lht.5.1=You've done well leading us this far. Score <style="vpnumddteen">20</style> to show once and for all that the <color=#B40518>Hundreds</color> cannot be stopped!
+lht.5.2=Remember, you keep scoring every round you <color=#B40518>Oppress</color> clearings. Remove enemy pieces and maintain your rule, and the <color=#CC6633>Marquise</color> won't be able to keep up.
+lht.trigger.tutorialcomplete=Your legions stand triumphant!
+lotht.goal.20vp=Score <size=130%><style="vpnumddteen"></size>20</style>. ({0}/{1})
+lht.ftt.lavish=You've collected one of each item type, disabling all your <color=#B40518>moods</color> except <color=#B40518>Lavish</color>. You will remain <color=#B40518>Lavish</color> until you discard items of a particular type.
+label.retinue=Retinue
+kii.intro.1=Marching banners and the clunk of iron signal the <color=#575757>Keepers</color> are here to recover what's theirs.<br><br>Left alone, they'll delve up forgotten relics from the forests, but be warned - these armored knights are formidable warriors, and should their retinue of local guides grow too quickly they may overwhelm the Woodland!
+kii.setup.1=Commander, this <sprite name="ClearingFox"> clearing is a good place to set up camp.
+kii.setup.2=Your next 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> should support them in the <sprite name="ClearingMouse"> clearing to the south.
+kii.t1.1=The forward scouts are reporting back on the positions of the <color=#575757><b>relics</b></color>: there are <sprite name="RelicJewelry"><b><color=#575757>jewelry</color>, <sprite name="RelicTablet"><color=#575757>tablets</color>,</b> and <b><sprite name="RelicFigure"><color=#575757>figures</color></b> spread all across the Woodland.
+kii.t1.2=Your mission is to <color=#575757><b>recover</b></color> these <color=#575757>relics</color>. To do that, you'll need to establish <color=#575757><b>waystations</b></color>.
+kii.t1.3=During Birdsong, once in each clearing you can <color=#575757><b>Encamp</b></color>, spending a <sprite name="KeeperWarrior"><color=#575757>warrior</color> there to build one of your <color=#575757>waystations</color>.<br>Place a  <color=#575757>waystation</color> in this <sprite name="ClearingFox"> clearing.
+kii.t1.4=Each <color=#575757>waystation</color> has two sides. You can choose which side of a <color=#575757>waystation</color> to have face-up when you place it.
+kii.t1.5=For now, choose this <color=#575757>waystation</color> with the <sprite name="RelicTablet"> side face-up.
+kii.t1.6=You've got it. Now, place another <color=#575757>waystation</color> in your <sprite name="ClearingMouse"> clearing.
+kii.t1.7=Put the <sprite name="RelicJewelry"> side face-up.
+kii.t1.8=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
+kii.t1.8.gamepad=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
+kii.t1.9=You can craft cards with costs matching the clearings your <color=#575757>waystations</color> are in. You can't afford any right now, so continue.
+kii.t1.10=In Daylight, you take actions using your <color=#575757><b>Retinue</b></color>. The <color=#575757>Retinue</color> works similarly to the <color=#336699>Eyrie's Decree</color>, but unlike those squabbling birds, the disciplined ranks of the <color=#575757>Keepers</color> will not fall into <color=#336699>Turmoil</color> if you fail to take an action.
+kii.t1.11=You start with one <color=#575757>Faithful Retainer</color> in each <color=#575757>Retinue</color> column. As <color=#575757>Faithful Retainers</color> have the <sprite name="birdicon"> suit, they give you flexibility in your actions.
+kii.t1.12=You use the <color=#575757>Retinue</color> in your leftmost column first, which is <color=#575757><b>Move</b></color>. You must move from a clearing of a suit matching the <color=#575757>Retinue</color> card used - in this case, the <sprite name="birdicon"> lets you choose any clearing.
+kii.t1.13=Send 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> from your <sprite name="ClearingMouse"> clearing towards the center of the Woodland.
+kii.t1.14=The middle <color=#575757>Retinue</color> column is <color=#575757><b>Battle, then Delve</b></color>. To take this action, you must choose a clearing of a suit matching your <color=#575757>Retinue</color> card where you have at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>.
+kii.t1.15=If there are any enemy pieces there, you <i>must</i> battle. There are none in this clearing at the moment.
+kii.t1.16=Then, if you rule the clearing with at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>, you may <color=#575757><b>delve</b></color> a <color=#575757>relic</color> from an adjacent forest. Grab that <sprite name="RelicJewelry">.
+kii.t1.17=It'll be worth <sprite name="3VP"> if we can <color=#575757>recover</color>! What a find!
+kii.t1.18=<color=#575757>Delving</color> can be dangerous, though. If you rule fewer clearings adjacent to the forest you <color=#575757>delved</color> than the <color=#575757>relic's</color> <style="vptext">VP</style>, the <color=#575757>Retinue</color> card you used to <color=#575757>delve</color> is lost!
+kii.t1.19=Fortunately, your <sprite name="KeeperWarrior"><color=#575757>warriors</color> are positioned around this forest - you rule these 3 clearings adjacent to it, so your <color=#575757>Retinue</color> is safe.
+kii.t1.20=The final <color=#575757>Retinue</color> action is <color=#575757><b>Move or Recover</b></color>. With no <color=#575757>relics</color> in a clearing with a matching <color=#575757>waystation</color>, you can't <color=#575757>recover</color> yet.
+kii.t1.21=Move a <sprite name="KeeperWarrior"><color=#575757>warrior</color> to surround the <sprite name="RelicFigure"> to the West.
+kii.t1.22=After using your <color=#575757>Retinue</color>, you have the opportunity to either grow it by adding any number of cards from your hand to any of the columns, or alter it by shifting 1 card from one column to another.
+kii.t1.23=Your <color=#575757>Retinue</color> can hold up to 10 cards at once. The more cards you add, the more actions you can take.
+kii.t1.24=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
+kii.t1.24.gamepad=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
+kii.t1.26=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
+kii.t1.26.gamepad=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
+kii.t1.28=Finally, at the end of each Evening, you draw 1 card plus another card for each <color=#575757>waystation</color> on the map.
+kii.t2.1=Caw! Badger off! This forest belongs to the <color=#336699>Eyrie</color>!
+kii.t2.2=The enemy advances, but your mission remains. <color=#575757>Encamp</color> a <color=#575757>waystation</color> here, <sprite name="RelicFigure"> side up.
+kii.t2.3=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
+kii.t2.3.gamepad=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
+kii.t2.4=Keep going - build your forces!
+kii.t2.4.gamepad=Keep going - build your forces!
+kii.t2.5=Still no need to craft - cards are quite valuable to the <color=#575757>Keepers</color> and for now their best use is growing your <color=#575757>Retinue</color>.
+kii.t2.6=Time to use your <color=#575757>Retinue</color>. First, have a <sprite name="KeeperWarrior"><color=#575757>warrior</color> take that <sprite name="RelicJewelry"> back towards the matching <color=#575757>waystation</color>.
+kii.t2.6b=Each <sprite name="KeeperWarrior"><color=#575757>warrior</color> you move can carry up to 1 <color=#575757>relic</color> from its clearing.
+kii.t2.7=Next, reinforce your southern position with 3 more <sprite name="KeeperWarrior"><color=#575757>warriors</color>.
+kii.t2.8=<color=#575757>Battle, then Delve</color> in this <sprite name="ClearingRabbit"> clearing to claim the <sprite name="RelicFigure"> in the forest above.
+kii.t2.9=Ah, a smaller <sprite name="1VP"> <color=#575757>relic</color>. It may not be worth many points, but that makes it easier to <color=#575757>recover</color> later.
+kii.t2.10=Speaking of <color=#575757>recovering</color> - it's time to score the <color=#575757>relic</color> you <color=#575757>delved</color> last turn.
+kii.t2.11=There's a catch, though. If you do not rule at least as many clearings matching the suit of the clearing you're <color=#575757>recovering</color> in as the <color=#575757>relic's</color> <sprite name="VpIcon">, the <color=#575757>Retinue</color> card you used for the action is lost.
+kii.t2.12=<color=#575757>Recover</color> that <sprite name="RelicJewelry"> now.
+kii.t2.13=The <sprite name="ClearingMouse"> card from your <color=#575757>Retinue</color> is lost as you do not rule 3 <sprite name="ClearingMouse"> clearings, but <sprite name="3VP"> is a worthy reward!
+kii.t2.14=Use your second <color=#575757>Move or Recover</color> action to move 2 <sprite name="KeeperWarrior"><color=#575757>warriors</color> and your <sprite name="RelicFigure"> and continue surrounding the forest to the south.
+kii.t2.14b=The <color=#336699>Eyrie</color> will be in for a surprise if they're foolish enough to fight over it.
+kii.t2.15=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.15.gamepad=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.16=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.17=End your turn. The <color=#336699>Eyrie</color> may be tempted to do battle - let them come.
+kii.ait2.1=<color=#336699>Eyrie Warriors</color>, defeat the invaders and confiscate their treasure!
+kii.ait2.2=Ha! These <color=#336699>Eyrie</color> fools have underestimated what it means to battle with the <color=#575757>Keepers in Iron</color>. Your <color=#575757><b>Devout Knights</b></color> ability means you take 1 less hit when battling in a clearing with a <color=#575757>relic</color>!
+kii.t3.1=The <color=#336699>Eyrie</color> have decided to open hostilities, and the <color=#575757>Keepers</color> will answer in kind!
+kii.t3.2=<color=#575757>Decamp</color> this <color=#575757>waystation</color>, as there are no longer any <sprite name="RelicJewelry"> nearby.
+kii.t3.3=<color=#575757>Decamping</color> is the opposite of <color=#575757>Encamping</color> - you replace a <color=#575757>waystation</color> with a <sprite name="KeeperWarrior"> <color=#575757>warrior</color>.
+kii.t3.4=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
+kii.t3.4.gamepad=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
+kii.t3.5=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
+kii.t3.5.gamepad=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
+kii.t3.6=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
+kii.t3.6.gamepad=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
+kii.t3.7=It's time to act. First, move a warrior to continue surrounding the northern forest. The <color=#336699>Eyrie</color> must be beaten back, but your main objective is still <color=#575757>recovering</color> <color=#575757>relics</color>.
+kii.t3.8=Now, it's time to show those bird-brains what it means to wage war on the <color=#575757>Keepers</color>. Move four <sprite name="KeeperWarrior"><color=#575757>warriors</color> to threaten the <color=#336699>Eyrie's</color> nearest <color=#336699>roost</color>.
+kii.t3.9=Your forces are well-positioned. Battle at the <sprite name="RelicFigure">!
+kii.t3.10=An ambush! Those crafty birds...
+kii.t3.11=Ouch! Not only did the <color=#336699>Eyrie</color> defeat your <sprite name="KeeperWarrior"><color=#575757>warriors</color>, they've taken the <color=#575757>relic</color>!
+kii.t3.12=Because <color=#575757>relics</color> are <color=#575757><b>Prized Trophies</b></color>, when an enemy removes one, they score <sprite name="2VP"> instead of the usual <sprite name="1VP">. Then, they choose a forest to return it to.
+kii.t3.13=Get that <sprite name="RelicFigure"> back. <color=#575757>Battle, then Delve</color> at the <color=#336699>Eyrie's roost</color>. Show them your righteous fury!
+kii.t3.14=Now that you've dispensed with the birds, retrieve the <sprite name="RelicFigure"> they stole - since it's face-up we can see that its <sprite name="1VP"> value means we can <color=#575757>delve</color> it safely.
+kii.t3.15=Retreat the <sprite name="RelicFigure"> and your 3 <sprite name="KeeperWarrior"><color=#575757>warriors</color> back to safety.
+kii.t3.16=On your next turn you can use your <color=#575757>waystation</color> to <color=#575757>recover</color> that <sprite name="RelicFigure">.
+kii.t3.17=Your <sprite name="KeeperWarrior"><color=#575757>warriors</color> don't have supply lines - they <color=#575757><b>Live Off the Land</b></color>. In the Evening, in each clearing with 4 or more <sprite name="KeeperWarrior"> , 1 is removed.
+kii.t3.18=Oops, I guess we should have moved 1 fewer <sprite name="KeeperWarrior"><color=#575757>warrior</color>! Well, we'll know next time.
+kii.t3.19=Add cards to your <color=#575757>Retinue</color> columns or shift a card from one column to another. Keep in mind that you can examine the icons on top of each column for more information about the actions.
+kii.t4.1=From here, you command the <color=#575757>Keepers</color> alone. Your first goal is to <color=#575757>recover</color> one <color=#575757>relic</color> of each type.
+kii.t4.2=You've already got a <sprite name="RelicJewelry">, so focus on getting a <sprite name="RelicTablet"> and a <sprite name="RelicFigure">.
+kii.trigger.column1=Well done. When you <color=#575757>recover</color> a full set of 3 <color=#575757>relics</color> - 1 of each type - you score an additional <sprite name="2VP">!
+kii.trigger.column2=Now, score  <style="vpnumddteen">15</style> to prove your mettle as commander of the <color=#575757>Keepers in Iron</color>.
+kii.trigger.tutorialcomplete=You've done it! The Woodland trembles at your might!
+tutorial.title.TutorialM01=Returned from Exile
+tutorial.description.TutorialM01=Learn to play the Keepers in Iron
+tutorial.title.TutorialM02=Rabble Rousers
+tutorial.description.TutorialM02=Learn to play the Lord of the Hundreds
+lht.2.8.gamepad=Use your <sprite name="Stronghold"><color=#B40518>stronghold</color> to craft the <sprite name="bag"> you drew last turn.
+tuber.canis.actions.ContinueToEvening.opponent=[player] are moving.
+kiit.goal.figure=Recover a <sprite name="RelicFigure">
+kiit.goal.tablet=Recover a <sprite name="RelicTablet">
+kiit.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})
+Log.Hundreds.Start.Location=[faction name] places their warlord and stronghold in a [suit icon] clearing.
+Log.Keepers.Start.Location=[faction name] places 4 warriors in a [suit icon] clearing.
+Log.exile.start=The Exile hireling is placed in a forest
+Log.uprising.start=The Uprising die rolls [suit icon] and an Uprising warrior is placed in a matching clearing.
+Log.dynasty.start=5 Dynasty warriors are placed in a [suit icon] clearing on the map edge.
+log.patrol.start=A Patrol warrior is placed in each clearing
+log.band.start=Band warriors are placed in two different clearings.
+log.vault.keepers.start=2 Keeper warrriors and a Vault are placed in a [suit icon] clearing
+log.bearers.start=2 Bearers warriors are placed in clearings
+log.encamp=[faction name] replaces a warrior with [type] waystation at a [suit icon] clearing.
+log.decamp=[faction name] replaces [type] waystation at a [suit icon] clearing with a warrior.
+log.recruit.keepers=[faction name] spends [card] to recruit two warriors in a [suit icon] clearing
+log.delve=[faction name] delves at a [suit icon] clearing, discovering [X] [type] relic.
+log.retinue.lost=[faction name] discards [card] from their [type] Retinue.
+log.recover=[faction name] recovers [type] relic, scoring [X] <style=""vptext"">VP</style>.
+log.live.off.land=[faction name] loses one warrior in a [suit icon] clearing due to Live Off the Land.
+log.gather.retinue=[faction name] adds [card] to their [type] Retinue.
+log.shift.retinue=[faction name] shifts [suit icon] from [type1] Retinue to [type2] Retinue.
+log.move.relic=[faction name] moves a [type] relic to a [suit icon] clearing.
+log.prized.relic=[faction name] scores an extra 1 <style=""vptext"">VP</style> from Prized Trophies for removing a relic and places it back in a forest
+log.raze=[faction name] razes a [suit icon] clearing, removing all ruins and enemy buildings and tokens.
+log.razeitem=[faction name] razes a ruin in a [suit icon] clearing. They gain a [item icon].
+log.razeitem.noitems=[faction name] razes a ruin in a [suit icon] clearing, but it contained no items.
+log.mob.spread=[faction name]'s mob spreads to a [suit icon] clearing.
+log.anoint=[faction name] anoints a new leader in a [suit icon] clearing.
+log.mood=[faction name] becomes [name].
+log.trash.item=[faction name] trashes [item icon] to score [X] <style=""vptext"">VP</style>.
+log.hundreds.craft=[faction name] adds [item icon] to their [type] track.
+log.incite=[faction name] incites a mob in a [suit icon] clearing.
+log.oppress=[faction name] oppresses [X] clearings for [X2] <style=""vptext"">VP</style>.
+log.loot=[faction name] loots [item icon] from [faction name 2].
+log.stubborn=[faction name] stubbornly takes 1 less hit!
+log.bitter=[faction name] removes a mob from a [suit icon] clearing to recruit a warrior.
+log.lavish=[faction name] removes [items] from their hoard to recruit [X] warriors.
+log.wrathful=[faction name] takes 1 more hit because of Wrathful!
+log.winterschill=[faction name] loses one warrior in a [suit icon] clearing due to Winter's Chill.
+log.infiltration=[faction name] infiltrates [X] clearings for [X2] <style=""vptext"">VP</style>.
+log.deliverymission.recover=[faction name] recovers relics, scoring [X] <style=""vptext"">VP</style>.
+log.move.warlord=[faction name] moves the Warlord to a [suit icon] clearing.
+tooltip.ui.hundreds.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.hundreds.drawrate=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.hundreds.strongholds=<size=125%><b>Strongholds</b></size>
+tooltip.ui.hundreds.mob=<size=125%><b>Mobs</b></size>
+tooltip.ui.hundreds.command=<size=125%><b>Command</b></size><br>The number of times you may Command the Hundreds (Move, Battle, Build) each turn.
+tooltip.ui.hundreds.prowess=<size=125%><b>Prowess</b></size><br>The number of times you may Advance the Warlord (Move and/or Battle) each turn.
+tooltip.ui.hundreds.oppression=<size=125%><b>Oppressed Spaces</b></size>
+tooltip.ui.hundreds.infiltration=<size=125%><b>Infiltrated Spaces</b></size>
+tooltip.ui.hundreds.moods=<size=125%><b>Moods</b></size>
+tooltip.ui.hundreds.protectwarlord=<size=125%><b>Protect Warlord</b></size>\
+tooltip.ui.keepers.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.keepers.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.keepers.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.keepers.waystations.tablet=<size=125%><b>Tablet Waystations</b></size>
+tooltip.ui.keepers.waystations.figure=<size=125%><b>Figure Waystations</b></size>
+tooltip.ui.keepers.waystations.jewelry=<size=125%><b>Jewelry Waystations</b></size>
+tooltip.ui.keepers.relics.tablet=<size=125%><b>Tablet Relics</b></size>
+tooltip.ui.keepers.relics.figure=<size=125%><b>Figure Relics</b></size>
+tooltip.ui.keepers.relics.jewelry=<size=125%><b>Jewelry Relics</b></size>
+tooltip.ui.keepers.retinue.moveorrecover=<size=125%><b>Move or Recover</b></size>\
+tooltip.ui.keepers.retinue.battleanddelve=<size=125%><b>Battle then Delve</b></size>\
+tooltip.ui.keepers.retinue.move=<size=125%><b>Move</b></size>\
+tooltip.keepersiniron.relics.description=<size=125%><b>Relics</b></size>
+tooltip.keepersiniron.waystations.description=<size=125%><b>Waystations</b></size>
+tooltip.ui.keepers.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.keepers.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.hundreds.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.hundreds.warriormovementtoggle=When enabled, defaults to moving your warlord whenever you move from a clearing with your warlord.
+tooltip.hangar.hirelings.ability=<b>Ability</b><br><br>Abilities are always active, though some say when they happen.
+tooltip.hangar.hirelings.whenhiredaction=<b>When-Hired Action</b><br><br>When they gain control of the hireling, the controlling player must take this action.
+tooltip.hangar.hirelings.startofbirdsongaction=<b>Start-of-Birdsong Action</b><br><br>At the start of their Birdsong, the controlling player must or may take this action, as the action describes.
+tooltip.hangar.hirelings.onceperdaylightaction=<b>Once-Per-Daylight Action</b><br><br>Once in their Daylight, the controlling player may take this action.
+tooltip.playmat.relic.tablet=<size=125%><b>Relic</b></size>\
+tooltip.playmat.relic.figure=<size=125%><b>Relic</b></size>\
+tooltip.playmat.relic.jewelry=<size=125%><b>Relic</b></size>\
+tooltip.playmat.stronghold=<size=125%><b>Stronghold</b></size>
+tooltip.playmat.mob=<size=125%><b>Mob</b></size>
+tooltip.playmat.waystation=Waystation
+tooltip.playmat.waystation.figure.backj=Waystation: <sprite name="RelicFigure"><br>Reverse side: <sprite name="RelicJewelry">
+tooltip.playmat.waystation.figure.backt=Waystation: <sprite name="RelicFigure"><br>Reverse side: <sprite name="RelicTablet">
+tooltip.playmat.waystation.jewelry.backf=Waystation: <sprite name="RelicJewelry"><br>Reverse side: <sprite name="RelicFigure">
+tooltip.playmat.waystation.jewelry.backt=Waystation: <sprite name="RelicJewelry"><br>Reverse side: <sprite name="RelicTablet">
+tooltip.playmat.waystation.tablet.backf=Waystation: <sprite name="RelicTablet"><br>Reverse side: <sprite name="RelicFigure">
+tooltip.playmat.waystation.tablet.backj=Waystation: <sprite name="RelicTablet"><br>Reverse side: <sprite name="RelicJewelry">
+tooltip.hirelingsenabled=Hirelings Enabled
+tooltip.playerinfo.keepers.relic.figure=<sprite name="RelicFigure"> relic
+tooltip.playerinfo.keepers.relic.figure.empty=<sprite name="RelicFigure"> relic (empty)
+tooltip.playerinfo.keepers.relic.jewelry=<sprite name="RelicJewelry"> relic
+tooltip.playerinfo.keepers.relic.jewelry.empty=<sprite name="RelicJewelry"> relic (empty)
+tooltip.playerinfo.keepers.relic.tablet=<sprite name="RelicTablet"> relic
+tooltip.playerinfo.keepers.relic.tablet.empty=<sprite name="RelicTablet"> relic (empty)
+tooltip.playerinfo.hundreds.oppress=<b>Oppressed Spaces</b><br>Clearings you rule that have a Hundreds piece and no enemy pieces.
+tooltip.playerinfo.hundreds.infiltration.normal=<b>Infiltrated Spaces</b><br>Clearings an enemy rules that have a Hundreds warrior or warlord in them.
+tooltip.playerinfo.hundreds.infiltration.heroic=<b>Infiltrated Spaces</b><br>Clearings an enemy rules with at least four pieces that have a Hundreds warrior or warlord in them.
+tooltip.playmat.keeperstack=<size=125%><b>Keeper Warriors</b></size>
+tooltip.playmat.hundredsstack=<size=125%><b>Hundreds Warriors</b></size>

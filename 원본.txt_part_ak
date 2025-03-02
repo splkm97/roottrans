@@ -1,0 +1,300 @@
+tooltip.ui.alliance.warriorcount=<size=125%><b>Reserve (Warriors + Officers)</b></size>\
+tooltip.ui.alliance.officercount=<size=125%><b>Officers</b></size>\
+tooltip.ability.alliance.revolt=<size=125%><b>Revolt</b></size>\
+tooltip.ability.alliance.spreadsympathy=<size=125%><b>Spread Sympathy</b></size>\
+tooltip.ability.alliance.mobilize=<size=125%><b>Mobilize</b></size>\
+tooltip.ability.alliance.organize=<size=125%><b>Organize</b></size>\
+tooltip.ability.alliance.battle=<size=125%><b>Battle</b></size>\
+tooltip.ability.alliance.move=<size=125%><b>Move</b></size>\
+tooltip.ability.alliance.train=<size=125%><b>Train</b></size>\
+tooltip.ability.alliance.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.ui.eyrie.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ability.eyrie.recruitdecree=<size=125%><b>Recruit Decree</b></size>\
+tooltip.ability.eyrie.movedecree=<size=125%><b>Move Decree</b></size>\
+tooltip.ability.eyrie.battledecree=<size=125%><b>Battle Decree</b></size>\
+tooltip.ability.eyrie.builddecree=<size=125%><b>Build Decree</b></size>\
+tooltip.ui.vagabond.backpack=<size=125%><b>Satchel</b></size>\
+Each <sprite name="sword"> provides 1 additional attack power.
+Unexhausted <sprite name="teapot">, <sprite name="coinstack">, and <sprite name="bag"> don't take up satchel space.
+tooltip.ui.vagabond.quest=<size=125%><b>Available Quests</b></size>\
+tooltip.ability.vagabond.move=<size=125%><b>Move</b></size>\
+tooltip.ability.vagabond.attack=<size=125%><b>Battle</b></size>\
+tooltip.ability.vagabond.explore=<size=125%><b>Explore</b></size>\
+tooltip.ability.vagabond.aid=<size=125%><b>Aid</b></size>\
+tooltip.ability.vagabond.quest=<size=125%><b>Quest</b></size>\
+tooltip.ability.vagabond.strike=<size=125%><b>Strike</b></size>\
+tooltip.ability.vagabond.repair=<size=125%><b>Repair</b></size>\
+tooltip.ability.vagabond.craft=<size=125%><b>Craft</b></size>\
+Craft a card from your hand. All of your <sprite name="hammer"> match your current clearing.
+tooltip.ability.vagabond.steal=<size=125%><b>Steal</b></size> - Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
+tooltip.ability.vagabond.hideout=<size=125%><b>Hideout</b></size> - Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
+tooltip.ability.vagabond.daylabor=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
+tooltip.ability.vagabond.daylabor.disabled=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.<br><br> Currently unavailable because your <sprite name="torch"> is exhausted, there are no cards in the discard pile matching the suit of your clearing, or because you are in a forest.
+tooltip.ability.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b></size> - Discard <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing. Cannot be used in a clearing with the Keep.
+tooltip.clearing.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b>\
+tooltip.ability.vagabond.instigate=<size=125%><b>Instigate</b></size> - Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+tooltip.playmat.base=<size=125%><b>Base</b></size>\
+tooltip.playmat.recruiter=<size=125%><b>Recruiter</b></size>\
+tooltip.playmat.roost=<size=125%><b>Roost</b></size>\
+tooltip.playmat.ruin=<size=125%><b>Ruin</b></size>\
+tooltip.playmat.ruin.favor=<size=125%><b>Ruin</b></size>\
+tooltip.playmat.ruin.availableitems=<br>Available Items:
+tooltip.playmat.ruin.itementry=<br><size=150%><sprite name="{0}"></size>
+tooltip.playmat.sawmill=<size=125%><b>Sawmill</b></size>\
+tooltip.playmat.workshop=<size=125%><b>Workshop</b></size>\
+tooltip.playmat.keep=<size=125%><b>Keep</b></size>\
+tooltip.playmat.woodstack=<size=125%><b>Wood Tokens</b></size><br> Used to pay for buildings in connected clearings. Can't produce more wood if you already have 8 on the map.
+tooltip.playmat.catstack=<size=125%><b>Marquise Warriors</b></size>
+tooltip.playmat.birdstack=<size=125%><b>Eyrie Warriors</b></size>
+tooltip.playmat.alliancestack=<size=125%><b>Alliance Warriors</b></size>
+tooltip.playmat.vagabond=<size=125%><b>Vagabond</b></size>
+tooltip.playmat.vagabot=<size=125%><b>Vagabot</b></size>
+tooltip.playmat.sympathystack=<size=125%><b>Sympathy Token</b></size>\
+tooltip.playmat.cancelaction=<size=125%><b>Cancel</b></size>
+tooltip.ability.alliance.craft=<size=125%><b>Craft</b></size>\
+tooltip.ability.eyrie.craft=<size=125%><b>Craft</b></size>\
+tooltip.ability.cat.craft=<size=125%><b>Craft</b></size>\
+tooltip.item.sack=<size=125%><b>Bag</b></size>\
+The Vagabond uses <sprite name="coinstack"> to draw additional cards during evening.
+tooltip.item.boot=<size=125%><b>Boot</b></size>\
+tooltip.item.crossbow=<size=125%><b>Crossbow</b></size>\
+tooltip.item.hammer=<size=125%><b>Hammer</b></size>\
+tooltip.item.sword=<size=125%><b>Sword</b></size>\
+tooltip.item.teapot=<size=125%><b>Tea Pot</b></size>\
+tooltip.item.torch=<size=125%><b>Torch</b></size>\
+tooltip.item.goldstack=<size=125%><b>Coin Stack</b></size>\
+tooltip.item.fromruins=\
+tooltip.item.invalid=Invalid Item
+tooltip.ui.eyrie.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.marquise.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.alliance.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.vagabond.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.lizardcult.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.eyrie.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.marquise.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.alliance.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.eyrie.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.marquise.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.alliance.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+toolitp.ui.vagabond.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.alliance.supportersinfo=<size=125%><b>Supporters</b></size>\
+tooltip.ui.alliance.officersinfo=<size=125%><b>Officers</b></size>\
+tooltip.ui.alliance.unplacedbase=<size=125%><b>Unplaced Bases</b></size>\
+tooltip.prompts.vagabonditems.remainingselections=<size=125%><b>Remaining Selections</b></size>\
+tooltip.prompts.vagabonditems.relationship=<size=125%><b>Warning!</b></size>\
+tooltip.ui.alliance.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.alliance.sympathysupportercost=<size=125%><b>Supporter Cost</b></size>\
+tooltip.ui.eyrie.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.eyrieleaderformat=<size=125%><b>{0}:</b> </size>{1}
+tooltip.ui.vagabond.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.marquise.sawmillcost=<size=125%><b>Sawmill Cost</b></size>\
+tooltip.ui.marquise.workshopcost=<size=125%><b>Workshop Cost</b></size>\
+tooltip.ui.marquise.recruitercost=<size=125%><b>Recruiter Cost</b></size>\
+tooltip.ui.marquise.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.vagabond.refreshrate=<size=125%><b>Refresh Rate</b></size>\
+tooltip.ui.vagabond.attackpower=<size=125%><b>Attack Power</b></size>\
+tooltip.ui.vagabondrelationship.hostile=<size=125%><b>Hostile</b></size>\
+The Vagabond must exhaust 1 additional <sprite name="boot"> to enter hostile clearings, and scores an extra <sprite name="1VP"> per hostile piece removed in battle.
+tooltip.ui.vagabondrelationship.indifferent=<size=125%><b>Indifferent</b></size>\
+The Vagabond may Aid a player to improve this relationship and score <sprite name="1VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.one=<size=125%><b>Relationship</b></size>\
+The Vagabond may Aid a player twice in one turn to improve this relationship and score <sprite name="2VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.two=<size=125%><b>Relationship</b></size>\
+The Vagabond may Aid a player three times in one turn to improve this relationship and score <sprite name="2VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.allied=<size=125%><b>Allied</b></size>\
+The Vagabond may move and battle with allied warriors. Aiding an ally scores <sprite name="2VP">.
+tooltip.ui.vagabond.vagabond_ranger=<size=125%><b>Ranger</b></size>\
+tooltip.ui.vagabond.vagabond_thief=<size=125%><b>Thief</b></size>\
+tooltip.ui.vagabond.vagabond_tinker=<size=125%><b>Tinker</b></size>\
+tooltip.item.status.damaged=\
+tooltip.item.status.exhausted=\
+tooltip.prompts.shop.availableitems=<size=125%><b>Craftable Items</b></size>\
+tooltip.prompts.shop.availabledominance=<size=125%><b>Available Dominance Cards</b></size>\
+tooltip.playmat.foundation=<size=125%><b>Building Slot</b></size>\
+tooltip.ui.alliance.sympathysupporterbracket=<size=125%><b>Supporter Cost Tier</b></size>\
+tooltip.gameoptions.timer.fast=<size=125%><b>3 Minutes</b></size>\
+tooltip.gameoptions.timer.slow=<size=125%><b>3 Days</b></size>\
+tooltip.ui.vagabond.satcheldiscard=<size=125%>Your Satchel is overcrowded. At the end of turn you must discard {0} items.
+tooltip.ui.buildmodal.woodcost=<size=125%><b>Wood Cost</b></size>
+tooltip.ui.buildmodal.extracard=Building this unlocks an additional card draw during Evening.
+tooltip.ui.buildmodal.victorypoints=Victory Points earned for building.
+tooltip.ui.actions=<size=125%><b>Actions Remaining</b></size>
+tooltip.ui.phase.Birdsong=<size=125%><b>Birdsong</b></size>
+tooltip.ui.phase.daylight=<size=125%><b>Daylight</b></size>
+tooltip.ui.phase.evening=<size=125%><b>Evening</b></size>
+tooltip.playmat.foxclearing=<size=125%><b>Fox Clearing</b></size>
+tooltip.playmat.rabbitclearing=<size=125%><b>Rabbit Clearing</b></size>
+tooltip.playmat.mouseclearing=<size=125%><b>Mouse Clearing</b></size>
+tooltip.ui.phase.minimize=<size=125%><b>Minimize Window</b></size>
+tooltip.ui.phase.expand=<size=125%><b>Expand Window</b></size>
+tooltip.ui.phase.info=<size=125%><b>Faction Phase Order</b></size>
+tooltip.ui.faction.info=<size=125%><b>Faction Details</b></size>
+tooltip.ui.phase.movetodaylight=<size=125%><b>Continue to Daylight</b></size>
+tooltip.ui.phase.movetoevening=<size=125%><b>Continue to Evening</b></size>
+tooltip.ui.phase.skip=<size=125%><b>Skip</b></size>
+tooltip.ui.phase.endturn=<size=125%><b>End Turn</b></size>
+tooltip.ui.phase.cancel=<size=125%><b>Cancel</b></size>
+tooltip.ui.defenseless=Defenseless
+tooltip.ui.commander=Commander
+tooltip.ui.brutaltactics=Brutal Tactics
+tooltip.ui.sappers=Sappers
+tooltip.ui.armorers=Armorers
+tooltip.ui.totalhitdef=Total Hits (Defender)
+tooltip.ui.totalhitatk=Total Hits (Attacker)
+tooltip.ui.rolledhit=Rolled Hits
+tooltip.ui.factionwarning=This faction combination may be low on interaction. Play at your own risk.
+tooltip.ui.victorypoints.practice=<size=125%><b>Victory Points</b></size>\
+In this practice game, the first player to <style="vpnumdd">20</style> wins.
+tooltip.ui.victorypoints.altwin.challenges=<size=125%><b>Victory Points</b></size>\
+In a typical game, the first player to <style="vpnumdd">30</style> wins. Review challenge rules icon on the right for instructions how to win this challenge.
+tooltip.ui.hand.reveal.cat=<size=125%><b>Marquise de Cat Hand</b></size> View the Marquise de Cat hand revealed in the last Outrage.
+tooltip.ui.hand.reveal.eyrie=<size=125%><b>Eyrie Dynasties Hand</b></size> View the Eyrie Dynasties hand revealed in the last Outrage.
+tooltip.ui.hand.reveal.vagabond=<size=125%><b>Vagabond Hand</b></size> View the Vagabond hand revealed in the last Outrage.
+tooltip.ui.martiallaw=<size=125%><b>Martial Law</b></size> You must spend another matching supporter if the target clearing has at least 3 warriors of another player.
+tooltip.mechorder=<size=125%><b>Order</b></size><br>The suit of the order determines what actions a Clockwork player takes on their turn.
+tooltip.ui.firstturn=This player will take the first turn after setup. Play order proceeds down the list.
+landing.achievements.gc=Achievements
+tooltip.ui.actionlog=<size=125%><b>Action Log</b></size><br>Displays actions previously taken in the game.
+tooltip.ui.hitsearned=Hits earned from your die roll can't exceed the number of warriors you have in this clearing.
+tooltip.ui.vagabondhitsearned=Hits earned from your die roll can't exceed the number of swords you have in your satchel.
+tooltip.ui.daylightactions=<size=125%><b>Daylight Actions</b></size><br>Actions determined by the suit of the order card.
+tooltip.ui.vbbattletrack=<size=125%><b>Battle Track</b></size><br>The Vagabot’s maximum rolled hits in battle begins at one. While the Vagabot has at least six, nine, and twelve undamaged items, an item is placed here. The sixth and ninth item slots each increase maximum rolled hits by one, and the twelfth makes him deal one extra hit
+tooltip.ui.crackdown=<size=125%><b>Crackdown:</b></size><br>Whenever a base is removed, return all sympathy tokens from clearings matching the suit of the base removed
+tooltip.ui.coop=<size=125%><b>Cooperative Play</b></size><br>Play as a team against clockwork opponents. To win, players (and AI) must each score 30 victory points before any clockwork opponent scores 30 victory points. Dominance cards are removed.
+landing.grm=Go to Dire Wolf Game Room App
+grm.return=Return to Dire Wolf Game Room App
+tooltip.opponent.mechanical.marquise=<size=125%><b>Mechanical Marquise Opponent</b></size>
+tooltip.opponent.electric.eyrie=<size=125%><b>Electric Eyrie Opponent</b></size>
+tooltip.opponent.automated.alliance=<size=125%><b>Automated Alliance Opponent</b></size>
+tooltip.opponent.vagabot=<size=125%><b>Vagabot Opponent</b></size>
+tooltip.regularmap=<size=125%><b>Autumn Map</b></size><br> The standard Root map.
+tooltip.fallmap=<size=125%><b>Autumn Map</b></size><br> The standard Root map.
+tooltip.wintermap=<size=125%><b>Winter Map</b></size><br> An advanced map with randomized clearing suit locations. Unlike in the Autumn map, the river divides the forest as if it were a path.
+tooltip.outrage.reminder=Moving to this clearing will trigger Outrage.
+tooltip.giftegg=<size=125%><b>Egg</b></size><br>Move into a clearing with an egg to hatch an Eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>.
+tooltip.clockwork.settings=Clockwork Trait and Difficulty Settings
+tooltip.undo=Undo
+tooltip.armorers.battle=<size=125%><b>Armorers:</b></size><br>Ignore all rolled hits taken.
+tooltip.electriceyrie.battle=<size=125%><b>Extra Hit</b></size><br>Additional hit added because Electric Eyrie has more cards in the battle column of their decree than any other column.
+tooltip.brutaltactics.battle=<size=125%><b>Brutal Tactics:</b></size><br>Deal an extra hit. Defender scores 1<style="vptext">VP</style>.
+tooltip.defenseless.battle=<size=125%><b> Defenseless:</b></size><br>Deal an additional hit since the Defender has no warriors in this clearing.
+tooltip.commander.battle=<size=125%><b>Commander:</b></size><br>As attacker in battle, you deal an extra hit.
+tooltip.sappers.battle=<size=125%><b>Sappers:</b></size><br>The Defender deals an extra hit.
+tooltip.autoambush.battle=<size=125%><b>Automated Ambush:</b></size><br>The defender deals an extra hit in battle with any Alliance warriors.
+tooltip.arbiterprotector.battle=<size=125%><b>Protector:</b></size><br>The Arbiter adds their undamaged swords to the defender's maximum rolled hits.
+tooltip.settingsmenu=<b>Settings</b>
+tooltip.direbytes=<b>Dire Wolf News</b>
+tooltip.leaderboards=<b>Leaderboards</b>
+tooltip.friends=<b>Friends</b>
+tooltip.minimize=<b>Minimize</b>
+tooltip.expand=<b>Expand</b>
+decree.fox.tooltip=Fox suits are used to interact with Fox clearings.
+decree.mouse.tooltip=Mouse suits are used to interact with mouse clearings.
+decree.rabbit.tooltip=Rabbit suits are used to interact with rabbit clearings.
+decree.bird.tooltip=Bird suits are used to interact with any clearings type.
+cat.nowood.tooltip=This clearing is cut off from some of your wood sources. Remember, you may only build using wood connected through clearings you rule.
+cat.snareblock.tooltip=You can't build here because of the Corvid's Snare.
+tooltip.ui.randomfactionsonly=<size=125%><b>Random Factions</b></size><br>Players and AI will not have the option to pick their faction. Clockwork factions are excluded from this rule.
+tooltip.ui.hand.revealed=Revealed Cards
+tooltip.chat=<b>Chat</b>
+title.introduction=Introduction
+title.flowofplay=Flow of Play
+rule.eachturn=Each turn is split into three phases: Birdsong, Daylight, and Evening. Once you play through these phases in order, your turn ends, and the next player in the turn order takes their turn.
+title.howtowin=How to Win
+rule.howtowin=You can win in one of two ways: score 30 victory points or play and complete a dominance card. See the <link="dominance"><color=#462C1B><u>Dominance Cards section</u></color></link>.
+title.factions=Factions
+title.marq=Marquise de Cat
+title.eyrie=Eyrie Dynasties
+title.alli=Woodland Alliance
+title.vaga=Vagabond
+title.riverfolk=Riverfolk Company
+title.lizard=Lizard Cult
+title.twovagabond=Dual Vagabonds
+title.corvidconspiracy=Corvid Conspiracy
+title.undergroundduchy=Underground Duchy
+rule.marq=The invading Marquise de Cat wishes to exploit the Woodland, using its vast resources to fuel her economic and military machine. She scores by constructing buildings in the Woodland.
+rule.eyrie=The proud Eyrie Dynasties wish to reclaim the glory of their once-great aristocracy and retake the Woodland from the Marquise. They score each turn by building and protecting roosts in the Woodland.
+rule.alli=The upstart Woodland Alliance wish to unite the creatures of the forest and rise up against their oppressors. They score by spreading sympathy for their cause across the Woodland.
+rule.vaga=The wily Vagabond wishes to gain fame—or infamy—in the midst of this brewing conflict. He scores by completing quests for the creatures of the Woodland and by aiding and harming the other factions.
+title.themap=The Map
+rule.themap=Most action in Root unfolds on the map of the Woodland, consisting of 12 clearings connected by paths.
+title.moving=Moving Around the Map
+rule.movingaround=You can move from clearing to clearing. When you move, take any number of your warriors from one clearing and move them to a clearing connected by a path.\
+rule.forests=The spaces on the map enclosed by paths are forests, which only the Vagabond can move into.
+title.clearings=Clearings
+rule.clearings=Each clearing on the map has one to three slots, which hold buildings that players will place. A clearing with no open slots cannot hold more buildings.\
+rule.ruins=Slots filled with ruins cannot hold buildings until the Vagabond explores them. Without a Vagabond, these slots will be blocked for the entire game.
+title.cards=The Cards
+rule.cards=Throughout play, you will draw cards from Root’s shared deck into your hand, and many actions will require you to spend cards from your hand. Spending a card represents calling upon animals to lend you their labor, to do you a favor, or to broker a deal.\
+Just like clearings, each card has a suit. Besides the <sprite name="mouseicon">, <sprite name="foxicon">, and <sprite name="rabbiticon"> suits, cards have a fourth suit: <sprite name="birdicon">. <sprite name="birdicon"> are "wild" and can be used as if it was a mouse, fox, or rabbit card. However, if you must spend a <sprite name="birdicon"> card, you can’t substitute a card of another suit.
+title.crafting=Crafting Cards
+rule.crafting=Most cards have a second use—you can craft the card to gain its effect, shown at the bottom.\
+<margin=3em>∙Marquise crafts with workshops.\
+∙Vagabond crafts with hammers</margin=3em>\
+title.battling=Battling
+rules.battling=You can battle other players to remove their pieces from the map. <br><br>When you battle, choose any clearing where you have any warriors. You are the attacker, and you choose another faction with any pieces there as the defender.<br><br>To determine hits, two dice are rolled with sides 0-3. The attacker deals max hits equal to the higher die, and the defender deals max hits equal to the lower die. However, each player can deal no more hits than their number of warriors in the clearing of battle. The player taking hits chooses which pieces to remove, but must remove all their own warriors in the clearing of battle before removing any of their own buildings or tokens there.<br><br><style=RSH>Victory Points</style><br><br>Whenever you cause an enemy building or token to be removed—even outside battle—you score a victory point!<br><br><style=RSH>Extra Hits</style><br><br>Some effects allow you to deal extra hits. Extra hits represent superior positioning, tactics, or leadership. They are not limited by the number of warriors in the clearing of battle, so a single warrior could deal multiple hits.<br><br>The attacker deals an extra hit if the defender has no warriors in the clearing of battle, leaving themselves defenseless.
+rules.marq=The Marquise de Cat occupies the Woodland and wants to turn it into an industrial and military powerhouse. Each time the Marquise builds one of her buildings—a workshop, sawmill, or recruiter—she scores victory points. The more of the same building she has on the map, the more points she scores. However, to fuel ongoing construction, the Marquise must maintain and protect a strong, interconnected economy of wood.
+title.setup=Setup
+rules.marqsetup=<style=RSH>Setup</style><br><br>∙Draw 3 cards.<br>∙Place your keep token in the corner clearing of your choice.<br>∙You gain 1 warrior in each clearing except the corner clearing diagonally opposite from your keep. <br>∙Place 1 sawmill, workshop, and recruiter among the clearing with the keep token and any adjacent ones.
+title.thekeep=The Keep
+rules.thekeep=The Keep of Marquise de Cat grants two special abilities while it is on the map. First, no one but the Marquise can place pieces in the clearing with the Keep token. Also, whenever Marquise warriors are removed, the Marquise may call on her Field Hospitals, spending a card matching the warriors’ clearing to place them back in the clearing with the Keep token. This ability can be used instantly to rescue warriors removed from the Keep clearing and at the start of the Marquise turn for warriors removed from other clearings.
+rules.marqturn=<style=RSH><sprite index=66>Birdsong </style><br><br>Each sawmill generates a wood token.<br><br><style=RSH><sprite index=65>Daylight</style><br><br>First, you can craft any cards in your hand using workshops.<br><br>Then, you can take up to three of the following actions:<br><br><style=RB>Battle:</style> Initiate a battle.<br><style=RB>March:</style> Take two moves.<br><style=RB>Recruit:</style> Place one warrior at each recruiter. You may take this action only once per turn.<br><style=RB>Build:</style> Place one building in a clearing you rule with an open slot by spending wood tokens equal to its cost. You may spend any wood on the map connected to this clearing by any number of clearings you rule. When you place the building, score the victory points shown on your building track.<br><style=RB>Overwork:</style> Spend a card to place one wood token at one sawmill in a clearing whose suit matches the card spent.
+rules.hawks=Hawks for Hire: You may take any number of extra actions by spending one bird card per extra action.
+rules.marqeve=<style=RSH><sprite index=64>Evening</style><br><br>Draw one card, plus one card per uncovered draw bonus. Then, if you have more than five cards in your hand, discard down to five.
+rules.eyrie=The Eyrie Dynasties wish to restore their once-dignified kind to their former glory in the Woodland by resettling the forest clearings. During their Evening, the Eyrie score victory points from their number of roosts on the map. The greater their presence, the greater their gains. However, the Eyrie are bound by their Decree, an ever-increasing set of mandated actions promised by their leader. Each turn, they must take all of the actions on their Decree, or else fall into turmoil.
+rules.eyriesetup=<style=RSH>Setup</style><br><br>∙Draw 3 cards.<br>∙You get 6 warriors and 1 roost in the corner clearing diagonally opposite from the clearing with the keep. If the Marquise is not playing, place these pieces in the corner clearing of your choice.<br>Choose a leader.</margin=3em>
+rule.emergencyorders=Emergency Orders: If you have no cards at the start of Birdsong, draw one.
+rule.newroost=A New Roost: If you have no roosts, place one roost and three warriors in the clearing with the fewest warriors.
+rule.eyrieturn=<style=RSH>Abilities</style><br><br>The Eyrie are the Lords of the Forest. They rule a clearing when tied for most combined warriors and buildings, and they have at least one Eyrie piece there. However, their Disdain for Trade means they only score 1 victory point when crafting items. <br><br><style=RSH><sprite index=66>Birdsong</style><br><br>You must add one or two cards onto any columns in the Decree. Only one card added may be a bird card.<style=RSH><br><br><sprite index=65>Daylight</style><br><br>First, you may craft any number of cards, using roosts.<br>Then, you must resolve the Decree, starting with the leftmost column and moving right. <br>For each card in a column, you must take the action listed by the column in a clearing matching the card.<br><br>Here are the actions in the four columns of the Decree:<br><br><style=RB>Recruit</style>: Place a warrior in a matching clearing with a roost.<br><style=RB>Move</style>: Move at least one warrior from a matching clearing.<br><style=RB>Battle</style>: Initiate a battle in a matching clearing.<br><style=RB>Build</style>: Place a roost in a matching clearing you rule with an open slot and no roost.<br><br><style=RSH><sprite index=64>Evening</style><br><br>First, score the victory points shown on the rightmost empty space of your roosts track.<br>Then, draw one card, plus one per uncovered draw bonus. If you have more than five cards in your hand, discard down to five.<br><br><style=RSH>Turmoil</style><br><br>If you cannot take an action for any reason, you fall into turmoil. The following steps occur:<br><margin=3em>∙First, your regime is humiliated. Lose one victory point per bird card in the Decree.<br>∙Then, your court is purged. Discard all of the cards in the Decree<br>∙Next, your leader is deposed. You must choose a new leader to take their place. <br>∙Finally, you rest. End Daylight and go to Evening.</margin=3em>
+rule.turmoil=There are many ways to fall into turmoil! For example, you might not have any warriors in your supply to recruit, or maybe all the clearings you rule already have a roost, meaning you can’t build any more.
+rules.alliance=The Woodland Alliance works to gain the sympathy of the various oppressed creatures of the Woodland. Each time the Alliance places a sympathy token, they may score victory points. The more sympathy on the map, the more victory points they score. Gaining the sympathy of the people requires supporters. These supporters can also be put toward violent revolt. A revolt establishes a new base, allowing the Alliance to train officers that increase their military flexibility.
+rules.allisetup=<style=RSH>Setup</style><br><br>∙Draw 3 cards<br>∙Gain 3 supporters in random suits.
+rules.baseremoval=Whenever a base is removed, you lose half your officers (rounded up) and discard all supporters matching the suit of that base—even your bird supporters!
+rules.spreadsympathy=<style=RB>Spread Sympathy:</style> Place a sympathy token in an unsympathetic clearing, adjacent to a sympathetic clearing if possible. You must spend supporters as shown by the cost on your Sympathy track. If the target clearing has three or more warriors of another player, you must spend another matching supporter to place sympathy there.
+rules.nosympathy=If there are no sympathy tokens on the board, you can place your first sympathy in any clearing.
+rules.alliturn2=<style=RSH><sprite index=65>Daylight</style><br><br>You may take the following actions using cards in your hand. <br><br><style=RB>Craft:</style> Craft a card, using sympathy tokens.<br><style=RB>Mobilize:</style> Add a card to the Supporters stack.<br><style=RB>Train:</style> Spend a card whose suit matches a built base to place a warrior in the Officers box. This warrior is now an officer.<br>Your officers determine the number of military operations you can take during Evening. Without officers, you can’t move or battle with your warriors! Training officers will also let you recruit new warriors and place sympathy tokens without spending supporters.<br><br><style=RSH><sprite index=64>Evening</style><br><br>You may take these military operations, up to your number of officers.<br><br><style=RB>Move:</style> Take one move.<br><style=RB>Battle:</style> Initiate a battle.<br><style=RB>Recruit:</style> Place a warrior in a clearing with a base.<br><style=RB>Organize:</style> Remove one of your warriors from an unsympathetic clearing to place a sympathy token there. Score the revealed victory points.<br>After you finish military operations, draw one card, plus one additional card per base you have on the map. Then, if you have more than five cards in your hand, discard down to five.
+rules.vaga=The Vagabond plays all sides of the conflict, making friends and enemies as suit his ends, while going on quests to increase his renown throughout the woodland. As the Vagabond improves his relationships with other factions, or removes pieces of factions hostile toward him, he scores victory points.<br><br><style=RSH>Set Up</style><br><br>∙Draw 3 cards.<br>∙Choose a character.<br>∙Choose a forest for your pawn.<br>∙Draw 3 quests.
+rules.slip=Slip is the only way you can enter a forest!
+rules.vagaturn2=<style=RSH><sprite index=65>Daylight</style><br><br>You can take various actions by exhausting items.<br><br><style=""RB"">Move:</style> Exhaust a <sprite name="boot"> to take a move.<br><style=""RB"">Battle:</style> Exhaust a <sprite name="sword"> to initiate a battle.<br><style=""RB"">Strike:</style> Exhaust a <sprite name="crossbow"> to remove a warrior in your clearing. If a player has no warriors there, you can instead remove a building or token of that player.<br><style=""RB"">Explore:</style> Exhaust a <sprite name="torch"> to take one item from a ruin in your clearing and score 1 victory point. <br><style=""RB"">Aid:</style> Exhaust any one item, and give a card from your hand matching your clearing to any player in your clearing. Then, take one item, if any, from their Crafted Items box.<br><style=""RB"">Quest:</style> Claim a quest whose suit matches your clearing by exhausting the two items listed on the quest. Then, you may draw two cards from the deck, or you may score one victory point per quest of this suit that you have completed, including this one. Finally, draw a new quest card. <br><style=""RB"">Craft:</style> Exhaust <sprite name="hammer"> equal in number to the suits shown on a card’s crafting cost. All of your <sprite name="hammer"> match the suit of your clearing.<br><style=""RB"">Repair:</style> Exhaust a <sprite name="hammer"> to repair a damaged item.<br><style=""RB"">Special Action:</style> Exhaust a <sprite name="torch"> to take your characters special action.<br><br><style=RSH><sprite index=64>Evening</style><br><br>If you are in a forest, repair all of your damaged items.<br><br>Then, draw one card, plus one card per <sprite name="coinstack"> in your <sprite name="coinstack"> track. If you have more than five cards in your hand, discard down to five.<br><br>Finally, if you have more items in your Satchel than your item limit—six, plus two per <sprite name="bag"> in your <sprite name="bag"> track—you must remove items from your Satchel down to your item limit.
+rules.vagabonusdraw=Unlike other factions, the Vagabond does not uncover draw bonuses, but instead gets draw bonuses from <sprite name="coinstack">. This item only adds a bonus draw if it is undamaged and unexhausted.
+rules.vagarelationships=<style=RSH>Relationships</style><br><br>Your Relationships chart represents how friendly or hostile other factions are toward you.<br>You can improve a relationship with a faction by giving them cards with the Aid action. During the same turn, you must take the Aid action the number of times shown between their current relationship space and the next one. When you improve a relationship, you score the victory points listed on the new space.<br><br>If you ever remove a warrior, its owner becomes Hostile. From now on, you score a victory point each time you remove one of their pieces in battle during your turn, along with any points you score for removing buildings and tokens. However, you must exhaust another <sprite name="boot"> whenever you move into a clearing with any Hostile warriors.<br><br>If a faction’s relationship is improved three times, you are now trusted by the warriors of that faction. This faction is now Allied. <br><br><style=RB>Aiding Ally</style><br>Each time you Aid an Allied faction, score 2 victory points. <br><br><style=RB>Moving with Ally</style><br>Whenever you move during Daylight, you may force warriors from an Allied faction to move with you to another clearing. Allied warriors follow the normal movement rules of their faction and do not gain the benefit of your Nimble special ability. They are treated as if their owner choose to move them for effects like Outrage. <br><br><style=RB>Attacking with Ally</style><br>Whenever you initiate a battle, you may treat Allied warriors of one faction in the clearing of battle as your own. The maximum hits you can roll equals the number of that Ally’s warriors there plus your total undamaged <sprite name="sword">. You cannot use another player's warriors when attacking that player. <br><br><style=RB>Taking Hits with Ally</style><br>In a battle where you treat Allied warriors as your own, you can take hits by removing Allied warriors. However, if you take more hits by removing Allied warriors than by damaging items during the same battle, that Allied faction becomes hostile.
+title.dominance=Dominance Cards
+rules.dominance=The deck has four dominance cards, one in each suit. Like ambush cards, these cards cannot be crafted, but they can be spent for their suit.<br><br>When you discard or spend a dominance card for its suit, it is moved to the supply on the top right of the screen. Any player, during their Daylight phase, may take a dominance card from the supply into their hand by spending a card of matching suit.<br><br><style=RSH>Changing Your Victory Condition</style><br><br>During your Daylight, if you have at least 10 victory points, you may play a dominance card into your play area to activate it. For the rest of the game, you have no score and can only win by meeting the victory condition listed on your activated dominance card.<br><br><style=RSH>Forming a Coalition as the Vagabond </style><br><br>The Vagabond cannot rule clearings, but he can play a dominance card to form a coalition with the player other than himself with the lowest score. If there’s a tie for lowest score, the Vagabond chooses which player to form a coalition with.<br><br>When forming a coalition, the Vagabond no longer has his own score and cannot score points. Instead, the Vagabond will share the victory if that player wins. A Vagabond can even form a coalition with a hostile faction! This changes their relationship to indifferent.
+rules.craftingcards.reward=Reward
+rules.craftingcards.requirement=Crafting Requirement
+rules.craftingcards.suit=Suit
+rules.clearingdiagram.ruler=Ruler Indicator
+rules.clearingdiagram.suit=Clearing Suit
+rules.clearingdiagram.building=Building Slots
+rules.marqsupply=<style=RSH>Supply</style><br><br>∙Warriors x25<br>∙Sawmills x6<br>∙Workshops x6<br>∙Recruiters x6<br>∙Wood Tokens x8<br>∙Keep x1
+rules.eyriesupply=<style=RSH>Supply</style><br><br>∙Warriors x20<br>∙Roosts x7
+rules.allisupply=<style=RSH>Supply</style><br><br><margin=3em>∙Warriors / Officers x10 (shared pool)<br>∙Bases x3 (one in each suit)<br>∙Sympathy Tokens x10</margin=3em><br><br>
+rules.alliturn1=<style=RSH>Abilities</style><br><br>The Alliance are experts in Guerrilla War. As defender in battle, they deal hits equal to the higher roll, and the attacker will deal hits equal to the lower roll.<br><br><style=RSH>Supporters, Sympathy, and Outrage</style><br><br>To act as the Alliance, you often spend supporters—cards in your Supporter area. Supporters are separate from your hand of cards, and you can only spend supporters for their suit. You can't have more than five supporters without a base.<br><br>Supporters are often spent to place sympathy tokens. Placing sympathy is the main way you score victory points, and sympathy can gain you more supporters through Outrage.<br>Whenever another player removes a sympathy token or moves any warriors into a clearing with a sympathy token, they must add a card from their hand matching that clearing to your Supporters stack. If they don’t have a matching card, they show you their hand, and then you draw a card from the deck and add it to your Supporters stack.<br><br><style=RSH><sprite index=66>Birdsong</style><br><br>You may revolt any number of times, and then spread sympathy any number of times.<br><br><style=RB>Revolt</style>: Spend two Supporters matching a sympathetic clearing in the suit of an unbuilt base. Remove all enemy pieces there and place the matching base. Then, place warriors there equal to the number of sympathetic clearings matching the suit of the revolt clearing, including the revolt clearing itself. Lastly, gain an officer.
+rules.vagaturn1=</margin=3em><br><br><style=RSH>Battling as the Vagabond<br></style><br><br>Because you don’t have warriors, you follow a few different rules in battle.<br><br><margin=3em>∙The Vagabond pawn is not a warrior, so you can’t rule and you are not affected by effects that refer to warriors. You can battle where your pawn is.<br>∙The maximum hits you can deal by rolling equals your total undamaged <sprite name="sword">, whether exhausted or not.<br>∙You take hits by damaging items of your choice. If you have no undamaged items, you ignore further hits.<br>∙You are defenseless, taking an extra hit,if you have no undamaged <sprite name="sword">.<br></margin=3em></margin=3em><br><br><style=RSH>Abilities<br></style><br><br>Being a Lone Wanderer, the Vagabond cannot rule a clearing or stop another player from ruling one, but he is Nimble, so he can move regardless of who rules his clearing.<br><br>The Vagabond only has one piece: the Vagabond pawn. This pawn can move and battle just like a warrior, but it is not a warrior.<br><br>Whenever an enemy player uses an effect that removes all enemy pieces from a clearing (such as Alliance revolts, Favor of the Mice cards) that contains the Vagabond, the Vagabond damages three items.<br><br><style=RSH>Items</style><br><br>To move and act effectively as the Vagabond, you must manage your items, expanding your selection by exploring the Woodland’s ruins and providing aid to other factions.<br>You can exhaust an undamaged item to perform an action. That item will not be available until it is refreshed during Birdsong.<br><br>While undamaged, <sprite name="bag">, <sprite name="coinstack">, and <sprite name="teapot"> are stored on their own tracks, while all other items are stored in your Satchel. You can only carry so many items in your Satchel, and you will have to discard down to your item capacity during Evening. <br><br>If you exhaust a <sprite name="bag">, <sprite name="coinstack">, or <sprite name="teapot"> it is moved to your Satchel.<br><br><style=RSH><sprite index=66>Birdsong</style><br><br>Refresh three items, plus two additional items per undamaged <sprite name="teapot"> in your <sprite name="teapot">track.<br>Then, you may slip once, moving into an adjacent clearing or forest without exhausting any <sprite name="boot"> item.
+rules.craftintro=Most cards have a second use—you can craft the card to gain its effect, shown at the bottom.<br>To craft a card, you must activate crafting pieces in the clearings shown in the card’s crafting requirement.\
+You can activate each crafting piece only once per turn. Each faction has a different crafting piece, as follows:<br><br><margin=3em>∙Marquise crafts with workshops.<br>∙Eyrie crafts with roosts<br>∙Alliance crafts with sympathy<br>∙Vagabond crafts with hammers</margin=3em>
+rules.cardimmediate=Immediate Effects (yellow text box)<br>If the card gives you an immediate effect, it is resolved and then discarded.\
+rules.cardpersist=Persistent Effects (blue textbox)<br>Cards with persistent effects are set aside for later use. You may not craft a card with a persistent effect if you already have one of the same name.
+rules.cardambush=Ambushes (red textbox) <br>Ambush cards can only be played in a battle. Before the roll in battle, the defender may play an ambush card whose suit matches the clearing of battle to deal two hits immediately.<br>However, if the defender plays an ambush card, the attacker can foil the ambush, canceling its effect, by also playing a matching ambush card.<br>Ambush hits are not limited by your number of warriors in the clearing of battle. If an ambush card removes all of the attacker’s warriors, the battle immediately ends.
+rules.leaders=Leaders
+rules.characters=Characters
+rules.clocworkoverview=Clockwork Overview
+rules.clockworkbody=<style=RSH>Order Cards</style><br>On its turn, a bot draws and reveals a card, called the order card, to determine some actions it takes. The term ordered means “matching the suit of the current order card.” <br><br><style=RSH>Crafting</style><br>If the bot's order card shows an available item, the bot crafts it.  Whenever a bot crafts an item, it ignores the listed victory points and instead scores only one victory point. Bots cannot craft cards with persistent effects.<br><br><style=RSH>Clearing Tiebreakers</style><br>If a bot must choose among clearings to target with an action, it follows all of the rules listed by its action. If it cannot target a clearing based on those rules, it targets the clearing of highest priority, as shown by the priority markers placed on the map, from among the clearings it would have targeted based on those rules. The clearing of highest priority is marked “1,” and the clearing of lowest priority is marked “12.”<br><br><style=RSH>Faction Tiebreakers</style><br>If a bot must choose among factions to target with an action, it follows all rules listed by its action. If it cannot target a faction based on those rules, it targets the faction with the highest setup priority, as follows from highest to lowest: Marquise de Cat, Eyrie Dynasties, Woodland Alliance, Vagabond.<br><br><style=RSH>Taking Hits</style><br>When taking hits, a bot removes all its tokens from the clearing of battle before removing any of its buildings there. If it has multiple types of buildings that it could remove there, it chooses which to remove at random.<br><br><style=RSH>Action Order</style><br>If a bot would take multiple actions with different targets that might produce different results based on the order of those actions, the bot takes them in order of highest to lowest target priority. When moving, it assesses the priority order of the origin clearings (not the destinations).<br><br><style=RSH>Abilities</style><br>Every bot has the following two abilities:<br>    <b>Poor Manual Dexterity:</b> The bots have no hand of cards. Bots cannot discard cards. If a human would take a card from a bot, that human draws a card instead. If a human would give a card to a bot, discard that card, and that bot scores 1 victory point. <br>    <b>Hates Surprises:</b> Ambush cards cannot be played against bots.<br><br><style=RSH>Dominance Cards</style><br>Bots cannot play a dominance card to change their victory condition.<br><br><style=RSH>Cooperative</style><br> To win, the non-bot players must each score 30 victory points before any bot scores 30 victory points. Bots do not treat other bot pieces as enemy pieces when targeting a clearing to act in, and do not target each other in battle. (However, a bot might still remove bot pieces as collateral damage with effects such as revolts, etc.) The humans still treat each other as enemies (so they can remove buildings and tokens for points, etc.).<br><br>Dominance cards are removed during Co-op play.
+rules.clockworkoverviewbody=Clockwork “Bots” provide a deterministic alternative to standard AI. They are recommended for players seeking an additional challenge as they can be modified with additional difficulty levels and trait cards. When playing with less than 3 non-bot players, Dominance cards are removed from the deck. <br><br><style=RSH>Traits</style><br>Each bot has four optional trait cards than can be selected during setup. Traits modify the bots rules and generally increase its difficulty. <br><br><style=RSH>Difficulty</style><br>Each bot has four difficulty level options: Easy, Normal, Challenging, and Nightmare.
+title.mechanicalmarquise=Mechanical Marquise
+title.difficulties=Difficulties
+title.turnorder=Turn Order
+title.traits=Traits
+rules.mechmarqoverview=This is the simplest of the bots and can be used to fill out the player count in dozens of configurations. Though this bot is straightforward, don’t get complacent. At least one player will need to keep it in check!
+rules.mechmarqtraits=<style=RSH>Blitz</style><br>After you move, find the clearing you rule of highest priority with no enemy pieces. Move all but one warrior from that clearing. Then, battle in the destination clearing.<br><br><style=RSH>Fortified</style><br>Your buildings each take two hits to remove. Taking a single hit with a building has no effect.<br><br><style=RSH>Iron Will</style><br>Whenever you Recruit in Escalated Daylight, place double the warriors.<br><BR><style=RSH>Hospitals</style><br>At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place two warriors in the clearing with the keep token.
+rules.mechmarqdifficulties=<style=RSH>Easy</style><br>Whenever you Recruit, instead place only two warriors.<br><br><style=RSH>Normal</style><br>Nothing is changed.<br><br><style=RSH>Challenging</style><br>Whenever you Recruit, also place two warriors in the ordered clearing you rule of highest priority.<br><br><style=RSH>Nightmare</style><br>Whenever you Recruit, also place two warriors in the ordered clearing you rule of highest priority. At the end of Evening, score one victory point.
+rules.mechmarqsetup=<b>1st:</b> Place Keep. Place the keep token in a random corner clearing.<br><br><b>2nd:</b> Place a warrior in each clearing except the clearing in the diagonally opposite corner from the clearing with the keep token. Place an extra warrior in the clearing with the keep token.<br><br><b>3rd:</b> Place Starting Buildings. Randomly place 1 sawmill, 1 workshop, and 1 recruiter among the clearing with the keep token and those clearings adjacent with up to one building in each clearing.
+rules.mechmarqturnorder=<style=RSH><sprite index=66>Birdsong</style><br><br><b>1st: Reveal Order</b><br>Reveal an order card.<br><br><b>2nd Craft:</b><br> Craft the order card for <style=vpone>1</style> if it has an available item.<br><br><style=RSH><sprite index=65>Daylight</style><br>If the order card is a <sprite name="birdicon"> card, resolve Escalated Daylight instead.<br><br><b>1st: Battle </b><br>Initiate a battle in each ordered clearing. The defender is the player with the most pieces in the clearing of battle then most <style="vptext">VP</style> if there is a tie.  <br><br><b>2nd: Recruit</b><br>Place four warriors among ordered clearings you rule, distributed evenly. If you rule three such clearings, place the fourth warrior in such a clearing of highest priority.<br><br><b>3rd: Build</b><br>Place a building in the clearing you rule with the most Marquise warriors. Place a sawmill if the order card is a <sprite name="foxicon"> card, a workshop if it is a <sprite name="rabbiticon"> card, or a recruiter if it is a <sprite name="mouseicon"> card. <br><br><b>4th: Move</b><br>Move all but three of your warriors from each ordered clearing to the adjacent clearing with the most enemy pieces. <br><br><b>5th: Expand</b><br>If you did not place a building this turn and have five or fewer buildings on the map, discard the current order card, draw and reveal a new order card (but do not craft its item), and return to the start of Daylight. <br><br><style=RSH>Escalated Daylight</style><br><br><b>1st: Battle</b><br>Initiate a battle in each clearing. The defender is the player with the most pieces in the clearing of battle then most <style="vptext">VP</style> if there is a tie.<br><br><b>2nd: Recruit</b><br>Place two warriors each in the two clearings you rule of lowest priority. If you only rule one clearing, place all four warriors there.<br><br><b>3rd: Build</b><br>Place a building of the type with the most pieces on the map in the clearing you rule with the most Marquise warriors. Ties go to sawmills then recruiters then workshops. <br><br><b>4th: Move:</b><br>Move all but three of your warriors from each clearing to the adjacent clearing with the most enemy pieces. Then battle in each clearing you moved into.<br><br><style=RSH><sprite index=64>Evening</style><br><br>Score victory points listed on the rightmost empty space on your ordered Buildings track. If the order card is a <sprite name="birdicon"> card, use the track that would score the most victory points. (Unlike the Marquise de Cat, you do not score victory points for placing buildings.)
+title.abilities=Abilities
+rules.electriceyrietraits=<style=RSH>Relentless</style><br>After resolving the Decree, remove all defenseless buildings and tokens in any clearing with Eyrie warriors.<br><br><style=RSH>Swoop</style><br>At the end of Daylight, place two warriors in the clearing of highest priority with no Eyrie pieces.<br><br><style=RSH>Nobility</style><br>You now fall into turmoil if you cannot place a roost or a warrior. Whenever you fall into turmoil, you do not lose victory points. Instead, you score one victory point per bird card in the Decree.<br><br><style=RSH>War Tax</style><br>Whenever you remove an enemy building or token, its owner loses one victory point.
+rules.electriceyriedifficulties=<style=RSH>Easy</style><br>During setup, add only one card to the bird column of the Decree.<br><br><style=RSH>Normal</style><br>Nothing is changed.<br><br><style=RSH>Challenging</style><br>During setup, take one bird Ambush from the deck and add it to the bird column of the Decree.<br><br><style=RSH>Nightmare</style><br>During setup, take one bird Ambush from the deck and add it to the bird column of the Decree.<br><br>At the end of Evening, score one victory point.
+rules.electriceyrieabilities=<b> Lords of the Forest:</b> The Electric Eyrie rule a clearing when tied for most combined warriors and buildings there. They do not rule empty clearings.
+rules.electriceyriesetup=<b>1st:</b> Place 1 roost and 6 warriors in the corner clearing diagonally opposite from the clearing with the keep token. If the Marquise is not playing, place those pieces in a random corner clearing.<br><br><b>2nd:</b> Add two <sprite name="birdicon"> suit cards to the Decree.
+rules.electriceyrieturnorder=<style=RSH><sprite index=66>Birdsong</style><br><br>Your Birdsong has four steps in the following order:<br><br><b>1st: Reveal Order</b><br>Reveal an order card.<br><br><b>2nd: Craft</b><br> Craft the order card for <style=vpone>1</style> if it has an available item.<br><br><b>3rd: Add to Decree</b><br>Add the order card to the Decree in the column matching the card’s suit.<br><br><b>4th: A New Roost</b><br>If you have no roosts on the map, place a roost and four warriors in the ordered clearing of highest priority where all those pieces can be placed. <br><br><style=RSH><sprite index=65>Daylight</style><br><br><b>Resolve the Decree:</b> Recruit for all four columns of the Decree from left to right. Then move for all four columns from left to right. Then battle for all four columns from left to right.<br><br><b>Recruit:</b> Place warriors, equal to the number of cards in this column, in a clearing with a roost whose suit matches this column’s suit.<br>    <b>First Tie for Target Clearing:</b> Such a clearing with the most enemy pieces.<br>    <b>Second Tie for Target Clearing:</b> Such a clearing with the fewest Eyrie warriors.<br>    <b>Third Tie for Target Clearing:</b> Such a clearing of lowest priority.<br><br><b>Move:</b> Move from the clearing you rule whose suit matches this column’s suit and has the most Eyrie warriors. Move to an adjacent clearing with no roost - if all adjacent clearings have a roost, move to an adjacent clearing with a roost, following the tiebreakers below. Leave warriors in the origin clearing so there are exactly enough to rule it or equal to the number of cards in this column, whichever is higher.<br>    <b>First Tie for Destination Clearing:</b> Such a clearing with the fewest enemy pieces.<br>    <b>Second Tie for Destination Clearing:</b> Such a clearing of lowest priority. <br><br><b>Battle:</b> Initiate a battle in a clearing whose suit matches this column’s suit. The defender is the player with the most buildings there (even zero). If this column has more cards than each other column, you deal one extra hit.<br>    <b>First Tie for Target Clearing:</b> Such a clearing with no roost.<br>    <b>Second Tie for Target Clearing:</b> Such a clearing with the most defenseless buildings.<br>    <b>Third Tie for Target Clearing:</b> Such a clearing of lowest priority.<br>    <b>First Tie for Target Defender:</b> Such a player with the most pieces there.<br>    <b>Second Tie for Target Defender:</b> Such a player with the most victory points. <br><br><b>Build:</b> Place a roost in a clearing you rule with no roost. (If multiple, pick the clearing of highest priority.) If you cannot place a roost for any reason, you immediately fall into turmoil.<br><br><style=RSH><sprite index=64>Evening</style><br>Score the victory points listed on the rightmost empty space of your Roosts track.<br><br><b>Turmoil</b><br>If you are prompted to place a roost but cannot for any reason, you fall into turmoil, as follows:<br><b>1st: Humiliate.</b> Lose <style=vpone>1</style> per bird card in the Decree.<br><b>2nd: Purge.</b> Discard all of the cards in the Decree.
+rules.autoallioverview=The Automated Alliance is especially zealous and will revolt frequently. Keep in mind their potential targets so you avoid any unpleasant surprises. Once they do establish a foothold, timing is critical. Don’t let them consolidate their warriors or you’ll be in trouble!
+rules.autoallitraits=<style=RSH>Veterans</style><br>Gain the Guerrilla War ability of the Woodland Alliance. (In battle as defender, you use the higher roll and the attacker uses the lower roll.)<br><br><style=RSH>Popularity</style><br>Enemies do not score victory points for removing sympathy tokens.<br><br><style=RSH>Informants</style><br>Defenseless sympathy tokens benefit from Automated Ambush.<br><br><style=RSH>Wildfire</style><br>At the end of Evening, Spread Sympathy. Do not score points for placing this sympathy token.

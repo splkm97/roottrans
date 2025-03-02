@@ -1,0 +1,300 @@
+playerinfo.corvid.plot.bomb.description=Bomb: When revealed, remove all enemy pieces in its clearing, then remove this token.
+playerinfo.corvid.plot.extortion.description=Extortion: When revealed, take a random card from each player who has any pieces in its clearing. While revealed, you draw an extra card in Evening.
+playerinfo.corvid.plot.raid.description=Raid: When removed, place one warrior in each adjacent clearing.
+playerinfo.corvid.plot.snare.description=Snare: While revealed, enemy pieces cannot be placed in or moved from its clearing.
+playerinfo.corvid.plots.title=Plots
+playerinfo.duchy.Birdsong=Place one warrior, plus one warrior per <sprite index=106> showing, in the Burrow.
+playerinfo.duchy.buildings.citadels=Citadels
+playerinfo.duchy.buildings.markets=Markets
+playerinfo.duchy.buildings.title=Buildings
+playerinfo.duchy.burrow.title=The Burrow
+playerinfo.duchy.crowntrack.lords=Lords <sprite name="crown"> x {0}<br><i>Cost: Four Cards</i>
+playerinfo.duchy.crowntrack.nobles=Nobles <sprite name="crown"> x {0}<br><i>Cost: Three Cards</i>
+playerinfo.duchy.crowntrack.squires=Squires <sprite name="crown"> x {0}<br><i>Cost: Two Cards</i>
+playerinfo.duchy.crowntrack.title=Crown Track
+playerinfo.duchy.Daylight=1st: Take up to 2 actions.<br><br><sprite index=101>Build<br>Reveal a card to place a building in a matching clearing you rule.<br><br><sprite index=101>Recruit<br>Place a warrior in the Burrow.<br><br><sprite index=101>Dig<br>Spend a card to place a tunnel in a matching clearing with no tunnel, then move up to four warriors from the Burrows into that clearing. (Move a tunnel if all on map.)<br><br><sprite index=101>Move<br><br><sprite index=101>Battle<br><br>2nd: You may take the action of each swayed minister once.<br><br>3rd: Once per turn, you may reveal cards matching clearings with any Duchy pieces (one card per clearing) to sway a Minister. A squire needs two cards, a noble needs three, and a lord needs four.
+playerinfo.duchy.Evening=1st: Discard<size=80%> - any revealed <sprite name="birdicon"> cards. Return all other revealed cards to hand.<br><br></size=80%>2nd: Craft <size=80%>- using citadels and markets.<br></size=80%><br>Draw <size=80%>- 1 card, plus 1 card per <sprite name="DrawCard"> showing. </size=90%>Discard<size=80%> down to 5 cards.
+playerinfo.duchy.priceoffailure.description=When Duchy buildings are removed, return your swayed minister of highest rank and discard a random card.
+playerinfo.duchy.priceoffailure.title=Price of Failure
+playmat.bomb=Bomb!
+playmat.exert=Exert!
+playmat.extortion=Extortion!
+playmat.ministeractived=Minister Activated
+playmat.priceoffailure=Price of Failure!
+playmat.raid=Raid!
+playmat.rightguess=Right Guess!
+playmat.snare=Snare!
+playmat.trailblaze=Clear Path
+playmat.trick=Trick!
+playmat.wrongguess=Wrong Guess!
+prompt.adset.factiondraft=Choose a Faction.
+prompt.challenges.nolordsbeforeme.minister.Lord=Choose a Lord to sway for free.
+prompt.challenges.nolordsbeforeme.minister.Squire=Choose a Squire to sway for free.
+prompt.corvid.exposure.title=Exposure
+prompt.corvid.plot.place=Choose a plot to place.
+prompt.corvid.plot.place.opponent=[player] is choosing a plot to place.
+prompt.corvid.plot.title=Plot
+prompt.corvid.raid.warrior=Choose clearings to place [X] warriors.
+prompt.corvid.raid.warrior.opponent=[player] is choosing clearings to place warriors.
+prompt.corvid.trick.swap=Choose a second plot token to swap.
+prompt.corvid.trick.swap.opponent=[player] is choosing plots to swap.
+prompt.duchy.chooseminister.title=Choose Minister
+prompt.duchy.dig.discard=Choose a card to spend.
+prompt.duchy.dig.discard.opponent=[player] is choosing a card to discard to dig a tunnel.
+prompt.duchy.dig.tunnel.place=Place a tunnel.
+prompt.duchy.dig.tunnel.place.opponent=[player] is placing a tunnel.
+prompt.duchy.dig.tunnel.remove=Choose a tunnel to remove from the board.
+prompt.duchy.dig.tunnel.remove.opponent=[player] is choosing a tunnel to remove from play.
+prompt.duchy.dig.warriors.move=Move up to 4 warriors from the burrow.
+prompt.duchy.minister.banker.discard=Discard any number of cards that share a suit.
+prompt.duchy.minister.banker.discard.opponent=[player] is choosing cards to discard for Banker.
+prompt.duchy.minister.brigadier=Choose One
+prompt.duchy.minister.brigadier.button.battle=Battle x2
+prompt.duchy.minister.brigadier.button.move=Move x2
+prompt.duchy.minister.brigadier.opponent=[player] is considering options.
+prompt.duchy.minister.foremole.building=Choose a building to build.
+prompt.duchy.minister.foremole.clearing=Choose a clearing to build in.
+prompt.duchy.minister.mayor=Choose a swayed Noble or Squire.
+prompt.duchy.minister.mayor.opponent=[player] is considering options.
+prompt.duchy.priceoffailure.description=Choose a Minister to return as a Price of Failure.
+prompt.duchy.priceoffailure.description.opponent=[player] is choosing a Minister to return as a Price of Failure.
+prompt.duchy.priceoffailure.title=Price of Failure
+prompt.duchy.sway.minister=Choose a minister to sway.
+prompt.duchy.sway.minister.noneavailable=No ministers available to sway. Press continue button.
+prompt.duchy.sway.minister.noneavailable.opponent=[player] is choosing a minister to sway.
+prompt.duchy.sway.minister.opponent=[player] is choosing a minister to sway.
+prompt.duchy.sway.reveal=Choose [X] cards to reveal. Birds revealed will be discarded.
+prompt.duchy.sway.reveal.opponent=[player] is choosing cards to reveal.
+prompt.duchy.swayminister.crowns=<sprite name="crown"> x {0}
+prompt.duchy.swayministers.title=Sway Ministers
+prompt.exposure.card=Choose a card to reveal.
+prompt.exposure.card.opponent=[player] is choosing cards to reveal.
+prompt.exposure.plot.type=Choose a plot type to proclaim.
+prompt.exposure.plot.type.opponent=[player] is choosing a plot type to proclaim.
+prompt.factiondraft.insurgent=Insurgent
+prompt.factiondraft.militant=Militant
+prompt.locked.factiondraft=Cannot be chosen unless at least one militant faction has been chosen.
+prompts.duchy.revealswayedministers.title=Swayed Ministers
+prompts.duchy.revealunswayedministers.title=Unswayed Ministers
+prompts.duchybuild.citadel=Citadel
+prompts.duchybuild.market=Market
+prompts.gameresults.winner.CorvidConspiracy=Corvid Wins
+prompts.gameresults.winner.UndergroundDuchy=Duchy Wins
+root.duchy.banker=Banker
+root.duchy.banker.text=Spend any number of cards of the same suit to score an equal amount of <style="vptext">VP</style>.
+root.duchy.baronofdirt=Baron of Dirt
+root.duchy.baronofdirt.text=Score <sprite name="1VP"> per market on the map.
+root.duchy.brigadier=Brigadier
+root.duchy.brigadier.text=Take up to two moves or initiate up to two battles.
+root.duchy.captain=Captain
+root.duchy.captain.text=Initiate a battle.
+root.duchy.duchessofmud=Duchess of Mud
+root.duchy.duchessofmud.text=Score <sprite name="2VP"> if all tunnels are on the map.
+root.duchy.earlofstone=Earl of Stone
+root.duchy.earlofstone.text=Score <sprite name="1VP"> per citadel on the map.
+root.duchy.foremole=Foremole
+root.duchy.foremole.text=Reveal any card to place a citadel or market in any clearing (matching or not) you rule.
+root.duchy.marshal=Marshal
+root.duchy.marshal.text=Take a move.
+root.duchy.mayor=Mayor
+root.duchy.mayor.text=Take the action of any swayed noble or squire.
+scenario.burrowwarfare.name=Burrow Warfare
+scenario.burrowwarfare.tier1description=You add one less warrior to your Burrow during Birdsong. When your warriors are removed in battle they go to your Burrow.
+scenario.burrowwarfare.tier2description=You do not add warriors to your Burrow during Birdsong and can't build Citadels. When your warriors are removed in battle they go to your Burrow.
+scenario.burrowwarfare.tier2description.balanceupdate=You do not add warriors to your Burrow during birdsong and can't build Citadels. When one or more of your warriors are removed in battle, return one to your Burrow.
+scenario.canyoudigit.name=Can You Dig It?
+scenario.canyoudigit.tier1description=You have an unlimited number of tunnels in your supply. You can't win unless you have a tunnel in each corner clearing.
+scenario.canyoudigit.tier2description=You have an unlimited number of tunnels in your supply. You can't win unless you have a tunnel in each corner clearing and in the Tower clearing. Your enemies are out to get your tunnels.
+scenario.corvidcrafting.name=Crafty Corvid
+scenario.corvidcrafting.tier1description=When revealing a plot token, gain <sprite name="1VP"> for each crafted item you have instead of each revealed plot on the map. Your starting hand is full of items.
+scenario.corvidcrafting.tier2description=When revealing a plot token, gain <sprite name="1VP"> for each crafted item you have instead of each revealed plot on the map. Oh and watch out for that thieving Vagabond!
+scenario.dredgingthelake.name=Dredging the Lake
+scenario.dredgingthelake.tier1description=When you use the Ferry, you may choose to draw a card of your choice from the discard pile instead of the deck.
+scenario.dredgingthelake.tier2description=When you use the Ferry, you may choose to draw a card of your choice from the discard pile instead of the deck. You start with no hand.
+scenario.grandplan.name=Grand Plan
+scenario.grandplan.tier1description=You can't win unless you have a piece in every clearing.
+scenario.grandplan.tier2description=You can't win unless you have a piece in every clearing and at least one of each kind of plot on the map.
+scenario.navalwarfare.name=Naval Warfare
+scenario.navalwarfare.tier1description=You gain an extra hit in battles adjacent to the lake. Your opponents gain an extra hit in battles against you in clearings not adjacent to the lake.
+scenario.navalwarfare.tier2description=You gain an extra hit in battles in the Ferry clearing. Your opponents gain an extra hit in battles against you in all other clearings.
+scenario.nolordsbeforeme.name=No Lords Before Me
+scenario.nolordsbeforeme.tier1description=At the start of the game, choose a lord to sway for free. You may have no other lords.
+scenario.nolordsbeforeme.tier2description=At the start of the game, choose a squire to sway for free. You may have no other squires.
+scenario.nolordsbeforeme.tier2description.balance.update=At the start of the game, choose a squire to sway for free. You may have no other squires and no lords.
+scenario.offensiveagents.name=Offensive Agents
+scenario.offensiveagents.tier1description=Your Embedded Agents ability is replaced with "Offensive Agents: When attacking in a clearing with a hidden plot token, you deal an extra hit."
+scenario.offensiveagents.tier2description=Your Embedded Agents ability is replaced with "Offensive Agents: When attacking in a clearing with a hidden plot token, you deal an extra hit." You are missing the Extortion plot.
+scenario.theTower.name=The Tower
+scenario.theTower.tier1description=You may only gain <style="vptext">VP</style> while you control the Tower.
+scenario.theTower.tier2description=You may only gain <style="vptext">VP</style> while you control the Tower. Your enemies will aggressively seek the Tower.
+scenario.trailblazer.name=Trailblazer
+scenario.trailblazer.tier1description=You may only move 1 warrior at a time through standard clearings paths (rivers, mountain paths, and tunnels open as normal).
+scenario.trailblazer.tier2description=You cannot move through standard clearing paths (rivers, mountain paths, and tunnels open as normal). Opponents won't clear mountain paths.
+tooltip.ability.corvid.exert=<size=125%><b>Exert</b></size>\
+tooltip.ability.corvid.exposure=<size=125%><b>Exposure</b></size>\
+tooltip.ability.corvid.plot=<size=125%><b>Plot</b></size>\
+tooltip.ability.corvid.trick=<size=125%><b>Trick</b></size>\
+tooltip.ability.duchy.battle=<size=125%><b>Battle</b></size>\
+tooltip.ability.duchy.build=<size=125%><b>Build</b></size>\
+tooltip.ability.duchy.dig=<size=125%><b>Dig</b></size>\
+tooltip.ability.duchy.move=<size=125%><b>Move</b></size>\
+tooltip.ability.duchy.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.advancedsetup=<size=125%><b>Advanced Setup</b></size><br>Advanced Setup is an alternative way to draft and set up factions that changes the balance of various factions and offers more variety to starting placements. When using advanced setup, players also draw 5 starting cards and discard 2.
+tooltip.advancedsetup.locked=<size=125%><b>Advanced Setup</b></size><br>Advanced Setup is an alternative way to draft and set up factions that changes the balance of various factions and offers more variety to starting placements. When using advanced setup, players also draw 5 starting cards and discard 2. To unlock this mode, you must own 6 or more factions in your collection.
+tooltip.advancedsetup.ownedfactions=Factions included in the advanced setup draft can't be manually modified. Instead, they represent the collection of the player who created the game.
+tooltip.banned.alliance=Alliance is Banned
+tooltip.banned.corvid=Corvids are Banned
+tooltip.banned.duchy=Duchy is Banned
+tooltip.banned.eyrie=Eyrie is Banned
+tooltip.banned.lizards=Lizards are Banned
+tooltip.banned.marquise=Marquise is Banned
+tooltip.banned.riverfolk=Riverfolk are Banned
+tooltip.banned.secondvagabond=Second Vagabond is Banned
+tooltip.banned.vagabond=Vagabond is Banned
+tooltip.corvid.plots.description=Each clearing can only hold one plot token.
+tooltip.crowns=Each rank of Minister (Squire, Noble, Lord) may be swayed a maximum of 3 times a game. The amount of times you have left is represented by crowns.
+tooltip.duchy.burrow.description=The burrow is adjacent to each clearing with a tunnel. You always rule it, and only you can enter it.
+tooltip.duchy.playmat.burrow=<size=125%><b>The Burrow</b></size>\
+tooltip.embeddedagents.battle=<size=125%><b>Offensive Agents:</b></size><br>When defending in a clearing with a hidden plot token, deal an extra hit.
+tooltip.lakemap=<size=125%><b>Lake Map</b></size><br>Use the Ferry to cross the great lake and fill your hand with extra cards.
+tooltip.minister.locked=You don't have any crowns left to play a minister of this rank.
+tooltip.minister.moreinfo=To Sway a minister, you must reveal a number of cards based on the minister's rank (squire 2, noble 3, lord 4). You may only reveal cards matching clearings where you have any pieces, and each of those clearings lets you reveal only one card. When swaying a minister, you also lose a crown of its rank. If you have no crowns left in a rank, you may not recruit a minister of that type.
+tooltip.mountainmap=<size=125%><b>Mountain Map</b></size><br>Clear blocked paths and control the Tower to earn additional victory points.
+tooltip.mountainmap.tower=<size=125%><b>Tower</b></size>\
+The clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color> is called the Pass. At the end of a player’s Evening they score <sprite name="1VP"> if they rule the Pass.
+tooltip.offensiveagents.battle=<size=125%><b>Offensive Agents:</b></size><br>When attacking in a clearing with a hidden plot token, deal an extra hit.
+tooltip.opponent.corvid=<size=125%><b>Corvid Conspiracy Opponent</b></size>
+tooltip.opponent.duchy=<size=125%><b>Underground Duchy Opponent</b></size>
+tooltip.opponent.invalid=<size=125%><b>Factionless Opponent</b></size>
+tooltip.playmat.citadel=<size=125%><b>Citadel</b></size>\
+tooltip.playmat.corvidplots=<size=125%><b>Corvid Conspiracy plots</b></size>
+tooltip.playmat.corvidstack=<size=125%><b>Corvid Conspiracy Warriors</b></size>
+tooltip.playmat.duchystack=<size=125%><b>Underground Duchy Warriors</b></size>
+tooltip.playmat.Ferry=<size=125%><b>Ferry</b></size>\
+tooltip.playmat.market=<size=125%><b>Market</b></size>\
+tooltip.playmat.plot.Bomb.Down=<size=125%><b>Hidden Bomb</b></size>\
+tooltip.playmat.plot.Down.opponent=<size=125%><b>Hidden Plot</b></size>\
+tooltip.playmat.plot.Extortion.Down=<size=125%><b>Hidden Extortion</b></size>\
+tooltip.playmat.plot.Extortion.Up=<size=125%><b>Revealed Extortion</b></size>\
+tooltip.playmat.plot.Extortion.Up.opponent=<size=125%><b>Revealed Extortion</b></size>\
+tooltip.playmat.plot.Raid.Down=<size=125%><b>Hidden Raid</b></size>\
+tooltip.playmat.plot.Raid.Up=<size=125%><b>Revealed Raid</b></size>\
+tooltip.playmat.plot.Raid.Up.opponent=<size=125%><b>Revealed Raid</b></size>\
+tooltip.playmat.plot.Snare.Down=<size=125%><b>Hidden Snare</b></size>\
+tooltip.playmat.plot.Snare.Up=<size=125%><b>Revealed Snare</b></size>\
+tooltip.playmat.plot.Snare.Up.opponent=<size=125%><b>Revealed Snare</b></size>\
+tooltip.playmat.tunnel=<size=125%><b>Tunnel</b></size>\
+tooltip.quickbattle.disabled=3D battles are disabled on your device for performance reasons.
+tooltip.revealed.cards.duchy=<size=125%><b>Revealed Cards</b></size><br>View the cards Underground Duchy have revealed since the start of their most recent turn.
+tooltip.trailblaze=<size=125%><b>Clear Path</b></size>\
+Once per turn in Daylight, a player can discard a card from hand to open a mountain path and score <sprite name="1VP">. The player must have at least one piece in a clearing linked to the closed path to do so.
+tooltip.ui.buildmodal.extrawarrior=Building this increases the number of warriors placed in the Burrow during Birdsong.
+tooltip.ui.corvid.bombplots=<size=125%><b>Available Bomb Plots</b></size>\
+tooltip.ui.corvid.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.corvid.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.corvid.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.corvid.extortionplots=<size=125%><b>Available Extortion Plots</b></size>\
+tooltip.ui.corvid.raidplots=<size=125%><b>Available Raid Plots</b></size>\
+tooltip.ui.corvid.snareplots=<size=125%><b>Available Snare Plots</b></size>\
+tooltip.ui.corvid.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.duchy.burrowwarriorcount=<size=125%><b>Warriors in Burrow</b></size>\
+tooltip.ui.duchy.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.duchy.citadelcount=<size=125%><b>Burrow Recruit Rate</b></size>\
+tooltip.ui.duchy.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.duchy.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.duchy.tunnelcount=<size=125%><b>Unused Tunnels</b></size>
+tooltip.ui.duchy.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.hand.reveal.corvid=<size=125%><b>Corvid Conspiracy Hand</b></size><br>View the Corvid Conspiracy cards that have been revealed.
+tooltip.ui.hand.reveal.duchy=<size=125%><b>Underground Duchy Hand</b></size><br>View Underground Duchy cards that have been revealed.
+tooltip.ui.randomclearingsuits=<size=125%><b>Random Clearing Suits</b></size><br>Clearing Suits will be randomly assigned.
+tooltip.ui.reset.disabled=Factions cannot be reset while Advanced Setup is enabled.
+tooltip.ui.swayedministers=<size=125%><b>Swayed Ministers</b></size>\
+tooltip.ui.unswayedministers=<size=125%><b>Unswayed Ministers</b></size>\
+tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility=Choose an opponent to battle.
+tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility.opponent=[player] is choosing an enemy to battle.
+tuber.canis.abilities.CorvidConspiracyAbilities.plotAbility=Choose a clearing to place a plot.
+tuber.canis.abilities.CorvidConspiracyAbilities.plotAbility.opponent=[player] is choosing a clearing to place a plot.
+tuber.canis.abilities.CorvidConspiracyAbilities.TrickAbility=Choose a plot token to swap.
+tuber.canis.abilities.CorvidConspiracyAbilities.TrickAbility.opponent=[player] is choosing plots to swap.
+tuber.canis.abilities.ExposureAbility=Choose a plot to expose.
+tuber.canis.abilities.ExposureAbility.opponent=[player] is choosing a plot to expose.
+tuber.canis.abilities.TrailblazingAbility=Choose a card to discard.
+tuber.canis.abilities.TrailblazingAbility.opponent=[player] is choosing a card to discard as part of clearing a path.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility=Choose an enemy to battle.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility.opponent=[player] is choosing an enemy to battle.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBuildAbility=Choose a clearing to build in.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBuildAbility.opponent=[player] is choosing a clearing to build in.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyChooseBuilding=Choose a building to construct.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyChooseBuilding.opponent=[player] is choosing a building to construct.
+tuber.canis.actions.BirdsongActivations.Expose=Expose a plot?
+tuber.canis.actions.BirdsongActivations.Expose.opponent=[player] is choosing to expose a plot.
+tuber.canis.actions.BirdsongActivations.ExposeOrCard=Expose a plot or choose a card with a Birdsong activation to activate.
+tuber.canis.actions.BirdsongActivations.ExposeOrCard.opponent=[player] is considering options.
+tuber.canis.actions.challenges.DredgingTheLakeDraw.discardchoice=Choose a discarded card to draw.
+tuber.canis.actions.challenges.DredgingTheLakeDraw.drawfromdeckordiscard=Draw from discard pile instead of deck?
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongFlipTokens=Reveal plot tokens.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongFlipTokens.NoActions=No plots to reveal. Press continue button.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongFlipTokens.NoActions.opponent=Waiting for Corvid Conspiracy to continue.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongFlipTokens.opponent=Corvid Conspiracy is choosing plot tokens to reveal.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruit=Discard a card to recruit a warrior in each clearing matching its suit.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruit.NoActions=No cards in hand to discard for recruit. Press continue button.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruit.NoActions.opponent=Waiting for Corvid Conspiracy to continue.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruit.opponent=Corvid Conspiracy is choosing a card to discard for recruit.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitClearing=Choose clearing type to recruit in.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitClearing.opponent=[player] is considering options.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitSuit=Choose clearing type to recruit in.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitSuit.opponent=Corvid is choosing a clearing type to recruit in.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitWithCount=Choose clearing type to recruit in. Warriors recruited will be reduced due to limited supply ([X] warriors).
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitWithCount.opponent=Corvid is choosing a clearing type to recruit in.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyChoicePhase.CorvidEveningActivations=Choose an action.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyChoicePhase.CorvidEveningActivations.opponent=Corvid Conspiracy is choosing Evening actions.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations=Choose one of each clearing suit for your 3 starting warriors.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations.opponent=Corvid Conspiracy is choosing clearings for their starting warriors.
+tuber.canis.actions.DaylightChoicePhase=Choose an action.
+tuber.canis.actions.DaylightChoicePhase.opponent=[player] is pondering their next action.
+tuber.canis.actions.endTurnConfirmation.CorvidConspiracy=You still have Daylight actions available. Are you sure you want to move to Evening?
+tuber.canis.actions.endTurnConfirmation.UndergroundDuchy=You still have Assembly actions available. Are you sure you want to move to the next step?
+tuber.canis.actions.UndergroundDuchyActions.RevealCardCost=Choose a card to reveal. A Bird revealed will be discarded.
+tuber.canis.actions.UndergroundDuchyActions.RevealCardCost.opponent=Duchy is choosing a card to reveal.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament=Choose a Minister to activate.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament.opponent=Duchy is choosing Ministers to activate.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting=Choose a corner clearing for your tunnel.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting.opponent=Duchy is choosing a corner clearing for their tunnel.
+tuber.canis.undo.CorvidCompanySetupUndo=Press continue button to complete setup.
+tuber.canis.undo.CorvidCompanySetupUndo.opponent=Waiting for Corvid Conspiracy to confirm setup.
+tuber.canis.undo.EyrieDynastiesSetupUndo=Press continue button to complete setup.
+tuber.canis.undo.EyrieDynastiesSetupUndo.opponent=Waiting for Eyrie to confirm setup.
+tuber.canis.undo.UndergroundDuchySetupUndo=Press continue button to complete setup.
+tuber.canis.undo.UndergroundDuchySetupUndo.opponent=Waiting for Duchy to confirm set up.
+tutorial.crownslabel=Crowns Remaining
+tutorial.description.TutorialU01=Learn to play the Underground Duchy
+tutorial.description.TutorialU02=Learn to play the Corvid Conspiracy
+tutorial.title.TutorialU01=Threat from Below
+tutorial.title.TutorialU02=Hatching Plans
+tutorial.tunnellabel=Tunnel
+udt.Birdsong.t1.burrow.adjacent=The <sprite name="Burrow"> <color=#BD5752>Burrow</color> is adjacent to all your <sprite name="Tunnel"> <color=#BD5752>Tunnels</color> on that map and can be used to stage attacks across enemy lines.
+udt.Birdsong.t1.burrow.recruit=During Birdsong, we place one <sprite name="duchy"><color=#BD5752>warrior</color> in a clearing called <sprite name="Burrow"> <color=#BD5752>The Burrow</color> that can't be entered by your opponents.
+udt.Birdsong.t2.recruit.citadel=During Birdsong, you add 1 <sprite name="duchy"><color=#BD5752>warrior</color> to the <sprite name="Burrow"> <color=#BD5752>Burrow</color>. Thanks to the <sprite name="Citadel"> <color=#BD5752>Citadel</color> you built last turn, you get an extra <sprite name="duchy"><color=#BD5752>warrior</color>, for a total of 2.
+udt.Birdsong.t5=We may have lost a battle, but this war isn’t over. Sway <color=#BD5752>Ministers</color>, craft items, and attack enemy buildings to score <style="vpnumddteen">15</style> and complete this scenario.
+udt.Daylight.t1.actions=In Daylight, we may take up to 2 of the following actions:<br><sprite name="DuchyBuildToken">Build<br><sprite name="DuchyRecruitToken>Recruit<br><sprite name="DuchyDigToken">Dig<br><sprite name="UIMoveToken">Move<br><sprite name="UIBattleToken">Battle<br>
+udt.Daylight.t1.build.reveal=As part of the cost to build, you must reveal a card matching the suit of the clearing you have selected. Each card can only be revealed once each turn.
+udt.Daylight.t1.build.reveal2=In Evening, revealed <sprite name="birdicon"> suit cards are discarded. We revealed a <sprite name="ClearingRabbit"> suit card, so it returns to our hand to be used later.
+udt.Daylight.t1.build.type=Next we choose which type of building we want. The <sprite name="Citadel"> <color=#BD5752>Citadel</color> is a good choice since it increases the <sprite name="duchy"><color=#BD5752>warriors</color> we Recruit to our <sprite name="Burrow"> <color=#BD5752>Burrow</color> each turn.
+udt.Daylight.t1.building=Now Build in a clearing you rule.
+udt.Daylight.t1.recruit=First let's Recruit to get another <sprite name="duchy"><color=#BD5752>warrior</color> in our <sprite name="Burrow"> <color=#BD5752>Burrow</color>.
+udt.Daylight.t2.attack=With your <sprite name="duchy"><color=#BD5752>warriors</color> in place, it’s time to show the <color=#CC6633>Marquise</color> no clearing is safe from the <color=#BD5752>Underground Duchy</color>!
+udt.Daylight.t2.cat.attack=Those moles came out of nowhere. I thought THEY were supposed to be the blind ones...
+udt.Daylight.t2.dig.clearing=<color=#BD5752>Dig</color> a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> in that clearing to send your <sprite name="duchy"><color=#BD5752>warriors</color> there for an attack.
+udt.Daylight.t2.dig.discard=To pay the cost of a <color=#BD5752>Dig</color>, you must discard a card matching the clearing where you dug the <sprite name="Tunnel"> <color=#BD5752>tunnel</color>.
+udt.Daylight.t2.dig.move=When a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> is placed, you may move up to 4 <sprite name="duchy"><color=#BD5752>warriors</color> there from your <sprite name="Burrow"> <color=#BD5752>Burrow</color>. Let’s move all 4 to begin our assault!
+udt.Daylight.t2.exposed=Your feline foe has left a building exposed in a <sprite name="ClearingMouse"> clearing to the west. This is ripe for an attack from our <sprite name="Burrow"> <color=#BD5752>Burrow</color>!
+udt.Daylight.t2.tunnels.move=Once a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> is on the map, you may also freely move warriors between it and the <sprite name="Burrow"> <color=#BD5752>Burrow</color> with the move action.
+udt.Daylight.t3.moveandattack=Our plan requires that we secure more <sprite name="ClearingRabbit"> clearings. Move 2 <sprite name="duchy"><color=#BD5752>warriors</color> to a <sprite name="ClearingRabbit"> clearing held by your enemies, then battle there.
+udt.Daylight.t3.sway.reveal=To sway a <color=#BD5752>Minister</color>, you must reveal a number of cards from your hand equal to the <color=#BD5752>Minister's</color> rank (2 for Squire, 3 for Noble, 4 for Lord). However, you can only reveal cards matching clearings where you have pieces, and each of those clearings lets you reveal only one card.
+udt.Daylight.t3.sway.vp=You score <sprite name="2VP"> for playing <color=#BD5752>Brigadier</color> because it is a <color=#BD5752>Noble</color>, and remove one of the three noble <sprite name="crown"> crowns from your inventory. Once you are out of <color=#BD5752>Noble</color> crowns you will no longer be able to sway more <color=#BD5752>Noble Ministers</color>.
+udt.Daylight.t3.sway1=We can now sway powerful <color=#BD5752>Ministers</color> to our side, scoring <style="vptext">VP</style> and increasing the actions at our disposal.
+udt.Daylight.t3.sway2=<color=#BD5752>Ministers</color> come in three ranks: <color=#BD5752>Squire</color>, <color=#BD5752>Noble</color>, and <color=#BD5752>Lord</color>. Higher ranks require you to reveal more cards to pay their cost, but are worth more <style="vptext">VP</style> and have more powerful abilities.
+udt.Daylight.t3.sway3=Let’s sway the <color=#BD5752>Brigadier</color> to increase our movement and battle prowess on future turns.
+udt.Daylight.t4.brigadier1=After your initial actions are complete, you may use the powers of your <color=#BD5752>Swayed Ministers</color>. Activate <color=#BD5752>Brigadier</color> to battle in the clearing you tunneled into.
+udt.Daylight.t4.brigadier2=Your opponent is defenseless. Battle again to take out what remains of their settlement.
+udt.Daylight.t4.build=Feeling hungry for cards? It's time to build a <sprite name="Market"> <color=#BD5752>Market</color>! This building will increase the amount of cards we draw in Evening.
