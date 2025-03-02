@@ -1,53 +1,53 @@
-cct.Daylight.t3.plot.bomb=Place the <sprite name="plot_bomb"> <color=#6B5182>Bomb plot</color> to see if we can make things go BOOM!
-cct.Daylight.t3.trick.1=Finally, we'll trick the <color=#336699>Eyrie</color> into <color=#336699>Turmoil</color>. Use <color=#6B5182>Trick</color> to swap the location of your revealed <sprite name="plot_raid"> <color=#6B5182>Raid</color> and <sprite name="plot_snare"> <color=#6B5182>Snare plots</color>.
-cct.Daylight.t3.trick.2=The <sprite name="plot_snare"> <color=#6B5182>Snare</color> will keep them from being able to move out of that clearing or recruit <sprite name="corvid"><color=#6B5182>warriors</color> in it. That ought to ruffle some feathers and send them into <color=#336699>Turmoil</color>.
-cct.Daylight.t4.battle.1=Now that you are in position, it’s time to fight!
-cct.Daylight.t4.battle.2=Their <sprite name="Roost"><color=#336699>roost</color> is defenseless! Attack again to finish them off.
-cct.Daylight.t4.move=With your enemy's leadership in disarray, it's a perfect time for a show of strength. Move your <sprite name="corvid"><color=#6B5182>warriors</color> to take the battle to the <color=#336699>Eyrie</color>.
-cct.Daylight.t4.nimble=What Nimble movement you have! Like the <color=#4E6F89>Vagabond</color>, <color=#6B5182>Corvid <sprite name="corvid">warriors</color> move regardless of clearing rule restrictions.
-cct.Daylight.t4.offrails=You should be in a strong position to take it from here. Score <style="vpnumddteen">15</style> or destroy enemy pieces with a <sprite name="plot_bomb"> <color=#6B5182>Bomb</color> to finish this scenario.
-cct.Evening.t1.draw=Evening calls. With your Daylight actions complete, you will draw a card and pass the turn to the <color=#336699>Eyrie</color>.
-cct.Evening.t2.end=Looks like the pieces are all in place. But before our <color=#6B5182>plots</color> hatch we must pass to the <color=#336699>Eyrie</color> to take their turn.
-cct.Evening.t2.exert=In Evening, you may skip drawing cards to <sprite name="CorvidExertToken"> <color=#6B5182>Exert</color> for an extra action. We have more to accomplish, so let's do it.
-cct.Evening.t2.move=Move a <sprite name="corvid"><color=#6B5182>warrior</color> down to our <sprite name="plot_snare"> <color=#6B5182>Snare</color> to ensure we have the <sprite name="corvid"><color=#6B5182>warrior</color> required to reveal it next turn.
-cct.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})<br><br>-OR-<br><br>
-cct.goal.bomb=Destroy 1 or more enemy pieces with a <sprite name="plot_bomb"> <color=#6B5182>Bomb</color>.
-cct.intro=Welcome, initiate! Today marks your induction into the great <color=#6B5182>Corvid Conspiracy</color>, the true power pulling the strings in this woodland war.<br><br>To succeed as a member of the <color=#6B5182>Corvid Conspiracy</color> requires careful planning and the utmost secrecy. Our foes will never see us coming as we spread our plots far and wide across the woodlands.
-cct.setup.warriors=During setup, our initial foothold in the woodlands is established by placing a <sprite name="corvid"><color=#6B5182>warrior</color> in one of each clearing suit.
-conspiracyWithColor=<color=#9673B4>Corvid Conspiracy</color>
-corvid.plot.bomb.description=When revealed, remove all enemy pieces in its clearing, then remove this token.
-corvid.plot.bomb.title=Bomb
-corvid.plot.extortion.description=When revealed, take a random card from each player who has any pieces in its clearing. While revealed, you draw an extra card in Evening.
-corvid.plot.extortion.title=Extortion
-corvid.plot.raid.description=When removed, place one warrior in each adjacent clearing.
-corvid.plot.raid.title=Raid
-corvid.plot.snare.description=While revealed, enemy pieces cannot be placed in or moved from its clearing.
-corvid.plot.snare.title=Snare
-creategame.advancedsetup=Advanced Setup
-creategame.extras=Extras
-creategame.ownedfactions=Owned Factions
-duchy.ministertype.lord=Lord
-duchy.ministertype.noble=Noble
-duchy.ministertype.squire=Squire
-duchyWithColor=<color=#BD5752>Underground Duchy</color>
-factionnames.corvidconspiracy=Corvid Conspiracy
-factionnames.undergroundduchy=Underground Duchy
-ftt.exposure.intro.1=Anytime before drawing cards in Evening, you may use Exposure to try and remove a hidden Corvid plot that is in a clearing with one of your pieces.
-ftt.exposure.intro.2=To do so, select the Exposure button and reveal a card matching the suit of the hidden plot's clearing. Then make your guess what the plot is. If correct, remove the plot. If wrong, you must give Corvid the revealed card.
-lake.Ferry=Once per turn, a player moving from a clearing with the Ferry can move any number of warriors and the Ferry from that clearing to another coastal clearing. After this, they draw a card.
-lake.intro=Welcome to the Lake! Things here are simple so long as you know how to use the Ferry.
-lake.move.Ferry=Would you like to use the Ferry to make this move?
-log.banker=[faction name] discards [cardnames] for [X] <style="vptext">VP</style>.
-log.brigadier.2battle=[faction name] activates Brigadier for two battles.
-log.brigadier.2move=[faction name] activates Brigadier for two moves.
-log.captain=[faction name] activates Captain to battle.
-log.clear.path=[faction name] discards [name] to open a path and score 1 <style="vptext">VP</style>.
-log.corvid.move=<color=#9673B4>Corvid Conspiracy</color> moves [X] warriors into a [suit icon] clearing.
-log.corvid.move.one=<color=#9673B4>Corvid Conspiracy</color> moves 1 warrior into a [suit icon] clearing.
-log.corvid.recruit=[faction name] discards [name] to place a warrior in each [suit icon] clearing.
-log.corvid.setup=[faction name] places a warrior in a [suit icon] clearing.
-log.duchy.build=[faction name] reveals [name] to place a [building name] in a [suit icon] clearing.
-log.duchy.dig=[faction name] discards [name] to place a tunnel in a [suit icon] clearing. [X] warrior(s) moved there from the Burrow.
+cct.Daylight.t3.plot.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄 음모</color></sprite>를 배치하여 모든 것을 폭파시켜 보자!
+cct.Daylight.t3.trick.1=마지막으로, <color=#336699>이어리</color>를 <color=#336699>혼란</color>에 빠뜨릴 것이다. <color=#6B5182>책략</color>을 사용해 공개된 <sprite name="plot_raid"> <color=#6B5182>급습</color></sprite>과 <sprite name="plot_snare"> <color=#6B5182>덫</color> 음모</sprite>의 위치를 바꿔라.
+cct.Daylight.t3.trick.2=<sprite name="plot_snare"> <color=#6B5182>덫</color></sprite>은 그들이 해당 공터에서 이동하거나 <sprite name="corvid"><color=#6B5182>전사</color></sprite>를 모집하는 것을 막을 것이다. 이로 인해 그들은 대혼란에 빠질 것이다.
+cct.Daylight.t4.battle.1=이제 준비가 끝났다. 전투를 시작하라!
+cct.Daylight.t4.battle.2=그들의 <sprite name="Roost"><color=#336699>둥지</color></sprite>는 무방비 상태다! 공격을 이어가 그들을 완전히 쓰러뜨려라.
+cct.Daylight.t4.move=적의 지도력이 흔들리는 지금이야말로 힘을 과시할 절호의 기회다. <sprite name="corvid"><color=#6B5182>전사</color></sprite>들을 이동시켜 <color=#336699>이어리</color>와 전투를 벌여라.
+cct.Daylight.t4.nimble=정말 민첩한 움직임이다! <color=#4E6F89>방랑자</color>처럼, <sprite name="corvid"><color=#6B5182>까마귀 모략단</color></sprite>의 전사들은 공터 지배 규칙에 관계없이 이동할 수 있다.
+cct.Daylight.t4.offrails=이제 너는 승리할 수 있는 강력한 위치에 있다. <style="vpnumddteen">15</style>점을 득점하거나 <sprite name="plot_bomb"> <color=#6B5182>폭탄</color></sprite>으로 적의 조각을 파괴하여 이 시나리오를 마무리하라.
+cct.Evening.t1.draw=저녁이 찾아왔다. 낮 행동이 끝났으니, 이제 카드를 한 장 뽑고 <color=#336699>이어리</color>에게 턴을 넘길 차례다.
+cct.Evening.t2.end=모든 준비는 끝났다. 하지만 우리의 <color=#6B5182>음모</color>가 실행되기 전, <color=#336699>이어리</color>의 턴을 먼저 지켜보아야 한다.
+cct.Evening.t2.exert=저녁에는 카드를 뽑는 대신 <sprite name="CorvidExertToken"> <color=#6B5182>강행</color></sprite>을 사용해 추가 행동을 할 수 있다. 아직 할 일이 남아 있으니, 강행하자.
+cct.Evening.t2.move=<sprite name="corvid"><color=#6B5182>전사</color></sprite> 한 명을 <sprite name="plot_snare"> <color=#6B5182>덫</color></sprite>이 있는 곳으로 이동시켜, 다음 턴에 음모를 공개할 준비를 하라.
+cct.goal.15vp=<style="vpnumddteen">15</style>점 득점 ({0}/{1})<br><br>-또는-<br><br>
+cct.goal.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄</color></sprite>으로 적의 조각 하나 이상을 파괴하라.
+cct.intro=환영한다, 신입이여! 오늘부터 너는 <color=#6B5182>까마귀 모략단</color>의 일원이 되었다. 이 숲속 전쟁의 진정한 배후 세력으로서, 우리는 음모를 통해 모든 것을 조종할 것이다.<br><br><color=#6B5182>까마귀 모략단</color>의 일원으로 성공하려면 철저한 계획과 완벽한 비밀 유지가 필요하다. 우리 적들은 우리가 다가오는 것도 모른 채, 온 숲에 퍼진 우리의 음모에 걸려들 것이다.
+cct.setup.warriors=설치 단계에서, 우리는 각 문양의 공터에 <sprite name="corvid"><color=#6B5182>전사</color></sprite> 하나씩을 배치하여 초기 거점을 마련한다.
+conspiracyWithColor=<color=#9673B4>까마귀 모략단</color>
+corvid.plot.bomb.description=공개될 때, 해당 공터의 모든 적 조각을 제거한 후 이 토큰도 제거한다.
+corvid.plot.bomb.title=폭탄
+corvid.plot.extortion.description=공개될 때, 해당 공터에 조각이 있는 모든 플레이어로부터 무작위로 카드 한 장씩을 가져온다. 공개된 동안, 저녁에 추가로 카드를 한 장 뽑는다.
+corvid.plot.extortion.title=공갈
+corvid.plot.raid.description=제거될 때, 인접한 모든 공터에 전사 한 명씩을 배치한다.
+corvid.plot.raid.title=급습
+corvid.plot.snare.description=공개된 동안, 적들은 이 공터에 조각을 배치하거나 이 공터에서 이동할 수 없다.
+corvid.plot.snare.title=덫
+creategame.advancedsetup=고급 설정
+creategame.extras=추가 요소
+creategame.ownedfactions=보유한 팩션
+duchy.ministertype.lord=군주
+duchy.ministertype.noble=귀족
+duchy.ministertype.squire=시종
+duchyWithColor=<color=#BD5752>지하 공국</color>
+factionnames.corvidconspiracy=까마귀 모략단
+factionnames.undergroundduchy=지하 공국
+ftt.exposure.intro.1=저녁에 카드를 뽑기 전, <color=#6B5182>폭로</color>를 사용하여 네 조각이 있는 공터에 숨겨진 까마귀 음모를 제거할 수 있다.
+ftt.exposure.intro.2=이를 실행하려면 <color=#6B5182>폭로</color> 버튼을 선택한 후, 해당 공터의 문양과 일치하는 카드를 공개해야 한다. 그런 다음, 해당 음모의 종류를 추측한다. 맞히면 음모를 제거하지만, 틀리면 공개한 카드를 까마귀 모략단에게 넘겨야 한다.
+lake.Ferry=턴당 한 번, 페리가 있는 공터에서 이동하는 플레이어는 원하는 수의 전사와 함께 페리를 이동시켜 다른 해안 공터로 보낼 수 있다. 이후, 카드를 한 장 뽑는다.
+lake.intro=호수에 온 것을 환영한다! 여기서는 페리를 잘 활용하는 것이 핵심이다.
+lake.move.Ferry=이동할 때 페리를 사용하시겠습니까?
+log.banker=[faction name]이(가) [cardnames]을(를) 버리고 [X] <style="vptext">VP</style>을(를) 획득했다.
+log.brigadier.2battle=[faction name]이(가) 장군을 활성화하여 두 번의 전투를 수행했다.
+log.brigadier.2move=[faction name]이(가) 장군을 활성화하여 두 번 이동했다.
+log.captain=[faction name]이(가) 대장을 활성화하여 전투를 수행했다.
+log.clear.path=[faction name]이(가) [name]을(를) 버려 길을 개척하고 1 <style="vptext">VP</style>을(를) 획득했다.
+log.corvid.move=<color=#9673B4>까마귀 모략단</color>이 [X]명의 전사를 [suit icon] 공터로 이동시켰다.
+log.corvid.move.one=<color=#9673B4>까마귀 모략단</color>이 전사 1명을 [suit icon] 공터로 이동시켰다.
+log.corvid.recruit=[faction name]이(가) [name]을(를) 버려 각 [suit icon] 공터에 전사를 배치했다.
+log.corvid.setup=[faction name]이(가) [suit icon] 공터에 전사를 배치했다.
+log.duchy.build=[faction name]이(가) [name]을(를) 공개하여 [building name]을(를) [suit icon] 공터에 배치했다.
+log.duchy.dig=[faction name]이(가) [name]을(를) 버려 [suit icon] 공터에 터널을 배치했다. [X]명의 전사가 은신처에서 이동했다.
 log.duchy.dig.nomove=[faction name] discards [name] to place a tunnel in a [suit icon] clearing.
 log.duchy.dig.tunnel.removed=[faction name] removes a tunnel from a [suit icon] clearing.
 log.duchy.Evening.step1.bird=[faction name] returns their revealed cards to their hand and discards the following revealed bird cards: [cardnames]
