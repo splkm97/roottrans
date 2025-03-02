@@ -1,100 +1,100 @@
-lht.4.8=The <color=#CC6633>Marquise</color> crafted a <sprite name="boot"> last turn. <color=#B40518>Advance</color> with four <sprite name="HundredsWarrior"><color=#B40518>warriors</color> and <color=#B40518><b>Loot</b></color> it from them!
-lht.4.9=Whenever you attack, you can choose to <color=#B40518>Loot</color>. You deal no rolled hits, but if you rule the clearing at the end of the battle, you steal an item from the defender's item box.
-lht.4.10=Haha! Make your enemy's crafting skills work for <i>you</i>! Take that <sprite name="boot">!
-lht.4.11=When <color=#B40518>Advancing</color> with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color>, you can choose to only move or battle instead of doing both. Battle again to soften up the <color=#CC6633>Marquise</color>.
-lht.4.12=They felt that! Continue to Evening.
-lht.4.13=Hold off on <color=#B40518>Inciting</color> more for now.
-lht.4.14=You're <color=#B40518>Oppressing</color> 5 clearings for <style="vpnum">3</style>!
-lht.5.1=You've done well leading us this far. Score <style="vpnumddteen">20</style> to show once and for all that the <color=#B40518>Hundreds</color> cannot be stopped!
-lht.5.2=Remember, you keep scoring every round you <color=#B40518>Oppress</color> clearings. Remove enemy pieces and maintain your rule, and the <color=#CC6633>Marquise</color> won't be able to keep up.
-lht.trigger.tutorialcomplete=Your legions stand triumphant!
-lotht.goal.20vp=Score <size=130%><style="vpnumddteen"></size>20</style>. ({0}/{1})
-lht.ftt.lavish=You've collected one of each item type, disabling all your <color=#B40518>moods</color> except <color=#B40518>Lavish</color>. You will remain <color=#B40518>Lavish</color> until you discard items of a particular type.
-label.retinue=Retinue
-kii.intro.1=Marching banners and the clunk of iron signal the <color=#575757>Keepers</color> are here to recover what's theirs.<br><br>Left alone, they'll delve up forgotten relics from the forests, but be warned - these armored knights are formidable warriors, and should their retinue of local guides grow too quickly they may overwhelm the Woodland!
-kii.setup.1=Commander, this <sprite name="ClearingFox"> clearing is a good place to set up camp.
-kii.setup.2=Your next 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> should support them in the <sprite name="ClearingMouse"> clearing to the south.
-kii.t1.1=The forward scouts are reporting back on the positions of the <color=#575757><b>relics</b></color>: there are <sprite name="RelicJewelry"><b><color=#575757>jewelry</color>, <sprite name="RelicTablet"><color=#575757>tablets</color>,</b> and <b><sprite name="RelicFigure"><color=#575757>figures</color></b> spread all across the Woodland.
-kii.t1.2=Your mission is to <color=#575757><b>recover</b></color> these <color=#575757>relics</color>. To do that, you'll need to establish <color=#575757><b>waystations</b></color>.
-kii.t1.3=During Birdsong, once in each clearing you can <color=#575757><b>Encamp</b></color>, spending a <sprite name="KeeperWarrior"><color=#575757>warrior</color> there to build one of your <color=#575757>waystations</color>.<br>Place a  <color=#575757>waystation</color> in this <sprite name="ClearingFox"> clearing.
-kii.t1.4=Each <color=#575757>waystation</color> has two sides. You can choose which side of a <color=#575757>waystation</color> to have face-up when you place it.
-kii.t1.5=For now, choose this <color=#575757>waystation</color> with the <sprite name="RelicTablet"> side face-up.
-kii.t1.6=You've got it. Now, place another <color=#575757>waystation</color> in your <sprite name="ClearingMouse"> clearing.
-kii.t1.7=Put the <sprite name="RelicJewelry"> side face-up.
-kii.t1.8=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
-kii.t1.8.gamepad=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
-kii.t1.9=You can craft cards with costs matching the clearings your <color=#575757>waystations</color> are in. You can't afford any right now, so continue.
-kii.t1.10=In Daylight, you take actions using your <color=#575757><b>Retinue</b></color>. The <color=#575757>Retinue</color> works similarly to the <color=#336699>Eyrie's Decree</color>, but unlike those squabbling birds, the disciplined ranks of the <color=#575757>Keepers</color> will not fall into <color=#336699>Turmoil</color> if you fail to take an action.
-kii.t1.11=You start with one <color=#575757>Faithful Retainer</color> in each <color=#575757>Retinue</color> column. As <color=#575757>Faithful Retainers</color> have the <sprite name="birdicon"> suit, they give you flexibility in your actions.
-kii.t1.12=You use the <color=#575757>Retinue</color> in your leftmost column first, which is <color=#575757><b>Move</b></color>. You must move from a clearing of a suit matching the <color=#575757>Retinue</color> card used - in this case, the <sprite name="birdicon"> lets you choose any clearing.
-kii.t1.13=Send 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> from your <sprite name="ClearingMouse"> clearing towards the center of the Woodland.
-kii.t1.14=The middle <color=#575757>Retinue</color> column is <color=#575757><b>Battle, then Delve</b></color>. To take this action, you must choose a clearing of a suit matching your <color=#575757>Retinue</color> card where you have at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>.
-kii.t1.15=If there are any enemy pieces there, you <i>must</i> battle. There are none in this clearing at the moment.
-kii.t1.16=Then, if you rule the clearing with at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>, you may <color=#575757><b>delve</b></color> a <color=#575757>relic</color> from an adjacent forest. Grab that <sprite name="RelicJewelry">.
-kii.t1.17=It'll be worth <sprite name="3VP"> if we can <color=#575757>recover</color>! What a find!
-kii.t1.18=<color=#575757>Delving</color> can be dangerous, though. If you rule fewer clearings adjacent to the forest you <color=#575757>delved</color> than the <color=#575757>relic's</color> <style="vptext">VP</style>, the <color=#575757>Retinue</color> card you used to <color=#575757>delve</color> is lost!
-kii.t1.19=Fortunately, your <sprite name="KeeperWarrior"><color=#575757>warriors</color> are positioned around this forest - you rule these 3 clearings adjacent to it, so your <color=#575757>Retinue</color> is safe.
-kii.t1.20=The final <color=#575757>Retinue</color> action is <color=#575757><b>Move or Recover</b></color>. With no <color=#575757>relics</color> in a clearing with a matching <color=#575757>waystation</color>, you can't <color=#575757>recover</color> yet.
-kii.t1.21=Move a <sprite name="KeeperWarrior"><color=#575757>warrior</color> to surround the <sprite name="RelicFigure"> to the West.
-kii.t1.22=After using your <color=#575757>Retinue</color>, you have the opportunity to either grow it by adding any number of cards from your hand to any of the columns, or alter it by shifting 1 card from one column to another.
-kii.t1.23=Your <color=#575757>Retinue</color> can hold up to 10 cards at once. The more cards you add, the more actions you can take.
-kii.t1.24=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
-kii.t1.24.gamepad=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
-kii.t1.26=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
-kii.t1.26.gamepad=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
-kii.t1.28=Finally, at the end of each Evening, you draw 1 card plus another card for each <color=#575757>waystation</color> on the map.
-kii.t2.1=Caw! Badger off! This forest belongs to the <color=#336699>Eyrie</color>!
-kii.t2.2=The enemy advances, but your mission remains. <color=#575757>Encamp</color> a <color=#575757>waystation</color> here, <sprite name="RelicFigure"> side up.
-kii.t2.3=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
-kii.t2.3.gamepad=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
-kii.t2.4=Keep going - build your forces!
-kii.t2.4.gamepad=Keep going - build your forces!
-kii.t2.5=Still no need to craft - cards are quite valuable to the <color=#575757>Keepers</color> and for now their best use is growing your <color=#575757>Retinue</color>.
-kii.t2.6=Time to use your <color=#575757>Retinue</color>. First, have a <sprite name="KeeperWarrior"><color=#575757>warrior</color> take that <sprite name="RelicJewelry"> back towards the matching <color=#575757>waystation</color>.
-kii.t2.6b=Each <sprite name="KeeperWarrior"><color=#575757>warrior</color> you move can carry up to 1 <color=#575757>relic</color> from its clearing.
-kii.t2.7=Next, reinforce your southern position with 3 more <sprite name="KeeperWarrior"><color=#575757>warriors</color>.
-kii.t2.8=<color=#575757>Battle, then Delve</color> in this <sprite name="ClearingRabbit"> clearing to claim the <sprite name="RelicFigure"> in the forest above.
-kii.t2.9=Ah, a smaller <sprite name="1VP"> <color=#575757>relic</color>. It may not be worth many points, but that makes it easier to <color=#575757>recover</color> later.
-kii.t2.10=Speaking of <color=#575757>recovering</color> - it's time to score the <color=#575757>relic</color> you <color=#575757>delved</color> last turn.
-kii.t2.11=There's a catch, though. If you do not rule at least as many clearings matching the suit of the clearing you're <color=#575757>recovering</color> in as the <color=#575757>relic's</color> <sprite name="VpIcon">, the <color=#575757>Retinue</color> card you used for the action is lost.
-kii.t2.12=<color=#575757>Recover</color> that <sprite name="RelicJewelry"> now.
-kii.t2.13=The <sprite name="ClearingMouse"> card from your <color=#575757>Retinue</color> is lost as you do not rule 3 <sprite name="ClearingMouse"> clearings, but <sprite name="3VP"> is a worthy reward!
-kii.t2.14=Use your second <color=#575757>Move or Recover</color> action to move 2 <sprite name="KeeperWarrior"><color=#575757>warriors</color> and your <sprite name="RelicFigure"> and continue surrounding the forest to the south.
-kii.t2.14b=The <color=#336699>Eyrie</color> will be in for a surprise if they're foolish enough to fight over it.
-kii.t2.15=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
-kii.t2.15.gamepad=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
-kii.t2.16=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
-kii.t2.17=End your turn. The <color=#336699>Eyrie</color> may be tempted to do battle - let them come.
-kii.ait2.1=<color=#336699>Eyrie Warriors</color>, defeat the invaders and confiscate their treasure!
-kii.ait2.2=Ha! These <color=#336699>Eyrie</color> fools have underestimated what it means to battle with the <color=#575757>Keepers in Iron</color>. Your <color=#575757><b>Devout Knights</b></color> ability means you take 1 less hit when battling in a clearing with a <color=#575757>relic</color>!
-kii.t3.1=The <color=#336699>Eyrie</color> have decided to open hostilities, and the <color=#575757>Keepers</color> will answer in kind!
-kii.t3.2=<color=#575757>Decamp</color> this <color=#575757>waystation</color>, as there are no longer any <sprite name="RelicJewelry"> nearby.
-kii.t3.3=<color=#575757>Decamping</color> is the opposite of <color=#575757>Encamping</color> - you replace a <color=#575757>waystation</color> with a <sprite name="KeeperWarrior"> <color=#575757>warrior</color>.
-kii.t3.4=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
-kii.t3.4.gamepad=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
-kii.t3.5=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
-kii.t3.5.gamepad=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
-kii.t3.6=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
-kii.t3.6.gamepad=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
-kii.t3.7=It's time to act. First, move a warrior to continue surrounding the northern forest. The <color=#336699>Eyrie</color> must be beaten back, but your main objective is still <color=#575757>recovering</color> <color=#575757>relics</color>.
-kii.t3.8=Now, it's time to show those bird-brains what it means to wage war on the <color=#575757>Keepers</color>. Move four <sprite name="KeeperWarrior"><color=#575757>warriors</color> to threaten the <color=#336699>Eyrie's</color> nearest <color=#336699>roost</color>.
-kii.t3.9=Your forces are well-positioned. Battle at the <sprite name="RelicFigure">!
-kii.t3.10=An ambush! Those crafty birds...
-kii.t3.11=Ouch! Not only did the <color=#336699>Eyrie</color> defeat your <sprite name="KeeperWarrior"><color=#575757>warriors</color>, they've taken the <color=#575757>relic</color>!
-kii.t3.12=Because <color=#575757>relics</color> are <color=#575757><b>Prized Trophies</b></color>, when an enemy removes one, they score <sprite name="2VP"> instead of the usual <sprite name="1VP">. Then, they choose a forest to return it to.
-kii.t3.13=Get that <sprite name="RelicFigure"> back. <color=#575757>Battle, then Delve</color> at the <color=#336699>Eyrie's roost</color>. Show them your righteous fury!
-kii.t3.14=Now that you've dispensed with the birds, retrieve the <sprite name="RelicFigure"> they stole - since it's face-up we can see that its <sprite name="1VP"> value means we can <color=#575757>delve</color> it safely.
-kii.t3.15=Retreat the <sprite name="RelicFigure"> and your 3 <sprite name="KeeperWarrior"><color=#575757>warriors</color> back to safety.
-kii.t3.16=On your next turn you can use your <color=#575757>waystation</color> to <color=#575757>recover</color> that <sprite name="RelicFigure">.
-kii.t3.17=Your <sprite name="KeeperWarrior"><color=#575757>warriors</color> don't have supply lines - they <color=#575757><b>Live Off the Land</b></color>. In the Evening, in each clearing with 4 or more <sprite name="KeeperWarrior"> , 1 is removed.
-kii.t3.18=Oops, I guess we should have moved 1 fewer <sprite name="KeeperWarrior"><color=#575757>warrior</color>! Well, we'll know next time.
-kii.t3.19=Add cards to your <color=#575757>Retinue</color> columns or shift a card from one column to another. Keep in mind that you can examine the icons on top of each column for more information about the actions.
-kii.t4.1=From here, you command the <color=#575757>Keepers</color> alone. Your first goal is to <color=#575757>recover</color> one <color=#575757>relic</color> of each type.
-kii.t4.2=You've already got a <sprite name="RelicJewelry">, so focus on getting a <sprite name="RelicTablet"> and a <sprite name="RelicFigure">.
-kii.trigger.column1=Well done. When you <color=#575757>recover</color> a full set of 3 <color=#575757>relics</color> - 1 of each type - you score an additional <sprite name="2VP">!
-kii.trigger.column2=Now, score  <style="vpnumddteen">15</style> to prove your mettle as commander of the <color=#575757>Keepers in Iron</color>.
-kii.trigger.tutorialcomplete=You've done it! The Woodland trembles at your might!
-tutorial.title.TutorialM01=Returned from Exile
-tutorial.description.TutorialM01=Learn to play the Keepers in Iron
-tutorial.title.TutorialM02=Rabble Rousers
-tutorial.description.TutorialM02=Learn to play the Lord of the Hundreds
+lht.4.8=지난 턴에 <color=#CC6633>고양이 후작</color>이 <sprite name="boot">를 제작했습니다. <color=#B40518>진군</color>하여 네 명의 <sprite name="HundredsWarrior"><color=#B40518>전사들</color></sprite>과 함께 그들에게서 <color=#B40518><b>약탈</b></color>하세요!
+lht.4.9=공격할 때마다 <color=#B40518>약탈</color>을 선택할 수 있습니다. 굴린 히트를 주지 않지만, 전투가 끝날 때 그 지역을 지배하고 있다면 상대의 아이템 박스에서 아이템을 훔칩니다.
+lht.4.10=하하! 적의 제작 기술을 당신에게 유리하게 사용하세요! 그 <sprite name="boot">를 가져가세요!
+lht.4.11=당신의 <color=#B40518>전령</color>을 이끌고 <color=#B40518>진군</color>할 때, 이동이나 전투 중 하나만 선택할 수 있습니다. 다시 전투하여 <color=#CC6633>Marquise</color>를 약화시키세요.
+lht.4.12=그들이 느꼈을 겁니다! 저녁 단계로 진행하세요.
+lht.4.13=<color=#B40518>선동</color>을 더 진행하지 마세요.
+lht.4.14=당신은 5개의 공터를 <color=#B40518>억압</color>하여 <style="vpnum">3</style>점을 얻었습니다!
+lht.5.1=지금까지 잘 이끌어주셨습니다. <style="vpnumddteen">20</style>점을 기록하여 <color=#B40518>Hundreds</color>가 멈출 수 없다는 것을 증명하세요!
+lht.5.2=기억하세요, 당신은 매 턴마다 <color=#B40518>억압</color>한 공터마다 점수를 얻습니다. 적의 조각들을 제거하고 당신의 지배를 유지하면 <color=#CC6633>Marquise</color>는 따라올 수 없을 것입니다.
+lht.trigger.tutorialcomplete=당신의 군단은 승리를 거두었습니다!
+lotht.goal.20vp=점수 <size=130%><style="vpnumddteen"></size>20</style>. ({0}/{1})
+lht.ftt.lavish=모든 아이템 유형을 하나씩 모아 <color=#B40518>기분</color>을 <color=#B40518>사치스럽게</color> 만듭니다. 특정 아이템 유형을 버릴 때까지 <color=#B40518>사치스럽게</color> 유지됩니다.
+label.retinue=수행원
+kii.intro.1=깃발이 나부끼고 철이 부딪히는 소리가 들리면 <color=#575757>Keepers</color>가 돌아왔다는 신호입니다.<br><br>혼자서 그들은 숲속에 잊힌 유물들을 찾아내겠지만, 경고하세요 - 이 갑옷을 입은 기사들은 강력한 전사들입니다. 그들의 수행원과 지역 가이드들이 너무 빠르게 늘어나면, 그들은 숲을 압도할 수 있습니다!
+kii.setup.1=사령관, 이 <sprite name="ClearingFox"> 공터는 캠프를 차기에 좋은 장소입니다.
+kii.setup.2=다음 4명의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>은 남쪽의 <sprite name="ClearingMouse">공터</sprite>에서 그들을 지원해야 합니다.
+kii.t1.1=전방 정찰대가 <color=#575757><b>유물</b></color>의 위치를 보고하고 있습니다: <sprite name="RelicJewelry"><b><color=#575757>보석</color>, <sprite name="RelicTablet"><color=#575757>석판</color>,</b> 그리고 <b><sprite name="RelicFigure"><color=#575757>인형</color></b>이 숲 곳곳에 퍼져 있습니다.
+kii.t1.2=당신의 임무는 이 <color=#575757>유물</color>을 <color=#575757><b>회수</b></color>하는 것입니다. 이를 위해 <color=#575757><b>중계소</b></color>를 세워야 합니다.
+kii.t1.3=새벽 단계에서, 각 공터마다 한 번씩 <color=#575757><b>캠프를 차다</b></color>, 한 명의 <sprite name="KeeperWarrior"><color=#575757>전사</color>를 사용하여 <color=#575757>중계소</color>를 세웁니다.<br>이 <sprite name="ClearingFox"> 공터에 중계소를 세우세요.
+kii.t1.4=각 <color=#575757>중계소</color>에는 두 면이 있습니다. 중계소를 놓을 때 어떤 면이 위로 가게 할지 선택할 수 있습니다.
+kii.t1.5=지금은 <color=#575757>중계소</color>의 <sprite name="RelicTablet">면이 위로 가게 해보세요.
+kii.t1.6=잘 했습니다. 이제 다른 <color=#575757>중계소</color>를 <sprite name="ClearingMouse">공터</sprite>에 세워보세요.
+kii.t1.7=이번엔 <sprite name="RelicJewelry"> 면이 위로 가게 해보세요.
+kii.t1.8=이제 <color=#575757>중계소</color>를 세웠으니, 더 많은 <sprite name="KeeperWarrior"><color=#575757>전사들</color>을 모집할 수 있습니다. 이 <sprite name="ClearingMouse">공터</sprite>를 다시 선택하고 손에서 카드 한 장을 써서 전사 2명을 모집하세요.
+kii.t1.8.gamepad=이제 <color=#575757>중계소</color>를 세웠으니, 더 많은 <sprite name="KeeperWarrior"><color=#575757>전사들</color>을 모집할 수 있습니다. 이 <sprite name="ClearingMouse">공터</sprite>를 다시 선택하고 손에서 카드 한 장을 써서 전사 2명을 모집하세요.
+kii.t1.9=이제 카드의 비용이 일치하는 공터에서 <color=#575757>중계소</color>를 세울 수 있습니다. 현재는 아직 만들 수 없으니 계속 진행하세요.
+kii.t1.10=낮 단계에서는 <color=#575757><b>수행원</b></color>을 이용해 행동을 합니다. <color=#575757>수행원</color>은 <color=#336699>Eyrie의 명령</color>과 비슷하게 작동하지만, 그 다른 비둘기들과 달리 <color=#336699>혼란</color>에 빠지지 않습니다.
+kii.t1.11=당신은 각 <color=#575757>수행원</color> 열에 Faithful Retainer 한 명씩을 가지고 시작합니다. <color=#575757>Faithful Retainer</color>는 <sprite name="birdicon"> 문양을 가지고 있어, 행동에 유연성을 제공합니다.
+kii.t1.12=당신은 왼쪽 가장자리의 <color=#575757>수행원</color>을 먼저 사용합니다. 이는 <color=#575757><b>이동</b></color>입니다. 사용한 <color=#575757>수행원</color> 카드의 문양이 일치하는 공터에서 이동해야 하므로, 이번에는 <sprite name="birdicon"> 문양이 있는 카드로 어떤 공터에서든 이동할 수 있습니다.
+kii.t1.13=4명의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>을 당신의 <sprite name="ClearingMouse">공터</sprite>에서 숲의 중심으로 이동시키세요.
+kii.t1.14=중앙 <color=#575757>수행원</color> 열은 <color=#575757><b>전투 후 발굴</b></color>입니다. 이 행동을 하려면 적어도 한 명의 <sprite name="KeeperWarrior"><color=#575757>전사</color>가 있는 공터에서 일치하는 카드의 문양을 선택해야 합니다.
+kii.t1.15=그 공터에 적의 조각들이 있다면, 전투를 해야 합니다. 현재는 그 공터에 적이 없습니다.
+kii.t1.16=그 후, 공터에서 적어도 한 명의 <sprite name="KeeperWarrior"><color=#575757>전사</color>가 있으면 인접한 숲에서 <color=#575757><b>유물</b></color>을 발굴할 수 있습니다. 그 <sprite name="RelicJewelry">를 가져가세요.
+kii.t1.17=회수하면 <sprite name="3VP">점수</sprite>로 가득 찹니다! 멋진 발견입니다!
+kii.t1.18=<color=#575757>발굴</color>은 위험할 수 있습니다. 발굴한 숲 인근에서 지배하는 공터가 발굴한 유물의 <style="vptext">VP</style>보다 적으면, 발굴에 사용한 <color=#575757>수행원</color> 카드를 잃게 됩니다!
+kii.t1.19=다행히도, 당신의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>은 이 숲 주변에 배치되어 있습니다 - 당신은 이 숲에 인접한 3개의 공터를 지배하고 있으므로, 당신의 <color=#575757>부대</color>는 안전합니다.
+kii.t1.20=최종 <color=#575757>부대</color> 행동은 <color=#575757><b>이동 또는 회복</b></color>입니다. 일치하는 <color=#575757>방송소</color>가 있는 공터에 <color=#575757>유물</color>이 없으면 아직 <color=#575757>회복</color>할 수 없습니다.
+kii.t1.21=<sprite name="KeeperWarrior"><color=#575757>전사</color>를 이동시켜 서쪽에 있는 <sprite name="RelicFigure">를 둘러싸세요.
+kii.t1.22=<color=#575757>부대</color>를 사용한 후, 손에 있는 카드들을 아무 열에 추가하거나 한 열에서 다른 열로 카드를 이동시켜 <color=#575757>부대</color>를 성장시키거나 변경할 기회를 가집니다.
+kii.t1.23=당신의 <color=#575757>부대</color>는 최대 10장의 카드를 보유할 수 있습니다. 카드를 더 많이 추가할수록 더 많은 행동을 할 수 있습니다.
+kii.t1.24=<b>Stand and Deliver</b>를 <color=#575757>이동</color> 열에 추가하세요. 당신의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>이 이동 가능하면 더 빠르게 더 많은 <color=#575757>유물</color>을 얻을 수 있습니다.
+kii.t1.24.gamepad=<b>Stand and Deliver</b>를 <color=#575757>이동</color> 열에 추가하세요. 당신의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>이 이동 가능하면 더 빠르게 더 많은 <color=#575757>유물</color>을 얻을 수 있습니다.
+kii.t1.26=다음으로, <b>Scouting Party</b>를 <color=#575757>이동 또는 회복</color> 열에 추가하세요.
+kii.t1.26.gamepad=다음으로, <b>Scouting Party</b>를 <color=#575757>이동 또는 회복</color> 열에 추가하세요.
+kii.t1.28=마지막으로, 매 저녁 끝에 1장의 카드를 뽑고, 지도에 있는 각 <color=#575757>방송소</color>마다 1장의 카드를 추가로 뽑습니다.
+kii.t2.1=꽥! 족제비들! 이 숲은 <color=#336699>이어리</color>의 것이다!
+kii.t2.2=적은 진격하지만, 당신의 임무는 여전히 유효합니다. 여기 <color=#575757>방송소</color>를 <sprite name="RelicFigure"> 면이 위로 향하게 배치하세요.
+kii.t2.3=당신이 방금 배치한 <color=#575757>방송소</color>는 모집에 적합한 위치입니다. 선택하여 <sprite name="ClearingFox"> 카드를 사용해 그곳에 더 많은 <sprite name="KeeperWarrior"><color=#575757>전사들</color>을 모집하세요.
+kii.t2.3.gamepad=당신이 방금 배치한 <color=#575757>방송소</color>는 모집에 적합한 위치입니다. 선택하여 <sprite name="ClearingFox"> 카드를 사용해 그곳에 더 많은 <sprite name="KeeperWarrior"><color=#575757>전사들</color>을 모집하세요.
+kii.t2.4=계속 진행하세요 - 당신의 군대를 키우세요!
+kii.t2.4.gamepad=계속 진행하세요 - 당신의 군대를 키우세요!
+kii.t2.5=아직 제작할 필요는 없습니다 - 카드들은 <color=#575757>수호자들</color>에게 매우 가치가 있으며, 지금은 그들의 가장 좋은 용도는 <color=#575757>부대</color>를 성장시키는 것입니다.
+kii.t2.6=이제 <color=#575757>부대</color>를 사용하세요. 먼저, <sprite name="KeeperWarrior"><color=#575757>전사</color>가 그 <sprite name="RelicJewelry">를 일치하는 <color=#575757>방송소</color>로 가져가도록 하세요.
+kii.t2.6b=이동하는 각 <sprite name="KeeperWarrior"><color=#575757>전사</color>는 공터에서 최대 1개의 <color=#575757>유물</color>을 운반할 수 있습니다.
+kii.t2.7=다음으로, 남쪽 위치를 3명의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>로 강화하세요.
+kii.t2.8=<color=#575757>전투, 그리고 발굴</color>을 이 <sprite name="ClearingRabbit"> 공터에서 진행하여 위 숲의 <sprite name="RelicFigure">를 획득하세요.
+kii.t2.9=아, 작은 <sprite name="1VP"> <color=#575757>유물</color>이군요. 많은 점수를 주지는 않지만, 나중에 <color=#575757>회복</color>하기는 더 쉬울 것입니다.
+kii.t2.10=<color=#575757>회복</color>에 대해 말하자면 - 지난 턴에 <color=#575757>발굴</color>한 <color=#575757>유물</color>의 점수를 얻을 시간입니다.
+kii.t2.11=하지만 주의해야 할 점이 있습니다. 당신이 <color=#575757>회복</color>하는 공터의 문양과 일치하는 공터에서 적어도 그 문양의 유물을 지배하지 않으면, 그 행동에 사용된 <color=#575757>부대</color> 카드는 사라집니다.
+kii.t2.12=<color=#575757>회복</color>하세요 그 <sprite name="RelicJewelry">를 지금.
+kii.t2.13=당신의 <sprite name="ClearingMouse"> 카드가 <color=#575757>부대</color>에서 사라집니다, 왜냐하면 당신은 3개의 <sprite name="ClearingMouse"> 공터를 지배하지 않지만, <sprite name="3VP">는 가치 있는 보상입니다!
+kii.t2.14=두 번째 <color=#575757>이동 또는 회복</color> 행동을 사용하여 2명의 <sprite name="KeeperWarrior"><color=#575757>전사들</color>과 <sprite name="RelicFigure">를 이동시키고, 숲을 둘러싸는 남쪽을 계속 진행하세요.
+kii.t2.14b=<color=#336699>이어리</color>는 이곳을 두고 싸울 만큼 어리석지 않다면 큰 놀라움을 맞이할 것입니다.
+kii.t2.15=이제 <color=#575757>부대</color>를 보충할 시간입니다. <color=#575757>전투, 그리고 발굴</color> 열에 카드를 추가하세요.
+kii.t2.15.gamepad=이제 <color=#575757>부대</color>를 보충할 시간입니다. <color=#575757>전투, 그리고 발굴</color> 열에 카드를 추가하세요.
+kii.t2.16=이제 <color=#575757>부대</color>를 보충할 시간입니다. <color=#575757>전투, 그리고 발굴</color> 열에 카드를 추가하세요.
+kii.t2.17=턴을 종료하세요. <color=#336699>이어리</color>는 전투를 원할지도 모르지만 - 그들이 오게 두세요.
+kii.ait2.1=<color=#336699>이어리 전사들</color>, 침략자를 물리치고 그들의 보물을 빼앗으세요!
+kii.ait2.2=하! 이 <color=#336699>이어리</color> 바보들은 <color=#575757>강철의 수호자들</color>과 싸운다는 것이 무엇을 의미하는지 과소평가했습니다. 당신의 <color=#575757><b>신실한 기사들</b></color> 능력 덕분에 유물이 있는 공터에서 전투 시 1회 피해가 적습니다!
+kii.t3.1=<color=#336699>이어리</color>는 적대 행위를 시작하기로 결정했고, <color=#575757>수호자들</color>은 그에 맞서 싸울 것입니다!
+kii.t3.2=<color=#575757>주둔지</color>를 철수하세요. 주변에 <sprite name="RelicJewelry">유물</sprite>이 더 이상 없습니다.
+kii.t3.3=<color=#575757>주둔지 철수</color>는 <color=#575757>주둔지 설치</color>의 반대입니다 - <color=#575757>주둔지</color>를 <sprite name="KeeperWarrior"> <color=#575757>전사</color>로 교체합니다.
+kii.t3.4=<sprite name="KeeperWarrior"><color=#575757>전사</color>를 <sprite name="RelicFigure">유물</sprite>이 있는 <color=#575757>주둔지</color>에서 모집하세요. <color=#336699>Eyrie</color>에게 전투를 도전하려면 그들이 필요합니다.
+kii.t3.4.gamepad=<sprite name="KeeperWarrior"><color=#575757>전사</color>를 <sprite name="RelicFigure">유물</sprite>이 있는 <color=#575757>주둔지</color>에서 모집하세요. <color=#336699>Eyrie</color>에게 전투를 도전하려면 그들이 필요합니다.
+kii.t3.5=더 많은 힘이 필요할 수 있습니다. <sprite name="RelicFigure">유물</sprite>이 있는 <color=#575757>주둔지</color>에서 다시 전사들을 모집하세요.
+kii.t3.5.gamepad=더 많은 힘이 필요할 수 있습니다. <sprite name="RelicFigure">유물</sprite>이 있는 <color=#575757>주둔지</color>에서 다시 전사들을 모집하세요.
+kii.t3.6=<b>폭족 철강</b>을 <color=#575757>주둔지</color>에서 제작하세요.
+kii.t3.6.gamepad=<b>폭족 철강</b>을 <color=#575757>주둔지</color>에서 제작하세요.
+kii.t3.7=이제 행동할 시간입니다. 먼저, 전사를 이동시켜 북쪽 숲을 계속 포위하세요. <color=#336699>Eyrie</color>는 물리쳐야 하지만, 주요 목표는 여전히 <color=#575757>유물</color>을 <color=#575757>회수</color>하는 것입니다.
+kii.t3.8=이제 그 새들한테 <color=#575757>수호자</color>들이 무엇인지 보여줄 시간입니다. 네 명의 <sprite name="KeeperWarrior"><color=#575757>전사</color>를 이동시켜 <color=#336699>Eyrie</color>의 가장 가까운 <color=#336699>둥지</color>를 위협하세요.
+kii.t3.9=당신의 병력은 잘 배치되었습니다. <sprite name="RelicFigure">에서 전투를 시작하세요!
+kii.t3.10=매복이다! 그 교활한 새들...
+kii.t3.11=아프군요! <color=#336699>Eyrie</color>가 당신의 <sprite name="KeeperWarrior"><color=#575757>전사</color>들을 물리쳤을 뿐만 아니라 <color=#575757>유물</color>을 빼앗았어요!
+kii.t3.12=<color=#575757>유물</color>은 <color=#575757><b>소중한 전리품</b></color>이기 때문에, 적이 하나를 제거하면 일반적인 <sprite name="1VP"> 대신 <sprite name="2VP">를 얻습니다. 그런 다음, 그들은 유물을 되돌릴 숲을 선택합니다.
+kii.t3.13=<sprite name="RelicFigure">를 되찾으세요. <color=#575757>전투 후, 델브</color>를 하여 <color=#336699>Eyrie</color>의 둥지에서 그들에게 의로운 분노를 보여주세요!
+kii.t3.14=새들을 처치한 후, 그들이 훔친 <sprite name="RelicFigure">를 회수하세요 - 그 유물이 뒷면이 보이므로, 우리는 그것의 <sprite name="1VP"> 값이 <color=#575757>덴브</color>을 안전하게 할 수 있음을 알 수 있습니다.
+kii.t3.15=<sprite name="RelicFigure">와 당신의 <sprite name="KeeperWarrior"><color=#575757>전사</color> 3명을 안전한 곳으로 후퇴시키세요.
+kii.t3.16=다음 턴에는 <color=#575757>주둔지</color>를 사용하여 그 <sprite name="RelicFigure">를 <color=#575757>회수</color>할 수 있습니다.
+kii.t3.17=당신의 <sprite name="KeeperWarrior"><color=#575757>전사</color>들은 보급선이 없습니다 - 그들은 <color=#575757><b>자원을 수확</b></color>합니다. 저녁에, 4명 이상의 <sprite name="KeeperWarrior">가 있는 각 공터에서 1명이 제거됩니다.
+kii.t3.18=앗, 전사를 1명 덜 이동시켰어야 했네요! 다음번엔 알겠죠.
+kii.t3.19=<color=#575757>수호군</color> 칼럼에 카드를 추가하거나 칼럼을 옮기세요. 각 칼럼의 상단 아이콘을 확인하여 더 많은 정보를 얻을 수 있습니다.
+kii.t4.1=여기서부터 당신은 <color=#575757>수호자들</color>을 혼자 지휘합니다. 첫 번째 목표는 각 종류의 <color=#575757>유물</color>을 1개씩 <color=#575757>회수</color>하는 것입니다.
+kii.t4.2=이미 <sprite name="RelicJewelry">유물</sprite>을 얻었으니, <sprite name="RelicTablet">와 <sprite name="RelicFigure">를 집중적으로 획득하세요.
+kii.trigger.column1=잘했습니다. 3개의 <color=#575757>유물</color> 세트를 모두 회수하면 - 각 종류 1개씩 - 추가로 <sprite name="2VP">를 얻습니다!
+kii.trigger.column2=이제 <style="vpnumddteen">15</style> 점을 얻어 <color=#575757>강철의 수호자들</color>의 지휘관으로서 실력을 입증하세요.
+kii.trigger.tutorialcomplete=성공하셨습니다! 숲은 당신의 힘에 떨고 있습니다!
+tutorial.title.TutorialM01=추방에서 돌아온 자
+tutorial.description.TutorialM01=강철의 수호자들 플레이법을 배우세요.
+tutorial.title.TutorialM02=폭동의 선동자들
+tutorial.description.TutorialM02=수백마리 들쥐 군주 플레이법을 배우세요.
