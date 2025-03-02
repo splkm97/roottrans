@@ -28,46 +28,46 @@ tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseOutcast.opponent=도
 tuber.canis.undo.lizardCultSetupUndo=설정을 완료하려면 계속 버튼을 누르세요.
 tuber.canis.undo.lizardCultSetupUndo.opponent=도마뱀 교단이 설정을 확정할 때까지 기다리는 중입니다.
 tuber.canis.abilities.LizardCultAbilities.CultCrusadeBattleAbility=공격할 대상을 선택하세요.
-tuber.canis.abilities.LizardCultAbilities.CultCrusadeBattleAbility.opponent=[player] is choosing who to attack.
-tuber.canis.actions.LizardCultActions.RevealCardCost=Choose a card to reveal.
-tuber.canis.actions.LizardCultActions.RevealCardCost.opponent=Lizard Cult is choosing a card to reveal.
-tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction=Choose a Conspiracy.
-tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant=Choose a Conspiracy or crafted card to use.
-tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant.opponent=Lizard Cult is choosing a Conspiracy or crafted card to use.
-tuber.canis.actions.LizardCultActions.LizardCultDaylightAction=Choose a Ritual.
-tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions=No Rituals to choose. Press continue button.
-tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.opponent=Lizard Cult is choosing a Ritual.
-tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions.opponent=Lizard Cult is choosing a Ritual.
-tuber.canis.actions.CraftActivations=Choose a card to craft.
-tuber.canis.actions.CraftActivations.opponent=[player] is considering crafting options.
-tuber.canis.actions.CraftActivations.NoActions=No cards to craft. Press continue button
-tuber.canis.actions.CraftActivations.NoActions.opponent=[player] is considering crafting options.
-tuber.canis.actions.VagabondActions.EnlistVagabondArbiter=Enlist the Arbiter Vagabond to add [X] undamaged <sprite name="sword"> to your maximum hits (and give them <sprite name="1VP">)?
-tuber.canis.actions.VagabondActions.EnlistVagabondArbiter.opponent=[player] is considering options.
-tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing=Choose a clearing to burn with Scorched Earth.
-tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing.opponent=Vagabond is choosing a clearing to burn with Scorched Earth.
-tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker=Choose an attacker to Instigate into battle.
-tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker.opponent=Vagabond is choosing an attacker to Instigate into battle.
-tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender=Choose a defender to Instigate into battle.
-tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender.opponent=Vagabond is choosing a defender to Instigate into battle.
-tooltip.ui.lizardcult.acolytes=<size=125%><b>Acolytes</b></size>\
-<size=125%><b>Draw Rate</b></size>\
-Draw this many cards in Evening. Draw more cards by building Gardens.=Draw Rate
-tooltip.ability.lizardcult.build=<size=125%><b>Build</b></size>\
-tooltip.ability.lizardcult.convert=<size=125%><b>Convert</b></size>\
-tooltip.ability.lizardcult.crusade=<size=125%><b>Crusade (battle)</b></size>\
-tooltip.ability.lizardcult.moveandbattle=<size=125%><b>Crusade (move and battle)</b></size>\
-tooltip.ability.lizardcult.recruit=<size=125%><b>Recruit</b></size>\
-tooltip.ability.lizardcult.sacrifice=<size=125%><b>Sacrifice</b></size>\
-tooltip.ability.lizardcult.sanctify=<size=125%><b>Sanctify</b></size>\
-tooltip.ability.lizardcult.score=<size=125%><b>Score</b></size>\
-tooltip.playmat.lizardstack=<size=125%><b>Lizard Cult Warriors</b></size>
-tooltip.playmat.garden=<size=125%><b>Garden</b></size>\
-aiplayername.riverfolkCompany=Riverfolk Company
-aiplayername.lizardCult=Lizard Cult
-riverfolkWithColor=<color=#397F7F>Riverfolk Company</color>
-cultWithColor=<color=#748421>Lizard Cult</color>
-vagabondWithColorAndCharacter=<color=#436979>[character name] Vagabond</color>
+tuber.canis.abilities.LizardCultAbilities.CultCrusadeBattleAbility.opponent=[player]이(가) 공격할 대상을 선택하는 중입니다.
+tuber.canis.actions.LizardCultActions.RevealCardCost=공개할 카드를 선택하세요.
+tuber.canis.actions.LizardCultActions.RevealCardCost.opponent=도마뱀 교단이 공개할 카드를 선택하고 있습니다.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction=음모를 선택하세요.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant=음모 또는 제작한 카드를 선택하여 사용하세요.
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.persistant.opponent=도마뱀 교단이 음모 또는 제작한 카드를 선택하여 사용하고 있습니다.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction=의식을 선택하세요.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions=선택할 의식이 없습니다. 계속 버튼을 누르세요.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.opponent=도마뱀 교단이 의식을 선택하고 있습니다.
+tuber.canis.actions.LizardCultActions.LizardCultDaylightAction.NoActions.opponent=도마뱀 교단이 의식을 선택하고 있습니다.
+tuber.canis.actions.CraftActivations=제작할 카드를 선택하세요.
+tuber.canis.actions.CraftActivations.opponent=[player]이(가) 제작을 고려하고 있습니다.
+tuber.canis.actions.CraftActivations.NoActions=제작할 카드가 없습니다. 계속 버튼을 누르세요.
+tuber.canis.actions.CraftActivations.NoActions.opponent=[player]이(가) 제작을 고려하고 있습니다.
+tuber.canis.actions.VagabondActions.EnlistVagabondArbiter=방랑자 집행자를 고용하여 최대 공격력을 [X] 증가시키고, 그들에게 <sprite name="1VP">을(를) 부여하시겠습니까?
+tuber.canis.actions.VagabondActions.EnlistVagabondArbiter.opponent=[player]이(가) 선택을 고민하고 있습니다.
+tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing=초토화 능력으로 불태울 공터를 선택하세요.
+tuber.canis.abilities.VagabondAbilities.ScorchedEarthAbility.SelectClearing.opponent=방랑자가 초토화할 공터를 선택하고 있습니다.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker=전투를 선동할 공격자를 선택하세요.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker.opponent=방랑자가 전투를 선동할 공격자를 선택하고 있습니다.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender=전투를 선동할 방어자를 선택하세요.
+tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender.opponent=방랑자가 전투를 선동할 방어자를 선택하고 있습니다.
+tooltip.ui.lizardcult.acolytes=<size=125%><b>신도</b></size>\
+<size=125%><b>뽑기 비율</b></size>\
+저녁에 이만큼의 카드를 뽑습니다. 정원을 건설하면 추가로 카드를 뽑을 수 있습니다.
+tooltip.ability.lizardcult.build=<size=125%><b>건설</b></size>\
+tooltip.ability.lizardcult.convert=<size=125%><b>개종</b></size>\
+tooltip.ability.lizardcult.crusade=<size=125%><b>성전 (전투)</b></size>\
+tooltip.ability.lizardcult.moveandbattle=<size=125%><b>성전 (이동 및 전투)</b></size>\
+tooltip.ability.lizardcult.recruit=<size=125%><b>모집</b></size>\
+tooltip.ability.lizardcult.sacrifice=<size=125%><b>희생</b></size>\
+tooltip.ability.lizardcult.sanctify=<size=125%><b>축성</b></size>\
+tooltip.ability.lizardcult.score=<size=125%><b>득점</b></size>\
+tooltip.playmat.lizardstack=<size=125%><b>도마뱀 교단 전사</b></size>
+tooltip.playmat.garden=<size=125%><b>정원</b></size>\
+aiplayername.riverfolkCompany=리버포크 주식회사
+aiplayername.lizardCult=도마뱀 교단
+riverfolkWithColor=<color=#397F7F>리버포크 주식회사</color>
+cultWithColor=<color=#748421>도마뱀 교단</color>
+vagabondWithColorAndCharacter=<color=#436979>[character name] 방랑자</color>
 vagabondWithColorAndCharacter2=<color=#436979>[character name 2] Vagabond</color>
 tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>Hated Outcast</b></size>\
 tooltip.ui.lizardcult.outcast=<size=125%><b>Outcast</b></size>\
