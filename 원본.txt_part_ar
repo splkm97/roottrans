@@ -48,53 +48,44 @@ tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.Corvi
 tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyBirdsongAction.CorvidBirdsongRecruitWithCount.opponent=까마귀 모략단이 모집할 문양을 선택하고 있습니다.  
 tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyChoicePhase.CorvidEveningActivations=실행할 행동을 선택하세요.  
 tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracyChoicePhase.CorvidEveningActivations.opponent=까마귀 모략단이 저녁 행동을 선택하고 있습니다.  
-tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations=Choose one of each clearing suit for your 3 starting warriors.
-tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations.opponent=Corvid Conspiracy is choosing clearings for their starting warriors.
-tuber.canis.actions.DaylightChoicePhase=Choose an action.
-tuber.canis.actions.DaylightChoicePhase.opponent=[player] is pondering their next action.
-tuber.canis.actions.endTurnConfirmation.CorvidConspiracy=You still have Daylight actions available. Are you sure you want to move to Evening?
-tuber.canis.actions.endTurnConfirmation.UndergroundDuchy=You still have Assembly actions available. Are you sure you want to move to the next step?
-tuber.canis.actions.UndergroundDuchyActions.RevealCardCost=Choose a card to reveal. A Bird revealed will be discarded.
-tuber.canis.actions.UndergroundDuchyActions.RevealCardCost.opponent=Duchy is choosing a card to reveal.
-tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament=Choose a Minister to activate.
-tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament.opponent=Duchy is choosing Ministers to activate.
-tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting=Choose a corner clearing for your tunnel.
-tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting.opponent=Duchy is choosing a corner clearing for their tunnel.
-tuber.canis.undo.CorvidCompanySetupUndo=Press continue button to complete setup.
-tuber.canis.undo.CorvidCompanySetupUndo.opponent=Waiting for Corvid Conspiracy to confirm setup.
-tuber.canis.undo.EyrieDynastiesSetupUndo=Press continue button to complete setup.
-tuber.canis.undo.EyrieDynastiesSetupUndo.opponent=Waiting for Eyrie to confirm setup.
-tuber.canis.undo.UndergroundDuchySetupUndo=Press continue button to complete setup.
-tuber.canis.undo.UndergroundDuchySetupUndo.opponent=Waiting for Duchy to confirm set up.
-tutorial.crownslabel=Crowns Remaining
-tutorial.description.TutorialU01=Learn to play the Underground Duchy
-tutorial.description.TutorialU02=Learn to play the Corvid Conspiracy
-tutorial.title.TutorialU01=Threat from Below
-tutorial.title.TutorialU02=Hatching Plans
-tutorial.tunnellabel=Tunnel
-udt.Birdsong.t1.burrow.adjacent=The <sprite name="Burrow"> <color=#BD5752>Burrow</color> is adjacent to all your <sprite name="Tunnel"> <color=#BD5752>Tunnels</color> on that map and can be used to stage attacks across enemy lines.
-udt.Birdsong.t1.burrow.recruit=During Birdsong, we place one <sprite name="duchy"><color=#BD5752>warrior</color> in a clearing called <sprite name="Burrow"> <color=#BD5752>The Burrow</color> that can't be entered by your opponents.
-udt.Birdsong.t2.recruit.citadel=During Birdsong, you add 1 <sprite name="duchy"><color=#BD5752>warrior</color> to the <sprite name="Burrow"> <color=#BD5752>Burrow</color>. Thanks to the <sprite name="Citadel"> <color=#BD5752>Citadel</color> you built last turn, you get an extra <sprite name="duchy"><color=#BD5752>warrior</color>, for a total of 2.
-udt.Birdsong.t5=We may have lost a battle, but this war isn’t over. Sway <color=#BD5752>Ministers</color>, craft items, and attack enemy buildings to score <style="vpnumddteen">15</style> and complete this scenario.
-udt.Daylight.t1.actions=In Daylight, we may take up to 2 of the following actions:<br><sprite name="DuchyBuildToken">Build<br><sprite name="DuchyRecruitToken>Recruit<br><sprite name="DuchyDigToken">Dig<br><sprite name="UIMoveToken">Move<br><sprite name="UIBattleToken">Battle<br>
-udt.Daylight.t1.build.reveal=As part of the cost to build, you must reveal a card matching the suit of the clearing you have selected. Each card can only be revealed once each turn.
-udt.Daylight.t1.build.reveal2=In Evening, revealed <sprite name="birdicon"> suit cards are discarded. We revealed a <sprite name="ClearingRabbit"> suit card, so it returns to our hand to be used later.
-udt.Daylight.t1.build.type=Next we choose which type of building we want. The <sprite name="Citadel"> <color=#BD5752>Citadel</color> is a good choice since it increases the <sprite name="duchy"><color=#BD5752>warriors</color> we Recruit to our <sprite name="Burrow"> <color=#BD5752>Burrow</color> each turn.
-udt.Daylight.t1.building=Now Build in a clearing you rule.
-udt.Daylight.t1.recruit=First let's Recruit to get another <sprite name="duchy"><color=#BD5752>warrior</color> in our <sprite name="Burrow"> <color=#BD5752>Burrow</color>.
-udt.Daylight.t2.attack=With your <sprite name="duchy"><color=#BD5752>warriors</color> in place, it’s time to show the <color=#CC6633>Marquise</color> no clearing is safe from the <color=#BD5752>Underground Duchy</color>!
-udt.Daylight.t2.cat.attack=Those moles came out of nowhere. I thought THEY were supposed to be the blind ones...
-udt.Daylight.t2.dig.clearing=<color=#BD5752>Dig</color> a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> in that clearing to send your <sprite name="duchy"><color=#BD5752>warriors</color> there for an attack.
-udt.Daylight.t2.dig.discard=To pay the cost of a <color=#BD5752>Dig</color>, you must discard a card matching the clearing where you dug the <sprite name="Tunnel"> <color=#BD5752>tunnel</color>.
-udt.Daylight.t2.dig.move=When a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> is placed, you may move up to 4 <sprite name="duchy"><color=#BD5752>warriors</color> there from your <sprite name="Burrow"> <color=#BD5752>Burrow</color>. Let’s move all 4 to begin our assault!
-udt.Daylight.t2.exposed=Your feline foe has left a building exposed in a <sprite name="ClearingMouse"> clearing to the west. This is ripe for an attack from our <sprite name="Burrow"> <color=#BD5752>Burrow</color>!
-udt.Daylight.t2.tunnels.move=Once a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> is on the map, you may also freely move warriors between it and the <sprite name="Burrow"> <color=#BD5752>Burrow</color> with the move action.
-udt.Daylight.t3.moveandattack=Our plan requires that we secure more <sprite name="ClearingRabbit"> clearings. Move 2 <sprite name="duchy"><color=#BD5752>warriors</color> to a <sprite name="ClearingRabbit"> clearing held by your enemies, then battle there.
-udt.Daylight.t3.sway.reveal=To sway a <color=#BD5752>Minister</color>, you must reveal a number of cards from your hand equal to the <color=#BD5752>Minister's</color> rank (2 for Squire, 3 for Noble, 4 for Lord). However, you can only reveal cards matching clearings where you have pieces, and each of those clearings lets you reveal only one card.
-udt.Daylight.t3.sway.vp=You score <sprite name="2VP"> for playing <color=#BD5752>Brigadier</color> because it is a <color=#BD5752>Noble</color>, and remove one of the three noble <sprite name="crown"> crowns from your inventory. Once you are out of <color=#BD5752>Noble</color> crowns you will no longer be able to sway more <color=#BD5752>Noble Ministers</color>.
-udt.Daylight.t3.sway1=We can now sway powerful <color=#BD5752>Ministers</color> to our side, scoring <style="vptext">VP</style> and increasing the actions at our disposal.
-udt.Daylight.t3.sway2=<color=#BD5752>Ministers</color> come in three ranks: <color=#BD5752>Squire</color>, <color=#BD5752>Noble</color>, and <color=#BD5752>Lord</color>. Higher ranks require you to reveal more cards to pay their cost, but are worth more <style="vptext">VP</style> and have more powerful abilities.
-udt.Daylight.t3.sway3=Let’s sway the <color=#BD5752>Brigadier</color> to increase our movement and battle prowess on future turns.
-udt.Daylight.t4.brigadier1=After your initial actions are complete, you may use the powers of your <color=#BD5752>Swayed Ministers</color>. Activate <color=#BD5752>Brigadier</color> to battle in the clearing you tunneled into.
-udt.Daylight.t4.brigadier2=Your opponent is defenseless. Battle again to take out what remains of their settlement.
-udt.Daylight.t4.build=Feeling hungry for cards? It's time to build a <sprite name="Market"> <color=#BD5752>Market</color>! This building will increase the amount of cards we draw in Evening.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations=3명의 시작 전사를 배치할 공터 3곳을 문양별로 하나씩 선택하세요.
+tuber.canis.actions.CorvidConspiracyActions.CorvidConspiracySetup.CorvidStartingWarriorLocations.opponent=까마귀 모략단이 시작 전사를 배치할 공터를 선택하는 중입니다.
+tuber.canis.actions.DaylightChoicePhase=행동을 선택하세요.
+tuber.canis.actions.DaylightChoicePhase.opponent=[player]이(가) 다음 행동을 고민하고 있습니다.
+tuber.canis.actions.endTurnConfirmation.CorvidConspiracy=아직 주간 행동을 더 할 수 있습니다. 저녁 단계로 이동하시겠습니까?
+tuber.canis.actions.endTurnConfirmation.UndergroundDuchy=아직 의회 행동을 더 할 수 있습니다. 다음 단계로 이동하시겠습니까?
+tuber.canis.actions.UndergroundDuchyActions.RevealCardCost=공개할 카드를 선택하세요. 새 카드가 공개되면 새는 폐기됩니다.
+tuber.canis.actions.UndergroundDuchyActions.RevealCardCost.opponent=지하 공국이 공개할 카드를 선택하는 중입니다.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament=활성화할 대신을 선택하세요.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchyParliamentPhase.DuchyDaylightParliament.opponent=지하 공국이 활성화할 대신을 선택하는 중입니다.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting=터널을 놓을 모서리 공터를 선택하세요.
+tuber.canis.actions.UndergroundDuchyActions.UndergroundDuchySetup.ChooseStarting.opponent=지하 공국이 터널을 놓을 모서리 공터를 선택하는 중입니다.
+tuber.canis.undo.CorvidCompanySetupUndo=계속 버튼을 눌러 설정을 완료하세요.
+tuber.canis.undo.CorvidCompanySetupUndo.opponent=까마귀 모략단이 설정을 확인하는 중입니다.
+tuber.canis.undo.EyrieDynastiesSetupUndo=계속 버튼을 눌러 설정을 완료하세요.
+tuber.canis.undo.EyrieDynastiesSetupUndo.opponent=이어리 왕조가 설정을 확인하는 중입니다.
+tuber.canis.undo.UndergroundDuchySetupUndo=계속 버튼을 눌러 설정을 완료하세요.
+tuber.canis.undo.UndergroundDuchySetupUndo.opponent=지하 공국이 설정을 확인하는 중입니다.
+tutorial.crownslabel=남은 왕관
+tutorial.description.TutorialU01=지하 공국을 플레이하는 방법을 배웁니다.
+tutorial.description.TutorialU02=까마귀 모략단을 플레이하는 방법을 배웁니다.
+tutorial.title.TutorialU01=지하의 위협
+tutorial.title.TutorialU02=음모를 꾸미다
+tutorial.tunnellabel=터널
+udt.Birdsong.t1.burrow.adjacent=<sprite name="Burrow"> <color=#BD5752>지하굴</color>은 해당 지도에서 모든 <sprite name="Tunnel"> <color=#BD5752>터널</color>과 연결되며, 이를 통해 적의 방어선을 넘어 공격할 수 있습니다.
+udt.Birdsong.t1.burrow.recruit=새벽 단계에서 <sprite name="Burrow"> <color=#BD5752>지하굴</color>에 <sprite name="duchy"><color=#BD5752>전사</color></sprite>를 1명 배치합니다. 상대는 이곳에 들어올 수 없습니다.
+udt.Birdsong.t2.recruit.citadel=새벽 단계에서 <sprite name="Burrow"> <color=#BD5752>지하굴</color>에 <sprite name="duchy"><color=#BD5752>전사</color></sprite> 1명을 추가합니다. 이전 턴에 건설한 <sprite name="Citadel"> <color=#BD5752>성채</color> 덕분에 추가로 <sprite name="duchy"><color=#BD5752>전사</color></sprite> 1명을 더 배치할 수 있습니다. 총 2명입니다.
+udt.Birdsong.t5=전투에서 패배했을 수 있지만, 전쟁은 아직 끝나지 않았습니다. <color=#BD5752>대신</color>을 포섭하고, 아이템을 제작하며, 적의 건물을 공격해 <style="vpnumddteen">15</style>점을 획득하고 이 시나리오를 완료하세요.
+udt.Daylight.t1.actions=주간 단계에서 최대 2가지 행동을 할 수 있습니다:<br><sprite name="DuchyBuildToken">건설<br><sprite name="DuchyRecruitToken">모집<br><sprite name="DuchyDigToken">굴착<br><sprite name="UIMoveToken">이동<br><sprite name="UIBattleToken">전투<br>
+udt.Daylight.t1.build.reveal=건설 비용의 일부로, 선택한 공터의 문양과 일치하는 카드를 공개해야 합니다. 같은 카드는 턴당 한 번만 공개할 수 있습니다.
+udt.Daylight.t1.build.reveal2=저녁 단계에서 공개된 <sprite name="birdicon"> 새 문양 카드는 폐기됩니다. <sprite name="ClearingRabbit"> 토끼 문양</sprite> 카드를 공개했으므로, 이는 손으로 돌아가 이후에 다시 사용할 수 있습니다.
+udt.Daylight.t1.build.type=이제 건설할 건물 유형을 선택해야 합니다. <sprite name="Citadel"> <color=#BD5752>성채</color>는 좋은 선택입니다. 이는 매 턴 <sprite name="Burrow"> <color=#BD5752>지하굴</color></sprite>에서 <sprite name="duchy"><color=#BD5752>전사</color></sprite>를 더 모집할 수 있게 해 줍니다.
+udt.Daylight.t1.building=지배하는 공터에 건물을 건설하세요.
+udt.Daylight.t1.recruit=먼저 <sprite name="Burrow"> <color=#BD5752>지하굴</color></sprite>에서 <sprite name="duchy"><color=#BD5752>전사</color></sprite>를 모집해봅시다.
+udt.Daylight.t2.attack=전사들이 배치되었으니, 이제 <color=#CC6633>고양이 후작</color>에게 이 공터가 더 이상 안전하지 않음을 보여줄 차례입니다!
+udt.Daylight.t2.cat.attack=저 두더지들이 갑자기 나타났어. 정작 눈이 먼 건 저들 아니었나?
+udt.Daylight.t2.dig.clearing=<color=#BD5752>굴착</color>을 사용하여 해당 공터에 <sprite name="Tunnel"> <color=#BD5752>터널</color></sprite>을 놓고, <sprite name="Burrow"> <color=#BD5752>지하굴</color></sprite>에서 전사를 보내 공격하세요.
+udt.Daylight.t2.dig.discard=<color=#BD5752>굴착</color> 비용을 지불하려면, 해당 공터의 문양과 일치하는 카드를 폐기해야 합니다.
+udt.Daylight.t2.dig.move=<sprite name="Tunnel"> <color=#BD5752>터널</color></sprite>을 놓으면, <sprite name="Burrow"> <color=#BD5752>지하굴</color></sprite>에서 최대 4명의 <sprite name="duchy"><color=#BD5752>전사</color></sprite>를 이동시킬 수 있습니다. 전부 이동시켜 공격을 개시합시다!
+udt.Daylight.t2.exposed=적이 <sprite name="ClearingMouse">쥐 문양</sprite> 공터에 건물을 노출시켰습니다. <sprite name="Burrow"> <color=#BD5752>지하굴</color></sprite>에서 공격하기 좋은 기회입니다!
+udt.Daylight.t3.moveandattack=<sprite name="ClearingRabbit"> 토끼 문양</sprite> 공터를 확보하기 위해 2명의 <sprite name="duchy"><color=#BD5752>전사</color></sprite>를 적이 점령한 공터로 이동시키고 전투하세요.
