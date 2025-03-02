@@ -1,100 +1,100 @@
-playerinfo.eyriedynasties.lordsoftheforest.description=You rule any clearings where you are tied in presence.
-playerinfo.eyriedynasties.lordsoftheforest.title=Lords of the Forest
-playerinfo.eyriedynasties.rooststitle=Roosts
-playerinfo.eyriedynasties.summary=In a moment of weakness the Marquise descended. Now you have rallied your strength and are poised to recapture your birthright.
-playerinfo.eyriedynasty.title=Eyrie Dynasty
-playerinfo.label.cardsinhand=Cards in Hand
-playerinfo.label.warriors=Warriors Left
-playerinfo.marquise.Birdsong=Place one wood <sprite name="Wood"> at each sawmill <sprite name="CatSawmill">.
-playerinfo.marquise.daylight=1st: Craft<br>2nd: Take up to 3 actions<br><line-indent=15%>• Battle<br>• March<br>• Recruit<br>• Build<br>• Overwork
-playerinfo.marquise.evening=Draw a card (+1 card for each <sprite name="DrawCard"> earned on the recruiter track) then discard down to 5 cards.
-playerinfo.marquisedecat.fieldhospital.description=When a warrior dies you may spend a matching card to return them to the Keep.
-playerinfo.marquisedecat.fieldhospital.title=Field Hospital
-playerinfo.marquisedecat.keep.description=Only you can place pieces in the clearing with the keep token.
-playerinfo.marquisedecat.keep.title=The Keep
-playerinfo.marquisedecat.recruiters.title=Recruiters
-playerinfo.marquisedecat.recruiterstitle=Recruiters
-playerinfo.marquisedecat.sawmills.title=Sawmills
-playerinfo.marquisedecat.sawmillstitle=Sawmills
-playerinfo.marquisedecat.summary=You have conquered the forest. Now you must build a kingdom worthy of your name.
-playerinfo.marquisedecat.title=Marquise De Cat
-playerinfo.marquisedecat.workshops.title=Workshops
-playerinfo.marquisedecat.workshopstitle=Workshops
-playerinfo.mechmarq.Birdsong=1st: Reveal an order card<br><br>2nd: Craft the order card for <style="vpone">1</style> if it has an available item
-playerinfo.mechmarq.blitz=<size=125%><b>Blitz</b></size><br>After you move, find the clearing you rule of highest priority with no enemy pieces.Move all but one warrior from that clearing. Then, battle in the destination clearing.
-playerinfo.mechmarq.challenging=<size=125%><b>Challenging</b></size><br> -  Whenever you Recruit, also place two warriors in the ordered clearing you rule of highest priority.
-playerinfo.mechmarq.daylight=If the order card is a <sprite name="birdicon"> card, resolve Escalated Daylight instead.<br>1st: Battle<br>Initiate a battle in each ordered clearing. The defender is the player with the most pieces in the clearing of battle then most <style="vptext">VP</style> if there is a tie.<br><br>2nd: Recruit<br>Place four warriors among ordered clearings you rule, distributed evenly. If you rule three such clearings, place the fourth warrior in such a clearing of highest priority.<br><br>3rd: Build<br>Place a building in the clearing you rule with the most Marquise warriors. Place a sawmill if the order card is a <sprite name="ClearingFox"> card, a workshop if it is a <sprite name="ClearingRabbit"> card, or a recruiter if it is a <sprite name="ClearingMouse"> card.<br><br>4th: Move<br>Move all but three of your warriors from each ordered clearing to the adjacent clearing with the most enemy pieces.<br><br>5th: Expand. If you did not place a building this turn and have five or fewer buildings on the map, discard the current order card, draw and reveal a new order card (but do not craft its item), and return to the start of Daylight.
-playerinfo.mechmarq.easy=<size=125%><b>Easy</b></size><br> - Whenever you Recruit, instead place only two warriors.
-playerinfo.mechmarq.escalateddaylight=1st: Battle<br>Initiate a battle in each clearing. Tiebreakers are the same as battle in standard daylight. <br><br>2nd: Recruit <br>Place two warriors each in the two clearings you rule of lowest priority. If you only rule one clearing, place all four warriors there.<br><br>3rd: Build<br>Place a building of the type with the most pieces on the map in the clearing you rule with the most Marquise warriors. Ties go to sawmills then recruiters then workshops. <br><br>4th: Move: <br>Move all but three of your warriors from each clearing to the adjacent clearing with the most enemy pieces. Then battle in each clearing you moved into.
-playerinfo.mechmarq.escalateddaylighttitle=Escalated Daylight
-playerinfo.mechmarq.evening=Score victory points listed on the rightmost empty space on your ordered Buildings track. If the order card is a bird card, use the track that would score the most victory points. (Unlike the Marquise de Cat, you do not score victory points for placing buildings.)
-playerinfo.mechmarq.fortified=<size=125%><b>Fortified</b></size><br>Your buildings each take two hits to remove. Taking a single hit with a building has no effect.
-playerinfo.mechmarq.hatesurp=Hates Surprises
-playerinfo.mechmarq.hatesurpdesc=Ambush cards cannot be played against bots.
-playerinfo.mechmarq.hospitals=<size=125%><b>Hospitals</b></size><br>At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place two warriors in the clearing with the keep token.
-playerinfo.mechmarq.ironwill=<size=125%><b>Iron Will</b></size><br>Whenever you Recruit in Escalated Daylight, place double the warriors.
-playerinfo.mechmarq.manualdex=Poor Manual Dexterity
-playerinfo.mechmarq.manualdexdesc=Has no hand. If a human would take a card from a bot, that human draws a card instead. If a human would give a card to a bot, they score 1 <style="vptext">VP</style> instead.
-playerinfo.mechmarq.nametitle=Mechanical Marquise
-playerinfo.mechmarq.nightmare=<size=125%><b>Nightmare</b></size><br>- Whenever you Recruit, also place two warriors in the ordered clearing you rule of highest priority. At the end of Evening, score one victory point.
-playerinfo.mechmarq.normal=<size=125%><b>Normal</b></size><br> - Nothing is changed.
-playerinfo.order=Order
-playerinfo.traits=Traits
-playerinfo.turnorder=Turn Order
-playerinfo.vagabond.attackformat=Attack: {0}
-playerinfo.vagabond.Birdsong=1st: Refresh 3 items + 2 items per <sprite name="teapot"> you have.<br><br>2nd: Slip into a clearing or forest for no cost.
-playerinfo.vagabond.daylight=• Take actions using items.<br>• Resolve Quests.
-playerinfo.vagabond.evening=1st: Evening's Rest - If in a forest, repair all items.<br><br>2nd: Draw a card (+1 card for each <sprite name="coinstack"> you have) then discard down to 5 cards.<br><br>3rd: Discard items down to your satchel limit (6 + 2 for each <sprite name="bag"> you have).
-playerinfo.vagabond.eveningsrest=Evening's Rest
-playerinfo.vagabond.eveningsrest.description=If in a forest during the evening, repair all items.
-playerinfo.vagabond.hostile.description=Score 1VP per hostile piece removed in battle.
-playerinfo.vagabond.hostile.exhaust=Must exhaust extra boot to enter Hostile clearings.
-playerinfo.vagabond.hostile.title=Hostile
-playerinfo.vagabond.lonewanderer.description=Your Pawn is not a warrior, cannot be removed from the map, and can move without ruling a clearing.
-playerinfo.vagabond.lonewanderer.title=Lone Wanderer
-playerinfo.vagabond.quests.title=Quests
-playerinfo.vagabond.refreshformat=Refresh: {0}
-playerinfo.vagabond.relationships.description=Aid a faction X times during one turn to shift its relationship marker right.
-playerinfo.vagabond.relationships.title=Relationships
-playerinfo.vagabond.satchel.title=Satchel
-playerinfo.vagabond.startingitems=Starting Items
-playerinfo.vagabond.summary=You wander the woods, seeking to secure a place in the new society that is taking shape.
-playerinfo.vagabond.title=Vagabond
-playerinfo.vagabot.12thitem=12th Item
-playerinfo.vagabot.6thitem=6th Item
-playerinfo.vagabot.9thitem=9th Item
-playerinfo.vagabot.aid=Aid
-playerinfo.vagabot.battle=Battle
-playerinfo.vagabot.battletrack=Battle Track
-playerinfo.vagabot.Birdsong=<b>1st:</b> Reveal an order card.<br><br><b>2nd:</b> Craft order card for <style="vpone">1</style> if it has an available item.<br><br><b>3rd:</b> Slip<br>If you have two or fewer undamaged items, move to a random adjacent forest, then go to evening.
-playerinfo.vagabot.daylight=Take the actions ordered in Daylight Actions.<br><br><b>Explore</b><br>Move to the nearest ruin, exhausting one item per move, then exhaust one item to take an item from that ruin<br><br><b>Quest</b><br>Move to the nearest clearing matching the quest. Then, exhaust any two items to discard the quest and score <style="vpone>1</style>. <br><br><b>Aid</b><br>Target the player in your clearing with any items and the least <style="vptext">VP</style> among those players. Exhaust as many items as possible up to the number of items they have, take that many items from them, and score that many <style="vptext">VP</style>. Then, they draw that many cards.<br><br><b>Battle</b><br>Move to the nearest clearing with any pieces of the enemy with the most <style="vptext">VP</style>, then exhaust one item to battle that player. Score <style="vpone>1</style> per enemy warrior removed. Repeat this action, exhausting two items per extra battle, as many times as possible.<br>If target defender is in multiple clearings at equal distance, move to clearing where they have most buildings and tokens, then fewest warriors.<br><br><b>Repair</b><br>If you have any damaged items, exhaust one item to repair one damaged item.<br><br><b>Special</b><br>Exhaust one item to use your characters special ability.
-playerinfo.vagabot.daylightactions=Daylight Actions
-playerinfo.vagabot.evening=<b>1st:</b> If you have any damaged items, refresh four undamaged items. If you have none, refresh six instead.<br><br><b>2nd:</b> If you are in a forest, repair all items. If not, repair one item.
-playerinfo.vagabot.explore=Explore
-playerinfo.vagabot.extra=As Attacker, deal one extra hit.
-playerinfo.vagabot.items=Only the total item count matters to the Vagabot.
-playerinfo.vagabot.maxhits=Maximum rolled hits starts at one.
-playerinfo.vagabot.maxthree=Max hits of three.
-playerinfo.vagabot.maxtwo=Max hits of two.
-playerinfo.vagabot.quest=Quest
-playerinfo.vagabot.quest.title=Quest
-playerinfo.vagabot.repair=Repair
-playerinfo.vagabot.special=Special
-playerinfo.woodlandalliance.bases.title=Bases
-playerinfo.woodlandalliance.guerrillawar.description=In battle as defender, you use the higher roll and the attacker uses the lower.
-playerinfo.woodlandalliance.guerrillawar.title=Guerrilla War
-playerinfo.woodlandalliance.officers.label=Officers
-playerinfo.woodlandalliance.outrage.description=When an enemy encounters or destroys sympathy, they must add a card matching the clearing to your supporters.
-playerinfo.woodlandalliance.outrage.exclaimation=Outrage!
-playerinfo.woodlandalliance.outrage.title=Outrage
-playerinfo.woodlandalliance.removingbases.desc=If a base is removed from the map, discard all matching supporters (including birds), and remove half of the officers (rounded up). If no bases remain on the map, discard supporters down to 5.
-playerinfo.woodlandalliance.removingbases.title=Removing Bases
-playerinfo.woodlandalliance.summary=You have the sympathy of the populace. Build support and rise up to expel the oppressors from the forest!
-playerinfo.woodlandalliance.supporters.label=Supporters
-playerinfo.woodlandalliance.sympathy.martiallaw=<b>Martial Law</b>: You must spend another matching supporter if the target clearing has at least 3 warriors of another player.
-playerinfo.woodlandalliance.sympathy.placementlimits=<b>Placement Limits</b>: Each clearing may only have one sympathy token.
-playerinfo.woodlandalliance.sympathy.title=Sympathy Track
-playerinfo.woodlandalliance.title=Woodland Alliance
-playernames.guestdisplayname=You
-playerui.craftedcards.label=Crafted Cards
-playerui.label.damage=Damage
+playerinfo.eyriedynasties.lordsoftheforest.description=당신은 존재 수가 동률인 공터에서도 지배권을 가집니다.
+playerinfo.eyriedynasties.lordsoftheforest.title=숲의 군주
+playerinfo.eyriedynasties.rooststitle=둥지
+playerinfo.eyriedynasties.summary=한때의 약세를 틈타 고양이 후작이 숲을 장악했습니다. 이제 당신은 다시 힘을 모아, 본래의 영토를 되찾을 준비를 마쳤습니다.
+playerinfo.eyriedynasty.title=이어리 왕조
+playerinfo.label.cardsinhand=손에 든 카드
+playerinfo.label.warriors=남은 전사
+playerinfo.marquise.Birdsong=각 제재소 <sprite name="CatSawmill">에 목재 <sprite name="Wood">를 하나씩 놓습니다.
+playerinfo.marquise.daylight=1단계: 제작<br>2단계: 최대 3번 행동 수행<br><line-indent=15%>• 전투<br>• 행군<br>• 모집<br>• 건설<br>• 과로
+playerinfo.marquise.evening=카드를 한 장 뽑습니다 (+모집궤에서 <sprite name="DrawCard">를 얻은 개수만큼 추가). 이후, 손에 든 카드가 5장을 초과하면 버립니다.
+playerinfo.marquisedecat.fieldhospital.description=전사가 사망하면, 같은 문양의 카드를 소모하여 그 전사를 성채로 되돌릴 수 있습니다.
+playerinfo.marquisedecat.fieldhospital.title=야전 병원
+playerinfo.marquisedecat.keep.description=성채 토큰이 있는 공터에는 오직 당신만이 자신의 말을 배치할 수 있습니다.
+playerinfo.marquisedecat.keep.title=성채
+playerinfo.marquisedecat.recruiters.title=모병소
+playerinfo.marquisedecat.recruiterstitle=모병소
+playerinfo.marquisedecat.sawmills.title=제재소
+playerinfo.marquisedecat.sawmillstitle=제재소
+playerinfo.marquisedecat.summary=당신은 숲을 정복했습니다. 이제는 그 이름에 걸맞은 왕국을 건설해야 합니다.
+playerinfo.marquisedecat.title=고양이 후작
+playerinfo.marquisedecat.workshops.title=공방
+playerinfo.marquisedecat.workshopstitle=공방
+playerinfo.mechmarq.Birdsong=1단계: 명령 카드 한 장을 공개합니다.<br><br>2단계: 해당 카드가 제작 가능한 아이템을 포함하고 있다면, <style="vpone">1</style> 비용으로 제작합니다.
+playerinfo.mechmarq.blitz=<size=125%><b>기습</b></size><br>이동 후, 당신이 지배하는 공터 중 적의 말이 없는 최우선 공터를 찾습니다. 그 공터에서 말을 하나 남기고 나머지를 이동시킨 후, 도착한 공터에서 전투를 시작합니다.
+playerinfo.mechmarq.challenging=<size=125%><b>도전적</b></size><br>- 모집 시, 명령된 공터에서 추가로 전사 2명을 배치합니다.
+playerinfo.mechmarq.daylight=명령 카드가 <sprite name="birdicon"> 카드라면, 강화된 낮 단계를 수행합니다.<br>1단계: 전투<br>각 명령된 공터에서 전투를 수행합니다. 수비자는 해당 공터에 가장 많은 말을 가진 플레이어이며, 동률이면 <style="vptext">승점</style>이 높은 플레이어가 수비자가 됩니다.<br><br>2단계: 모집<br>명령된 공터 중 당신이 지배하는 곳에 전사 4명을 균등하게 배치합니다. 3곳을 지배하고 있다면, 네 번째 전사는 우선순위가 가장 높은 공터에 배치됩니다.<br><br>3단계: 건설<br>당신의 전사가 가장 많은 공터에 건물을 하나 배치합니다. 명령 카드가 <sprite name="ClearingFox">라면 제재소, <sprite name="ClearingRabbit">라면 공방, <sprite name="ClearingMouse">라면 모병소를 배치합니다.<br><br>4단계: 이동<br>각 명령된 공터에서 전사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킵니다.<br><br>5단계: 확장<br>이번 턴에 건물을 배치하지 않았고 지도 위에 건물이 5개 이하라면, 현재 명령 카드를 버리고 새 명령 카드를 뽑아 공개한 후, 제작 없이 낮 단계의 처음으로 돌아갑니다.
+playerinfo.mechmarq.easy=<size=125%><b>쉬움</b></size><br>- 모집 시, 전사 2명만 배치합니다.
+playerinfo.mechmarq.escalateddaylight=1단계: 전투<br>각 공터에서 전투를 수행합니다. 동률 판정은 일반 낮 단계와 동일합니다.<br><br>2단계: 모집<br>우선순위가 가장 낮은 당신이 지배하는 공터 두 곳에 전사 2명씩 배치합니다. 하나의 공터만 지배하고 있다면, 모든 전사를 그곳에 배치합니다.<br><br>3단계: 건설<br>지도 위에서 가장 많은 말을 가진 유형의 건물을, 당신이 지배하는 전사가 가장 많은 공터에 배치합니다. 동률이면 제재소 → 모병소 → 공방 순으로 배치합니다.<br><br>4단계: 이동<br>각 공터에서 전사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킨 후, 그곳에서 전투를 수행합니다.
+playerinfo.mechmarq.escalateddaylighttitle=강화된 낮 단계
+playerinfo.mechmarq.evening=당신의 건물 궤에서 가장 오른쪽의 빈 칸에 적힌 승점을 획득합니다. 명령 카드가 새 카드라면, 가장 높은 승점을 획득할 수 있는 건물 궤를 사용합니다. (고양이 후작과 달리 건물을 배치해도 승점을 얻지 않습니다.)
+playerinfo.mechmarq.fortified=<size=125%><b>요새화</b></size><br>각 건물은 제거되기 위해 두 번의 피해를 받아야 합니다. 건물이 한 번만 피해를 입으면 아무 효과도 없습니다.
+playerinfo.mechmarq.hatesurp=기습을 싫어함
+playerinfo.mechmarq.hatesurpdesc=봇을 대상으로 매복 카드를 사용할 수 없습니다.
+playerinfo.mechmarq.nametitle=기계 후작
+playerinfo.mechmarq.ironwill=<size=125%><b>강철 의지</b></size><br>고조된 낮 동안 모병할 때마다 전사를 두 배로 배치합니다.
+playerinfo.mechmarq.manualdex=서투른 손놀림  
+playerinfo.mechmarq.manualdexdesc=손에 카드를 들고 있지 않습니다. 인간 플레이어가 봇에게서 카드를 가져와야 하는 경우, 대신 카드 한 장을 뽑습니다. 인간 플레이어가 봇에게 카드를 주어야 하는 경우, 대신 <style="vptext">1VP</style>를 획득합니다.
+playerinfo.mechmarq.nametitle=메카 후작  
+playerinfo.mechmarq.nightmare=<size=125%><b>악몽</b></size><br>- 모병할 때마다, 추가로 가장 우선순위가 높은 본인이 지배하는 공터에 전사 두 명을 배치합니다. 저녁 종료 시, 승점 1점을 획득합니다.
+playerinfo.mechmarq.normal=<size=125%><b>일반</b></size><br>- 변경 사항이 없습니다.
+playerinfo.order=명령 
+playerinfo.traits=특성
+playerinfo.turnorder=턴 순서
+playerinfo.vagabond.attackformat=공격: {0}
+playerinfo.vagabond.Birdsong=1단계: 아이템 3개 + <sprite name="teapot">당 2개를 회복합니다.<br><br>2단계: 비용 없이 공터나 숲으로 이동합니다.
+playerinfo.vagabond.daylight=• 아이템을 사용해 행동합니다.<br>• 퀘스트를 해결합니다.
+playerinfo.vagabond.evening=1단계: 저녁 휴식 - 숲에 있다면 모든 아이템을 수리합니다.<br><br>2단계: 카드를 한 장 뽑고, <sprite name="coinstack">당 1장 추가로 뽑은 후, 손에 든 카드가 5장을 초과하면 버립니다.<br><br>3단계: 가방 한도(기본 6 + <sprite name="bag">당 2)까지 아이템을 버립니다.
+playerinfo.vagabond.eveningsrest=저녁 휴식
+playerinfo.vagabond.eveningsrest.description=저녁에 숲에 있다면 모든 아이템을 수리합니다.
+playerinfo.vagabond.hostile.description=전투에서 적군 말을 제거할 때마다 1점을 획득합니다.
+playerinfo.vagabond.hostile.exhaust=적대적인 공터로 이동하려면 추가 부츠를 소진해야 합니다.
+playerinfo.vagabond.hostile.title=적대적 관계
+playerinfo.vagabond.lonewanderer.description=당신의 말을 전사로 취급하지 않으며, 지도에서 제거되지 않고, 공터를 지배하지 않아도 이동할 수 있습니다.
+playerinfo.vagabond.lonewanderer.title=외로운 방랑자
+playerinfo.vagabond.quests.title=퀘스트
+playerinfo.vagabond.refreshformat=회복: {0}
+playerinfo.vagabond.relationships.description=한 턴 동안 한 세력에게 원조를 X번 하면 그 세력과의 관계를 개선할 수 있습니다.
+playerinfo.vagabond.relationships.title=관계
+playerinfo.vagabond.satchel.title=배낭
+playerinfo.vagabond.startingitems=시작 아이템
+playerinfo.vagabond.summary=당신은 숲속을 방랑하며 새롭게 형성되는 사회에서 자리를 잡으려 합니다.
+playerinfo.vagabond.title=방랑자
+playerinfo.vagabot.12thitem=12번째 아이템
+playerinfo.vagabot.6thitem=6번째 아이템
+playerinfo.vagabot.9thitem=9번째 아이템
+playerinfo.vagabot.aid=원조
+playerinfo.vagabot.battle=전투
+playerinfo.vagabot.battletrack=전투 기록
+playerinfo.vagabot.Birdsong=<b>1단계:</b> 명령 카드를 공개합니다.<br><br><b>2단계:</b> 명령 카드에 아이템이 있다면 제작하고 <style="vpone">1점</style>을 획득합니다.<br><br><b>3단계:</b> 이동<br>사용할 수 있는 아이템이 두 개 이하라면, 인접한 무작위 숲으로 이동한 후 저녁으로 넘어갑니다.
+playerinfo.vagabot.daylight=주어진 낮 행동을 수행합니다.<br><br><b>탐색</b><br>가장 가까운 폐허로 이동합니다. 이동할 때마다 아이템을 하나 소진하며, 폐허에 도착하면 추가로 하나를 소진하여 폐허에서 아이템을 획득합니다.<br><br><b>퀘스트</b><br>가장 가까운 퀘스트 조건을 충족하는 공터로 이동한 후, 아이템 두 개를 소진하여 퀘스트를 완료하고 <style="vpone">1점</style>을 획득합니다.<br><br><b>원조</b><br>같은 공터에 있는 플레이어 중 아이템을 보유하고 있으며 가장 낮은 <style="vptext">VP</style>를 가진 대상을 선택합니다. 상대의 아이템 개수만큼 아이템을 소진하여 같은 개수의 아이템을 가져오고, 그만큼 <style="vptext">VP</style>를 획득합니다. 이후 상대는 같은 수의 카드를 뽑습니다.<br><br><b>전투</b><br>가장 높은 <style="vptext">VP</style>를 보유한 적이 있는 가장 가까운 공터로 이동한 후, 아이템 하나를 소진하여 해당 플레이어와 전투를 벌입니다. 제거한 적 전사당 <style="vpone">1점</style>을 획득합니다. 추가 전투를 진행할 경우, 전투당 아이템 두 개를 추가로 소진해야 합니다.<br>여러 공터에 대상이 있다면, 건물과 토큰이 가장 많은 곳으로 이동하고, 동일할 경우 전사가 가장 적은 곳을 우선합니다.<br><br><b>수리</b><br>손상된 아이템이 있다면, 아이템 하나를 소진하여 아이템 하나를 수리합니다.<br><br><b>특수 행동</b><br>아이템 하나를 소진하여 특수 능력을 사용합니다.
+playerinfo.vagabot.daylightactions=낮 행동
+playerinfo.vagabot.evening=<b>1단계:</b> 손상된 아이템이 있다면, 사용할 수 있는 아이템 4개를 회복합니다. 손상된 아이템이 없다면 6개를 회복합니다.<br><br><b>2단계:</b> 숲에 있다면 모든 아이템을 수리합니다. 그렇지 않다면 아이템 하나를 수리합니다.
+playerinfo.vagabot.explore=탐색
+playerinfo.vagabot.extra=공격자로서 추가 피해 1점을 줍니다.
+playerinfo.vagabot.items=방랑자의 경우 총 아이템 개수만 중요합니다.
+playerinfo.vagabot.maxhits=기본 최대 피해는 1입니다.
+playerinfo.vagabot.maxthree=최대 피해 3점.
+playerinfo.vagabot.maxtwo=최대 피해 2점.
+playerinfo.vagabot.quest=퀘스트
+playerinfo.vagabot.quest.title=퀘스트
+playerinfo.vagabot.repair=수리
+playerinfo.vagabot.special=특수 행동
+playerinfo.woodlandalliance.bases.title=기지
+playerinfo.woodlandalliance.guerrillawar.description=수비자로서 전투 시 주사위에서 높은 값을 사용하고, 공격자는 낮은 값을 사용합니다.
+playerinfo.woodlandalliance.guerrillawar.title=게릴라 전술
+playerinfo.woodlandalliance.officers.label=장교
+playerinfo.woodlandalliance.outrage.description=상대가 동조 토큰을 건드리거나 제거하면, 해당 공터의 문양과 일치하는 카드를 후원자로 추가해야 합니다.
+playerinfo.woodlandalliance.outrage.exclaimation=격분!
+playerinfo.woodlandalliance.outrage.title=격분
+playerinfo.woodlandalliance.removingbases.desc=기지가 지도에서 제거되면, 해당 문양(새 포함)의 모든 후원자를 버리고, 장교의 절반(반올림)을 제거합니다. 지도에 기지가 남아 있지 않다면, 후원자 수를 5장 이하로 줄입니다.
+playerinfo.woodlandalliance.removingbases.title=기지 제거
+playerinfo.woodlandalliance.summary=당신은 민중의 지지를 받습니다. 동조를 확산하고 봉기하여 숲에서 억압자들을 몰아내세요!
+playerinfo.woodlandalliance.supporters.label=후원자
+playerinfo.woodlandalliance.sympathy.martiallaw=<b>계엄령</b>: 목표 공터에 다른 플레이어의 전사가 3명 이상 있다면, 추가로 후원자 한 장을 소모해야 합니다.
+playerinfo.woodlandalliance.sympathy.placementlimits=<b>배치 제한</b>: 각 공터에는 동조 토큰이 하나만 놓일 수 있습니다.
+playerinfo.woodlandalliance.sympathy.title=동조 기록
+playerinfo.woodlandalliance.title=우드랜드 연합
+playernames.guestdisplayname=당신
+playerui.craftedcards.label=제작한 카드
+playerui.label.damage=손상
