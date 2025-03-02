@@ -1,0 +1,100 @@
+The Vagabond may Aid a player twice in one turn to improve this relationship and score <sprite name="2VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.two=<size=125%><b>Relationship</b></size>\
+The Vagabond may Aid a player three times in one turn to improve this relationship and score <sprite name="2VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.allied=<size=125%><b>Allied</b></size>\
+The Vagabond may move and battle with allied warriors. Aiding an ally scores <sprite name="2VP">.
+tooltip.ui.vagabond.vagabond_ranger=<size=125%><b>Ranger</b></size>\
+tooltip.ui.vagabond.vagabond_thief=<size=125%><b>Thief</b></size>\
+tooltip.ui.vagabond.vagabond_tinker=<size=125%><b>Tinker</b></size>\
+tooltip.item.status.damaged=\
+tooltip.item.status.exhausted=\
+tooltip.prompts.shop.availableitems=<size=125%><b>Craftable Items</b></size>\
+tooltip.prompts.shop.availabledominance=<size=125%><b>Available Dominance Cards</b></size>\
+tooltip.playmat.foundation=<size=125%><b>Building Slot</b></size>\
+tooltip.ui.alliance.sympathysupporterbracket=<size=125%><b>Supporter Cost Tier</b></size>\
+tooltip.gameoptions.timer.fast=<size=125%><b>3 Minutes</b></size>\
+tooltip.gameoptions.timer.slow=<size=125%><b>3 Days</b></size>\
+tooltip.ui.vagabond.satcheldiscard=<size=125%>Your Satchel is overcrowded. At the end of turn you must discard {0} items.
+tooltip.ui.buildmodal.woodcost=<size=125%><b>Wood Cost</b></size>
+tooltip.ui.buildmodal.extracard=Building this unlocks an additional card draw during Evening.
+tooltip.ui.buildmodal.victorypoints=Victory Points earned for building.
+tooltip.ui.actions=<size=125%><b>Actions Remaining</b></size>
+tooltip.ui.phase.Birdsong=<size=125%><b>Birdsong</b></size>
+tooltip.ui.phase.daylight=<size=125%><b>Daylight</b></size>
+tooltip.ui.phase.evening=<size=125%><b>Evening</b></size>
+tooltip.playmat.foxclearing=<size=125%><b>Fox Clearing</b></size>
+tooltip.playmat.rabbitclearing=<size=125%><b>Rabbit Clearing</b></size>
+tooltip.playmat.mouseclearing=<size=125%><b>Mouse Clearing</b></size>
+tooltip.ui.phase.minimize=<size=125%><b>Minimize Window</b></size>
+tooltip.ui.phase.expand=<size=125%><b>Expand Window</b></size>
+tooltip.ui.phase.info=<size=125%><b>Faction Phase Order</b></size>
+tooltip.ui.faction.info=<size=125%><b>Faction Details</b></size>
+tooltip.ui.phase.movetodaylight=<size=125%><b>Continue to Daylight</b></size>
+tooltip.ui.phase.movetoevening=<size=125%><b>Continue to Evening</b></size>
+tooltip.ui.phase.skip=<size=125%><b>Skip</b></size>
+tooltip.ui.phase.endturn=<size=125%><b>End Turn</b></size>
+tooltip.ui.phase.cancel=<size=125%><b>Cancel</b></size>
+tooltip.ui.defenseless=Defenseless
+tooltip.ui.commander=Commander
+tooltip.ui.brutaltactics=Brutal Tactics
+tooltip.ui.sappers=Sappers
+tooltip.ui.armorers=Armorers
+tooltip.ui.totalhitdef=Total Hits (Defender)
+tooltip.ui.totalhitatk=Total Hits (Attacker)
+tooltip.ui.rolledhit=Rolled Hits
+tooltip.ui.factionwarning=This faction combination may be low on interaction. Play at your own risk.
+tooltip.ui.victorypoints.practice=<size=125%><b>Victory Points</b></size>\
+In this practice game, the first player to <style="vpnumdd">20</style> wins.
+tooltip.ui.victorypoints.altwin.challenges=<size=125%><b>Victory Points</b></size>\
+In a typical game, the first player to <style="vpnumdd">30</style> wins. Review challenge rules icon on the right for instructions how to win this challenge.
+tooltip.ui.hand.reveal.cat=<size=125%><b>Marquise de Cat Hand</b></size> View the Marquise de Cat hand revealed in the last Outrage.
+tooltip.ui.hand.reveal.eyrie=<size=125%><b>Eyrie Dynasties Hand</b></size> View the Eyrie Dynasties hand revealed in the last Outrage.
+tooltip.ui.hand.reveal.vagabond=<size=125%><b>Vagabond Hand</b></size> View the Vagabond hand revealed in the last Outrage.
+tooltip.ui.martiallaw=<size=125%><b>Martial Law</b></size> You must spend another matching supporter if the target clearing has at least 3 warriors of another player.
+tooltip.mechorder=<size=125%><b>Order</b></size><br>The suit of the order determines what actions a Clockwork player takes on their turn.
+tooltip.ui.firstturn=This player will take the first turn after setup. Play order proceeds down the list.
+landing.achievements.gc=Achievements
+tooltip.ui.actionlog=<size=125%><b>Action Log</b></size><br>Displays actions previously taken in the game.
+tooltip.ui.hitsearned=Hits earned from your die roll can't exceed the number of warriors you have in this clearing.
+tooltip.ui.vagabondhitsearned=Hits earned from your die roll can't exceed the number of swords you have in your satchel.
+tooltip.ui.daylightactions=<size=125%><b>Daylight Actions</b></size><br>Actions determined by the suit of the order card.
+tooltip.ui.vbbattletrack=<size=125%><b>Battle Track</b></size><br>The Vagabot’s maximum rolled hits in battle begins at one. While the Vagabot has at least six, nine, and twelve undamaged items, an item is placed here. The sixth and ninth item slots each increase maximum rolled hits by one, and the twelfth makes him deal one extra hit
+tooltip.ui.crackdown=<size=125%><b>Crackdown:</b></size><br>Whenever a base is removed, return all sympathy tokens from clearings matching the suit of the base removed
+tooltip.ui.coop=<size=125%><b>Cooperative Play</b></size><br>Play as a team against clockwork opponents. To win, players (and AI) must each score 30 victory points before any clockwork opponent scores 30 victory points. Dominance cards are removed.
+landing.grm=Go to Dire Wolf Game Room App
+grm.return=Return to Dire Wolf Game Room App
+tooltip.opponent.mechanical.marquise=<size=125%><b>Mechanical Marquise Opponent</b></size>
+tooltip.opponent.electric.eyrie=<size=125%><b>Electric Eyrie Opponent</b></size>
+tooltip.opponent.automated.alliance=<size=125%><b>Automated Alliance Opponent</b></size>
+tooltip.opponent.vagabot=<size=125%><b>Vagabot Opponent</b></size>
+tooltip.regularmap=<size=125%><b>Autumn Map</b></size><br> The standard Root map.
+tooltip.fallmap=<size=125%><b>Autumn Map</b></size><br> The standard Root map.
+tooltip.wintermap=<size=125%><b>Winter Map</b></size><br> An advanced map with randomized clearing suit locations. Unlike in the Autumn map, the river divides the forest as if it were a path.
+tooltip.outrage.reminder=Moving to this clearing will trigger Outrage.
+tooltip.giftegg=<size=125%><b>Egg</b></size><br>Move into a clearing with an egg to hatch an Eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>.
+tooltip.clockwork.settings=Clockwork Trait and Difficulty Settings
+tooltip.undo=Undo
+tooltip.armorers.battle=<size=125%><b>Armorers:</b></size><br>Ignore all rolled hits taken.
+tooltip.electriceyrie.battle=<size=125%><b>Extra Hit</b></size><br>Additional hit added because Electric Eyrie has more cards in the battle column of their decree than any other column.
+tooltip.brutaltactics.battle=<size=125%><b>Brutal Tactics:</b></size><br>Deal an extra hit. Defender scores 1<style="vptext">VP</style>.
+tooltip.defenseless.battle=<size=125%><b> Defenseless:</b></size><br>Deal an additional hit since the Defender has no warriors in this clearing.
+tooltip.commander.battle=<size=125%><b>Commander:</b></size><br>As attacker in battle, you deal an extra hit.
+tooltip.sappers.battle=<size=125%><b>Sappers:</b></size><br>The Defender deals an extra hit.
+tooltip.autoambush.battle=<size=125%><b>Automated Ambush:</b></size><br>The defender deals an extra hit in battle with any Alliance warriors.
+tooltip.arbiterprotector.battle=<size=125%><b>Protector:</b></size><br>The Arbiter adds their undamaged swords to the defender's maximum rolled hits.
+tooltip.settingsmenu=<b>Settings</b>
+tooltip.direbytes=<b>Dire Wolf News</b>
+tooltip.leaderboards=<b>Leaderboards</b>
+tooltip.friends=<b>Friends</b>
+tooltip.minimize=<b>Minimize</b>
+tooltip.expand=<b>Expand</b>
+decree.fox.tooltip=Fox suits are used to interact with Fox clearings.
+decree.mouse.tooltip=Mouse suits are used to interact with mouse clearings.
+decree.rabbit.tooltip=Rabbit suits are used to interact with rabbit clearings.
+decree.bird.tooltip=Bird suits are used to interact with any clearings type.
+cat.nowood.tooltip=This clearing is cut off from some of your wood sources. Remember, you may only build using wood connected through clearings you rule.
+cat.snareblock.tooltip=You can't build here because of the Corvid's Snare.
+tooltip.ui.randomfactionsonly=<size=125%><b>Random Factions</b></size><br>Players and AI will not have the option to pick their faction. Clockwork factions are excluded from this rule.
+tooltip.ui.hand.revealed=Revealed Cards
+tooltip.chat=<b>Chat</b>
+title.introduction=Introduction

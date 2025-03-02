@@ -1,13 +1,100 @@
-log.break=[faction name] cracks an egg for <style="vpnum">1</style> in a [suit icon] clearing.
-Log.Move.Vagabond.Hostile=[faction name] exhausts <sprite name="boot"><sprite name="boot"> to move into a [suit icon] clearing.
-Log.Move.Vagabond.Dynamic=[faction name] exhausts [boots] to move into a [suit icon] clearing.
-Log.Move.Vagabond.Free=[faction name] moves into a [suit icon] clearing for no boot cost.
-log.advancedsetup.returncards=[faction name] shuffles 2 cards from their hand into the deck.
-log.raid=A Raid is removed which causes Corvid Conspiracy to add a warrior to each clearing adjacent to the [suit icon] clearing where it was removed.
-log.player.won=[faction name] Wins!
-login.versionPrefix=Build:
-singleplayer.selectfaction=Select Faction
-eula.acceptTerms=I agree
-eula.requestUpdates=Send me news
-eula.title=End User License Agreement
-eula.body=<b>License</b><br>By using this Dire Wolf Digital game (the “Game”) containing this software, you agree that this End User License Agreement (“Agreement”) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.<br><br><uppercase>PLEASE READ THIS END USE LICENSE AGREEMENT CAREFULLY AND ENSURE YOU UNDERSTAND ALL THE FOLLOWING TERMS AND CONDITIONS BEFORE ACCESSING OR USING THE GAME SERVICES.</uppercase><br><br>Your use of the Game indicates your acceptance of this Agreement and warranty.<br><br>Subject to the terms of this Agreement, Dire Wolf Digital grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use the Game in accordance with this Agreement and any other written Agreement with Dire Wolf Digital. Dire Wolf Digital does not transfer the title of the Game to you; the license granted to you is not a sale. This Agreement is a binding legal agreement between Dire Wolf Digital and the purchasers or users of the Game.<br><br>If you do not agree to be bound by this Agreement, remove the Game from your computer or similar device now.<br><br><b>Distribution</b><br>The Game and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred, or sub-licensed in whole or in part.<br><br><b>User Agreement</b><br>You shall use the Game in compliance with all applicable laws and not for any unlawful purpose. Use of the Game means that you have loaded, installed, or run the Game on a computer or similar device.<br><br>To use the online services portion of the Game, you must create an account. You may create an account only if you possess full legal capacity in your country of residence and you have not been specifically prohibited from creating an Account by Dire Wolf Digital. For purposes of this Agreement, online services indicates the means and methods for connecting to other players to engage in chat and play multiplayer games.<br><br>You shall not use, create, promote, or distribute cheats, bots, hacks or any software that exploits, changes, or automates the control, gameplay, or any other functionality of the Game.<br><br>You shall not use any process or software that collects or collates data generated or stored by the Game.<br><br>You shall not use, display or distribution of the Game together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating, or displaying prejudice based on religion, ethnic heritage, race, gender, sexual orientation, or age.<br><br><b>Copyright Restriction</b><br>This Game contains copyrighted material, trade secrets, and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble, or decompile the Game. You shall not create any derivative works or other works that are based upon or derived from the Game in whole or in part.<br><br>Dire Wolf Digital's name, logo, and graphics file that represents the Game shall not be used in any way to promote non-Dire Wolf Digital products. Dire Wolf Digital retains sole and exclusive ownership of all right, title and interest in and to the Game and all Intellectual Property rights relating thereto.<br><br>Copyright law and international copyright treaty provisions protect all parts of the Game, products, and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Dire Wolf Digital.<br><br><b>Limitation of Responsibility</b><br>You will indemnify, hold harmless, and defend Dire Wolf Digital, its employees, agents, and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Dire Wolf Digital's Software.<br><br>In no event (including, without limitation, in the event of negligence) will Dire Wolf Digital, its employees, agents, or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, the Game or the use or inability to use the Game or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.<br><br><b>Warranties</b><br>Except as expressly stated in writing, Dire Wolf Digital makes no representation or warranties in respect of this software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.<br><br><b>Governing Law</b><br>This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado, without regard to principles of conflict of laws. Any dispute arising under this EULA shall be heard exclusively in a federal or state court sitting in the City and County of Denver, Colorado, and you hereby irrevocably agree to the non-exclusive jurisdiction of such courts. If any provision of this Agreement shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.<br><br><b>Termination</b><br>Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license for any reason, you agree to immediately cease use of the Game and destroy all copies of the Game supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.<br><br><b>Disclaimer of Warranty</b><br><uppercase>THIS SOFTWARE AND THE ACCOMPANYING FILES ARE PROVIDED AND/OR SOLD "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF PERFORMANCE, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE), AND ALL SUCH WARRANTIES ARE HEREBY DISCLAIMED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY THE GAME AS WELL.</uppercase><br><br>
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigreAbility.move.opponent=[player] is choosing a clearing to move from using Eyrie Emigre.
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.battle=Choose an enemy to battle using Eyrie Emigre.
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.battle.opponent=[player] is choosing an enemy to battle using Eyrie Emigre.
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.confirmdiscard=You were unable to move and/or battle with Eyrie Emigre. Press continue to discard it.
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.confirmdiscard.opponent=[player] must discard Eyrie Emigre since they were unable to either move or battle with it.
+tuber.canis.abilities.FalseOrdersAbility.destination=Select clearing to move half.
+tuber.canis.abilities.FalseOrdersAbility.destination.opponent=[player] is choosing a clearing to move enemy warriors to with False Orders.
+tuber.canis.abilities.FalseOrdersAbility.origin=Select warriors to move using False Orders.
+tuber.canis.abilities.FalseOrdersAbility.origin.opponent=[player] is choosing enemy warriors to move with False Orders.
+tuber.canis.abilities.ExilesAndPartisansAbilities.InformantsAbility=Choose Ambush to draw
+tuber.canis.abilities.ExilesAndPartisansAbilities.InformantsAbility.opponent=[player] is choosing an ambush to draw from the discard pile using Informants.
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.cost=Choose an item to exhaust.
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.cost.opponent=[player] is choosing an item to exhaust for League of Adventurous Mice.
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.move=Move
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.move.opponent=[player] is choosing a clearing to move to with League of Adventurous Mice.
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.battle=Battle
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.battle.opponent=[player] is choosing a clearing to battle in with League of Adventurous Mice.
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.outcome=Choose one
+tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.outcome.opponent=[player] is choosing whether to move or battle with League of Adventurous Mice.
+button.move=Move
+button.battle=Battle
+tuber.canis.abilities.PropagandaBureauAbility.warrior=Choose a warrior to replace with one of your own.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.opponent=[player] is choosing a warrior to replace using Propaganda Bureau.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond=Choose a warrior to remove.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond.opponent=[player] is choosing a warrior to remove using Propaganda Bureau.
+tuber.canis.abilities.PropagandaBureauAbility.card=Choose a card to discard.
+tuber.canis.abilities.PropagandaBureauAbility.card.opponent=[player] is choosing a card to discard to pay the cost of Propaganda Bureau.
+tuber.canis.abilities.ExilesAndPartisansAbilities.SaboteursAbility.discard=Choose an enemy card to discard from play.
+tuber.canis.abilities.ExilesAndPartisansAbilities.SaboteursAbility.discard.opponent=[player] is choosing an enemy card to discard from play.
+tuber.canis.abilities.ExilesAndPartisansAbilities.SaboteursAbility.player=Choose a player for Saboteurs.
+tuber.canis.abilities.ExilesAndPartisansAbilities.SaboteursAbility.player.opponent=[player] is choosing a player to target with Saboteurs.
+tuber.canis.abilities.SwapMeetAbility.give=Choose a card to give to [USERNAME].
+tuber.canis.abilities.SwapMeetAbility.give.opponent=[player] is choosing a card to give away with Swap Meet.
+tuber.canis.abilities.SwapMeetAbility.player=Choose a player to swap a card with.
+tuber.canis.abilities.SwapMeetAbility.player.opponent=[player] is choosing a player to swap a card with.
+Log.BoatBuilders=
+Log.CharmOffensive=[faction name] uses Charm Offensive to draw a card and gives [faction name 2] 1 <style="vptext">VP</style>.
+Log.CoffinMakers.Warriors=[X] removed warriors placed on Coffin Makers instead of the supply.
+Log.CoffinMakers.Warriors.One=One removed warrior placed on Coffin Makers instead of the supply.
+Log.CoffinMakers.Points=[faction name] scores [X] <style="vptext">VP</style> from Coffin Makers. [X2] warriors on Coffin Makers are returned to the supply.
+Log.CoffinMakers.Points.One=[faction name] scores [X] <style="vptext">VP</style> from Coffin Makers. One warrior on Coffin Makers is returned to the supply.
+Log.EyrieEmigre.Move=[faction name] uses Eyrie Emigre to move [X] warriors into a [suit icon] clearing but doesn't battle.
+Log.EyrieEmigre.Move.One=[faction name] uses Eyrie Emigre to move 1 warrior into a [suit icon] clearing but doesn't battle.
+Log.EyrieEmigre.Battle=[faction name] uses Eyrie Emigre to move [X] warriors into a [suit icon] clearing and battle [faction name 2].
+Log.EyrieEmigre.Battle.One=[faction name] uses Eyrie Emigre to move 1 warrior into a [suit icon] clearing and battle [faction name 2].
+Log.EyrieEmigre.Discard=[faction name] discards their Eyrie Emigre since they didn't move and battle with it.
+Log.FalseOrdersAbility=[faction name] discards False Orders to move [X] [faction name 2] warriors to a [suit icon] clearing.
+Log.Informants=[faction name] draws a [suit icon] ambush from the discard pile using Informants.
+Log.LeagueOfAdventurousMice=[faction name] exhausts [item icon] to use League of Adventurous Mice.
+Log.MasterEngravers=[faction name] gains 1 <style="vptext">VP</style> for crafting an item with Master Engravers.
+Log.MurineBroker=[faction name] draws a card with Murine Broker from an item being crafted.
+Log.Partisans=[faction name] discards [cardnames] to add an extra hit with [name].
+Log.PropagandaBureauAbility=[faction name] uses Propaganda Bureau to discard [name], replacing a [faction name 2] warrior in a [suit icon] clearing with one of their own.
+Log.PropagandaBureauAbility.NoReplacement=[faction name] uses Propaganda Bureau to discard [name], simply removing a [faction name 2] warrior.
+Log.SaboteursAbility=[faction name] discards Saboteurs to discard [faction name 2]'s [name].
+Log.SwapMeetAbility=[faction name] uses Swap Meet to trade a card with [faction name 2].
+Log.Tunnels=[faction name] moved using Tunnels.
+warning.unusable=Your faction can't use this card's ability. Are you sure you want to craft it?
+warning.unusable.opponent=Opponent is considering crafting.
+warning.unusable.boat=Your faction already has this ability. Are you sure you want to craft it?
+warning.unusable.boat.opponent=Opponent is considering crafting.
+playmat.saboteursdiscard=Discarded by Saboteurs!
+tooltip.ui.enp=Deck Used
+tooltip.partisanbunny.battle=<size=125%><b>Rabbit Partisans:</b></size><br>In battle in rabbit clearings, may deal one extra hit, then discard all cards except rabbits.
+tooltip.partisanmouse.battle=<size=125%><b>Mouse Partisans:</b></size><br>In battle in mouse clearings, may deal one extra hit, then discard all cards except mice.
+tooltip.partisanfox.battle=<size=125%><b>Fox Partisans:</b></size><br>In battle in fox clearings, may deal one extra hit, then discard all cards except foxes.
+aiplayername.corvidconspiracy=Corvid Conspiracy
+aiplayername.undergroundduchy=Underground Duchy
+battledamage.fx.embeddedagents=Embedded Agents!
+battledamage.fx.offensiveagents=Offensive Agents!
+cct.Birdsong.t1.recruit=Now the games really begin. In Birdsong, you may spend a card from your hand to place one <sprite name="corvid"><color=#6B5182>warrior</color> in each clearing matching its suit.
+cct.Birdsong.t2.craft=Your <color=#6B5182>plots</color> on the map (hidden or not) contribute the suit of their clearing towards crafting during Birdsong.
+cct.Birdsong.t2.flip.1=Next, you can reveal <color=#6B5182>plots</color> in clearings where you have at least one <sprite name="corvid"><color=#6B5182>warrior</color>. Start by revealing your <sprite name="plot_extortion"> <color=#6B5182>Extortion plot</color> to steal a card.<br>Each revealed <sprite name="plot_extortion"> will also draw you an extra card in Evening.
+cct.Birdsong.t2.flip.2=When you reveal a <sprite name="Plot"> <color=#6B5182>plot</color>, you score <sprite name="1VP"> for each revealed <sprite name="Plot"> <color=#6B5182>plot token</color> on the map.
+cct.Birdsong.t2.recruit=Finally, let's discard a card to recruit again. Do so now in <sprite name="ClearingMouse"> clearings.
+cct.Birdsong.t3.flip.1=We have nothing to craft this turn, so we skip to revealing <color=#6B5182>plots</color>. <color=#6B5182>Reveal</color> your <sprite name="plot_snare"> <color=#6B5182>Snare</color> to enable its <sprite name="corvid"><color=#6B5182>warrior</color> trapping effect and gain <sprite name="2VP">.
+cct.Birdsong.t3.flip.2=Remember, when you reveal a <color=#6B5182>plot</color>, you score <sprite name="1VP"> for each revealed <color=#6B5182>plot</color> token on the map. The more revealed <color=#6B5182>plots</color> you keep defended, the greater your scoring potential.
+cct.Birdsong.t3.flip.3=Next reveal your <sprite name="plot_raid"> <color=#6B5182>Raid</color> to score <sprite name="3VP">. Its effect only occurs when removed from the map, but revealing it is still useful for scoring.
+cct.Birdsong.t3.recruit=Recruit to <sprite name="ClearingMouse"> clearings.
+cct.Birdsong.t4.flip=We can't reveal our <sprite name="plot_bomb"> <color=#6B5182>Bomb plot</color> because we don't have a <sprite name="corvid"><color=#6B5182>warrior</color> there. But don't fret! It's better to wait to reveal a <sprite name="plot_bomb"> in clearings with enemy pieces to destroy anyway.
+cct.Birdsong.t4.recruit=Send your <sprite name="corvid"><color=#6B5182>warriors</color> out to the <sprite name="ClearingFox"> clearings.
+cct.Daylight.t1.actions=In Daylight, we may take up to 3 of the following actions.<br><sprite name="UIMoveToken">Move<br><sprite name="UIBattleToken">Battle<br><sprite name="CorvidPlotToken">Plot<br><sprite name="CorvidTrickToken">Trick<br>
+cct.Daylight.t1.move.1=Use the Move action to consolidate your <sprite name="corvid"><color=#6B5182>warriors</color> into a clearing closer to your enemy.
+cct.Daylight.t1.move.2=Move again to continue your march towards the <color=#336699>Eyrie's</color> forces.
+cct.Daylight.t1.plot=Let's start with what we <color=#6B5182>Corvid</color> do best, plotting!
+cct.Daylight.t1.plot.extortion=We have a variety of <color=#6B5182>plots</color> at our disposal. <sprite name="plot_extortion"> <color=#6B5182>Extort</color> the <color=#336699>Eyrie</color> to improve our flow of cards.
+cct.Daylight.t1.plot.hidden=The <color=#336699>Eyrie</color> can see a <color=#6B5182>plot</color> was hatched, but they won't know the type of <color=#6B5182>plot</color> until you choose to reveal it.
+cct.Daylight.t1.plot.sacrifice=Plotting requires sacrifice. Your first <color=#6B5182>plot</color> of the turn costs you one <sprite name="corvid"><color=#6B5182>warrior</color> in its clearing. Each successive <color=#6B5182>plot</color> of the turn will require one <sprite name="corvid"><color=#6B5182>warrior</color> more than the last.
+cct.Daylight.t2.bird.expose=What is this plot you have hatched near our <sprite name="Roost"><color=#336699>roost</color>? It cannot stand, I say! It must be exposed!
+cct.Daylight.t2.bird.guess=I bet you conniving <sprite name="corvid"> <color=#6B5182>Corvid</color> laid a <sprite name="plot_snare"> <color=#6B5182>Snare</color> in our <sprite name="Roost"><color=#336699>roost</color>!
+cct.Daylight.t2.embedded=An unflappable defense! Your <sprite name="EmbeddedAgents"> <color=#6B5182>Embedded Agents</color> ability adds a hit to defending battles where you have a hidden <color=#6B5182>plot</color> token.
+cct.Daylight.t2.exposure.1=Anytime before drawing cards in Evening, an enemy may try to <color=#6B5182>Expose</color> your <color=#6B5182>plot</color> by correctly guessing what the <color=#6B5182>plot</color> is. As the cost to do so they must reveal a card matching the suit of its clearing.
+cct.Daylight.t2.exposure.2=If they are correct, you must discard your <color=#6B5182>plot</color>, ignoring its effect. If they are wrong, you get their revealed card.
+cct.Daylight.t2.exposure.result=The squabbling <color=#336699>Eyrie</color> fell for our bluff. Their guess is wrong, and we get to take their card.
+cct.Daylight.t2.move.1=For your first Daylight action, move your <sprite name="corvid"><color=#6B5182>warriors</color> into the <color=#336699>Eyrie's</color> starting <sprite name="Roost"><color=#336699>roost</color> to prepare for new <color=#6B5182>plots</color>.
+cct.Daylight.t2.plot.raid=Place a <sprite name="plot_raid"> <color=#6B5182>Raid plot</color> where you moved your <sprite name="corvid"><color=#6B5182>warriors</color>. If it is removed in an attack, you place a <color=#6B5182>warrior</color> in each adjacent clearing.
+cct.Daylight.t2.plot.snare=Next we will remove 2 <sprite name="corvid"><color=#6B5182>warriors</color> to set a <sprite name="plot_snare"> <color=#6B5182>Snare plot</color> for the <color=#336699>Eyrie</color>. Once revealed, it will stop enemies from being able to move warriors out of its clearing or place new pieces there.
+cct.Daylight.t3.bird.turmoil=The <color=#336699>Despot</color> has failed us. Time to bring in a true leader, the <color=#336699>Commander</color>.
+cct.Daylight.t3.move=Use your next action to consolidate your <sprite name="corvid"><color=#6B5182>warriors</color>.
+cct.Daylight.t3.plot=When placing a <color=#6B5182>plot</color>, you must choose a clearing that doesn't already have one.

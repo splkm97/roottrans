@@ -1,300 +1,100 @@
-tutorial1.destroyroost=Well done! You've destroyed their <sprite name="Roost"><color=#336699>roost</color>. The forest is ours...for now.
-tutorial2.faction.info=The invading <color=#CC6633>Marquise de Cat</color> wishes to exploit the Woodland, using its vast resources to fuel her economic and military machine. She scores Victory Points <style="vptext">VP</style> by constructing buildings in the Woodland. <br><br>In a typical game the first player to score <style="vpnumdd">30</style> wins! This scenario, let's see if you can get to <style="vpnumddteen">12</style>.
-tutorial2.setup.keep=When you start a game as the <color=#CC6633>Marquise de Cat</color>, you place your <sprite name="KeepToken"><color=#CC6633>keep</color> in one of the corner clearings.
-tutorial2.setup.keep2=The <sprite name="KeepToken"> <color=#CC6633>keep</color> is the cornerstone of your kingdom. Enemies may not build or place pieces in the clearing with your <sprite name="KeepToken"><color=#CC6633>keep</color>, but they can move there.
-tutorial2.setup.keep3=Place your <sprite name="KeepToken"><color=#CC6633>keep</color> now.
-tutorial2.setup.warriors=The <color=#CC6633>Marquise</color> army greatly outnumbers the other factions. You start with a <sprite name="marquise"><color=#CC6633>warrior</color> in every clearing except the one in the corner opposite your <sprite name="KeepToken"><color=#CC6633>keep</color>. That clearing is <color=#336699>Eyrie</color> territory.
-tutorial2.setup.buildings=Finally, you must place one of each building in the clearing with your <sprite name="KeepToken"><color=#CC6633>keep</color> or any adjacent ones.
-tutorial2.setup.eyrie=The <color=#336699>Eyrie</color> have swooped in and built a <sprite name="Roost"><color=#336699>roost</color> in the empty clearing. It's quite well defended.
-tutorial2.turn1.workshops=At the start of Daylight, you have an opportunity to craft cards from your hand using <sprite name="CatWorkshop"><color=#CC6633>workshops</color>.
-tutorial2.turn1.craftcost.a=Each <sprite name="CatWorkshop"><color=#CC6633>workshop</color> contributes its clearing's suit towards paying crafting costs. For example, you could craft this Arms Trader if you had two <sprite name="CatWorkshop"><color=#CC6633>workshops</color> in <sprite name="foxicon"> clearings.
-tutorial2.turn1.craftcost=You can craft Smuggler's Trail since you have a <sprite name="CatWorkshop"><color=#CC6633>workshop</color> in a <sprite name="mouseicon"> clearing and it costs 1 <sprite name="mouseicon">.
-tutorial2.turn1.suit=The cost to craft a card is shown on the wooden board below its suit.
-tutorial2.turn1.victorypoints=Crafting the Smuggler's Trail rewarded you with a <style="vptext">VP</style> victory point! You are on your way to your <style="vpnumddteen">12</style> goal.
-tutorial2.goal.15VP=Score <style="vpnumddteen">12</style>. ({0}/{1})
-tutorial2.turn1.moz=You may review the text of cards in your hand by holding your mouse over them. Review Arms Trader now.
-tutorial2.turn1.moz.gamepad=You may review the text of cards in your hand by holding your finger on them or pressing <sprite name="Switch_Action4"> Review Arms Trader now.
-tutorial2.turn1.moz.gamepad.switch=You may review the text of cards in your hand by holding your finger on them or pressing <sprite name="Switch_Action3"> Review Arms Trader now.
-tutorial2.turn1.moz.touch=You may review the text of cards in your hand by holding your finger on them. Review Arms Trader now.
-tutorial2.turn1.actions=After crafting, <color=#CC6633>the Marquise</color> can take <color=#CC6633>3 actions</color>.
-tutorial2.turn1.build=<color=#CC6633>The Marquise</color> also scores <style="vptext">VP</style> when building.
-tutorial2.turn1.buildslot=You can only place <color=#CC6633>buildings</color> in clearings you rule with available building slots.
-tutorial2.turn1.recruit=Now that there are two <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> buildings, you can recruit two <sprite name="marquise"><color=#CC6633>warriors</color> with a single Recruit action.
-tutorial2.turn1.workshopinfo=<sprite name="CatWorkshop"><color=#CC6633>Workshops</color> allow you to craft cards in your hand.
-tutorial2.turn1.sawmillinfo=<sprite name="CatSawmill"><color=#CC6633>Sawmills</color> produce wood to help you build more buildings.
-tutorial2.turn1.recruitinfo=<sprite name="CatRecruiter"><color=#CC6633>Recruiters</color>, as you know, help you recruit warriors. Let’s build a recruiter to bolster our defenses.
-tutorial2.turn1.move=Move your <sprite name="marquise"><color=#CC6633>warriors</color> to the frontlines to defend against <color=#336699>the Eyrie</color>.
-tutorial2.turn1.move2=You may now move any number of <sprite name="marquise"><color=#CC6633>warriors</color> using one March action. Let's move two.
-tutorial2.turn1.move3=Remember, when you choose to March, you may make two moves. Use the second move to keep closing in on <color=#336699>the Eyrie</color>.
-tutorial2.turn1.move4=Move both <sprite name="marquise"><color=#CC6633>warriors</color>.
-tutorial2.turn1.controlmove=To move, you must rule either the clearing you are moving from or moving to. This can make it tricky to move deep into enemy territory without a substantial army.
-tutorial2.turn1.evening=During Evening, you draw 1 card. You can draw additional cards <sprite name="DrawCard"> by having more <sprite name="CatRecruiter"><color=#CC6633>recruiters</color> on the map.
-tutorial2.aiturn1.Birdsong=The <color=#CC6633>Marquise de Cat</color> is an upstart! The lineage of <color=#336699>The Eyrie Dynasties</color> will surely retake the forest.
-tutorial2.aiturn1.factions=<color=#336699>The Eyrie</color> are assigning actions to their <color=#336699>Decree</color>. Each faction has unique capabilities and their own way of taking actions.
-tutorial2.aiturn1.factions2=<color=#336699>The Eyrie</color> may not look like much yet, but their ever growing <color=#336699>Decree</color> will allow them to take more and more actions each turn so long as their leader stays in power.
-tutorial2.aiturn1.battle=They found the weak link in our defense. Prepare to fight!
-tutorial2.aiturn1.fieldhospital=We may have lost the fight, but as long as your <sprite name="KeepToken"><color=#CC6633>keep</color> still stands, we can heal fallen warriors with <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color>.
-tutorial2.turn2.fhdiscard=Discard a card that matches the suit of the clearing where your warriors were defeated to return them to your <sprite name="KeepToken"><color=#CC6633>keep</color>.
-tutorial2.turn2.refrence=You can review special abilities unique to your faction like <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color> by tapping on your avatar.
-tutorial2.turn2.refrence.gamepad=You can review special abilities unique to your faction like <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color> by pressing the <sprite name="Switch_LeftBumper"> button.
-tutorial2.playerturn2.action1=Don’t retaliate just yet. Build two more buildings to keep gaining <style="vptext">VP</style>.
-tutorial2.playerturn2.goal=Build 2 buildings ({0}/{1})
-tutorial2.playerturn2.build=Build another building of your choice.
-tutorial2.overwork1=We could use more <sprite name="Wood"><color=#CC6633>wood</color> for building. Let's use <color=#CC6633>Overwork</color> to push a <sprite name="CatSawmill"><color=#CC6633>sawmill</color> to produce more <sprite name="Wood">.
-tutorial2.overwork2=To use <color=#CC6633>Overwork</color>, you must discard a card matching the suit of one of your <sprite name="CatSawmill"><color=#CC6633>sawmill's</color> clearings to gain a <sprite name="Wood"><color=#CC6633>wood</color>. Cards in the <sprite name="birdicon"> suit act as a “wild” and can be used in place of any other suit.
-tutorial2.connectedclearings=Excellent. You have enough <sprite name="Wood"><color=#CC6633>wood</color> to make another building. You may spend any <sprite name="Wood"> on the map connected to the clearing you wish to build in, so long as they are connected by clearings you rule.
-tutorial2.playerturn2.build2=Build a second building to complete your goal.
-tutorial2.turn2.prebuildingincrease=Tap your avatar for more building info.
-tutorial2.buildingincrease=As you build more of a particular building type, its cost increases along with the <style="vptext">VP</style> it earns you.
-tutorial2.playerturn2.action4=You are out of actions. By discarding a <sprite name="birdicon"> card, you can take an extra action.
-tutorial2.playerturn2.action5=Looks like you haven't recruited yet this turn. Let's do so with your final action.
-tutorial2.aiturn2.recruit=More <sprite name="eyrie"><color=#336699>warriors</color> arrive each day. <color=#336699>The Eyrie</color> will use them to crush your pitiful forces!
-tutorial2.aiturn2.battle=<color=#336699>The Birds</color> have fallen into a trap! You have a <sprite name="foxicon"> Ambush! card you can play. Use it now to destroy two attackers.
-tutorial2.aiturn2.ambush=An Ambush? These cats are more clever than I thought!
-tutorial2.playerturn3.sendoff=Continue scoring points to defeat <color=#336699>the Eyrie</color> by destroying <sprite name="Roost"><color=#336699>roosts</color>, constructing buildings, and crafting items that reward <style="vptext">VP</style>.
-tutorial.ruleFlag=Rule Flag
-tutorial.woodFlag=Wood Supply
-tutorial2.craftingcost.label=Crafting Cost
-tutorial2.suit.label=Suit
-tutorial.clearingindicator=Clearing Suit
-tutorial2.victorypoints=Victory Points
-tutorial.towerbanner=Tower
-tutorial.ferrybanner=Ferry
-tutorial.mountainpassbanner=Mountain Pass
-tutorial3.goal.1=Have 3 <sprite name="Roost"> <color=#336699>roosts</color> ({0}/{1})
-tutorial3.opening.1=The proud <color=#336699>Eyrie Dynasties</color> wish to reclaim the glory of their once-great aristocracy and retake the Woodland from the Marquise. They score each turn by building and protecting roosts in the Woodland.
-tutorial3.opening.2=You begin with a <sprite name="Roost"> <color=#336699>roost</color> and 6 <sprite name="eyrie"><color=#336699> warriors</color>.
-tutorial3.opening.roosts.info=<sprite name="Roost"><color=#336699>roosts</color> are the Eyrie's only building type. They are used to craft cards from your hand, recruit warriors, and score <style="vptext">VP</style> each turn.
-tutorial3.opening.3=Ca Caw! We'll need a leader who can expand our avian empire! Let's select the <color=#336699>Despot</color> since he will allow us to <color=#336699>build</color> from turn one.
-tutorial3.opening.4=<color=#336699>The Eyrie</color> must follow the official <color=#336699>Decree</color> each turn! Each column of the Decree is associated with a different action.
-tutorial3.opening.5=Your leader determines the initial actions in your <color=#336699>Decree</color>: In this case <sprite name="EyrieMove"> <color=#336699>move</color>, and <sprite name="EyrieBuild"> <color=#336699>build</color>.
-tutorial3.Birdsong.1=Each turn, we must add 1 or 2 cards to our <color=#336699>Decree</color>. Only one card added may be a <sprite name="birdicon"> card. Let's add a <sprite name="mouseicon"> now.
-tutorial3.Birdsong.2=As your <color=#336699>Decree</color> grows, you can do more and more each turn.
-tutorial3.Birdsong.2.b=When you assign cards to your <color=#336699>Decree</color>, only their suit applies. If you want to use a card's effect, you must save it for the crafting phase.
-tutorial3.craft.0=During Daylight, you may craft cards from your hand using <sprite name="Roost"> <color=#336699>roosts</color>. Each <color=#336699>roost</color> contributes the suit of its clearing towards paying costs, much like the <color=#CC6633>Marquise workshops</color>.
-tutorial3.craft.1=Your <sprite name="Roost"> <color=#336699>roost</color> in the <sprite name="ClearingMouse"> clearing will allow you to craft Sappers. This card will come in handy if you are attacked.
-tutorial3.recruit.1=During Daylight, your <color=#336699>Decree</color> is resolved from left to right. Recruit a <sprite name="eyrie"><color=#336699>warrior</color> in a <sprite name="Roost"><color=#336699>roost</color> matching the suit of your <color=#336699>Decree</color> assignment.
-tutorial3.move.1=<sprite name="birdicon"> assigned to a <color=#336699>Decree</color> can be used in any clearing. Move 3 <color=#336699><sprite name="eyrie"> warriors</color> to the <sprite name="ClearingFox"> clearing below.
-tutorial3.battle.1=We skip the <sprite name="EyrieBattle"> <color=#336699>battle</color> action because you do not have any cards assigned to the battle column of your <color=#336699>Decree</color>.
-tutorial3.build.1=Finally, we get to <sprite name="EyrieBuild"> <color=#336699>build</color> our second <sprite name="Roost"> <color=#336699>roost</color>.
-tutorial3.score.2=At the start of Evening, you score victory points for your <sprite name="Roost"> <color=#336699>roosts</color>. Select your avatar for more details.
-tutorial3.score.2.gamepad=At the start of Evening, you score victory points for your <sprite name="Roost"> <color=#336699>roosts</color>. Press <sprite name="Switch_LeftBumper"> for more details.
-tutorial3.score.1=The <color=#336699>Roost Track</color> shows our progress toward retaking the forest. The more <sprite name="Roost"> <color=#336699>roosts</color> you have, the more <style="vptext">VP</style> you score each turn!
-tutorial3.aiturn.1=These bird brains think they can retake the forest? Not on our prowl!
-tutorial3.turntwo.decree.1=New day, new opportunity to add to your <color=#336699>Decree</color>! Let's add a card to <color=#336699>recruit</color> so we can get more warriors each turn.
-tutorial3.turntwo.decree.2=Each turn, you may also assign a second card to your <color=#336699>Decree</color>. Assign a <sprite name="mouseicon"> card to the <sprite name="EyrieBattle"> battle column so we can fight the <color=#CC6633>Marquise</color> in <sprite name="mouseicon"> clearings.
-tutorial3.turntwo.craft.1=Nothing to craft this turn. No matter! Your <color=#336699>Disdain for Trade</color> limits your reward for crafting items to a single <sprite name="1VP">. Trade, like many things, is quite literally beneath you.
-tutorial3.turntwo.fight=Time to teach those kittens the might of flight!
-tutorial3.turntwo.move=Move three <sprite name="eyrie"><color=#336699>warriors</color> into the <sprite name="ClearingMouse"> clearing with your opponent's <color=#CC6633>recruiter</color> to set up a battle.
-tutorial3.turntwo.ai.fowl=A fowl smell hangs in the air? The Eyrie must be approaching!
-tutorial3.turntwo.battle=Time to fight. Make those dirt dwellers tremble in the presence of your aerial warriors.
-tutorial3.turntwo.control.2=What a glorious battle! We must rule a clearing to place a <sprite name="Roost"> <color=#336699>roost</color> there. Warriors and buildings in a clearing contribute to who rules it. The <color=#336699>Eyrie</color> always win ties.
-tutorial3.turntwo.goal.1=Nice work building those <sprite name="Roost"><color=#336699>roosts</color>! Destroy enemy buildings, craft cards, and keep control of your <sprite name="Roost"><color=#336699>roosts</color> to score <style="vpnumddteen">15</style> and complete this scenario.
-tutorial3.goal.2=Score <style="vpnumddteen">10</style>  ({0}/{1})
-tutorial3.turmoilReminder=Don't bite off more than you can chew. Remember, if you are ever unable to perform an action assigned to your <color=#336699>Decree</color>, your flock will fall into <color=#336699>turmoil</color>.
-tutorial3.extraCardDraw=You draw an additional card <sprite name="DrawCard"> during Evening for every three <sprite name="Roost"> <color=#336699>roosts</color> you have in play.
-tutorial3.Turmoil.1=Skwak! We’ve fallen into <color=#336699>turmoil</color> because we couldn’t perform all actions on our <color=#336699>Decree</color>!
-tutorial3.Turmoil.2=During <color=#336699>turmoil</color>, you discard all the cards in your <color=#336699>Decree</color> and lose <sprite name="1VP"> for each discarded <sprite name="birdicon"> card. You then select a new leader and proceed to Evening.
-tutorial3.Turmoil.3=Avoiding <color=#336699>turmoil</color> requires careful placement of cards to your <color=#336699>Decree</color>. Try to match suits to the clearings you plan on interacting with.
-tutorial3.Turmoil.4=<sprite name="birdicon"> cards may lose you <style="vptext">VP</style> during <color=#336699>turmoil</color> but they offer flexibility that can help prevent it from happening.
-tutorial3.turn4.hint.1=If you are having trouble deciding what card suits to assign to your <color=#336699>Decree</color>, you can always minimize it and review the map.
-tutorial3.turn4.hint.2=Once you have a better idea of your board position, you can re-expand your <color=#336699>Decree</color> and assign cards with more confidence.
-firsttime.NoRoosts=The Eyrie are resilient creatures. Because you have no <sprite name="Roost"><color=#336699>roosts</color> on the map during Birdsong, you get to place a <sprite name="Roost"> <color=#336699>roost</color> and 3<sprite name="eyrie"> <color=#336699>warriors</color> in the clearing with the fewest <color=#336699>warriors</color>.
-tutorial3.badDecree.recruit=Assigning a [SUITNAME] card to Recruit will lead to Turmoil since you have no roosts in [SUITNAME] clearings. Press the cancel button on the Decree to undo.
-tutorial3.badDecree.move=Assigning a [SUITNAME] card to Move may lead to Turmoil since you have no warriors in [SUITNAME] clearings. Press the cancel button on the Decree if you want to undo.
-tutorial3.badDecree.battle=Assigning a [SUITNAME] card to Battle will lead to Turmoil unless you move warriors into an enemy [SUITNAME] clearing this turn. Press the cancel button on the Decree if you want to undo.
-tutorial3.badDecree.build=Assigning a [SUITNAME] card to Build will lead to Turmoil unless you take control of a [SUITNAME] clearing with an open building slot this turn. Press the cancel button on the Decree if you want to undo.
-tutorial4.opening.1=The upstart <color=#008D3F>Woodland Alliance</color> wish to unite the creatures of the forest and revolt against their oppressors. They score by spreading sympathy for their cause across the Woodlands.
-tutorial4.opening.2=Being the underdogs, we won’t start with any <sprite name="AlliWarrior"><color=#008D3F>warriors</color> or buildings on the map. Instead we begin with three <color=#008D3F>supporters</color> that can spread <sprite name="Sympathy"><color=#008D3F>sympathy tokens</color> for our cause.
-tutorial4.sympathy.goal=Spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> five times ({0}/{1})
-tutorial4.sympathy.0=Each clearing where we can spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> has a <color=#008D3F>supporter</color> cost.
-tutorial4.sympathy.1=Spend a <sprite name="SupporterFox"><color=#008D3F>supporter</color> to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> in the <sprite name="ClearingFox"> clearing below.
-tutorial4.sympathy.2=We can spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> multiple times in one turn if we have the <color=#008D3F>supporters</color>, so long as we expand from an existing sympathetic clearing.
-tutorial4.sympathy.3=Select a second clearing to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> to.
-tutorial4.sympathy.4=Nice work. Placing our second <sprite name="Sympathy"><color=#008D3F>sympathy</color> scores us <sprite name="1VP">.
-tutorial4.sympathy.4b=Select your avatar to learn more about scoring <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
-tutorial4.sympathy.4b.gamepad=Press <sprite name="Switch_LeftBumper"> to learn more about scoring <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
-tutorial4.sympathy.5=As we go higher on the <color=#008D3F>Sympathy Track</color>, gaining <sprite name="Sympathy"><color=#008D3F>Sympathy</color> costs more <color=#008D3F>Supporters</color> and scores more <style="vptext">VP</style> for us.
-tutorial4.craft.1=At the start of Daylight, <sprite name="Sympathy"><color=#008D3F>sympathy</color> contribute the suit of their clearing towards paying crafting costs just like the <color=#336699>Eyrie roosts</color>, and <color=#CC6633>Marquise workshops</color>. Let's get crafting!
-tutorial4.mobilize.1=Use <color=#008D3F>Mobilize</color> to turn the remaining cards in our hand to <color=#008D3F>supporters</color>. You can’t hold more than 5 <color=#008D3F>supporters</color> until you build a <color=#008D3F>base</color>.
-tutorial4.endturn1=The revolution has awakened. But for now, it is time to rest.
-tutorial4.aiturn1.1=Don't listen to this woodland rabble! Ignore this Hare-esy! The <color=#CC6633>Marquise</color> is your rightful ruler!
-tutorial4.turn2.revolt.1=Building support was just the beginning. Now it's time to rise up and <color=#008D3F>revolt</color>!
-tutorial4.turn2.revolt.2=Select the clearing below. We must spend 2 <color=#008D3F>supporters</color> matching the suit of the clearing to cause the <color=#008D3F>revolt</color>.
-tutorial4.turn2.revolt.3=A <color=#008D3F>revolt</color> destroys ALL opposing units, tokens, and buildings in that clearing. Then you build a <color=#008D3F>base</color> there with warriors equal to the number of sympathetic clearings in the same suit!
-tutorial4.turn2.revolt.4=We can only have 3 <color=#008D3F>bases</color> (<sprite name="BaseMouse"><sprite name="BaseFox"><sprite name="BaseRabbit">) in the forest, one for each clearing type <sprite name="ClearingMouse"><sprite name="ClearingFox"><sprite name="ClearingRabbit">.
-tutorial4.turn2.revolt.5=Ahhh, looks like an <sprite name="Officer"><color=#008D3F>officer</color> has arrived as well with our new <color=#008D3F>base</color>. He'll help direct our Evening military operations.
-tutorial4.turn2.evening.1=You now have access to a number of Evening Military Operations actions equal to your <sprite name="Officer"><color=#008D3F>officers</color>.
-tutorial4.turn2.evening.2=Use your one military action to <color=#008D3F>recruit</color> a <sprite name="AlliWarrior"><color=#008D3F>warrior</color>.
-tutorial4.AIturn2.1=Time to quell these rabbit-rousers!
-tutorial4.AIturn2.2=When an opponent moves warriors into a <color=#008D3F>sympathetic</color> clearing or destroys a <sprite name="Sympathy"><color=#008D3F>sympathy</color> token, it causes <sprite name="Outrage"><color=#008D3F>Outrage</color>. This forces your opponent to add a card from their hand that matches the clearing to your <color=#008D3F>supporters</color>.
-tutorial4.AIturn2.3=We've been outfoxed!
-tutorial4.AIturn2.4=You are being attacked. Thankfully, the <color=#008D3F>Woodland Alliance</color> are masters of <sprite name="Guerilla"><color=#008D3F>Guerrilla War</color>. When defending, you take the higher die in combat as if you were the attacker.
-tutorial4.turn3.goal.1=Spread <sprite name="Sympathy"><color=#008D3F>sympathy</color>, craft cards, and remove enemy buildings to score <style="vpnumddteen">15</style> and complete this scenario.
-tutorial4.organize.goal=Use the <sprite name="Organize"><color=#008D3F>Organize</color> action to sacrifice a <sprite name="AlliWarrior"><color=#008D3F>warrior</color> for <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
-tutorial4.law.1=Enemy spaces with three or more warriors cost you an additional <color=#008D3F>supporter</color> to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> there. Spread to cheaper spaces unless you really have it out for that enemy.
-tutorial4.supply.1=Your shared supply of <sprite name="AlliWarrior"><color=#008D3F>warriors</color>/<sprite name="Officer"><color=#008D3F>officers</color> is empty. You can free up room in your supply by using the <sprite name="Organize"><color=#008D3F>Organize</color> action to sacrifice a <sprite name="AlliWarrior"><color=#008D3F>warrior</color> for <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
-tutorial4.baseremoved1=You lose all your matching <color=#008D3F>supporters</color> when one of your <color=#008D3F>bases</color> is destroyed, and then remove all but 5 <color=#008D3F>supporters</color> if you have no <color=#008D3F>bases</color> left on the map.
-tutorial4.fivesupporters=You need to build a <color=#008D3F>base</color> to have more than 5 <color=#008D3F>supporters</color>.
-tutorial4.organize.training=You have a new Daylight action, <color=#008D3F>Training</color>. Discard a card from your hand matching the suit of one of your <color=#008D3F>bases</color> to train an <sprite name="Officer"><color=#008D3F>officer</color> allowing you to take more Evening actions.
-tutorial4.organize.training.supply=Officers come from the same reserve as your warriors. Beware, when this supply runs out you can’t recruit either type.
-tutorial4.goal.1=Score <style="vpnumddteen">15</style>.  ({0}/{1})
-tutorial4.goal.2=Use the <sprite name="Organize"><color=#008D3F>Organize</color> action
-tutorial5.intro=The wily <color=#4E6F89>Vagabond</color> wishes to gain fame—or infamy—in the midst of this brewing conflict. He scores by completing quests for the creatures of the Woodland, and by aiding and harming the other factions.
-Tutorial5.pawn=Your <color=#4E6F89>Vagabond</color> character is represented by a single pawn that can move and fight like a warrior, and begins the game in a forest.
-Tutorial5.slip=Being early risers, <color=#4E6F89>Vagabond</color> may <color=#4E6F89>slip</color> between forests and clearings each Birdsong. Let’s <color=#4E6F89>slip</color> into a clearing.
-Tutorial5.turn1.actions=These are your actions.
-Tutorial5.turn1.satchel=Your available actions are mostly determined by the items you hold in your <sprite name="Satchel"><color=#4E6F89>Satchel.</color>
-Tutorial5.turn1.item=When an item is used to perform an action, it is exhausted. You can’t take that action again until the item is <color=#4E6F89>refreshed</color> in Birdsong.
-Tutorial5.turn1.ruins=<sprite name="Ruins"><color=#4E6F89>ruins</color> are scattered across the map that hold new items for a <color=#4E6F89>Vagabond</color>. <color=#4E6F89>Explore</color> the <sprite name="Ruins"><color=#4E6F89>ruin</color> in your space using your <sprite name="torch"><color=#4E6F89>torch</color> item.
-Tutorial5.turn1.craft=<color=#4E6F89>Explore</color> gained you <sprite name="1VP"> and a <sprite name="hammer"><color=#4E6F89>hammer</color> that can be used to craft cards from your hand. Move into the <sprite name="ClearingMouse"> clearing to your right to craft a card requiring that suit.
-Tutorial5.turn1.craft2=Each <sprite name="hammer"> you exhaust contributes one toward crafting cards with a cost matching the suit of your clearing. Collecting more <sprite name="hammer"> will allow you to craft more expensive cards.
-Tutorial5.turn1.craft3=Craft Mouse-in-a-Sack now to score <sprite name="1VP"> and gain a <sprite name="bag"> item.
-Tutorial5.turn1.satchel.limit=The number of items you can hold is limited by the 6 slots in your <sprite name="Satchel"><color=#4E6F89>Satchel</color>. Each <sprite name="bag"> you acquire increases the amount of standard items <sprite name="sword"> <sprite name="crossbow"> <sprite name="boot"> <sprite name="torch"> <sprite name="hammer"> you can store in your <sprite name="Satchel"> by 2.
-Tutorial5.turn1.special.items=The <sprite name="bag">, <sprite name="coinstack">, and <sprite name="teapot"> items don’t take up room in your <sprite name="Satchel"><color=#4E6F89>Satchel</color> and provide their effect automatically without needing to exhaust them.
-Tutorial5.turn1.end=Most of your items are exhausted, so let's end Daylight and rest.
-Tutorial5.turn2.Birdsong=During Birdsong, you <color=#4E6F89>refresh</color> 3 items. This makes their actions available again.
-Tutorial5.turn2.trade=Ahhh, I see the <color=#008D3F>Woodland Alliance</color> has a <sprite name="crossbow"> for trade. <color=#4E6F89>slip</color> into the forest above you to head their way.
-Tutorial5.turn2.trade2=Now move into the <sprite name="ClearingMouse"> clearing sympathetic to the <color=#008D3F>Woodland Alliance</color>.
-Tutorial5.turn2.aid=You can give a card matching your clearing’s suit to another player in your clearing to improve your <color=#4E6F89>relationship</color> with them.
-Tutorial5.turn2.aid.b=If the player you <sprite name="heart"> <color=#4E6F89>aid</color> has crafted any items, they will give you one in return.
-Tutorial5.turn2.aid2=You must also exhaust an item of your choice to <sprite name="heart"> <color=#4E6F89>aid</color>. Exhaust your <sprite name="bag">.
-Tutorial5.turn2.satchel=Exhausted items ALWAYS take up room in your <sprite name="Satchel"><color=#4E6F89>Satchel</color> (even <sprite name="bag"> <sprite name="coinstack"> <sprite name="teapot">) and won’t provide their effect until you <color=#4E6F89>refresh</color> them.
-Tutorial5.turn2.gift=Thank you for the <sprite name="heart"> <color=#4E6F89>aid</color>, friend. Be careful with that <sprite name="crossbow"> <color=#4E6F89>crossbow</color> we gave you!
-Tutorial5.turn2.strike=The <sprite name="crossbow"> <color=#4E6F89>crossbow</color> can be used to remove warriors without needing to battle. You can even use <sprite name="crossbow"> to remove a building or token so long as its owner doesn't have a warrior there. Use it now on those unsuspecting cats!
-Tutorial5.turn2.aicomment=En Garde! That wily <color=#4E6F89>Vagabond</color> is no friend of the <color=#CC6633>Marquise</color>!
-Tutorial5.turn2.hostal=Oops. I probably should have mentioned that killing enemy warriors will make them <sprite name="Hostile"> <color=#4E6F89>hostile</color> with you for the rest of the game. Such is the life of a vagabond...
-Tutorial5.turn2.hostal2=Once an enemy is <sprite name="Hostile"> <color=#4E6F89>hostile</color>, your <color=#4E6F89>Infamy</color> scores you an extra <sprite name="1VP"> each time you remove one of their pieces in battle on your turn.
-Tutorial5.turn2.hostal3=However, you must exhaust an additional <sprite name="boot"> boot to move into spaces with <sprite name="Hostile"> <color=#4E6F89>Hostile</color> warriors.
-Tutorial5.turn2.sword=Use your <sprite name="sword"> to battle their weakened army. The maximum number of hits you can deal is determined by how many <sprite name="sword"> you have (even if they are exhausted).
-Tutorial5.turn2.end=Press continue button to complete turn.
-Tutorial5.ai.turn2.attacked=This doesn't seem like a fair fight!
-Tutorial5.turn3.damage=Many of our items were damaged in your last battle and are useless until we repair them.
-Tutorial5.turn3.damage2=<color=#4E6F89>Slipping</color> into the forest lets you repair all your items during Evening and will protect you from being attacked on enemy turns.
-Tutorial5.turn3.endturn=There are few actions you can take in a forest. Press continue to move to Evening.
-Tutorial5.turn4.quest1=Now that your items are in tip-top shape you should be ready to take them on a <sprite name="Quest"><color=#4E6F89>quest</color>! A bear is rampaging in a <sprite name="ClearingMouse"> clearing nearby. Slip there to see if we can help.
-Tutorial5.turn4.quest2=Select your <sprite name="Quest"><color=#4E6F89>quest</color> action to see what you will need to fend off the bear.
-Tutorial5.turn4.fendoffbear=You have what it takes to Fend off a Bear! To complete a <sprite name="Quest"><color=#4E6F89>quest</color>, you need to be in a clearing matching its suit and exhaust the items required.
-Tutorial5.turn4.reward=Pick your reward! The <style="vptext">VP</style> victory point reward for each <sprite name="Quest"><color=#4E6F89>quest</color> is increased by 1 for each <sprite name="Quest"> you have completed in the same suit.
-Tutorial5.turn4.questbook=After you complete a <sprite name="Quest"><color=#4E6F89>Quest</color>, you draw a new one. You can review your three active <sprite name="Quest"> anytime by selecting your <sprite name="Quest"><color=#4E6F89>Quest book</color>.
-Tutorial5.relationship=Reach the next <color=#4E6F89>relationship level</color> with the <color=#008D3F>Woodland Alliance</color> by <sprite name="heart"> <color=#4E6F89>aiding</color> them twice in one turn.
-Tutorial5.relationship.2=To improve your <color=#4E6F89>relationship</color> to the second and third levels, you must <sprite name="heart"> <color=#4E6F89>aid</color> two and three times respectively in a single turn.
-Tutorial5.relationship.3=Other players don’t have to have items for trade to <sprite name="heart"> <color=#4E6F89>aid</color> them, but you do have to give them a card.
-Tutorial5.relationship.4=Each time you increase your <color=#4E6F89>relationship</color> with a faction, you gain more <style="vptext">VP</style>. When you reach the final level of your <color=#4E6F89>relationship</color>, you become <color=#4E6F89>allied</color> and earn <voffset=-5><sprite name="2VP"></voffset> each time you provide them with additional <sprite name="heart"> <color=#4E6F89>aid</color>.
-Tutorial5.relationship.5=You may also move and battle with the warriors of a fully <sprite name="Allied"><color=#4E6F89>allied</color> faction in your clearing.
-Tutorial5.goaltocomplete=Explore another <sprite name="Ruins"><color=#4E6F89>Ruin</color>, complete another <sprite name="Quest"><color=#4E6F89>Quest</color>, and score <style="vpnumddteen">15</style> to complete this scenario.
-firsttime.defenseless=You are defenseless, taking an extra hit in battle since you have no undamaged <sprite name="sword"> items.
-firsttime.hostile=Wait! If you attack them, they will become <sprite name="Hostile"><color=#4E6F89>hostile</color>for the rest of the game and can no longer be <sprite name="heart"> <color=#4E6F89>aided</color>.
-firsttime.coin=Each <sprite name="coinstack"> you have increases the amount of cards you draw during Evening by 1.
-firsttime.tea=Each <sprite name="teapot"> you have increases the amount of items you can <color=#4E6F89>refresh</color> during Birdsong by 2.
-Firsttime.ally.battle=The maximum hits you can roll equals the number of that allied warriors there plus your total undamaged <sprite name="sword">.
-Firsttime.ally.battle.2=If you take more hits in a battle by removing <sprite name="Allied"><color=#4E6F89>allied</color> warriors than by damaging items, that <sprite name="Allied"><color=#4E6F89>allied</color> faction becomes <sprite name="Hostile"><color=#4E6F89>hostile</color>.
-firsttime.character=Each Vagabond character starts with different items and a special ability that can be activated by exhausting a <sprite name="torch"><color=#4E6F89>torch</color>. Choose your character for this game below.
-tutorial5.goal.1=<sprite name="heart"> <color=#4E6F89>aid</color> the <color=#008D3F>Woodland Alliance</color> twice in one turn.
-tutorial5.goal.2=Explore a <sprite name="Ruins"><color=#4E6F89>ruin</color>
-tutorial5.goal.3=Complete a <sprite name="Quest"><color=#4E6F89>quest</color>
-tutorial5.goal.4=Score <style="vpnumddteen">15</style> ({0}/{1})
-tutorial.officers=Officers
-tutorial.satchel=Satchel
-Tutorial5.AI.aid.goal.feedback=Your effort is appreciated. <sprite name="heart"> <color=#4E6F89>aid</color> us again to show you are a true comrade of the <color=#008D3F>Alliance</color>.
-FTT.Vagabond.Repair=In addition to crafting, a <sprite name="hammer"> can be exhausted to repair a damage item with the <color=#4E6F89>Repair</color> action.
-tutorial.title.tutorial01=The Rise of the Marquise
-tutorial.description.tutorial01=Learn the basics of playing Root
-tutorial.title.tutorial02=The Long War for the Forest
-tutorial.description.tutorial02=Learn to play the Marquise de Cat
-tutorial.title.tutorial03=Birds of a Feather
-tutorial.description.tutorial03=Learn to play the Eyrie Dynasties
-tutorial.title.tutorial04=Critters Unite!
-tutorial.description.tutorial04=Learn to play the Woodland Alliance
-tutorial.title.tutorial05=The Lone Wanderer
-tutorial.description.tutorial05=Learn to play the Vagabond
-tutorial.ftt.outrage.nomatch=Because your opponent has no cards that match the suit of the clearing where they caused <sprite name="Outrage"><color=#008D3F>Outrage</color>, they must reveal their hand and you get a random <color=#008D3F>supporter</color> instead.
-firsttime.openStore=You drew a card that crafts a sold-out item. Tap the supply icon to view the available items.
-firsttime.NoItemsToCraft=Each item players craft is taken from the supply. Once an item is sold out, cards that reward that item can no longer be crafted.
-PracticeGamePrompt.MarquiseEyrie.Header=Marquise de Cat vs. Eyrie Dynasties
-PracticeGamePrompt.MarquiseEyrie.Body=Now that you know the Marquise and Eyrie,<br>would you like to play a practice game between them?
-PracticeGamePrompt.MarquiseEyrie.PlayMarquise=Play as Marquise
-PracticeGamePrompt.MarquiseEyrie.PlayEyrie=Play as Eyrie
-firsttime.damage=When you take hits in battle, you must damage that many items. You can choose exhausted or unexhausted items.
-firsttime.damage.revolt=When the Vagabond is in the clearing of a revolt, they must damage 3 items.
-Firsttime.repair=You have a damaged item. You may exhaust a <sprite name="hammer"> with the Repair action to fix a damaged item.
-Secondtime.evenings.rest=Your items are in pretty rough shape. Remember, you can slip into a forest to repair your items during Evening.
-tutorial.reserve=Reserve
-Firsttime.discard=At the end of turn, you must discard down to your max hand size of 5 cards.
-Firsttime.sympathyTokenRemoved=Your opponent removed your <sprite name="Sympathy"><color=#008D3F>sympathy token</color>, scoring <sprite name="1VP">. Tokens can be attacked in battle much like Warriors, but they can't fight back.
-practice.openingLine=Time to put your training to the test. In this practice game, the first faction to <style="vpnumdd">20</style> wins!
-tutorial3.turnthree.turmoil.1.b=I feel turmoil approaching, but you must add to the <color=#336699>Decree</color> each turn, no matter what. Make an assignment now -- just don't worry too much about where.
-tutorial3.turnthree.turmoil.1.cats=Those malevolent <color=#CC6633>Marquise</color> destroyed your only <sprite name="Roost"><color=#336699>roost</color> in a <sprite name="ClearingFox"> clearing last turn, leaving you with no <sprite name="ClearingFox"> clearings to recruit to.
-tutorial3.aiturnthree.use.sappers=Select the Sappers card you crafted to take out an additional enemy warrior.
-tutorial3.turnfour.goal.1=You look ready to take it from here. Destroy enemy buildings, craft cards, and build and protect <sprite name="Roost"><color=#336699>roosts</color> to score <style="vpnumddteen">10</style> and complete this scenario.
-Firsttime.ally.Marquise=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with  the<color=#CC6633>Marquise de Cat</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
-Firsttime.ally.Eyrie=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the<color=#336699>Eyrie Dynasties</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
-Firsttime.ally.Alliance=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the<color=#008D3F>Woodland Alliance</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
-tutorial4.turn2.craftOrMobilize=You may craft or <color=#008D3F>Mobilize</color> the card in your hand. It's up to you.
-tutorial2.turn1.evening2=Let's review the phases of your turn.
-tutorial2.turn1.evening2.gamepad=To review the turn phases press <sprite name="Switch_LeftBumper"> followed by <sprite name="Switch_RightStickButton">.
-tutorial1.turn2.daylight2=Spread out your warriors to rule more clearings.
-tutorial1.firstbattle.dice.revamp=In battle, two dice are rolled with sides 0-3 to determine hits. The attacker has the advantage. They take the higher die, leaving the defender with the lower one.
-Tutorial1.firstbattle.dice.2.revamp=Each player can deal no more hits than the number of warriors they have in the clearing of battle.
-tutorial1.firstbattle.remove.revamp=For each hit, an enemy piece is removed from the map, starting with warriors. Your total hits are added up and displayed below.
-ftt.vp.battle=You score <sprite name="1VP"> for each enemy building and token removed. Removing warriors does not score <style="vptext">VP</style>.
-ftt.hit.reduce.warriors=You rolled a number that was higher than the number of warriors you have in this clearing. That means the hits you earned for your die roll were reduced to your number of warriors here.
-ftt.die.swap=Excellent. Your advantage as the attacker let you take the higher die from the right.
-FTT.enemy.defenseless=Your enemy is Defenseless since they have no warriors to protect them. This means you get to deal an extra hit.
-FTT.enemy.defenseless.2=Extra hits are not limited by the number of warriors in the clearing of battle, so a single warrior could deal multiple hits.
-tutorial3.move.1.trunk=<sprite name="birdicon"> assigned to a <color=#336699>Decree</color> can be used in any clearing.
-tutorial3.move.1.b.trunk=Move 3 <color=#336699><sprite name="eyrie"> warriors</color> to the <sprite name="ClearingFox"> clearing below. Three warriors allow you to maximize the hit potential of your die roll in battle.
-tutorial2.ftt.encouragement=Nice work taking down that <sprite name="Roost"> <color=#336699>roost</color>. Keep attacking roosts and placing buildings to reach your <style="vptext">VP</style>goal.
-Clockwork.tutorial.intro=Clockwork bots are a challenging and customizable alternative to the AI. The bot version of each faction works a bit differently than its living counterpart.
-Clockwork.tutorial.orders=On its turn, a bot draws and reveals an order card, then uses its suit to determine the actions it takes.
-Clockwork.tutorial.crafting=If the order card has an item on it, the bot crafts that item. It ignores the listed victory points and instead scores only <sprite name="1VP">.
-Clockwork.tutorial.powers.1=You can review a bot’s special powers and turn order by selecting their avatar. Let’s do so now for the Mechanical Marquise.
-Clockwork.tutorial.powers.1.gamepad=You can review a bot’s special powers and turn order by selecting their avatar. Press <sprite name="Switch_LeftBumper"> twice to do so now.
-Clockwork.tutorial.powers.2=The following powers are shared by all bots.
-Clockwork.tutorial.traits.gamepad=Each game, bots may be assigned additional difficulty and trait modifiers. Highlight a trait and press <sprite name="Switch_Action4"> to see what it does, then press <sprite name="Switch_Action4"> again to dismiss it.
-Clockwork.tutorial.traits.gamepad.switch=Each game, bots may be assigned additional difficulty and trait modifiers. Highlight a trait and press <sprite name="Switch_Action3"> to see what it does, then press <sprite name="Switch_Action3"> again to dismiss it.
-Clockwork.tutorial.traits.touch=Each game, bots may be assigned additional difficulty and trait modifiers. Hold your finger on a trait to see what it does.
-Clockwork.tutorial.traits.mouse=Each game, bots may be assigned additional difficulty and trait modifiers. Hold your mouse over a trait to see what it does.
-Clockwork.tutorial.turnorder=For more info on the differences between bots and their standard counterparts, you can view their turn order page.
-Clockwork.tutorial.turnorder.gamepad.DEFUNCT=For more info on the differences between bots and their standard counterparts, you can view their turn order page. Press in your <sprite name="Switch_RightStickButton"> to do so now.
-Clockwork.tutorial.priority=Each clearing has a priority marker. If a bot must decide between two clearings of equal value to them, they choose the clearing with the lower number.
-Clockwork.tutorial.ending=Time to dismantle this hunk of rust. Score 10 <style="vptext">VP</style>
-tutorial.title.MechaTutorial=Clockwork Introduction
-tutorial.description.MechaTutorial=Learn about Clockwork enemies
-Clockwork.tutorial.goal.10vp=Score 10 <style="vptext">VP</style>
-tutorial.advanced.separator=Expansions
-ftt.MoveToKeepArea=Watch out for the Marquise Field Hospital ability. Warriors can be healed with no delay when removed from the Keep clearing.
-practice.savedgame=You have a practice game in progress. Would you like to continue?
-tutorial.strategic.touch=To adjust your zoom level, place two fingers on the map and move them closer together or further apart. Zoom all the way out now to enter strategic view (which locks camera movement).
-tutorial.strategic.mouse=To adjust your zoom level, use your mouse wheel, up and down arrow keys, or +/- buttons. Zoom all the way out now to enter strategic view (which locks camera movement).
-tutorial.strategic.gamepad=To adjust your zoom level, use your <sprite name="Switch_LeftTrigger"> and <sprite name="Switch_RightTrigger"> buttons. Zoom all the way out now to enter strategic view (which locks camera movement).
-scenario.fortified.name=Fortified
-scenario.fortified.description=Use the Mechanical Marquise's Fortified Trait to take on powerful automated enemies. <b>Fortified:</b> Your buildings each take two hits to remove.
-scenario.wartax.name=War Tax
-scenario.wartax.description=Use the Electric Eyrie's War Tax Trait to take on powerful automated enemies. \
-scenario.popularity.name=Popularity
-scenario.popularity.description=Use the Automated Alliance's Popularity Trait to take on powerful automated enemies. <b>Popularity:</b> Enemies do not score victory points for removing sympathy tokens.
-scenario.marksman.name=Marksman
-scenario.marksman.description=Use the Vagabot's Marksman Trait to take on powerful automated enemies. \
-tooltip.opponent.cat=<size=125%><b>Marquise de Cat Opponent</b></size>
-tooltip.opponent.eyrie=<size=125%><b>Eyrie Dynasties Opponent</b></size>
-tooltip.opponent.alliance=<size=125%><b>Woodland Alliance Opponent</b></size>
-tooltip.opponent.vagabond=<size=125%><b>Vagabond Opponent</b></size>
-tooltip.opponent.secondvagabond=<size=125%><b>Vagabond Opponent</b></size>
-tooltip.opponent.riverfolk=<size=125%><b>Riverfolk Company Opponent</b></size>
-tooltip.opponent.lizard=<size=125%><b>Lizard Cult Opponent</b></size>
-tooltip.opponent.player=<size=125%><b>{0}</b></size>
-tooltip.ui.shopinventory=<size=125%><b>Supply</b></size>
-tooltip.ui.victorypoints=<size=125%><b>Victory Points</b></size><br>The first player to <style="vpnumddteen"><size=14><space=.1em>30</size></style>wins.
-tooltip.ui.suitdominanceactive=<size=125%><b>Dominance Active</b></size>\
-tooltip.ui.birddominanceactive=<size=125%><b>Dominance Active</b></size>\
-tooltip.ui.coalitionactive=<size=125%><b>Coalition: {0}</b></size>\
-tooltip.ui.advanceday=<size=125%><b>Continue</b></size>
-tooltip.ui.cat.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
-tooltip.ui.cat.woodonboard=<size=125%><b>Wood on Board</b></size>\
-tooltip.ability.cat.battle=<size=125%><b>Battle</b></size>\
-tooltip.ability.cat.march=<size=125%><b>March</b></size>\
-tooltip.ability.cat.recruit=<size=125%><b>Recruit</b></size>\
-tooltip.ability.cat.build=<size=125%><b>Build</b></size>\
-tooltip.ability.cat.overwork=<size=125%><b>Overwork</b></size>\
-tooltip.ability.cat.birdaction=<size=125%><b>Hawks for Hire</b></size>\
+playerinfo.used.title=Used
+settings.gameplay.title=Gameplay
+button.commit=Commit
+RFT.Thematic.Intro=<color=#397F7F>The Riverfolk Company</color> has set up shop on the great river running through the woodland. As the other factions purchase <color=#397F7F>services</color>, the <color=#397F7F>Riverfolk</color> will be able to fund new trade posts across the forest. The construction of these posts is a viable way to score victory points, but so too are dividends gained from hoarding wealth.
+RFT.character.intro=Well hey there chum. Let me wash my hands real quick, they smell like clams.
+RFT.set.up=In the meantime, take care of set-up for me and place 4 <color=#397F7F>warriors</color> in clearings along the river.
+RFT.services.1=We've got the best <color=#397F7F>services</color> in town!
+RFT.services.2=At the start of their Birdsong, your opponents may purchase <color=#397F7F>services</color> by taking warriors from their supply and adding them to your <color=#397F7F>payments</color> area.
+RFT.services.3=Those <color=#397F7F>payments</color> become the <color=#397F7F>funds</color> that determine the actions you can take on your turn.
+rft.set.price=During set up and each Evening, you determine <color=#397F7F>service</color> prices. Let's play hardball and set them all to 3.
+rft.bs.intro.funds=Our <color=#397F7F>service</color> prices were so steep we didn't get any buyers. However, each game we start with three <color=#397F7F>payments</color> represented by warrior icons.
+rft.gather.funds=During Birdsong, you move all <color=#397F7F>payments</color> to your <color=#397F7F>funds</color> to spend on actions during daylight.
+rft.basic.funds=You can move, battle, and draw cards by committing <color=#397F7F>funds</color>. These <color=#397F7F>funds</color> move to your <color=#397F7F>commitments</color> area and won't be available to spend again until your next turn.
+rft.basic.battle=Commit a <color=#397F7F>fund</color> to battle the Marquise in your <sprite name="ClearingRabbit"> clearing before they recruit more warriors.
+rft.battle.2=Well done. You're more of a fighter than I expected!
+rft.battle.enemy=You otter know better than to attack the Marquise!
+rft.recruit=Recruit now in the clearing you battled in to replace the <color=#397F7F>warrior</color> we lost in battle.
+rft.recruit.2=Recruiting is costly. <color=#397F7F>Funds</color> used to Recruit go to your supply rather than your commitments. This means they won't return to your <color=#397F7F>funds</color> on your following turn.
+rft.draw=Unlike many other factions, you don't draw at end of turn. To draw cards you must commit a <color=#397F7F>fund</color> to use the draw action.
+rft.set.cost=During Evening, you may change the prices of your <color=#397F7F>services</color>. Let's hold a sale! Bring the cost of <color=#397F7F>riverboats</color> down to 1 and your other <color=#397F7F>services</color> down to 2.
+rtf.marquise.hand.card=Those baked goods you have on offer look delicious!
+rtf.marquise.hand.card.2=Clam cake again? Excuse me while a cough up a hairball...
+rft.lizard.riverboats=Your <color=#397F7F>riverboats</color> will be of much use to the cult. Blessings of the scaled one to you.
+rft.enemy.funds=Our sale was a success! We have a nice variety of funds to use for our actions this turn.
+rft.trade.post=You can spend 2 <color=#397F7F>funds</color> matching the faction of a clearings ruler to place a <sprite name="TradePost"><color=#397F7F>trade post token</color> and <color=#397F7F>warrior</color> there (so long as that clearing doesn't already have a <color=#397F7F>trade post</color>).
+rft.trade.post.2=When you place a trade post, you score <style="vpnum">2</style>. <sprite name="TradePost"><color=#397F7F>Trade posts</color> are used to craft, allow you to score dividends, and enable other players to buy more <color=#397F7F>services</color> from you.
+rtf.craft=Each <sprite name="TradePost"><color=#397F7F>trade post</color> you have built also contributes its suit towards crafting cards.
+rtf.fund.choice=You must commit a <color=#397F7F>fund</color> for each <sprite name="TradePost"><color=#397F7F>trade post</color> used during crafting. You have a choice of which faction type to spend. Select either.
+RFT.Swimmers=Us Riverfolk are great swimmers. We treat rivers as paths during movement and ignore the ruler restriction when moving through rivers.
+rtf.trade.post.protect=Let's move 2 <color=#397F7F>warriors</color> along the river to our <sprite name="TradePost"><color=#397F7F>trade post</color> to protect it.
+rtf.battle.workshop=That Marquise workshop is vulnerable. Attack!
+rft.marquise.traitor=From trader to traitor I see. You will pay for this, river scum!
+rft.set.service.t2=Let's leave our <color=#397F7F>service</color> costs alone for now. If it ain’t broke, don’t fix it!
+rtf.t3.enemy.service=Each enemy is allowed to buy one <color=#397F7F>service</color> from you a turn, plus an additional <color=#397F7F>service</color> for each clearing with a <sprite name="TradePost"><color=#397F7F>trade post</color> and one of their pieces.
+rtf.t3.mercenaries.split=The buyer of your mercenaries must split casualties evenly between their pieces and your hired warriors, with the buyer taking odd hits.
+rtf.alt.craft=Us <color=#397F7F>Riverfolk</color> are innovative crafters. Instead of resolving the effect of a crafted card, we can add a warrior to our <color=#397F7F>payments</color>. Use the <color=#397F7F>Export</color> button to craft for this reward.
+rtf.t3.recruit=Each time a <color=#397F7F>trade post</color> is destroyed, we lose half our <color=#397F7F>funds</color> (rounded up). Let's recruit another <color=#397F7F>warrior</color> to make sure our <sprite name="TradePost"><color=#397F7F>trade post</color> are well guarded.
+rtf.t3.dividends=During our Birdsong, we score dividends so long as we have a <sprite name="TradePost"><color=#397F7F>trade post</color> on the map. Dividends score <style="vpone">1</style> for every 2 <color=#397F7F>funds</color> we didn't use on our previous turn. Pass the turn to save <color=#397F7F>funds</color> for dividends.
+rff.t3.set.service=You've got quite the instinct for trade. Go ahead and set the <color=#397F7F>services</color> however you would like.
+rft.bs.protectionism=Looks like we didn't receive any payments this round. No matter, you move two warriors from your supply to payments as a consolation prize.
+rft.off.rails=Establish another <sprite name="TradePost"><color=#397F7F>trade post</color> and score <style="vpnumddteen">15</style> to prove us <color=#397F7F>Riverfolk</color> are more than mere merchants.
+rft.goal.vp=Score <style="vpnumddteen">15</style> ({0}/{1})
+rft.goal.tradepost=Build one more <sprite name="TradePost"><color=#397F7F>Trade Post</color>
+FTT.Riverfolk.removed.TP=Destroyed <sprite name="TradePost"><color=#397F7F>Trade Posts</color> don't return to your supply and continue to provide their crafting ability even though they are no longer on the map.
+lct.intro=The <color=#748421>Lizard Cult</color> wishes to spread our gospel throughout the woodland. You must seek <color=#748421>outcasts</color> and <color=#748421>acolytes</color> to crusade for your cause and defend your sanctum. But your fight is not with tooth and claw alone. Tending to your <sprite name="Garden"><color=#748421>Gardens</color> reveals a path to victory through mysterious rituals.
+lct.place.warriors=You start the game with 4 humble <color=#748421>warriors</color> and a <sprite name="Garden"><color=#748421>Garden</color> building in the corner clearing opposite the Marquise de Cat Keep.
+lct.adjacent.warriors=In addition, you place a warrior in each clearing adjacent to your starting <sprite name="Garden"><color=#748421>Garden</color>.
+lct.explain.reveal=During Daylight, you perform <color=#748421>ritual</color> actions by revealing cards from your hand.
+lct.recruit.intro=Using the <color=#748421>Recruit</color> ritual you may reveal a card from your hand to recruit a warrior in a clearing matching its suit.
+lct.reveal.icon=The cards you reveal are moved to the <sprite name="eyeicon"> area and can't be used for rituals again until your next turn.
+lct.first.build=Let's try another <color=#748421>ritual</color> using a different card in our hand. Use the <color=#748421>Build</color> ritual to reveal a <sprite name="mouseicon"> card and place a <sprite name="Garden"><color=#748421>Garden</color> in a matching clearing you rule.
+lct.pilgrims=You automatically rule any clearing where you have a <sprite name="Garden"><color=#748421>Garden</color>. Even non-believers are in awe of their divine properties.
+lct.garden=<sprite name="Garden"><color=#748421>Gardens</color> can be used to score points with the <color=#748421>Score</color> ritual. Tap your avatar to learn more about <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.garden.gamepad=<sprite name="Garden"><color=#748421>Gardens</color> can be used to score points with the <color=#748421>Score</color> ritual. Press <sprite name="Switch_LeftBumper"> to learn more about <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.garden.track=The more <sprite name="Garden"><color=#748421>Gardens</color> you have on the map of a suit, the more points you score when using the <color=#748421>Score</color> ritual.
+lct.garden.draw=You uncover a <sprite name="DrawCard"> when you have two <sprite name="Garden"><color=#748421>Gardens</color> of the same suit on the map. Doing so increases the cards you draw during Evening.
+lct.score=Use the <color=#748421>Score</color> ritual to discard a <sprite name="mouseicon"> card and gain <style="vpnum">2</style>. This is a unique and powerful ritual that requires you discard the card you used rather than reveal it.
+lct.score.2=You may perform the <color=#748421>Score</color> ritual only once per suit each turn.
+lct.return=The cards you revealed for rituals are now returned to your hand.
+lct.strategy=Carefully managing the suits in your hand is key to the cult's success.
+lct.marquise.dialog.attack=Time to kick these zealots back to the stone age! En garde!
+lct.revenge=These whiskered heathens have dealt a blow to our warriors. Thankfully, our <color=#748421>Revenge</color> ability allows us to transform our fallen defending <color=#748421>warriors</color> into <color=#748421>acolytes</color>.
+lct.pick.outcast=The <color=#748421>Outcast</color> determines the clearing suits you can interact with using your <color=#748421>acolytes</color>. Choosing <sprite name="mouseicon"> will allow us to wage war against enemies in <sprite name="mouseicon"> clearings this turn.
+lct.pick.outcast.2=In a typical game you will choose the initial <color=#748421>Outcast</color> suit during setup, but the cult makes exceptions for true believers like you.
+lct.intro.conspiracy=Now that we have an <color=#748421>Outcast</color> and enough <color=#748421>acolytes</color>, we can perform <color=#748421>conspiracies</color> during Birdsong. <color=#748421>Conspiracies</color> are a set of conflict oriented actions that use <color=#748421>acolytes</color> instead of cards in hand.
+lct.crusade=Spend two <color=#748421>acolytes</color> to use the <color=#748421>Crusade</color> Conspiracy. This will allow you to move 2 warriors from a clearing matching the suit of the <color=#748421>Outcast</color> to battle in an adjacent clearing.
+lct.t2.marquise=These wackos again? A fistful of steel should show them who's boss!
+lct.flavor.battle=May this burning pyre of sawdust please the gods.
+lct.hatred.birds=Because of your <color=#748421>Hatred of Birds</color>, your <sprite name="birdicon"> cards can't be used as any suit for performing rituals. Instead they are used for a unique ritual called <color=#748421>Sacrifice</color>.
+lct.intro.sacrifice=Reveal <sprite name="birdicon"> cards for the <color=#748421>Sacrifice</color> ritual to transform warriors in your supply into more <color=#748421>Acolytes</color> that can be used for <color=#748421>Conspiracies</color>.
+lct.t2.ritual=Our rituals offer flexibility in where to recruit and build on the map. Let's <color=#748421>Recruit</color> to a new area of the map now.
+lct.t2.craft=Reveal a <sprite name="rabbiticon"> to add a <sprite name="Garden"><color=#748421>Garden</color> to the clearing where you destroyed your enemy's sawmill.
+lct.t2.craft.2=<sprite name="Garden"><color=#748421>Gardens</color> matching the suit of the outcast contribute towards crafting during evening. Use their crafting power to score Root Tea.
+lct.lost.souls=Used and discarded cards from all players go to the <color=#748421>Lost Souls</color> pile rather than the discard pile. The most common suit of these <color=#748421>Lost Souls</color> will determine the suit of the <color=#748421>Outcast</color> at the start of your turn.
+lct.enemy.lost.souls=Enemy cards go to the <color=#748421>Lost Souls</color> pile as well. Watch out, even a careful plot to control the <color=#748421>Outcast</color> suit can be disrupted by clever opponents.
+lct.t3.outcast=At the start of your turn, the most common suit in the <color=#748421>Lost Souls</color> pile (ignoring <sprite name="birdicon">) determines the new <color=#748421>Outcast</color>. Then the <color=#748421>lost souls</color> pile is sent to the discard pile.
+lct.t3.outcast.2=Since <sprite name="rabbiticon"> was the most common suit, it becomes the new Outcast.
+lct.t3.crusade.battle=There is more than one way to <color=#748421>Crusade</color>. Rather than move from an <color=#748421>Outcast</color> clearing and battle in a neighboring clearing you can also battle in the <color=#748421>Outcast</color> clearing itself. Do so now to protect your <sprite name="Garden"><color=#748421>Garden</color>.
+lct.t3.crusade.battle.2=Success. However, you lost a warrior in the battle. Remember, only <color=#748421>warriors</color> lost in battles where you were the DEFENDER seek revenge by becoming <color=#748421>acolytes</color>.
+lct.t3.sacrifice=Use the <color=#748421>Sacrifice</color> action three times to gain more <color=#748421>acolytes</color>.
+lct.t3.recruit=Use the <color=#748421>Recruit</color> action to place another <color=#748421>warrior</color> near your <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.t3.recruit.2=Finally let's <color=#748421>Recruit</color> again to establish rule in the <sprite name="rabbiticon"> clearing near your <sprite name="Garden"><color=#748421>Gardens</color>.
+lct.t3.discard=You have too many cards in hand. Discarding two bunny cards will help to ensure the <color=#748421>Outcast</color> will become the <color=#748421>Hated Outcast</color>.
+lct.t3.discard.2=Being hated sounds bad you say? No no... the righteous are often misunderstood. Patience friend, you will see.
+lct.t4.hated.outcast=As foretold, the most common suit in the Lost Souls pile is the same as the suit of the current <color=#748421>Outcast</color>. When this happens, the <color=#748421>Outcast</color> becomes the <color=#748421>Hated Outcast</color>, reducing the cost of your <color=#748421>conspiracies</color> by 1!
+lct.t4.convert=The <color=#748421>Lizard Cult</color> welcomes new blood with open arms. Use the <color=#748421>Convert</color> conspiracy to replace an enemy warrior in an <color=#748421>Outcast</color> clearing with one of our own.
+lct.t4.sanctify=We must purify not only souls, but false monuments as well. Use <color=#748421>Sanctify</color>, to replace an enemy building with a <sprite name="Garden"><color=#748421>Garden</color>.
+lct.t4.off.rails=Your knowledge of our sacred text is nearly complete. Score <style="vpnumddteen">12</style> to prove your undying allegiance to the <color=#748421>Lizard Cult</color>.
+lct.goal.12vp=Score <style="vpnumddteen">12</style> ({0}/{1})
+lct.ftt.garden.removed=When a <color=#748421>garden</color> is removed, it returns to your garden track, often reducing the victory points scored by rituals. In addition, you lose a random card in hand. Protect <sprite name="Garden"><color=#748421>Garden</color> at all costs.
+scenario.garden.tier1description=You can't win unless you have 5 gardens on the map of the same suit.
+scenario.garden.tier2description=You can't win unless you have at least 3 gardens on the map in each suit.
+scenario.conquest.tier1description=Your Revenge ability is replaced with Conquest: When attacking, enemy warriors you remove in battle become Acolytes.
+scenario.conquest.tier2description=Your Revenge ability is replaced with Conquest: When attacking, enemy warriors you remove in battle become Acolytes. Opponents start with <style="vpnum">5</style>.
+scenario.restlesssouls.tier1description=At the start of your turn, swap your hand with the Lost Souls pile (Max 7. Skipped first turn).
+scenario.restlesssouls.tier2description=At the start of your turn, swap your hand with the Lost Souls pile (Max 7. Skipped first turn).
+scenario.fishing.tier1description=At the start of each of your turns, fish appear in rivers. When you move through a river path with a fish, it becomes a crafting piece in its suit color until end of turn.
+scenario.fishing.tier2description=At the start of each of your turns, fish appear in rivers. When you move through a river path with a fish, it becomes a crafting piece in its suit color until end of turn. Enemies start with <style="vpnum">3</style>.
+scenario.angry.tier1description=Defeated enemy warriors are added to your commitments. Enemies won't purchase your services. You start the game with Brutal Tactics in play.
+scenario.angry.tier2description=Defeated enemy warriors are added to your commitments. Enemies won't purchase your services and start with <style="vpnum">3</style>.

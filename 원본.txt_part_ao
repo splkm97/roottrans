@@ -1,0 +1,100 @@
+cct.Daylight.t3.plot.bomb=Place the <sprite name="plot_bomb"> <color=#6B5182>Bomb plot</color> to see if we can make things go BOOM!
+cct.Daylight.t3.trick.1=Finally, we'll trick the <color=#336699>Eyrie</color> into <color=#336699>Turmoil</color>. Use <color=#6B5182>Trick</color> to swap the location of your revealed <sprite name="plot_raid"> <color=#6B5182>Raid</color> and <sprite name="plot_snare"> <color=#6B5182>Snare plots</color>.
+cct.Daylight.t3.trick.2=The <sprite name="plot_snare"> <color=#6B5182>Snare</color> will keep them from being able to move out of that clearing or recruit <sprite name="corvid"><color=#6B5182>warriors</color> in it. That ought to ruffle some feathers and send them into <color=#336699>Turmoil</color>.
+cct.Daylight.t4.battle.1=Now that you are in position, it’s time to fight!
+cct.Daylight.t4.battle.2=Their <sprite name="Roost"><color=#336699>roost</color> is defenseless! Attack again to finish them off.
+cct.Daylight.t4.move=With your enemy's leadership in disarray, it's a perfect time for a show of strength. Move your <sprite name="corvid"><color=#6B5182>warriors</color> to take the battle to the <color=#336699>Eyrie</color>.
+cct.Daylight.t4.nimble=What Nimble movement you have! Like the <color=#4E6F89>Vagabond</color>, <color=#6B5182>Corvid <sprite name="corvid">warriors</color> move regardless of clearing rule restrictions.
+cct.Daylight.t4.offrails=You should be in a strong position to take it from here. Score <style="vpnumddteen">15</style> or destroy enemy pieces with a <sprite name="plot_bomb"> <color=#6B5182>Bomb</color> to finish this scenario.
+cct.Evening.t1.draw=Evening calls. With your Daylight actions complete, you will draw a card and pass the turn to the <color=#336699>Eyrie</color>.
+cct.Evening.t2.end=Looks like the pieces are all in place. But before our <color=#6B5182>plots</color> hatch we must pass to the <color=#336699>Eyrie</color> to take their turn.
+cct.Evening.t2.exert=In Evening, you may skip drawing cards to <sprite name="CorvidExertToken"> <color=#6B5182>Exert</color> for an extra action. We have more to accomplish, so let's do it.
+cct.Evening.t2.move=Move a <sprite name="corvid"><color=#6B5182>warrior</color> down to our <sprite name="plot_snare"> <color=#6B5182>Snare</color> to ensure we have the <sprite name="corvid"><color=#6B5182>warrior</color> required to reveal it next turn.
+cct.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})<br><br>-OR-<br><br>
+cct.goal.bomb=Destroy 1 or more enemy pieces with a <sprite name="plot_bomb"> <color=#6B5182>Bomb</color>.
+cct.intro=Welcome, initiate! Today marks your induction into the great <color=#6B5182>Corvid Conspiracy</color>, the true power pulling the strings in this woodland war.<br><br>To succeed as a member of the <color=#6B5182>Corvid Conspiracy</color> requires careful planning and the utmost secrecy. Our foes will never see us coming as we spread our plots far and wide across the woodlands.
+cct.setup.warriors=During setup, our initial foothold in the woodlands is established by placing a <sprite name="corvid"><color=#6B5182>warrior</color> in one of each clearing suit.
+conspiracyWithColor=<color=#9673B4>Corvid Conspiracy</color>
+corvid.plot.bomb.description=When revealed, remove all enemy pieces in its clearing, then remove this token.
+corvid.plot.bomb.title=Bomb
+corvid.plot.extortion.description=When revealed, take a random card from each player who has any pieces in its clearing. While revealed, you draw an extra card in Evening.
+corvid.plot.extortion.title=Extortion
+corvid.plot.raid.description=When removed, place one warrior in each adjacent clearing.
+corvid.plot.raid.title=Raid
+corvid.plot.snare.description=While revealed, enemy pieces cannot be placed in or moved from its clearing.
+corvid.plot.snare.title=Snare
+creategame.advancedsetup=Advanced Setup
+creategame.extras=Extras
+creategame.ownedfactions=Owned Factions
+duchy.ministertype.lord=Lord
+duchy.ministertype.noble=Noble
+duchy.ministertype.squire=Squire
+duchyWithColor=<color=#BD5752>Underground Duchy</color>
+factionnames.corvidconspiracy=Corvid Conspiracy
+factionnames.undergroundduchy=Underground Duchy
+ftt.exposure.intro.1=Anytime before drawing cards in Evening, you may use Exposure to try and remove a hidden Corvid plot that is in a clearing with one of your pieces.
+ftt.exposure.intro.2=To do so, select the Exposure button and reveal a card matching the suit of the hidden plot's clearing. Then make your guess what the plot is. If correct, remove the plot. If wrong, you must give Corvid the revealed card.
+lake.Ferry=Once per turn, a player moving from a clearing with the Ferry can move any number of warriors and the Ferry from that clearing to another coastal clearing. After this, they draw a card.
+lake.intro=Welcome to the Lake! Things here are simple so long as you know how to use the Ferry.
+lake.move.Ferry=Would you like to use the Ferry to make this move?
+log.banker=[faction name] discards [cardnames] for [X] <style="vptext">VP</style>.
+log.brigadier.2battle=[faction name] activates Brigadier for two battles.
+log.brigadier.2move=[faction name] activates Brigadier for two moves.
+log.captain=[faction name] activates Captain to battle.
+log.clear.path=[faction name] discards [name] to open a path and score 1 <style="vptext">VP</style>.
+log.corvid.move=<color=#9673B4>Corvid Conspiracy</color> moves [X] warriors into a [suit icon] clearing.
+log.corvid.move.one=<color=#9673B4>Corvid Conspiracy</color> moves 1 warrior into a [suit icon] clearing.
+log.corvid.recruit=[faction name] discards [name] to place a warrior in each [suit icon] clearing.
+log.corvid.setup=[faction name] places a warrior in a [suit icon] clearing.
+log.duchy.build=[faction name] reveals [name] to place a [building name] in a [suit icon] clearing.
+log.duchy.dig=[faction name] discards [name] to place a tunnel in a [suit icon] clearing. [X] warrior(s) moved there from the Burrow.
+log.duchy.dig.nomove=[faction name] discards [name] to place a tunnel in a [suit icon] clearing.
+log.duchy.dig.tunnel.removed=[faction name] removes a tunnel from a [suit icon] clearing.
+log.duchy.Evening.step1.bird=[faction name] returns their revealed cards to their hand and discards the following revealed bird cards: [cardnames]
+log.duchy.Evening.step1.nobird=[faction name] returns their revealed cards to their hand.
+log.duchy.failure=[faction name] returns [name] and discards [cardname] due to Price of Failure.
+log.duchy.lord.score=[faction name] activates [name] to score [X] <style="vptext">VP</style>.
+log.duchy.move=<color=#BD5752>Underground Duchy</color> moves [X] warriors into a [suit icon] clearing.
+log.duchy.move.burrow=<color=#BD5752>Underground Duchy</color> moves [X] warriors from the Burrow into a [suit icon] clearing.
+log.duchy.move.one=<color=#BD5752>Underground Duchy</color> moves 1 warrior into a [suit icon] clearing.
+log.duchy.move.one.burrow=<color=#BD5752>Underground Duchy</color> moves 1 warrior from the Burrow into a [suit icon] clearing.
+log.duchy.recruit=[faction name] places a warrior in the Burrow.
+log.duchy.setup=[faction name] places their starting tunnel and 2 warriors in a [suit icon] corner clearing. 2 more warriors are placed in each adjacent clearing.
+log.duchy.sway=[faction name] reveals [cardnames] to sway [name] gaining [X] <style="vptext">VP</style>.
+log.embedded.agents=[faction name] gets an extra hit for their hidden plot token in the clearing of battle.
+log.exert=[faction name] uses Exert to to gain an extra Daylight action in Evening. As payment, they will skip drawing cards in Evening.
+log.exposure.failure=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals [name] to guess [plot token name]. The guess is incorrect and the [faction name 2] takes [name].
+log.exposure.failure.opponent=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals a card to guess [plot token name]. The guess is incorrect and the [faction name 2] takes the revealed card.
+log.exposure.success=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals [name] to guess [plot token name]. The guess is correct and the [plot token name] is removed.
+log.exposure.success.opponent=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals a card to guess [plot token name]. The guess is correct and the [plot token name] is removed.
+log.flip=[faction name] reveals [plot token name] in a [suit icon] clearing, scoring [X] <style="vptext">VP</style>.
+log.flip.resolution.bomb=Bomb removes [pieces] from [faction name].
+log.flip.resolution.extortion=[faction name] takes a card from [faction name 2].
+log.foremole=[faction name] activates Foremole, revealing [name] to place [building name] in a [suit icon] clearing.
+log.lake.Ferry=[faction name] used the Ferry while moving and drew a card.
+log.marshal=[faction name] activates Marshal for a move.
+log.mayor=[faction name] copies the action of [name] with Mayor.
+log.navalwarfare.hit=[faction name] scores a Naval Warfare hit.
+log.playerwon=[faction name] Wins!
+log.plot=[faction name] removes [X] warriors from a [suit icon] clearing to place a hidden plot there.
+log.plot.one=[faction name] removes one of their warriors from a [suit icon] clearing to place a hidden plot there.
+log.spawn.burrow=[X] Warrior(s) added to the Burrow
+log.Tower.score=[faction name] gains 1 <style="vptext">VP</style> for ruling the clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color>.
+log.trick=[faction name] swapped the location of two plot tokens.
+ministertype.lords=Lords
+ministertype.nobles=Nobles
+ministertype.squires=Squires
+mountain.intro=Welcome to The Mountain! There are a few things you should know if you want to be the ruler around here.
+mountain.pass=The clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color> is called the Pass. At the end of a player’s Evening, they score <sprite name="1VP"> if they rule the Pass.
+mountain.path=There are some closed paths here that will need to be cleared if you want to move through them. Once per turn in Daylight, a player can spend a card to turn an adjacent closed path into a working one, and score <sprite name="1VP">.
+playerinfo.corvid.Birdsong=1st: Craft - using plots, revealed or hidden. <br><br>2nd: Reveal - plot tokens of your choice in clearings with any Corvid warriors. For each reveal, score 1 VP per revealed plot on the map, then resolve its reveal effect, if any. <br><br> 3rd: Recruit - Once per turn, spend any card to place one warrior in each matching clearing.
+playerinfo.corvid.Daylight=Take up to 3 actions. <br><br><sprite index=96>Plot<br>Remove one Corvid warrior, plus one per plot token you placed this turn, from a clearing with no plot token to place a hidden plot token there. <br><br><sprite index=96>Trick<br>Swap two plot tokens, both revealed or hidden, on the map.<br><br><sprite index=96>Move<br><br><sprite index=96>Battle
+playerinfo.corvid.embeddedagents.description=In battle as defender with a hidden plot token, you deal an extra hit.
+playerinfo.corvid.embeddedagents.title=Embedded Agents
+playerinfo.corvid.Evening=1st: Exert<size=80%> - You may take an extra Daylight action. If you do, you do not draw cards during your next draw step.<br><br></size=80%>2nd: Draw <size=80%>1 card, plus 1 card per <sprite index=97> on the map.<br></size=80%><br>Discard <size=80%>down to 5 cards.
+playerinfo.corvid.exposure.description=An enemy player in a clearing with a hidden plot token may show you a card matching the suit of the clearing to guess the plot's type. If correct, the plot is removed. Otherwise, you get the revealed card.
+playerinfo.corvid.exposure.title=Exposure
+playerinfo.corvid.nimble.description=You can move regardless of who rules your clearing.
+playerinfo.corvid.nimble.title=Nimble
+playerinfo.corvid.offensiveagents.description=When attacking in a clearing with a hidden plot token, you deal an extra hit.
+playerinfo.corvid.offensiveagents.title=Offensive Agents

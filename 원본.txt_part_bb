@@ -1,0 +1,100 @@
+tutorial1.destroyroost=Well done! You've destroyed their <sprite name="Roost"><color=#336699>roost</color>. The forest is ours...for now.
+tutorial2.faction.info=The invading <color=#CC6633>Marquise de Cat</color> wishes to exploit the Woodland, using its vast resources to fuel her economic and military machine. She scores Victory Points <style="vptext">VP</style> by constructing buildings in the Woodland. <br><br>In a typical game the first player to score <style="vpnumdd">30</style> wins! This scenario, let's see if you can get to <style="vpnumddteen">12</style>.
+tutorial2.setup.keep=When you start a game as the <color=#CC6633>Marquise de Cat</color>, you place your <sprite name="KeepToken"><color=#CC6633>keep</color> in one of the corner clearings.
+tutorial2.setup.keep2=The <sprite name="KeepToken"> <color=#CC6633>keep</color> is the cornerstone of your kingdom. Enemies may not build or place pieces in the clearing with your <sprite name="KeepToken"><color=#CC6633>keep</color>, but they can move there.
+tutorial2.setup.keep3=Place your <sprite name="KeepToken"><color=#CC6633>keep</color> now.
+tutorial2.setup.warriors=The <color=#CC6633>Marquise</color> army greatly outnumbers the other factions. You start with a <sprite name="marquise"><color=#CC6633>warrior</color> in every clearing except the one in the corner opposite your <sprite name="KeepToken"><color=#CC6633>keep</color>. That clearing is <color=#336699>Eyrie</color> territory.
+tutorial2.setup.buildings=Finally, you must place one of each building in the clearing with your <sprite name="KeepToken"><color=#CC6633>keep</color> or any adjacent ones.
+tutorial2.setup.eyrie=The <color=#336699>Eyrie</color> have swooped in and built a <sprite name="Roost"><color=#336699>roost</color> in the empty clearing. It's quite well defended.
+tutorial2.turn1.workshops=At the start of Daylight, you have an opportunity to craft cards from your hand using <sprite name="CatWorkshop"><color=#CC6633>workshops</color>.
+tutorial2.turn1.craftcost.a=Each <sprite name="CatWorkshop"><color=#CC6633>workshop</color> contributes its clearing's suit towards paying crafting costs. For example, you could craft this Arms Trader if you had two <sprite name="CatWorkshop"><color=#CC6633>workshops</color> in <sprite name="foxicon"> clearings.
+tutorial2.turn1.craftcost=You can craft Smuggler's Trail since you have a <sprite name="CatWorkshop"><color=#CC6633>workshop</color> in a <sprite name="mouseicon"> clearing and it costs 1 <sprite name="mouseicon">.
+tutorial2.turn1.suit=The cost to craft a card is shown on the wooden board below its suit.
+tutorial2.turn1.victorypoints=Crafting the Smuggler's Trail rewarded you with a <style="vptext">VP</style> victory point! You are on your way to your <style="vpnumddteen">12</style> goal.
+tutorial2.goal.15VP=Score <style="vpnumddteen">12</style>. ({0}/{1})
+tutorial2.turn1.moz=You may review the text of cards in your hand by holding your mouse over them. Review Arms Trader now.
+tutorial2.turn1.moz.gamepad=You may review the text of cards in your hand by holding your finger on them or pressing <sprite name="Switch_Action4"> Review Arms Trader now.
+tutorial2.turn1.moz.gamepad.switch=You may review the text of cards in your hand by holding your finger on them or pressing <sprite name="Switch_Action3"> Review Arms Trader now.
+tutorial2.turn1.moz.touch=You may review the text of cards in your hand by holding your finger on them. Review Arms Trader now.
+tutorial2.turn1.actions=After crafting, <color=#CC6633>the Marquise</color> can take <color=#CC6633>3 actions</color>.
+tutorial2.turn1.build=<color=#CC6633>The Marquise</color> also scores <style="vptext">VP</style> when building.
+tutorial2.turn1.buildslot=You can only place <color=#CC6633>buildings</color> in clearings you rule with available building slots.
+tutorial2.turn1.recruit=Now that there are two <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> buildings, you can recruit two <sprite name="marquise"><color=#CC6633>warriors</color> with a single Recruit action.
+tutorial2.turn1.workshopinfo=<sprite name="CatWorkshop"><color=#CC6633>Workshops</color> allow you to craft cards in your hand.
+tutorial2.turn1.sawmillinfo=<sprite name="CatSawmill"><color=#CC6633>Sawmills</color> produce wood to help you build more buildings.
+tutorial2.turn1.recruitinfo=<sprite name="CatRecruiter"><color=#CC6633>Recruiters</color>, as you know, help you recruit warriors. Let’s build a recruiter to bolster our defenses.
+tutorial2.turn1.move=Move your <sprite name="marquise"><color=#CC6633>warriors</color> to the frontlines to defend against <color=#336699>the Eyrie</color>.
+tutorial2.turn1.move2=You may now move any number of <sprite name="marquise"><color=#CC6633>warriors</color> using one March action. Let's move two.
+tutorial2.turn1.move3=Remember, when you choose to March, you may make two moves. Use the second move to keep closing in on <color=#336699>the Eyrie</color>.
+tutorial2.turn1.move4=Move both <sprite name="marquise"><color=#CC6633>warriors</color>.
+tutorial2.turn1.controlmove=To move, you must rule either the clearing you are moving from or moving to. This can make it tricky to move deep into enemy territory without a substantial army.
+tutorial2.turn1.evening=During Evening, you draw 1 card. You can draw additional cards <sprite name="DrawCard"> by having more <sprite name="CatRecruiter"><color=#CC6633>recruiters</color> on the map.
+tutorial2.aiturn1.Birdsong=The <color=#CC6633>Marquise de Cat</color> is an upstart! The lineage of <color=#336699>The Eyrie Dynasties</color> will surely retake the forest.
+tutorial2.aiturn1.factions=<color=#336699>The Eyrie</color> are assigning actions to their <color=#336699>Decree</color>. Each faction has unique capabilities and their own way of taking actions.
+tutorial2.aiturn1.factions2=<color=#336699>The Eyrie</color> may not look like much yet, but their ever growing <color=#336699>Decree</color> will allow them to take more and more actions each turn so long as their leader stays in power.
+tutorial2.aiturn1.battle=They found the weak link in our defense. Prepare to fight!
+tutorial2.aiturn1.fieldhospital=We may have lost the fight, but as long as your <sprite name="KeepToken"><color=#CC6633>keep</color> still stands, we can heal fallen warriors with <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color>.
+tutorial2.turn2.fhdiscard=Discard a card that matches the suit of the clearing where your warriors were defeated to return them to your <sprite name="KeepToken"><color=#CC6633>keep</color>.
+tutorial2.turn2.refrence=You can review special abilities unique to your faction like <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color> by tapping on your avatar.
+tutorial2.turn2.refrence.gamepad=You can review special abilities unique to your faction like <sprite name="FieldHospital"><color=#CC6633>Field Hospitals</color> by pressing the <sprite name="Switch_LeftBumper"> button.
+tutorial2.playerturn2.action1=Don’t retaliate just yet. Build two more buildings to keep gaining <style="vptext">VP</style>.
+tutorial2.playerturn2.goal=Build 2 buildings ({0}/{1})
+tutorial2.playerturn2.build=Build another building of your choice.
+tutorial2.overwork1=We could use more <sprite name="Wood"><color=#CC6633>wood</color> for building. Let's use <color=#CC6633>Overwork</color> to push a <sprite name="CatSawmill"><color=#CC6633>sawmill</color> to produce more <sprite name="Wood">.
+tutorial2.overwork2=To use <color=#CC6633>Overwork</color>, you must discard a card matching the suit of one of your <sprite name="CatSawmill"><color=#CC6633>sawmill's</color> clearings to gain a <sprite name="Wood"><color=#CC6633>wood</color>. Cards in the <sprite name="birdicon"> suit act as a “wild” and can be used in place of any other suit.
+tutorial2.connectedclearings=Excellent. You have enough <sprite name="Wood"><color=#CC6633>wood</color> to make another building. You may spend any <sprite name="Wood"> on the map connected to the clearing you wish to build in, so long as they are connected by clearings you rule.
+tutorial2.playerturn2.build2=Build a second building to complete your goal.
+tutorial2.turn2.prebuildingincrease=Tap your avatar for more building info.
+tutorial2.buildingincrease=As you build more of a particular building type, its cost increases along with the <style="vptext">VP</style> it earns you.
+tutorial2.playerturn2.action4=You are out of actions. By discarding a <sprite name="birdicon"> card, you can take an extra action.
+tutorial2.playerturn2.action5=Looks like you haven't recruited yet this turn. Let's do so with your final action.
+tutorial2.aiturn2.recruit=More <sprite name="eyrie"><color=#336699>warriors</color> arrive each day. <color=#336699>The Eyrie</color> will use them to crush your pitiful forces!
+tutorial2.aiturn2.battle=<color=#336699>The Birds</color> have fallen into a trap! You have a <sprite name="foxicon"> Ambush! card you can play. Use it now to destroy two attackers.
+tutorial2.aiturn2.ambush=An Ambush? These cats are more clever than I thought!
+tutorial2.playerturn3.sendoff=Continue scoring points to defeat <color=#336699>the Eyrie</color> by destroying <sprite name="Roost"><color=#336699>roosts</color>, constructing buildings, and crafting items that reward <style="vptext">VP</style>.
+tutorial.ruleFlag=Rule Flag
+tutorial.woodFlag=Wood Supply
+tutorial2.craftingcost.label=Crafting Cost
+tutorial2.suit.label=Suit
+tutorial.clearingindicator=Clearing Suit
+tutorial2.victorypoints=Victory Points
+tutorial.towerbanner=Tower
+tutorial.ferrybanner=Ferry
+tutorial.mountainpassbanner=Mountain Pass
+tutorial3.goal.1=Have 3 <sprite name="Roost"> <color=#336699>roosts</color> ({0}/{1})
+tutorial3.opening.1=The proud <color=#336699>Eyrie Dynasties</color> wish to reclaim the glory of their once-great aristocracy and retake the Woodland from the Marquise. They score each turn by building and protecting roosts in the Woodland.
+tutorial3.opening.2=You begin with a <sprite name="Roost"> <color=#336699>roost</color> and 6 <sprite name="eyrie"><color=#336699> warriors</color>.
+tutorial3.opening.roosts.info=<sprite name="Roost"><color=#336699>roosts</color> are the Eyrie's only building type. They are used to craft cards from your hand, recruit warriors, and score <style="vptext">VP</style> each turn.
+tutorial3.opening.3=Ca Caw! We'll need a leader who can expand our avian empire! Let's select the <color=#336699>Despot</color> since he will allow us to <color=#336699>build</color> from turn one.
+tutorial3.opening.4=<color=#336699>The Eyrie</color> must follow the official <color=#336699>Decree</color> each turn! Each column of the Decree is associated with a different action.
+tutorial3.opening.5=Your leader determines the initial actions in your <color=#336699>Decree</color>: In this case <sprite name="EyrieMove"> <color=#336699>move</color>, and <sprite name="EyrieBuild"> <color=#336699>build</color>.
+tutorial3.Birdsong.1=Each turn, we must add 1 or 2 cards to our <color=#336699>Decree</color>. Only one card added may be a <sprite name="birdicon"> card. Let's add a <sprite name="mouseicon"> now.
+tutorial3.Birdsong.2=As your <color=#336699>Decree</color> grows, you can do more and more each turn.
+tutorial3.Birdsong.2.b=When you assign cards to your <color=#336699>Decree</color>, only their suit applies. If you want to use a card's effect, you must save it for the crafting phase.
+tutorial3.craft.0=During Daylight, you may craft cards from your hand using <sprite name="Roost"> <color=#336699>roosts</color>. Each <color=#336699>roost</color> contributes the suit of its clearing towards paying costs, much like the <color=#CC6633>Marquise workshops</color>.
+tutorial3.craft.1=Your <sprite name="Roost"> <color=#336699>roost</color> in the <sprite name="ClearingMouse"> clearing will allow you to craft Sappers. This card will come in handy if you are attacked.
+tutorial3.recruit.1=During Daylight, your <color=#336699>Decree</color> is resolved from left to right. Recruit a <sprite name="eyrie"><color=#336699>warrior</color> in a <sprite name="Roost"><color=#336699>roost</color> matching the suit of your <color=#336699>Decree</color> assignment.
+tutorial3.move.1=<sprite name="birdicon"> assigned to a <color=#336699>Decree</color> can be used in any clearing. Move 3 <color=#336699><sprite name="eyrie"> warriors</color> to the <sprite name="ClearingFox"> clearing below.
+tutorial3.battle.1=We skip the <sprite name="EyrieBattle"> <color=#336699>battle</color> action because you do not have any cards assigned to the battle column of your <color=#336699>Decree</color>.
+tutorial3.build.1=Finally, we get to <sprite name="EyrieBuild"> <color=#336699>build</color> our second <sprite name="Roost"> <color=#336699>roost</color>.
+tutorial3.score.2=At the start of Evening, you score victory points for your <sprite name="Roost"> <color=#336699>roosts</color>. Select your avatar for more details.
+tutorial3.score.2.gamepad=At the start of Evening, you score victory points for your <sprite name="Roost"> <color=#336699>roosts</color>. Press <sprite name="Switch_LeftBumper"> for more details.
+tutorial3.score.1=The <color=#336699>Roost Track</color> shows our progress toward retaking the forest. The more <sprite name="Roost"> <color=#336699>roosts</color> you have, the more <style="vptext">VP</style> you score each turn!
+tutorial3.aiturn.1=These bird brains think they can retake the forest? Not on our prowl!
+tutorial3.turntwo.decree.1=New day, new opportunity to add to your <color=#336699>Decree</color>! Let's add a card to <color=#336699>recruit</color> so we can get more warriors each turn.
+tutorial3.turntwo.decree.2=Each turn, you may also assign a second card to your <color=#336699>Decree</color>. Assign a <sprite name="mouseicon"> card to the <sprite name="EyrieBattle"> battle column so we can fight the <color=#CC6633>Marquise</color> in <sprite name="mouseicon"> clearings.
+tutorial3.turntwo.craft.1=Nothing to craft this turn. No matter! Your <color=#336699>Disdain for Trade</color> limits your reward for crafting items to a single <sprite name="1VP">. Trade, like many things, is quite literally beneath you.
+tutorial3.turntwo.fight=Time to teach those kittens the might of flight!
+tutorial3.turntwo.move=Move three <sprite name="eyrie"><color=#336699>warriors</color> into the <sprite name="ClearingMouse"> clearing with your opponent's <color=#CC6633>recruiter</color> to set up a battle.
+tutorial3.turntwo.ai.fowl=A fowl smell hangs in the air? The Eyrie must be approaching!
+tutorial3.turntwo.battle=Time to fight. Make those dirt dwellers tremble in the presence of your aerial warriors.
+tutorial3.turntwo.control.2=What a glorious battle! We must rule a clearing to place a <sprite name="Roost"> <color=#336699>roost</color> there. Warriors and buildings in a clearing contribute to who rules it. The <color=#336699>Eyrie</color> always win ties.
+tutorial3.turntwo.goal.1=Nice work building those <sprite name="Roost"><color=#336699>roosts</color>! Destroy enemy buildings, craft cards, and keep control of your <sprite name="Roost"><color=#336699>roosts</color> to score <style="vpnumddteen">15</style> and complete this scenario.
+tutorial3.goal.2=Score <style="vpnumddteen">10</style>  ({0}/{1})
+tutorial3.turmoilReminder=Don't bite off more than you can chew. Remember, if you are ever unable to perform an action assigned to your <color=#336699>Decree</color>, your flock will fall into <color=#336699>turmoil</color>.
+tutorial3.extraCardDraw=You draw an additional card <sprite name="DrawCard"> during Evening for every three <sprite name="Roost"> <color=#336699>roosts</color> you have in play.
+tutorial3.Turmoil.1=Skwak! We’ve fallen into <color=#336699>turmoil</color> because we couldn’t perform all actions on our <color=#336699>Decree</color>!
+tutorial3.Turmoil.2=During <color=#336699>turmoil</color>, you discard all the cards in your <color=#336699>Decree</color> and lose <sprite name="1VP"> for each discarded <sprite name="birdicon"> card. You then select a new leader and proceed to Evening.
+tutorial3.Turmoil.3=Avoiding <color=#336699>turmoil</color> requires careful placement of cards to your <color=#336699>Decree</color>. Try to match suits to the clearings you plan on interacting with.
+tutorial3.Turmoil.4=<sprite name="birdicon"> cards may lose you <style="vptext">VP</style> during <color=#336699>turmoil</color> but they offer flexibility that can help prevent it from happening.
+tutorial3.turn4.hint.1=If you are having trouble deciding what card suits to assign to your <color=#336699>Decree</color>, you can always minimize it and review the map.

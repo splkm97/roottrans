@@ -1,0 +1,100 @@
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteMob.opponent=[player] are Inciting!
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.JubilantChooseRoll.opponent=[player] are placing mobs using Jubilant.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseMoveWarlord.opponent=[player] are moving.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoWarlord.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOrBattle.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOnly.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceBattleOnly.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoActions.opponent=[player] are advancing their warlord.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.CommandNoActions.opponent=[player] are choosing a Command action to take.
+scenario.ironritual.name=Iron Ritual
+scenario.ironritual.tier1description=You can’t win unless you have 3 relics of different types (figure, tablet, jewelry) spread evenly between 3 different corner clearings.
+scenario.ironritual.tier2description=You can’t win unless you have 3 relics of different values (1,2,3) spread evenly between the 3 different corner clearings you didn't start the game in.
+scenario.winterschill.name=Winter's Chill
+scenario.winterschill.tier1description=Live off the Land is replaced with Huddle Up - At the start of Evening, remove each Keeper warrior in a clearing with no other Keeper warriors.
+scenario.winterschill.tier2description=Live off the Land is replaced with Relic-Bound - At the start of Evening, remove one Keeper warrior from each clearing without a relic.
+scenario.deliverymission.name=Delivery Mission
+scenario.deliverymission.tier1description=You can’t recover at waystations. Instead, relics are automatically recovered at the start of your Evening while in a clearing with a Vagabond. The Move or Recover column of your Retinue is replaced with Move.
+scenario.deliverymission.tier2description=You can’t recover at waystations. Instead, relics are automatically recovered at the start of your Evening while in a clearing with the Marquise Keep or a Woodland Alliance base. The Move or Recover column of your Retinue is replaced with Move. You may only recruit at waystations that have a matching relic in their clearing.
+scenario.temperamental.name=Temperamental
+scenario.temperamental.tier1description=Your mood is determined randomly each turn (among legal options). Once per turn, you may reroll your mood to a new one.
+scenario.temperamental.tier2description=Your mood is determined randomly each turn (among legal options).You may only build while you are Grandiose, Lavish, or Stubborn. You may only craft while you are Relentless, Bitter, or Jubilant. You may only Raze while you are Rowdy or Wrathful.
+scenario.infiltrationmission.name=Infiltration Mission
+scenario.infiltrationmission.tier1description=Oppression is replaced with Infiltration - Score in the Evening based on clearings an enemy rules that have a Hundreds warrior or warlord in them.
+scenario.infiltrationmission.tier2description=Oppression is replaced with Infiltration - Score in the Evening based on clearings an enemy rules with at least four pieces that have a Hundreds warrior or warlord in them.
+scenario.mobjustice.name=Mob Justice
+scenario.mobjustice.tier1description=You can’t start battles in clearings without a mob there.
+scenario.mobjustice.tier2description=You can’t start battles in clearings without a mob there. You start with 1 less mob and 3 less strongholds in your supply.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitStronghold=At warrior supply limit. Choose a Stronghold to recruit a warrior. ([X] remaining)
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitStronghold.opponent=[player] are recruiting.
+tuber.canis.abilities.LordOfTheHundredsPlayer.TemperamentalChallengeAbility.ChooseCard=Spend a matching card to reroll your mood.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsSetup.ChooseMobJustice=Choose a clearing to place a mob.
+tuber.canis.actions.ContinueToEvening=Continue to Evening.
+tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.DeliveryMissionRecruitClearing=Choose a clearing with a waystation to recruit a warrior there.
+tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.DeliveryMissionRecruitClearing.opponent=[player] are recruiting.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.TemperamentalMoodChosen=Mood randomly determined.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.TemperamentalMoodChosen.opponent=[player] are choosing a new mood.
+aiplayername.keepersiniron=Keepers in Iron
+aiplayername.lordofthehundreds=Lord of the Hundreds
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.LavishNoItems=No items to remove for Lavish.  Press continue.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.LavishNoItems.opponent=[player] are removing items from their Hoard to place warriors
+lht.intro.1=The Woodland trembles - the <color=#B40518>Hundreds</color> have anointed a new warlord. Their legions of warriors and torch-wielding mobs will raze clearings to the ground at their demagogue's command.<br>Gaining items increases their actions, and their leader's fickle mood empowers their forces.
+lht.intro.2=You there! The old <sprite name="HundredsWarlord"><color=#B40518>warlord</color> has fallen. A new <sprite name="HundredsWarrior"><color=#B40518>warrior</color> has been chosen to take his place. Long live the <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.setup.1=Place your <sprite name="Stronghold"><b><color=#B40518>stronghold</color></b>, <sprite name="HundredsWarlord"><color=#B40518><b>warlord</b></color> and 4 <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in this clearing.
+lht.setup.2=From this <sprite name="Stronghold"><color=#B40518>stronghold</color> you'll recruit <sprite name="HundredsWarrior"><color=#B40518>warriors</color> and craft items to fill your <color=#B40518><b>Hoard</b></color>, empowering your actions.
+lht.1.1=During Birdsong, your <sprite name="Stronghold"><color=#B40518>stronghold</color> recruits 1 <sprite name="HundredsWarrior"><color=#B40518>warrior</color>, and another is recruited at your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> due to <color=#B40518><b>Prowess of the Hundreds</color></b>.
+lht.1.2=Now let's see... what <b><color=#B40518>mood</color></b> is your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> in today?
+lht.1.3=<color=#B40518>Moods</color> give powerful new abilities to the <color=#B40518>Hundreds</color>, but they change every turn! This turn, let's show the <color=#CC6633>Marquise</color> your <color=#B40518>Wrathful</color> might!
+lht.1.4=Daylight breaks! Hold off on crafting anything for now.
+lht.1.5=The number of actions you can take is determined by your <color=#B40518>Hoard</color> of items, which can be viewed by selecting your portrait.
+lht.1.6=<sprite name="boot">, <sprite name="bag">, and <sprite name="coinstack"> items add to your <color=#B40518><b>Command</b></color>, increasing your ability to build <sprite name="Stronghold"><color=#B40518>strongholds</color>, move, and battle.
+lht.1.7=<sprite name="hammer">, <sprite name="teapot">, <sprite name="sword">, and <sprite name="crossbow"> items add to your <color=#B40518><b>Prowess</b></color>, increasing the number of <sprite name="HundredsWarrior"><color=#B40518>warriors</color> you recruit and giving your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> extra actions.
+lht.1.8=Since you have no <color=#B40518>Command</color> items, you can only take a single action. Kick this wayward <sprite name="marquise"><color=#CC6633>warrior</color> out of your starting clearing!
+lht.1.9=Great. Now it's time for your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to <b><color=#B40518>advance</color></b>!
+lht.1.10=With no <color=#B40518>Prowess</color> items, you can only <color=#B40518>advance</color> once, moving your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> along with any <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in the same clearing, then battling in the new clearing.
+lht.1.11=Lead your <sprite name="HundredsWarrior"><color=#B40518>warriors</color> into glorious battle against the <color=#CC6633>Marquise</color>! Move two of them with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> into this clearing.
+lht.1.12=Now, battle!
+lht.1.13=An unfortunate roll, but your <color=#B40518>Wrathful mood</color> dealt a hit anyway! The <color=#CC6633>Marquise</color> will think twice about loitering so close to your forces in the future.
+lht.1.14=Evening falls, but the raiding has just begun. You can spend a card to <color=#B40518><b>Incite</b></color> a <sprite name="Mob"><color=#B40518><b>mob</b></color> in a matching clearing that has a <sprite name="HundredsWarrior"><color=#B40518>warrior</color> but no <sprite name="Mob">!
+lht.1.14b=If the <color=#CC6633>Marquise</color> doesn't deal with it, you'll claim an item from the ruin.
+lht.1.15=Each turn you score for each clearing you've <color=#B40518><b>Oppressed</b></color>. <color=#B40518>Oppressed</color> clearings are those that you rule which have no enemy pieces at all - no warriors, no tokens, no buildings, nothing.
+lht.1.16=You've <color=#B40518>Oppressed</color> one clearing, scoring <sprite name="1VP">. You'll need to do a lot better if you want rule the Woodland!
+lht.1.17=Finally, you draw a card. Then we'll see what those petty <color=#CC6633>Marquise</color> attempt!
+lht.2.1=Ha! The foolish <color=#CC6633>Marquise</color> didn't even try to disperse your mob. Now that clearing will be <color=#B40518><b>Razed</b></color>!
+lht.2.2=When a mob <color=#B40518>Razes</color> a clearing, all enemy buildings and tokens are removed - but not warriors. You score normally for this.
+lht.2.3=Then, if that clearing has a ruin, you claim an item from it to add to your <color=#B40518>Hoard</color>.
+lht.2.4=After, the mob spreads from its current clearing. The <sprite name="MobDie"><color=#B40518>die</color> dictates the clearing suit...
+lht.2.5=...<sprite name="ClearingMouse">! Place the new mob in the <sprite name="ClearingMouse"> clearing to the East. It won't <color=#B40518>Raze</color> your own <sprite name="Stronghold"><color=#B40518>strongholds</color>, and you can more easily defend it from the <color=#CC6633>Marquise</color>.
+lht.2.6=Thanks to the <sprite name="sword"> your <sprite name="Mob"><color=#B40518>mob</color> unearthed, your <color=#B40518>Prowess</color> increased to 2! You'll now recruit <i>2</i> <sprite name="HundredsWarrior"><color=#B40518>warriors</color> in your <sprite name="HundredsWarlord"><color=#B40518>warlord's</color> clearing each turn, in addition to the usual 1 at each <sprite name="Stronghold"><color=#B40518>stronghold</color>.
+lht.2.7=Today, let's show the <color=#CC6633>Marquise</color> how <color=#B40518>Stubborn</color> the <color=#B40518>Hundreds</color> can be!
+lht.2.8=Use your <sprite name="Stronghold"><color=#B40518>stronghold</color> to craft the <sprite name="bag"> you drew last turn.
+lht.2.9=There are two different ways to craft an item: if you want to score the points for it, it won't be added to your <color=#B40518>Hoard</color> - you'll have to discard it due to your <color=#B40518><b>Contempt for Trade</b></color>.
+lht.2.10=But you can instead choose to forgo the points and add the item to your <color=#B40518>Hoard</color>, increasing your <color=#B40518>Prowess</color> or <color=#B40518>Command</color> (depending on the item). Do so now.
+lht.2.11=Now, it's time to <color=#B40518>Command the Hundreds</color>. Build another <sprite name="Stronghold"><color=#B40518>stronghold</color>.
+lht.2.12=To build a <sprite name="Stronghold"><color=#B40518>stronghold</color>, you must spend a card of a suit matching the clearing you want to build in.
+lht.2.13=Well done. Since the <sprite name="bag"> you crafted earlier is a <color=#B40518>Command</color> item, you can take another action each turn! Reinforce the <sprite name="ClearingRabbit"> clearing you invaded with another <sprite name="HundredsWarrior"><color=#B40518>warrior</color>.
+lht.2.14=It's once again time to <color=#B40518>advance</color>! Two <sprite name="HundredsWarrior"><color=#B40518>warriors</color> should stay behind to secure your <sprite name="ClearingRabbit"> clearing, but move the rest with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to crush those cats!
+lht.2.15=Good! Your <color=#B40518>Stubborn mood</color> blocked the hit. You have 2 <color=#B40518>Prowess</color> now thanks to finding that <sprite name="sword">, so <color=#B40518>advance</color> again with two of your <color=#B40518>warriors</color>.
+lht.2.16=The Woodland cowers before you! Continue to the Evening.
+lht.2.17=Save your cards rather than <color=#B40518>Inciting</color> further.
+lht.2.18=You're <color=#B40518>Oppressing</color> 4 clearings , so you score <sprite name="2VP">!
+lht.3.1=Time for the <sprite name="Mob"><color=#B40518>mob</color> to spread. The roll is... <sprite name="ClearingRabbit">. Add a <sprite name="Mob"> to the Northern <sprite name="ClearingRabbit"> clearing.
+lht.3.2=The recruitment effort is going well thanks to your increased <color=#B40518>Prowess</color> and the <sprite name="Stronghold"><color=#B40518>stronghold</color> you built last turn.
+lht.3.3=Each item in your <color=#B40518>Hoard</color> prevents you from picking a certain <color=#B40518>mood</color>. Be careful not to craft items that would prevent a <color=#B40518>Mood</color> you're planning to use later.
+lht.3.4=It's high time for a <color=#B40518>Grandiose</color> display of power! By allowing your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> to <color=#B40518>advance</color> before you take other actions, you can claim clearings and build <sprite name="Stronghold"><color=#B40518>strongholds</color> in them on the same turn.
+lht.3.5=Craft the <sprite name="teapot"> in your hand to continue growing your <color=#B40518>Hoard</color>.
+lht.3.6=This progresses the <color=#B40518>Prowess track</color>, but your total remains 2 for now. One more <color=#B40518>Prowess</color> item will increase it to 3!
+lht.3.7=Now, charge with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color>! Leave 1 <sprite name="HundredsWarrior"><color=#B40518>warrior</color> behind to continue <color=#B40518>Oppressing</color> that clearing.
+lht.3.8=Move another 2 <sprite name="HundredsWarrior"><color=#B40518>warriors</color> with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color> and attack that bunch of mangey cats!
+lht.3.9=You may have defeated our leader, <color=#CC6633>Marquise</color>, but another will soon take their place!
+lht.3.10=<sprite name="Stronghold"><color=#B40518>Strongholds</color> are even more important to the <color=#B40518>Hundreds</color> than the <color=#CC6633>Marquise's</color> buildings are to them - like a <color=#CC6633>workshop</color> and a <color=#CC6633>recruiter</color> combined. It would be wise to build more.
+lht.3.11=Reposition two of your <sprite name="HundredsWarrior"><color=#B40518>warriors</color> into that Eastern <sprite name="ClearingFox"> clearing.
+lht.3.12=No cards to <color=#B40518>Incite</color> with...
+lht.3.13=The 5 clearings you're <color=#B40518>Oppressing</color> are worth <sprite name="3VP">!
+lht.4.1=With no <sprite name="ClearingRabbit"> clearings adjacent to one of your <sprite name="Mob"><color=#B40518>mobs</color> that don't already have a <sprite name="Mob">, they aren't able to spread their wretched chaos this turn!
+lht.4.2=Without a <sprite name="HundredsWarlord"><color=#B40518>warlord</color>, you can't recruit <sprite name="HundredsWarrior"><color=#B40518>warriors</color> based on your <color=#B40518>Prowess</color>. Your <sprite name="Stronghold"><color=#B40518>strongholds</color> still recruit <sprite name="HundredsWarrior">, but without a leader, the <color=#B40518>Hundreds</color> will be lost!
+lht.4.3=Any worthy <sprite name="HundredsWarrior"><color=#B40518>warrior</color> can become a leader in such dire times. <color=#B40518><b>Anoint</b></color> a <sprite name="HundredsWarrior"> in this clearing as your new <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.4.4=Hah! Under bold new leadership, we will claim the Woodland for good! First order of business - the <color=#B40518>Hundreds</color> require cards. It's time to get <color=#B40518>Rowdy</color>!
+lht.4.5=Nothing to craft for now...
+lht.4.6=Next, march three <sprite name="HundredsWarrior"><color=#B40518>warriors</color> to reinforce your new <sprite name="HundredsWarlord"><color=#B40518>warlord</color>!
+lht.4.7=Keep them moving!

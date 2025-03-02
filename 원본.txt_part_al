@@ -1,300 +1,100 @@
-rules.autoallidifficulties=<style=RSH>Easy</style><br>You only Organize if a clearing has four or more Alliance warriors.<br><br><style=RSH>Normal</style><br>Nothing is changed.<br><br><style=RSH>Challenging</style><br>You Organize if a clearing has two or more Alliance warriors.<br><br><style=RSH>Nightmare</style><br>You Organize if a clearing has two or more Alliance warriors.<br>At the end of Evening, score one victory point.
-rules.autoalliabilities=<b>Automated Ambush:</b> In battle as defender with at least one Alliance warrior, the Alliance deals one extra hit.<br><br><b>Automated Outrage:</b> Whenever a human removes a sympathy token or moves any warriors into a sympathetic clearing, that player must discard a matching card. If they cannot, the Alliance scores one victory point. (This does not trigger Poor Manual Dexterity.)<br><br><b>Crackdown:</b> Whenever an Alliance base is removed, return all sympathy tokens from clearings matching the suit of the base removed.<br><br><b>Martial Law:</b> If the Alliance places a sympathy token in a clearing with three or more warriors owned by the same enemy, the Alliance scores one fewer victory point, to a minimum of zero.
-rules.autoalliturnorder=<style=RSH><sprite index=66>Birdsong</style><br><br>Your Birdsong has four steps in the following order:<br><br><b>1st: Reveal Order</b><br>Reveal an order card.<br><br><b>2nd: Craft</b><br> Craft the order card for <style=vpone>1</style> if it has an available item.<br><br><b>3rd: Revolt</b><br>If the order card is not a <sprite name="birdicon"> card, remove all enemy pieces from the ordered sympathetic clearing with the most enemy pieces matching a base in your supply, then place the ordered base there.<br><br><b>4th: Public Pity</b><br>If you did not revolt this turn in Birdsong, spread sympathy based on the number of sympathy tokens on the map, as follows. If you have zero to four, spread sympathy twice; if you have five or more, spread sympathy once. (You will spread sympathy again in Daylight.)<br><br><br><style=RSH><sprite index=65>Daylight</style><br><br>Your Daylight has two steps in the following order.<br><br><b>1st: Spread Sympathy</b><br>Place a sympathy token in an ordered unsympathetic clearing with the fewest enemy warriors adjacent to any sympathetic clearing. Score the victory points as shown on your sympathy track.<br><br><b>No Such Clearings:</b> If there are no such clearings to target, place a sympathy token in the clearing with the fewest enemy pieces.<br><br><b>Cannot Spread:</b> If you cannot place a sympathy token (because your Sympathy track is empty, or because there is no clearing where you could place a sympathy token), score 5 victory points.<br><br><b>2nd: Surprise Revolt</b><br>If the order card is a <sprite name="birdicon"> card, remove all enemy pieces from the sympathetic clearing with the most enemy pieces matching a base in your supply, then place the matching base there. (If multiple, revolt in the clearing of highest priority.)<br><br><br><style=RSH><sprite index=64>Evening</style><br><br>Your Evening has three steps in the following order:<br><br><b>1st: Organize</b><br>In each clearing with a base and three or more Alliance warriors, remove all Alliance warriors from that clearing, and then spread sympathy.<br><br><b>2nd: Recruit</b><br>Place one warrior in each clearing with a base.<br><br><b>3rd: Discard Order</b><br>Discard the current order card.
-rules.autoallistoprevolt=<b>What Can Stop a Revolt?</b> <br><br>Revolts can fail for three reasons: First, if the order card is a bird. Second, if the ordered base is already on the map. Third, if no sympathetic clearing matches a base that is not on the map. Because the creatures of the Woodland like a good uprising, these failures trigger public pity.
-rules.vagabotoverview=The Vagabot makes for a capricious friend or foe. Like a human player, he will reward those who craft items. But be careful, he can make for a dangerous enemy once he gets enough items to boost his maximum hits.
-rules.vagabottraits=<style=RSH>Marksman</style><br>At the start of battle as attacker, deal an immediate hit (scoring a point if you remove an enemy warrior).<br><br><style=RSH>Berserker</style><br>Whenever you Battle, instead move to the nearest clearing with the most pieces and target the player with the most pieces there. In Evening, repair one more item.<br><br><style=RSH>Helper</style><br>Whenever you Aid, score one extra victory point, and the aided player draws two cards instead of one.<br><br><style=RSH>Adventurer</style><br>You can Battle no more than once per turn. At the end of Daylight, repeat Quest as many times as possible.
-rules.vagabotdifficulties=<style=RSH>Easy</style><br>In Evening, refresh one fewer item.<br><br><style=RSH>Normal</style><br>Nothing is changed. <br><br><style=RSH>Challenging</style><br>In Evening, refresh one more item.<br><br><style=RSH>Nightmare</style><br>In Evening, refresh one more item.<br>At the end of Evening, score <style=vpone>1</style>.
-rules.vagabotcharacters=<style=RSH>Thief</style><br><b>Steal:</b> Take a random card from the enemy in your clearing with most points there, then most pieces there.<br><br><style=RSH>Tinker:</style><br><b>Day Labor:</b> Craft the top card in the discard pile with an item, scoring <style=vpone>1</style>. <br>Start the game with one fewer item.<br><br><style=RSH>Ranger:</style><br><b>Hideout:</b> If you have three or more damaged items, slip into a random adjacent forest.
-rules.vagabotabilities=<b>Lone Wanderer:</b> The Vagabot pawn is not a warrior (so he cannot rule a clearing or stop another player from ruling one). The Vagabot pawn cannot be removed from the map.<br><br><b>Full Removal:</b> Whenever an enemy player uses an effect that says it removes all enemy pieces from a clearing (such as Alliance revolts, Favor cards, etc) with the Vagabot, it damages three items.<br><br><b>Nimble:</b> The Vagabot can move regardless of who rules his origin or destination clearing.<br><br><b>Items:</b> To take actions, the Vagabot must exhaust items. Unlike the Vagabond, the Vagabot treats all items as identical (for example, there is no difference between <sprite name="torch"> and <sprite name="hammer">). He exhausts undamaged items, to take many actions. <br><br><b>Battle Track:</b> Unlike the Vagabond, the Vagabot does not use swords to determine hits in battle. Instead, the Vagabot’s maximum rolled hits in battle begins at one. While the Vagabot has at least six, nine, and twelve undamaged items, an item is placed in the Vagabot’s Battle Track. The sixth and ninth item slots each increase his maximum rolled hits by one, and the twelfth makes him deal one extra hit as attacker in battle. Items on the Battle Track cannot be exhausted, but they can be damaged.<br><br><b>Taking Hits:</b> When the Vagabot takes hits, he damages exhausted items or, if he has no exhausted items, unexhausted items. (Damaging items may move items from its Battle Track to its Satchel.)
-rules.vagabotsetup=<b>1st:</b> Character is randomly selected if it wasn't assigned during game creation. <br><br><b>2nd:</b> The Vagabot starts in the forest adjacent to the most clearings. If there are multiple such forests, decide randomly among those. <br><br><b>3rd:</b> Draw a single quest card. <br><br><b>4th:</b> Gain 4 random items. (The Tinker starts with 3 items instead of 4 items.)
-rules.vagabotturnorder=<style=RSH><sprite index=66>Birdsong</style><br><br>Your Birdsong has three steps in the following order:<br><br><b>1st: Reveal Order</b><br>Reveal an order card.<br><br><b>2nd: Craft</b><br>Craft the order card for <style=vpone>1</style> if it has an available item.<br><br><b>3rd: Slip</b><br>If you have two or fewer undamaged items, move into a random adjacent forest, then skip Daylight and begin Evening.<br><br><br><style=RSH><sprite index=65>Daylight</style><br><br>The current order card determines the sequence of actions the Vagabot will take this turn, as follows: <br><b>    <sprite name="birdicon">:</b> Explore, Quest, Aid, Battle<br><b>    <sprite name="foxicon">:</b> Explore, Battle, Special<br><b>    <sprite name="rabbiticon">:</b> Battle, Repair, Special<br><b>    <sprite name="mouseicon">:</b> Quest, Aid, Battle, Repair<br><br><b>Explore:</b> Move to the nearest ruin. Then, exhaust one item to take one random item from the ruin. (Do not score victory points for exploring.)<br><br><b>Quest:</b> Move to the nearest clearing matching the current quest. Then, exhaust two items to complete the quest. (Ignore the listed item types on the card.) Discard the quest and score one victory point. (Ignore the text effect of the card.) Then, draw a new quest.<br><br><b>Aid:</b> Target the player in your clearing with at least one piece there, at least one crafted item, and the fewest victory points of such players there. Exhaust as many items as possible up to the number of items they have crafted. Take that many items from the target player and score that many victory points, then the target player draws that many cards. (You can aid other bots. Because of their Poor Manual Dexterity, aided bots simply score one victory point.)<br><br><b>Battle:</b> Move to the nearest clearing with at least one piece of the player with the most victory points. Then, exhaust one item to initiate a battle against that player. If any pieces of that player remain, exhaust two items and battle again, repeating this until you do not have enough items to exhaust. Score one victory point per enemy warrior you remove. (Do not score this if you are the defender. You still score points for removing tokens and buildings.)<br>    <b>First Tie for Destination Clearing:</b> Such a clearing where the target defender has the most buildings and tokens.<br>    <b>Second Tie for Destination Clearing:</b> Such a clearing where the target defender has the fewest warriors<br><br><b>Repair:</b> If you have at least one damaged item, exhaust one item to repair one damaged item. If the damaged item was exhausted it stays that way.<br><br><b>Special:</b> Exhaust one item to take your character action. If your character's special action would have no effect or is impossible, skip this action.<br>When the Vagabot is asked to take an action in the nearest clearing, it takes that action in its current clearing if able. If it cannot, it moves to a clearing where it can take the action, exhausting one item per move, in the way that exhausts the fewest items. It moves even if it does not have enough unexhausted items to take the action after moving.<br><br><br><style=RSH><sprite index=64>Evening</style><br><br>Your Evening has three steps in the following order:<br><br><b>1st: Refresh:</b><br>If you have at least one damaged item, refresh four undamaged items. If you have no damaged items, refresh six undamaged items instead.<br><br><b>2nd:Repair:</b><br>If you are in a forest, repair all items. If you are not in a forest, repair one item. Repair unexhausted items before exhausted items.<br><br><b>3rd: Discard Order:</b><br>Discard the current order card.
-title.coop=Cooperative Play
-rules.coop=To win, the human/AI players must each score 30 victory points before any clockwork bot player does. Bots do not treat other bot pieces as enemy pieces when targeting a clearing to act in, and do not target each other in battle. However, a bot might still remove bot pieces as collateral damage with effects such as revolts. The human/AI players still treat each other as enemies (so they can remove buildings and tokens for points, etc.).<br><br>Dominance cards are removed during Co-op play.
-rules.electriceyrieoverview=The Electric Eyrie will inspire fear in the most stalwart of players. Like the Eyrie Dynasties, this bot can ramp up its action potential aggressively.
-title.autoalli=Automated Alliance
-title.electriceyrie=Electric Eyrie
-title.vagabot=Vagabot
-title.characters=Characters
-rules.riverfolk=When news arrived that the Woodland on the shore of the great lake was descending into all-out war, the Riverfolk Company quickly dispatched its officers to set up shop. As the other factions purchase services, the Riverfolk will be able to further entrench their commercial interests by building trade posts across the forest. The construction of these posts is a viable way to score victory points, but so too are dividends they might gain from their wealth.
-rules.riverfolksetup=<style=RSH>Set Up</style><br><br>1st: Place 4 warriors among any clearings along the river.<br>2nd: Set service prices.
-rules.riverfolksupply=<style=RSH>Supply</style><br><br>∙Warriors x15<br>∙Bases x3 (one in each suit)
-rules.riverfolkturn1=<style=RSH>Abilities</style> <br><br><b>Swimmers</b>: You treat rivers as path, and move along rivers regardless of ruler. <br><br><b>For Sale</b>: You have a public hand. <br><br><style=RSH>Services</style> <br><br>The Riverfolk Company is a commercial faction that offers services to the other players. They set the costs of their services during their Evening. <br><br>Any other player, at the start of their Birdsong, may buy one Riverfolk service plus another per clearing with a trade post and any of their pieces. The buyer pays for services by taking warriors from their own supply and adding them to the Riverfolk’s Payments box. <br><br><style=RB>Hand Card:</style> The buyer takes a card from the Riverfolk’s hand and adds it to their hand. <br><style=RB>Riverboats:</style> The buyer treats rivers as paths until the end of their turn. <br><style=RB>Mercenaries:</style> During Daylight and Evening of this turn, the buyer treats Riverfolk warriors as their own for rule and battle.(The buyer cannot move them, count them toward dominance, or remove them except by taking hits.) <br><br><b>Taking Hits.</b> The buyer must split hits taken evenly between their pieces and Riverfolk warriors, with the buyer taking odd hits.
-rules.riverfolkvagapayment=The Vagabond pays for services by exhausting items—for each item he exhausts to do so, the Riverfolk place one of their own warriors in the Payments box. The Vagabond cannot buy Mercenaries.
-rules.riverfolkturn2=<style=RSH><sprite index=66>Birdsong</style><br><br>If your Payments box is empty, place two warriors in it. Then, if you have any trade posts on the map, score one victory point per two funds (warriors in the Funds box). Finally, move all warriors from your commitments and payments to your funds. <br><br><style=RSH><sprite index=65>Daylight</style> <br><br>You can take action by spending and committing funds—warriors in your Funds box. When you spend a fund, return the warrior to its owner’s supply. When you commit a fund, move the warrior to the Commitments box. <br><br><style=RB>Move:</style> Commit a fund to take a move. <br><style=RB>Battle:</style> Commit a fund to initiate a battle. <br><style=RB>Craft Card:</style> Commit funds to craft a card from your hand using trade posts. <br><style=RB>Export:</style> Commit funds to craft a card from your hand using trade posts. Instead of gaining a card’s listed crafting effect, you discard the card and place a warrior in your Payments box. <br><style=RB>Draw:</style> Commit a fund to draw a card. <br><style=RB>Recruit:</style> Spend a fund to place a warrior in any clearing with a river. <br><style=RB>Establish Trade Post with Garrison:</style> Spend two funds to place a trade post and a warrior in a clearing. You must spend funds of the faction who rules the chosen clearing. Each clearing may have only one trade post.
-rules.riverfolktradedisruption=Trade Disruption: Whenever a trade post is removed, lose half of your funds. The removed trade post does not return to your supply.<br><br>Removed Trade Posts still contribute to your crafting power.
-rules.riverfolkturn3=<style=RSH><sprite index=64>Evening</style><br><br>If you have more than five cards in your hand, discard down to five. Then, you may set the costs for your three services.
-rules.lizardsetup=<style=RSH>Set Up</style><br><br><style=RB>Step 1: Place Warriors</style> <br><br>In the corner clearing opposite from the Marquise’s keep or Eyrie’s starting roost, place 4 warriors and 1 garden matching the clearing; if both the Marquise and Eyrie are in play, choose one of the two other corners. Then a warrior is added to each adjacent clearing. <br><br><style=RB>Step 2: Choose Outcast</style> <br><br>Choose a suit to become the Outcast.
-rules.lizardsupply=<style=RSH>Supply</style> <br><br>∙Warriors x25 <br>∙Gardens x15 (5 of each suit)
-rules.lizardlostsouls=Lost Souls: When the Lizard Cult is in a game, all players cards are placed in the Cult’s Lost Souls pile rather than the discard pile. At the start of the Cult’s turn, the most common suit of Lost Souls sets the Outcast, the suit of clearings where the Cult can perform conspiracies with their acolytes for that turn.
-rules.lizardturn1=<style=RSH>Abilities</style> <br><br><b>Revenge</b>: Your removed defending warriors in battle become acolytes. <br><b>Hatred of Birds</b>: Bird cards are not wild when performing rituals! <br><b>Pilgrims</b>: You rule any clearing where you have a garden. This special ability trumps even the Eyrie’s Lords of the Forest. <br><b>Fear the Faithful</b>: Whenever a garden is removed, discard a random card from your hand.
-rules.lizardturn2=<style=RSH><sprite index=66>Birdsong</style> <br><br>If one suit in the Lost Souls pile has more cards than any other suit, that suit becomes the Outcast. If this suit was already the Outcast, it becomes the Hated Outcast. Then, move all of the cards in the Lost Souls pile to the discard pile. <br><br>Finally, you can spend acolytes to perform conspiracies. If the Outcast is Hated, all conspiracies cost one less acolyte. <br><br><style=RB>Crusade:</style> Spend two acolytes to battle in an Outcast clearing or move from an Outcast clearing and then, if you wish, battle in the destination clearing. <br><style=RB>Convert:</style> Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there. <br><style=RB>Sanctify:</style> Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden there.
-rules.lizardturn3=<style=RSH><sprite index=65>Daylight</style> <br><br>Reveal any number of cards from your hand, and perform one ritual per card, as follows. You cannot use revealed cards for any other purpose during Daylight. <br><br><style=RB>Build:</style> Reveal a card matching a clearing you rule to place a garden there. <br><style=RB>Recruit:</style> Reveal a card to place a warrior in a matching clearing. <br><style=RB>Sacrifice:</style> Reveal a bird card to turn a warrior in your supply into an Acolyte. <br><style=RB>Score:</style> Spend the revealed card (discarding it to the Lost Souls pile) to score the victory points listed by the Gardens column of the rightmost empty space matching the card spent. You may perform the Score ritual only once per suit each turn.
-rules.lizardturn4=<style=RSH><sprite index=64>Evening</style> <br><br><style=RB>1st:</style> Return any revealed cards to your hand. <br><style=RB>2nd:</style> Craft cards by activating gardens that match the Outcast suit. <br><style=RB>3rd:</style> Draw one card plus one per uncovered draw bonus. If you have more than five cards in your hand, discard down to five.
-rules.twovagabonds=With the addition of the Riverfolk Expansion, games may now have two Vagabonds. <br><br>Set up is modified as follows when playing with two vagabonds:<br><margin=3em><br>∙Each ruin holds two items. These items are randomized from a pool of 2 swords, 2 bags, 2 boots, and 2 hammers.  When a Vagabond explores a ruin with two items, he looks at them and takes one of his choice. A Vagabond cannot take a Ruin item that matches the type of a Ruin item already on his faction board. If he explores but does not take an item, he does not score a victory point, but the torch is still exhausted.<br><br>∙A random Vagabond player will set up first. The second Vagabond player must choose a different character than the first. <br><br>∙Vagabonds share the same hand of available quests. If one vagabond completes a quest, that quest will no longer be available for the other.</margin=3em>
-rule.riverfolk=The Riverfolk Company wish to build wealth by selling services to all sides of the conflict. They score by establishing trade posts and hoarding funds.
-rule.lizard=The Lizard Cult wish to spread their gospel to all the creatures of the Woodland. They score by building gardens and completing rituals.
-rules.lizard=The Cult relies on word of mouth and beak to spread its gospel, and new enclaves can spring up anywhere on the map. Where the Cult rules clearings, they can build gardens, which will further radicalize the animals that live there. While other factions spend cards to achieve their aims, the Cult acts chiefly by revealing cards and gradually drafting the ideal set of followers. Unless used for scoring, these cards are not spent and are returned to the Cult’s hand during Evening. However, this gentler approach makes movement and battle difficult, so these actions can only be undertaken by the most radicalized members of the Cult—their acolytes
-title.advancedsetup=Advanced Setup
-rule.advancedsetup1=<style=RSH>Overview</style> <br><br>Advanced Setup is an optional way to choose and set up factions. These changes impact the balance of various factions, offer more variety to starting placements, and allow players to have more agency over their starting hands. To create a game with advanced setup, a player must own 6 or more factions.
-rule.advancedsetup2=<style=RSH>Starting Hand</style> <br><br>Each player draws 5 cards before picking factions and chooses 2 to return to the deck after making set up choices.
-rule.advancedsetup3=<style=RSH>Drafting Changes</style> <br><br>Starting with the last player in turn order and going counterclockwise, each player chooses one available faction and sets up the faction immediately (before another player chooses) from a pool of possible owned factions. That pool is created using the restrictions below instead of reach values.<br><br><b>Create Pool of Possible Factions</b><br><br>First remove all factions that are not owned by the game creator. Then randomize all of the Militant factions and add one to the pool of possible factions (replace with Insurgent if no Militant are owned and/or available due to clockwork choices). Then randomize the remaining factions (Militant AND Insurgent) and add one to the pool for each player.<br><br>Lock Last Insurgent. If the last faction added to the pool is an Insurgent, it is shown with a lock icon. It cannot be chosen unless at least one militant faction has been chosen (assuming militant factions are available in draft pool. Which may not be the case pending player collection and clockwork bot inclusions).<br><br><b>Insurgent Factions</b><br><br><margin=3em>∙ Woodland alliance<br>∙ Vagabond<br>∙ Riverfolk Company<br>∙ Lizard Cult<br>∙ Corvid Conspiracy</margin=3em><br><br><b>Militant Factions</b><br><br><margin=3em>∙ Marquise<br>∙ Eyrie<br>∙ Underground Duchy<br>∙ Keepers in Iron<br>∙ Lord of the Hundreds</margin=3em><br><br><b>Two Players:</b> In a two player game, the pool will instead be three militant factions if able.<br><br><b>Vagabond:</b> The Vagabond is assigned a random character during the faction creation process instead of having the player choose during set up.
-rule.advancedsetup4=<style=RSH>Set Up Changes</style> <br><br><b>Homeland Rules</b><br><br>When setting up, players might choose one or more homeland clearings. Players cannot choose homelands that enemies have chosen as their homelands or where they cannot place all the pieces listed in setup.<br><br>Some factions will prompt you to choose homelands that are not adjacent to enemy homelands, or that have two or more clearings between it and enemy homelands. If you cannot fulfill a “two or more clearings between” requirement, you may choose a homeland that is not adjacent to enemy homelands. If you cannot fulfill a “not adjacent” requirement, you may choose a homeland that is adjacent to an enemy homeland.<br><br><b>Marquise de Cat</b><br><br>Step 1: Choose a homeland clearing for your sawmill.<br><br>Step 2: Choose a homeland clearing for your workshop.<br><br>Step 3: Choose a homeland clearing for your recruiter.<br><br>Step 4: Place the Keep in one of your homeland clearings.<br><br>Step 5: Put 2 warriors in each of your homelands. Put 1 warrior in each other clearing.<br><br><b>Eyrie Dynasties</b><br><br>Step 1: Choose a homeland clearing for your Roost on the map edge that has 2+ clearings between it and enemy homelands.<br><br>Step 2:  Gain 6 warriors and 1 roost in your homeland selection.<br><br>Step 3: Choose a leader.<br><br><b>Woodland Alliance</b><br><br>Starts with 3 supporters. No other changes.<br><br><b>Vagabond</b><br><br>No changes.<br><br><b>Riverfolk Company</b><br><br>Starts with 3 payments. No other changes.<br><br><b>Lizard Cult</b><br><br>Starts with 2 Acolytes.<br><br>Step 1: Choose a homeland clearing that is not adjacent to enemy homelands to place a Garden and four warriors.<br><br>Step 2: Place 3 warriors in clearings adjacent to your homeland as evenly as possible.<br><br>Step 3: Choose the suit of the Outcast.<br><br><b>Corvid Conspiracy</b><br><br>Step 1: Choose a homeland clearing. Put 1 warrior and 1 plot token of your choice face down there.<br><br>Step 2: Prompted: Select a suit to add 1 warrior to each of its clearings.<br><br><b>Underground Duchy</b><br><br>Step 1: Choose a homeland clearing that is not adjacent to enemy homelands and place 2 warriors and a Tunnel there.<br><br>Step 2: Place 5 warriors among clearings adjacent to your homeland as evenly as possible.
-title.maps=Variant Maps
-title.autumnmap=Autumn Map
-title.wintermap=Winter Map
-title.rules=Rules
-rule.wintermap=The winter map is always played with random clearing suits. Unlike in the autumn map, rivers divide forests.
-title.lakemap=Lake Map
-rule.inclunderground=Included with the Underworld Expansion
-rule.lakemap1=The lake map may be played with random clearing suits or the recommended suits shown above. The ferry starts in the bottom-right corner.
-title.theferry=The Ferry
-rule.lakemap2=Once per turn, a player taking a move in a clearing with the ferry can move to another coastal clearing, moving the ferry as well. After taking the move with the ferry, the player draws 1 card.
-title.lakeforest=The Lake and Forest Adjacency
-rule.lakemap3=The lake is not a forest. Unlike on other maps, each forest touching the lake is adjacent to the two nearest forests touching the lake, separated by one clearing rather than a path.
-title.mountainmap=Mountain Map
-rule.mountainmap1=Place the tower piece in the central clearing, as shown above. Players may toggle between the option to do random clearing suits or standard setup as shown in image above.
-title.closedpaths=Closed Paths
-rule.mountainmap2=A path covered with a closed path marker is a closed path. Clearings linked by a closed path are not adjacent. However, closed paths enclose and divide forests exactly as paths do. Once per turn in Daylight, a player can spend a card to remove a closed path marker and score 1 victory point. The player must have at least one piece in any clearing linked to the closed path marker in order to remove it.
-title.thepass=The Pass
-rule.mountainmap3=The clearing with the tower is called the Pass. At the end of a player’s Evening, if that player rules the Pass, that player scores 1 victory point.
-rule.corvidintro=As the great powers fought for control of the forest, croaks and whispers spread through its darker corners. Thriving in the chaos of outright war, the Corvid Conspiracy hatches plots to fund their criminal operations and terrorize their opponents until they strong-arm the Woodland into submission. Whenever a plot is revealed, the Corvids score victory points based on how many plots are already revealed on the map. As such, the Corvids must carefully protect their plots from all-out attack and exposure.
-rule.corvidsetup=<style=RSH>Setup</style><br><br>For each suit, place 1 warrior in a matching clearing.
-rule.corvidsupply=<style=RSH>Supply</style><br><br>∙Warriors x15<br>∙Bomb Plot x2<br>∙Snare Plot x2<br>∙Raid Plot x2<br>∙Extortion Plot x2
-title.plots=Plots
-rule.corvidplots1=The Corvid Conspiracy has eight plot tokens, two each of four kinds. Plot tokens score points when flipped during Birdsong. Also, each plot token has an effect, listed below.
-rule.corvidplots2=<style=RSH>Bomb</style><br>When flipped, remove all enemy pieces in its clearing, then remove this plot.<br><br><style=RSH>Snare</style><br>While face up, enemy pieces cannot be placed in or moved from its clearing.<br><br><style=RSH>Extortion</style><br>When flipped, take a random card from each enemy player with any pieces in its clearing. While face up, you draw an extra card in Evening.<br><br><style=RSH>Raid</style><br>When removed, place a warrior in each adjacent clearing. Ignore this effect if the raid was removed by Exposure (see below).
-rule.corvidplots3=Plot tokens can be removed by enemy players just like any other token can. Also, enemy players can attempt to remove facedown plot tokens by <b>Exposure:</b> Any number of times before drawing cards in their Evening, an enemy player with a piece in a clearing with a facedown plot token may show the Corvids a card matching that clearing to guess the plot’s type. If they are correct, they remove the token (scoring a point) and ignore its effect. If incorrect, the token remains face down, and they give the card to the Corvids.
-rule.corvidabilities=To protect their plot tokens, the Corvids will need to move their warriors deep within enemy territory. Thankfully, their warriors are <b>Nimble</b>, so they ignore rule while moving. Additionally, their <b>Embedded Agents</b> provide effective protection. Whenever the Corvids are defending in battle in a clearing with a facedown plot token, they deal an extra hit— even if the plot token is defenseless!
-rule.corvidbirdsong=<style=RSH><sprite index=66>Birdsong</style> <br><br>First, you can craft using plot tokens, whether face up or face down.<br><br>Then, you may flip plot tokens in any clearings where you have at least one warrior. Each time you flip a plot, you score <sprite name="1VP"> per face-up plot on the map, including the one you just flipped, then you resolve its flip effect if it is a bomb or extortion.<br><br>Finally, once per turn, you may spend any card to place a warrior in each matching clearing. If you discard a bird card, you choose one suit of clearings to place in.
-rule.corviddaylight=<style=RSH><sprite index=65>Daylight</style> <br><br>You can take up to three of the following actions. <br><br><style=RB>Plot:</style> Remove one Corvid warrior, plus one Corvid warrior per plot token you have already placed this turn, from a clearing to place a facedown plot token in that clearing. Each clearing can only hold one plot token at a time, and all the warriors you remove in order to place the plot must come from the clearing you are placing the plot in. <br><style=RB>Trick:</style> Swap two plot tokens on the map. Both plot tokens must be face up or face down.<br><style=RB>Move:</style> Take a move.<br><style=RB>Battle:</style> Initiate a battle.<br><br>Additionally, player may <b>Exert</b> to take an extra Daylight action in Evening. If they do, they do not draw cards during Evening this turn.
-rule.corvidevening=<style=RSH><sprite index=64>Evening</style> <br><br>Draw one card plus one card per face-up extortion token on the map. Then, discard down to five cards.
-rule.duchyintro=The Duchy has long looked with suspicion on the surface dwellers. The vast wealth of the underground seemed more than enough to satiate their ambitions. Now, however, the stores are dwindling, and the Duchy looks to the great Woodland for expansion. To succeed, they must sway ministers to join their cause and direct the Duchy’s wealth toward this endeavor, providing extra actions and scoring means. The Duchy sways ministers by revealing cards matching clearings where the Duchy has any number of pieces, representing their successes in establishing frontier outposts. Ultimately, the Duchy will need to construct markets and citadels to justify their conquest and gain more support from Woodland separatists.
-rule.duchysetup=<style=RSH>Setup</style><br><br>Place 2 warriors and 1 tunnel in the corner clearing diagonally opposite from the clearing with the keep token. If the Marquise is not playing, place those pieces in the corner clearing of your choice. Place 2 warriors in each clearing adjacent to that corner clearing.
-rule.duchysupply=<style=RSH>Supply</style><br><br>∙Warriors x20<br>∙Citadels x3<br>∙Markets x3<br>∙Tunnels x3<br>∙Squire Crowns x3<br>∙Noble Crowns x3<br>∙Lord Crowns x3<br>∙Minister Crowns x9
-rule.duchyabilities=The Duchy recruits its warriors in a special clearing called <b>The Burrow</b>. This clearing is off the map and has no building slots, but is adjacent to every clearing with a tunnel token. Because of its peculiar construction, only Duchy warriors can enter the Burrow.<br><br>The eyes of the Duke are trained on the Woodland campaign. When any number of Duchy buildings are removed, the Duchy must pay the <b>Price of Failure</b>, discarding a random card and returning their swayed minister of highest rank to their Unswayed Ministers pile.
-rule.duchyBirdsong=<style=RSH><sprite index=66>Birdsong</style> <br><br>Place one warrior, plus one warrior for each uncovered warrior icon on the Citadels track, in the Burrow.
-rule.duchydaylight=<style=RSH><sprite index=65>Daylight</style> <br><br>First, take up to two of the following actions:<br><br><style=RB>Build:</style> Reveal a card to place a market or citadel in a matching clearing you rule. <br><style=RB>Recruit:</style> Place one warrior in the Burrow.<br><style=RB>Move:</style> Take a move.<br><style=RB>Battle:</style> Initiate a battle.<br><style=RB>Dig:</style> Spend a card to place a tunnel token in a matching clearing with no tunnel, then move up to four warriors from the Burrow into that clearing. If all of the tunnels are already on the map, you may remove a tunnel at the start of this action.<br><br>After taking these actions, you may act with any of your swayed ministers in any order:<br><br><b>Foremole:</b> Reveal any card to place a citadel or market in any clearing (matching or not) you rule.<br><b>Captain:</b> Initiate a battle.<br><b>Marshal:</b> Take a move.<br><b>Brigadier:</b> Take up to two moves or initiate up to two battles.<br><b>Banker:</b> Spend any number of cards (even one) of the same suit to score victory points in equal number.<br><b>Mayor:</b> Take the action of any swayed noble or squire.<br><b>Duchess of Mud:</b> Score 2 victory points if all three tunnels are on the map.<br><b>Baron of Dirt:</b> Score <sprite name="1VP"> per market on the map.<br><b>Earl of Stone:</b> Score <sprite name="1VP"> per citadel on the map.<br><br>Finally, you may sway an unswayed minister. To do so, you must reveal a number of cards based on the minister’s rank—a squire needs two cards, a noble needs three, and a lord needs four. However, you can only reveal cards matching clearings where you have any pieces, and each of those clearings lets you reveal only one card. Additionally, you lose one of your three starting crowns of that Ministers rank and can't sway any more of that type after those three crowns are spent. <br><br>Finally, score victory points equal to its rank (Squire: <sprite name="1VP">, Noble: <sprite name="2VP">, Lord: <sprite name="3VP">)
-rule.duchyevening=<style=RSH><sprite index=64>Evening</style> <br><br>Discard any bird cards you revealed this turn, and return all the other cards you revealed this turn to your hand. Then, you can craft by activating citadels and markets—they’re treated the same here. Next, draw one card plus one card per uncovered draw bonus. Last, discard down to five cards.
-rule.corvidconspiracy=The Corvid Conspiracy hatches plots to fund their criminal operations and terrorize their opponents until they strong-arm the Woodland into submission. The Corvids score victory points based on how many plots are revealed on the map.
-rule.undergroundduchy=The Underground Duchy lead their assault from below using tunnels to mobilize throughout the map, swaying ministers to join their cause. The Duchy construct markets and citadels to justify their conquest and gain more support from Woodland separatists.
-rules.keepers.1=The Keepers in Iron are an order of exiled knights who have returned to recover <b>relics</b> lost in bygone conflicts.
-rules.keepers.2=First, they must <b>delve</b> relics out of the forests, then move the relics to their <b>waystations</b>, where they can finally <b>recover</b> them to score points. But they must plan carefully, since they rely on their <b>Retinue</b> of Woodland locals, who might go missing—or worse—as they help the Keepers delve and recover the relics they seek.
-rules.keepers.setup.1=<style=RSH>Setup</style><br><br><b>Step 1: Add Relics to Forests</b><br>The 12 relics are shuffled and one is randomly added face down to each forest.<br>Its type will be shown while face down but not its value.
-rules.keepers.relics=<style=RSH>4x Tablet Relics</style><br>    Values of 1, 2, 3, 3<br><br><style=RSH>4x Figure Relics</style><br>    Values of 1, 2, 3, 3<br><br><style=RSH>4x Jewelry Relics</style><br>    Values of 1, 2, 3, 3
-rules.keepers.setup.2=<b>Step 2: Place Warriors</b><br><br>Place 4 warriors in a corner clearing that another player has not chosen as their starting clearing, then place 4 warriors in an adjacent clearing on the map edge.
-rules.keepers.setup.3=<b>Step 3: Distribute Remaining Relics</b><br><br>All remaining relics not played during step 1 will be added face down, as evenly as able, among forests not adjacent to your starting clearings.
-rules.keepers.setup.4=<b>Step 4: Faithful Retainers</b><br><br>A Faithful Retainer card is added into each of your Retinue columns.
-rules.keepers.supply=<style=RSH>Supply</style><br><br>∙Warriors x15<br>∙Waystations x3 (double-sided)
-rules.keepers.birdsong.1=<style=RSH><sprite index=66>Birdsong</style> <br><br><b>First, Encamp.</b> In any number of clearings, you may replace a Keeper warrior with a waystation building. Your waystations have two sides, and you can place the waystation on either side.
-rules.keepers.birdsong.2=Each waystation shows what type of relic you can recover at it. For example, this waystation lets you recover either figures or jewelry, depending on which side you place face up. There are three types of relics: figures, jewelry, and tablets.
-rules.keepers.birdsong.3=You cannot encamp in the same clearing multiple times in a turn.
-rules.keepers.birdsong.4=You can encamp a waystation in a clearing that already has a waystation from a previous turn!
-rules.keepers.birdsong.5=If you have no warriors or waystations on the map at all, you may place one warrior and one waystation in any edge clearing.
-rules.keepers.birdsong.6=<b>Second, Decamp.</b> Decamp is essentially the opposite of Encamp. In any number of clearings, you may replace a waystation with a Keeper warrior. Likewise, you cannot decamp in the same clearing multiple times in a turn.
-rules.keepers.birdsong.7=<b>Third, Recruit.</b> Any number of times, you may spend a card to place two warriors at a matching waystation.
-rules.keepers.birdsong.8=Yes, you can place six or eight or even ten warriors down on a single waystation if you have the cards for it!
-rules.keepers.daylight.1=<style=RSH><sprite index=65>Daylight</style> <br><br><b>First, Craft.</b> This is a standard Craft action that uses your waystations, regardless of type.<br><br><b>Second, Act With Retinue.</b> You may take one action per card in your Retinue, located along the top of your faction board, from left to right. Take the action listed by the card’s action slot in a clearing that matches the card’s suit.
-rules.keepers.daylight.2=The Retinue works like the Eyrie’s Decree, but you may skip actions without penalty.
-rules.keepers.daylight.3=<b>Move:</b> The left action slot lets you move from the matching clearing.
-rules.keepers.daylight.4=<b>Battle then Delve:</b> The middle action slot lets you battle and then delve. If you take this action, you must battle in the clearing you’re acting in, unless there are no enemy pieces you can battle there. Then you may delve in the same clearing. Here’s how delving works… If you rule the clearing and have a Keeper warrior there, you may move a relic from any adjacent forest into the clearing, and then flip the relic over to reveal its value.
-rules.keepers.daylight.5=Each relic type has four tokens with the same values—1, 2, 3, and 3. Every relic starts on its side with no value. When delved, it flips to show its value.
-rules.keepers.daylight.6=Once you’ve delved a relic, count how many clearings you rule adjacent to the forest you delved from—basically, all the clearings that are touching the forest. If you rule fewer of these clearings than the relic’s value, you must discard the card in your Retinue you used to delve.
-rules.keepers.daylight.7=∙<b>Move or Recover:</b> The right action slot lets you move or recover relics from a matching clearing, your choice. Here’s how recovering works… One at a time, you may take any number of relics from the clearing you’re acting in. However, you can only take a relic if the clearing has a waystation of the same type: figure, tablet, or jewelry. When you take a relic, put it on your faction board in the leftmost empty Relics space of its type. Then, count how many clearings you rule that match the suit of the clearing you’re acting in, including that clearing. If you rule fewer of these clearings than the relic’s value, you must discard the card in your Retinue you used to recover it, then end the action. When you recover a relic, you score points equal to its value, and you score two more points if it fills a Relics column.
-rules.keepers.evening.1=<style=RSH><sprite index=64>Evening</style> <br><br><b>First, Live Off the Land.</b> In each clearing that has four or more Keeper warriors, you must remove one Keeper warrior.<br><br><b>Second, Gather Retinue.</b> You may add any number of cards from your hand to any action slots in your Retinue. However, your Retinue cannot hold more than ten cards at a time.
-rules.keepers.evening.2=If you don’t add any cards, you may shift exactly one card in your Retinue to any other Retinue action slot.<br><br><b>Third, Draw and Discard.</b> You draw one card, plus one card for each waystation on the map. Then, if you have more than five cards, you discard down to five cards.
-rules.hundreds.1=Claiming to be the one true voice of the Woodland, the Lord of the Hundreds consolidates power by crushing all dissent.
-rules.hundreds.2=In their Evening, they score points based on how many clearings they <b>oppress</b>—clearings they rule that have no enemy pieces at all. Their swarming army is led by the <b>warlord</b>, a warrior-demagogue whose shifting <b>mood</b> provides fleeting advantages.
-rules.hundreds.3=By piling items onto their towering <b>Hoard</b>, the Hundreds grow in <b>Command</b> and <b>Prowess</b>, which let them take more actions and attract more warriors to their warlord. If that is not enough, they can incite torch-wielding <b>mobs</b> to raze the Woodland.
-rules.hundreds.setup.1=<style=RSH>Setup</style><br><br><b>Step 1: Place Warriors</b><br><br>Place your warlord, four warriors, and one stronghold in a corner clearing that is not the starting corner clearing of another player and, if possible, is diagonally opposite from a starting corner clearing.
-rules.hundreds.setup.2=<b>Step 2: Place Items</b><br><br>The 4 items are distributed among the ruins if this has not already been done (typically by the Vagabond being in the game).
-rules.hundreds.setup.3=<b>Step 3: Starting Mood</b><br><br>Start with the Stubborn mood in the mood slot. (This means on your first turn, you will pick any mood except Stubborn.)
-rules.hundreds.supply=<style=RSH>Supply</style><br><br>∙Warriors x20<br>∙Strongholds x6<br>∙Mobs x5
-rules.hundreds.birdsong.1=<style=RSH><sprite index=66>Birdsong</style> <br><br><b>First, Raze.</b> In each clearing with a mob token, remove all enemy buildings and tokens. If a ruin is there, take an item from it and add the item to your Hoard. <br><br>Whenever you gain an item, it is placed in the leftmost empty space of your Hoard that shows that item type. Boots, bags, and coins increase your Command, while hammers, tea, swords, and the crossbow increase your Prowess.
-rules.hundreds.birdsong.2=After you resolve all your mobs, roll the mob die once—no matter how many mobs are on the map! Place one mob token in a clearing that matches the suit you rolled on the mob die. This clearing must be adjacent to a clearing that already has a mob, and a clearing cannot have multiple mobs.
-rules.hundreds.birdsong.3=<b>Second, Recruit.</b> Place warriors equal in number to your Prowess in the clearing with your warlord. Then, place one warrior at each stronghold building.<br><br><b>Third, Anoint.</b> If your warlord is not on the map, you'll need a new one! Replace any Hundreds warrior on the map with your warlord. If you cannot—for example, if you have no warriors on the map—then put your warlord in any clearing.
-rules.hundreds.birdsong.4=<b>Fourth, Choose Your Mood.</b>  Here, you must replace your current mood card with a different one. You cannot choose a mood if you have the item in your Hoard that the mood card shows in its top-left corner. One mood, Lavish, does not show an item. You can always choose it as long as you’re not currently Lavish. If you are Lavish and you have every type of item in your Hoard, though, you will stay Lavish.
-rules.hundreds.daylight.1=<style=RSH><sprite index=65>Daylight</style> <br><br><b>First, Craft.</b> This is a standard Craft action that uses your strongholds.<br><br><b>Second, Command the Hundreds.</b> You may take these actions in any order, a number of times up to your Command:
-rules.hundreds.daylight.2=∙<b>Move:</b> Take one move.<br>∙<b>Battle:</b> Initiate a battle.<br>∙<b>Build:</b> Spend a card to place a stronghold in a matching clearing you rule.
-rules.hundreds.daylight.3=<b>Third, Advance the Warlord.</b> You may advance your warlord a number of times equal to your Prowess. Whenever you advance, you may move, and then you may battle—neither is required. The move must include your warlord, but you can also move warriors along with your warlord, and the battle must be in your warlord’s clearing.
-rules.hundreds.evening.1=<style=RSH><sprite index=64>Evening</style> <br><br><b>First, Incite.</b> Any number of times, you may spend a card to place a mob token in a matching clearing with a Hundreds warrior, even your warlord. A clearing cannot have multiple mobs.
-rules.hundreds.evening.2=You don’t need to place mobs adjacent to clearings that already have a mob, like you do when you roll the mob die in your Raze step.
-rules.hundreds.evening.3=<b>Second, Oppress.</b> You score points based on how many clearings you rule that have a Hundreds piece and no enemy pieces at all—no warriors, no tokens, no building, nothing.
-rules.hundreds.evening.4=<b>Third, Draw and Discard.</b> You draw one card. If you have more than five cards, you discard down to five.
-rules.hundreds.evening.5=If you want to draw more cards, choose your Rowdy mood!
-rules.hundreds.ability.1=<style=RSH>The Looters Ability</style> <br><br>This is how your Looters ability works. In battle as the attacker, you can choose to loot the defender. You still roll, but you deal no rolled hits, but the defender still does. At the end of battle, if you rule the clearing where you just battled, you may take any one item from the defender’s Crafted Items box.
-rules.hundreds.ability.2=Notably, you cannot loot the Vagabond, who does not have a Crafted Items box.
-rules.keepers.desc=The Keepers in Iron are an order of devout knights, once exiled from the Woodland, who have returned to recover relics lost in past conflicts. They score by recovering relics at their waystations.
-rules.hundreds.desc=The Lord of the Hundreds suffers no fools and allows no dissent. During their Evening, they score points based on how well they oppress their foes. The more clearings they rule that have a Hundreds piece and no enemy pieces the more points they score.
-emote.dominance.marquise=Strafe to the left, strike to the right!
-emote.dominance.eyrie=Hold on to your feathers. We have a new path to victory ahead.
-emote.dominance.alliance=Change of plans friends. They will never know what hit em!
-emote.coalition.vagabond=In times like this, it helps to have a furry friend like me.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatSetup.ChooseStarting=Choose a clearing for your keep.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Sawmill=Choose where to build your sawmill.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Workshop=Choose where to build your workshop.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Recruiter=Choose where to build your recruiter.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesSetup.ChooseLeader=Choose a leader.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesSetup.ChooseStarting=Choose a clearing to place your first roost.
-tuber.canis.actions.VagabondActions.VagabondSetup.ChooseVagabond=Choose a character.
-tuber.canis.actions.VagabondActions.VagabondSetup.ChooseStartingLocation=Choose a forest to start in.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatChoicePhase=Choose an action.
-tuber.canis.actions.BattleActions.BattleGetDefender=Choose who to attack.
-tuber.canis.actions.BattleActions.VagabondChooseAlliedAttacker=Choose an allied warrior to attack with.
-tuber.canis.actions.BattleActions.ChooseInterruptCards=Use crafted cards?
-tuber.canis.actions.BattleActions.ChooseAmbushCards=Choose ambush cards.
-tuber.canis.actions.MovePieces.VagabondChooseAlly=Choose an ally to move with.
-tuber.canis.actions.MovePieces.SelectSource=Choose warriors to move.
-tuber.canis.actions.MovePiece.NumberToMove=Choose the number of warriors to move.
-tuber.canis.actions.MovePieces.SelectDestination=Choose a clearing to move to.
-tuber.canis.actions.BirdsongActivations=Choose a card with a Birdsong activation to activate.
-tuber.canis.actions.EyrieDynastiesActions.ChooseDecrees=Assign cards to your decree.
-tuber.canis.actions.DaylightActivations=Crafting Phase
-tuber.canis.actions.DaylightActivations.NoActions=No cards to craft. Press continue button
-tuber.canis.actions.DrawThenDiscard=Discard [count] cards.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.RevoltAction=Revolt Phase
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.RevoltAction.NoActions=No clearing to revolt in. Press continue button
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.SympathyAction=Spread Sympathy Phase
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.SympathyAction.NoActions=No clearing to spread sympathy to. Press continue button
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceDaylightAction=Choose an action.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceEveningAction=Choose an action.
-tuber.canis.actions.tuber.canis.actions.WoodlandAllianceActions.Outrage=Choose a card to add to the Woodland Alliance supporters.
-tuber.canis.actions.VagabondActions.VagabondBirdsongActionRefresh=Choose items to refresh.
-tuber.canis.actions.VagabondActions.VagabondBirdsongActionSlip=Choose a location to slip to.
-tuber.canis.actions.VagabondActions.AidActions.ChooseWhoToAid=Choose a player to aid.
-tuber.canis.actions.VagabondActions.Draw2=Draw 2 cards.
-tuber.canis.actions.VagabondActions.GainVP=Gain Victory Points
-tuber.canis.actions.VagabondActions.ChooseQuestOption=Choose:
-tuber.canis.actions.VagabondActions.VagabondDamageActionSelectionsWithAllies=Choose allied warriors to destroy or items to damage.
-tuber.canis.actions.VagabondActions.VagabondDamageActionSelections=Choose items to damage.
-tuber.canis.actions.VagabondActions.DaylightChoice=Perform actions using items.
-tuber.canis.actions.VagabondActions.AidActions.ChooseItemToTake=Choose an item to take.
-tuber.canis.actions.VagabondActions.DiscardItems=Your satchel is overcrowded. Choose items to discard.
-tuber.canis.abilities.StandAndDeliverAbility=Choose a player to steal a card from.
-tuber.canis.abilities.ActivateDominanceAbility=Choose a player to form a coalition with.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatBirdsongAction.ChooseWhereToPutWood=Choose where to place this wood.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatBirdsongAction.ChooseWhereToPutWoodWithCount=At supply limit. Choose where to place this wood. ([X] remaining)
-tuber.canis.actions.MarquiseDeCatActions.FieldHospitalSelection=Discard a matching card for Field Hospital<br>to return ([count]) warriors to your Keep.
-tuber.canis.actions.CostActions.ExhaustSelectedItem=Choose an item to exhaust.
-tuber.canis.actions.VagabondActions.AidActions.ChooseCardForAiding=Choose a card for aid.
-tuber.canis.abilities.MarquiseDeCatAbilities.ChooseBuilding=Choose a building.
-tuber.canis.abilities.MarquiseDeCatAbilities.OverworkAbility=Choose clearing to overwork.
-tuber.canis.abilities.MarquiseDeCatAbilities.BattleAbility=Choose an enemy to battle.
-tuber.canis.abilities.MarquiseDeCatAbilities.BuildAbility=Choose a clearing to build in.
-tuber.canis.abilities.MarquiseDeCatAbilities.OverworkAbility.Discard=Choose a card to discard for overwork.
-tuber.canis.abilities.MarquiseDeCatAbilities.RecruitAbility=Choose a clearing to recruit a warrior.
-tuber.canis.abilities.MarquiseDeCatAbilities.RecruitAbilityWithCount=At supply limit. Choose a clearing to recruit a warrior. ([X] remaining)
-tuber.canis.abilities.MarquiseDeCatAbilities.SpendBirdForAction=Choose a bird card to spend.
-tuber.canis.abilities.VagabondAbilities.HideoutAbility=Choose three items to repair.
-tuber.canis.abilities.VagabondAbilities.StealAbility=Choose a player to steal a card from.
-tuber.canis.abilities.VagabondAbilities.TinkerAbility=Choose a card from the discard pile.
-tuber.canis.abilities.VagabondAbilities.VagabondAidAbility=Choose a player to aid.
-tuber.canis.abilities.VagabondAbilities.VagabondBattleAbility=Choose an enemy to battle.
-tuber.canis.abilities.VagabondAbilities.VagabondMoveAbility=Choose a location to move from.
-tuber.canis.abilities.VagabondAbilities.VagabondQuestAbility=Choose a quest to complete.
-tuber.canis.abilities.VagabondAbilities.VagabondRepairAbility=Choose a damaged item to repair.
-tuber.canis.abilities.VagabondAbilities.VagabondStrikeAbility=Choose a piece to destroy.
-tuber.canis.abilities.WoodlandAllianceAbilities.MobilizeAbility=Choose a card to add to your Supporters.
-tuber.canis.abilities.WoodlandAllianceAbilities.OrganizeAbility=Choose a warrior to replace with a sympathy token.
-tuber.canis.abilities.WoodlandAllianceAbilities.RevoltAbility=Choose a clearing to launch a revolt.
-tuber.canis.abilities.WoodlandAllianceAbilities.OutrageHand=Enemy hand revealed from last Outrage.
-tuber.canis.abilities.WoodlandAllianceAbilities.SpreadSympathyAbility=Choose a clearing to spread sympathy.
-tuber.canis.abilities.WoodlandAllianceAbilities.SingleTrainAbility=Choose a card to discard to train an officer.
-tuber.canis.abilities.WoodlandAllianceAbilities.TrainAbility=Choose [X] cards to discard to train an officer.
-tuber.canis.abilities.WoodlandAllianceAbilities.WoodlandAllianceRecruitAbility=Choose a clearing to recruit a warrior.
-tuber.canis.abilities.BetterBurrowBankAbility=Choose another player to draw with you.
-tuber.canis.abilities.ClaimDominanceAbility=Choose a card to discard to draw that Dominance card.
-tuber.canis.abilities.CobblerAbility=Choose a clearing to move from.
-tuber.canis.abilities.CodeBreakersAbility=Choose a player to look at their hand.
-tuber.canis.abilities.CommandWarrenAbility=Choose an enemy to battle.
-tuber.canis.abilities.CraftAbility=Choose a card to craft.
-tuber.canis.abilities.TaxCollectorAbility=Choose a warrior to remove to draw a card.
-tuber.canis.entities.PlayableClasses.ChoosePiecesToRemove=Choose battle casualties.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Recruit=Choose a clearing to recruit warriors.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Move=Choose a clearing to move from.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Battle=Choose an enemy to battle.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Build=Choose a clearing to build a roost.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Recruit=No clearings to recruit in that match the decree.<br>Continue to enter Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Move=No warriors in clearings matching the decree to move. Continue to enter Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Battle=No clearings to battle in that match the decree.<br>Continue to enter Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Build=No clearings to build in that match the decree.<br>Continue to enter Turmoil.
-nonPrompt.vagabondDamage=Vagabond choosing [X] items to damage.
-nonPrompt.vagabondDamageWithAllies=Vagabond choosing [X] items or allies to damage.
-nonPrompt.removeItems=Vagabond choosing [X] items to discard.
-nonPrompt.decreeResolve_Recruit=Eyrie decree says they must recruit to <line-height=120%>\
-nonPrompt.decreeResolve_Move=Eyrie decree says they must move from <line-height=120%>\
-nonPrompt.decreeResolve_Battle=Eyrie decree says they must battle in <line-height=120%>\
-nonPrompt.decreeResolve_Build=Eyrie decree says they must build in <line-height=120%>\
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatSetup.ChooseStarting.opponent=Marquise are choosing where to place their keep.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Sawmill.opponent=Marquise are choosing a clearing for their sawmill.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Workshop.opponent=Marquise are choosing a clearing for their workshop.
-tuber.canis.actions.MarquiseDeCatActions.MarquisePlaceStartingBuildings.Recruiter.opponent=Marquise are choosing a clearing for their recruiter.
-tuber.canis.actions.MarquiseDeCatActions.RemoveWoodForBuilding=Choose wood to spend. ([X])
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesSetup.ChooseLeader.opponent=Eyrie are choosing a leader.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesSetup.ChooseStarting.opponent=Eyrie are choosing a clearing for their roost.
-tuber.canis.actions.VagabondActions.VagabondSetup.ChooseVagabond.opponent=Vagabond is choosing their character.
-tuber.canis.actions.VagabondActions.VagabondSetup.ChooseStartingLocation.opponent=Vagabond is choosing a forest to start in.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatChoicePhase.opponent=Marquise is pondering their next action.
-tuber.canis.actions.BattleActions.BattleGetDefender.opponent=[player] is choosing who to attack.
-tuber.canis.actions.BattleActions.VagabondChooseAlliedAttacker.opponent=Vagabond is choosing an allied attacker to attack with.
-tuber.canis.actions.BattleActions.ChooseInterruptCards.opponent=[player] is considering options.
-tuber.canis.actions.BattleActions.ChooseAmbushCards.opponent=[player] is considering options.
-tuber.canis.actions.MovePieces.VagabondChooseAlly.opponent=[player] is moving.
-tuber.canis.actions.MovePiece.NumberToMove.opponent=[player] is moving.
-tuber.canis.actions.MovePieces.SelectSource.opponent=[player] is moving.
-tuber.canis.actions.MovePieces.SelectDestination.opponent=[player] is moving.
-tuber.canis.actions.BirdsongActivations.opponent=[player] is considering options.
-tuber.canis.actions.EyrieDynastiesActions.ChooseDecrees.opponent=Eyrie is assigning cards to their decree.
-tuber.canis.actions.DaylightActivations.opponent=[player] is crafting.
-tuber.canis.actions.DaylightActivations.NoActions.opponent=[player] is crafting.
-tuber.canis.actions.DrawThenDiscard.opponent=[player] is choosing cards to discard.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.RevoltAction.opponent=Woodland Alliance is considering a revolt.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.RevoltAction.NoActions.opponent=Woodland Alliance is considering a revolt.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.SympathyAction.opponent=Woodland Alliance is spreading sympathy.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceBirdsongAction.SympathyAction.NoActions.opponent=Woodland Alliance is spreading sympathy.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceDaylightAction.opponent=[player] is considering options.
-tuber.canis.actions.WoodlandAllianceActions.WoodlandAllianceEveningAction.opponent=[player] is considering options.
-tuber.canis.actions.tuber.canis.actions.WoodlandAllianceActions.Outrage.opponent=Player is choosing a card to add to the Alliance supporters.
-tuber.canis.actions.VagabondActions.VagabondBirdsongActionRefresh.opponent=Vagabond is choosing items to refresh.
-tuber.canis.actions.VagabondActions.VagabondBirdsongActionSlip.opponent=Vagabond is choosing a location to slip to.
-tuber.canis.actions.VagabondActions.AidActions.ChooseWhoToAid.opponent=Vagabond is choosing a player to aid.
-tuber.canis.actions.VagabondActions.ChooseQuestOption.opponent=Vagabond is choosing a quest reward.
-tuber.canis.actions.VagabondActions.VagabondDamageActionSelectionsWithAllies.opponent=Vagabond is choosing casualties.
-tuber.canis.actions.VagabondActions.VagabondDamageActionSelections.opponent=Vagabond is choosing items to destroy .
-tuber.canis.actions.VagabondActions.DaylightChoice.opponent=[player] is considering options.
-tuber.canis.actions.VagabondActions.AidActions.ChooseItemToTake.opponent=Vagabond is choosing an item to take for aid.
-tuber.canis.actions.VagabondActions.DiscardItems.opponent=Vagabond is discarding items.
-tuber.canis.abilities.ActivateDominanceAbility.opponent=[player] is considering options.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatBirdsongAction.ChooseWhereToPutWood.opponent=Marquise is choosing a clearing to generate wood.
-tuber.canis.actions.MarquiseDeCatActions.MarquiseDeCatBirdsongAction.ChooseWhereToPutWoodWithCount.opponent=Marquise is choosing a clearing to generate wood.
-tuber.canis.actions.MarquiseDeCatActions.FieldHospitalSelection.opponent=Marquise is considering Field Hospital.
-tuber.canis.actions.CostActions.ExhaustSelectedItem.opponent=[player] is choosing an item to exhaust.
-tuber.canis.actions.VagabondActions.AidActions.ChooseCardForAiding.opponent=Vagabond is aiding.
-tuber.canis.abilities.MarquiseDeCatAbilities.ChooseBuilding.opponent=Marquise is choosing a building type.
-tuber.canis.abilities.MarquiseDeCatAbilities.OverworkAbility.opponent=Marquise is choosing a clearing to overwork.
-tuber.canis.abilities.MarquiseDeCatAbilities.BattleAbility.opponent=Marquise is choosing a clearing to start a battle.
-tuber.canis.abilities.MarquiseDeCatAbilities.BuildAbility.opponent=Marquise is choosing a clearing to build in.
-tuber.canis.abilities.MarquiseDeCatAbilities.OverworkAbility.Discard.opponent=Marquise is choosing a card to discard for overwork.
-tuber.canis.abilities.MarquiseDeCatAbilities.RecruitAbility.opponent=Marquise is choosing a clearing to recruit a warrior.
-tuber.canis.abilities.MarquiseDeCatAbilities.RecruitAbilityWithCount.opponent=Marquise is choosing a clearing to recruit a warrior.
-tuber.canis.abilities.MarquiseDeCatAbilities.SpendBirdForAction.opponent=Marquise is choosing a bird card to spend for an extra action.
-tuber.canis.abilities.VagabondAbilities.HideoutAbility.opponent=Vagabond is repairing items.
-tuber.canis.abilities.VagabondAbilities.StealAbility.opponent=Vagabond is choosing a player to steal a card from.
-tuber.canis.abilities.VagabondAbilities.TinkerAbility.opponent=Vagabond is choosing a card to draw from the discard pile.
-tuber.canis.abilities.VagabondAbilities.VagabondAidAbility.opponent=Vagabond is choosing a player to aid.
-tuber.canis.abilities.VagabondAbilities.VagabondBattleAbility.opponent=Vagabond is choosing who to battle.
-tuber.canis.abilities.VagabondAbilities.VagabondMoveAbility.opponent=Vagabond is moving.
-tuber.canis.abilities.VagabondAbilities.VagabondQuestAbility.opponent=Vagabond is choosing a quest to complete.
-tuber.canis.abilities.VagabondAbilities.VagabondRepairAbility.opponent=Vagabond is choosing an item to repair.
-tuber.canis.abilities.VagabondAbilities.VagabondStrikeAbility.opponent=Vagabond is choosing what to strike.
-tuber.canis.abilities.WoodlandAllianceAbilities.MobilizeAbility.opponent=Woodland Alliance is choosing a card to add to their supporters.
-tuber.canis.abilities.WoodlandAllianceAbilities.OrganizeAbility.opponent=Woodland Alliance is choosing a warrior to sacrifice for sympathy.
-tuber.canis.abilities.WoodlandAllianceAbilities.RevoltAbility.opponent=Woodland Alliance is choosing a clearing to revolt in.
-tuber.canis.abilities.WoodlandAllianceAbilities.SpreadSympathyAbility.opponent=Woodland Alliance is choosing a clearing to spread sympathy.
-tuber.canis.abilities.WoodlandAllianceAbilities.TrainAbility.opponent=Woodland Alliance is training an officer.
-tuber.canis.abilities.WoodlandAllianceAbilities.WoodlandAllianceRecruitAbility.opponent=Woodland Alliance is choosing a clearing to recruit a warrior.
-tuber.canis.abilities.BetterBurrowBankAbility.opponent=Woodland Alliance is choosing a player to draw a card with Better Burrow Bank.
-tuber.canis.abilities.ClaimDominanceAbility.opponent=[player] is choosing a card to trade for a dominance card in the shop.
-tuber.canis.abilities.CobblerAbility.opponent=[player] is using Cobbler to move.
-tuber.canis.abilities.CodeBreakersAbility.opponent=[player] is using Codebreakers to look at a players hand.
-tuber.canis.abilities.CommandWarrenAbility.opponent=[player] is using Command Warren to battle.
+log.cult.score=<color=#748421>Lizard Cult</color> discards [name] to score [suit icon] gardens for [X] victory points.
+log.cult.sacrifice=<color=#748421>Lizard Cult</color> reveals [name] to gain an acolyte.
+log.cult.lost.garden=<color=#748421>Lizard Cult</color> discards the random card [name] because a garden was removed.
+log.vagabond.explore.failure=[faction name] fails to find a legal item to take when exploring in [suit icon] clearing.
+log.vagabond.scorched.earth=[faction name] removes <sprite name="torch"> to use their Scorched Earth ability in a [suit icon] clearing. The following pieces are removed: [piece list]
+log.vagabond.vagrant.ability=<color=#4E6F89>Vagabond</color> exhausts <sprite name="torch"> to instigate a battle between [faction name] and [faction name 2] in a [suit icon] clearing.
+log.vagabond.arbiter.ability=[faction name] enlists the Arbiter <color=#4E6F89>Vagabond's</color> help in battle adding [X] swords to their max hits. The Arbiter scores [X2] <style="vptext">VP</style> in return.
+tooltip.lizardcult.gardens.description=Gardens in the suit of the outcast contribute towards crafting in evening. Whenever a garden is removed, discard a random card from your hand.
+tooltip.ui.hand.reveal.liz=<size=125%><b>Lizard Cult Hand</b></size> View Lizard Cult cards that have been revealed.
+tooltip.ui.lostsouls.liz=Lost Souls
+playmat.sacrifice=Sacrifice!
+ftt.twovagabond.create=You may now create games with two <color=#4E6F89>Vagabonds</color>. We recommend doing so in games with higher player counts.
+ftt.twovagabond.quest=<color=#4E6F89>Vagabonds</color> share a single hand of quests. If you have your eye on one, make sure to complete it before your opponent does.
+ftt.twovagabond.explore=Each <sprite name="Ruins"><color=#4E6F89>ruin</color> holds two items in a game with two <color=#4E6F89>Vagabonds</color>. These items are randomized from a pool of 2 <sprite name="sword">, 2 <sprite name="bag">, 2 <sprite name="boot">, and 2 <sprite name="hammer">.
+ftt.twovagabond.explore.2=When you explore a <sprite name="Ruins"><color=#4E6F89>ruin</color> with two items, you may take your pick of the items there. However, you may not select an item of same type as another item you hold that was also taken from a ruin.
+ftt.service.intro.1=At the start of Birdsong, players may purchase services from the Riverfolk. To purchase a service, players move warriors equal to the service cost from their supply to the Riverfolk payments area.
+ftt.service.intro.2=Hand Card: Steal a card from the Riverfolk's hand
+ftt.service.intro.3=Riverboats: Treat rivers as paths until the end of turn.
+ftt.service.intro.4=Mercenaries: During Daylight and Evening this turn, treat Riverfolk warriors as your own for rule and battle. The Vagabond isn't allowed to use this ability.
+ftt.service.intro.5=Note that the Vagabond pays for services by exhausting items at the start of Birdsong before refresh. For each item the Vagabond exhausts to do so, the Riverfolk places one of their own warriors into Payments.
+tutorial.title.tutorialR01=Sacred Scales
+tutorial.description.tutorialR01=Learn to play the Lizard Cult
+tutorial.title.tutorialR02=Rollin' On the River
+tutorial.description.tutorialR02=Learn to play the Riverfolk Company
+playmat.sanctify=Sanctify!
+playmat.lizscore=Score!
+playmat.revenge=Revenge!
+stinger.title.fear=Fear of the Faithful
+playmat.convert=Convert!
+key.handcard=Hand Card
+key.riverboats=Riverboats
+key.mercenaries=Mercenaries
+tuber.canis.abilities.LizardCultAbilities.CultBuildAbility=Choose a clearing for your garden.
+tuber.canis.abilities.LizardCultAbilities.CultRecruitAbility=Choose a clearing to recruit a warrior.
+tuber.canis.abilities.LizardCultAbilities.CultScoreAbility=Choose a card to score.
+tooltip.fish.fox=Fox Fish
+tooltip.fish.rabbit=Rabbit Fish
+tooltip.fish.mouse=Mouse Fish
+tooltip.fishmonochrome=
+tooltip.tutorial.hatedoutcast=Hated Outcast
+tooltip.tutorial.mostcommonsuit=Most Common Suit
+Log.Explore.NoItems=[faction name] explores a ruin in a [suit icon] clearing, but it contained no items.
+scenario.garden.name=Grand Garden
+scenario.conquest.name=Conquest
+scenario.restlesssouls.name=Restless Souls
+scenario.fishing.name=Gone Fishing
+scenario.angry.name=Angry Otters
+scenario.shippingempire.name=Shipping Empire
+achievement.rf.cult.leader=Cult Leader
+achievement.rf.company.man=Company Man
+achievement.rf.corner.market=Corner the Market
+achievement.rf.feathful.crusader=Faithful Crusader
+achievement.rf.peddler=Prosperous Peddler
+achievement.rf.connected=It's All Connected
+achievement.rf.scoundrel=Dirty Rotten Scoundrel
+achievement.rf.bodyguard=Bodyguard
+root.vagabond.vagrant=Vagrant
+root.vagabond.vagrant.ability.title=Instigate
+root.vagabond.vagrant.ability.text=Initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+root.vagabond.arbiter=Arbiter
+root.vagabond.arbiter.ability.title=Protector
+root.vagabond.arbiter.ability.text=Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
+root.vagabond.scoundrel=Scoundrel
+root.vagabond.scoundrel.ability.title=Scorched Earth
+root.vagabond.scoundrel.ability.text=Discard your torch to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
+tuber.canis.abilities.LizardCultAbilities.CultSanctifyAbility=Choose a building to sanctify.
+playmat.boughthandcard=Bought Hand Card!
+playmat.boughtriverboats=Bought Riverboats!
+playmat.boughtmercenaries=Bought Mercenaries!
+prompts.gameresults.winner.LizardCult=Lizard Cult Wins!
+prompts.gameresults.winner.RiverfolkCompany=Riverfolk Company Wins!
+tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=Choose a warrior to convert
+vagabond.title.SecondVagabond_Thief=Thief Vagabond
+vagabond.title.SecondVagabond_Tinker=Tinker Vagabond
+vagabond.title.SecondVagabond_Ranger=Ranger Vagabond
+vagabond.title.SecondVagabond_Vagrant=Vagrant Vagabond
+vagabond.title.SecondVagabond_Arbiter=Arbiter Vagabond
+vagabond.title.SecondVagabond_Scoundrel=Scoundrel Vagabond
+vagabond.title.vagabond_Vagrant=Vagrant Vagabond
+vagabond.title.vagabond_Arbiter=Arbiter Vagabond
+vagabond.title.vagabond_Scoundrel=Scoundrel Vagabond
+ftt.servicecost=Service Cost
+tooltip.ui.liz.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.liz.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake=Choose an item to take.
+tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake.opponent=Vagabond is choosing an item to take from the Ruin.
+tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>Vagrant</b></size>\
+<b>Instigate</b> — Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>Arbiter</b></size>\
+<b>Protector</b> — Before rolling in battle, the defender may enlist the Arbiter if he is in the battle's clearing. The Arbiter scores <sprite name="1VP"> and adds undamaged swords to the defender's maximum rolled hits.
+tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>Scoundrel</b></size>\
+<b>Scorched Earth</b> — Discard your <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing.
+tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>Ranger</b></size>\
+<b>Hideout</b> — Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
+tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>Thief</b></size>\
+<b>Steal</b> — Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
+tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>Tinker</b></size>\
+<b>Day Labor</b> — Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
+tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>Vagrant</b></size>\
+tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>Arbiter</b></size>\

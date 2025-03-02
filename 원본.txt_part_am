@@ -1,300 +1,100 @@
-tuber.canis.abilities.CraftAbility.opponent=[player] is choosing a card to craft.
-tuber.canis.abilities.StandAndDeliverAbility.opponent=[player] is choosing a player to steal a card from with Stand and Deliver.
-tuber.canis.abilities.TaxCollectorAbility.opponent=[player] is choose a warrior to sacrifice for a card with Tax Collector.
-tuber.canis.entities.PlayableClasses.ChoosePiecesToRemove.opponent=[player] is choosing casualties.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Recruit.opponent=Eyrie is choosing a clearing to recruit warriors.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Move.opponent=Eyrie is choosing a clearing to march from.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Battle.opponent=Eyrie is choosing a clearing to initiate battle.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Build.opponent=Eyrie is choosing a clearing to build a roost.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Recruit.opponent=Eyrie is entering Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Move.opponent=Eyrie is entering Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Battle.opponent=Eyrie is entering Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightActionTurmoil_Build.opponent=Eyrie is entering Turmoil.
-tuber.canis.actions.usecraftedcards=Activate crafted cards?
-tuber.canis.actions.usecraftedcards.opponent=[player] is considering options.
-tuber.canis.abilities.ClaimDominanceAbility.PickDominanceCard=Choose a dominance card to claim.
-tuber.canis.abilities.ClaimDominanceAbility.PickDominanceCard.opponent=[player] is choosing a dominance card.
-tuber.canis.actions.BattleActions.ChooseAmbushCards.CancelDefenderAmbush=Use an Ambush to cancel a matching enemy Ambush?
-tuber.canis.actions.BattleActions.ChooseAmbushCards.CancelDefenderAmbush.opponent=[player] is considering options.
-build.turmoil.noRoosts=No Roosts left in your supply to build with.<br> Continue to enter Turmoil.
-build.turmoil.noBuildableSpots=Can't build a Roost in a [X] clearing<br>since there are no open building slots<br>in clearings you control in that suit. <br>Continue to enter Turmoil
-build.turmoil.noControl=Can't build a Roost in a [X] clearing<br> since you don't rule any clearings in that suit.<br>Continue to enter Turmoil.
-recruit.trumoil.notEnoughWarriors=No warriors left in reserve to recruit. Continue to enter turmoil.
-tuber.canis.actions.endTurnConfirmation.MarquiseDeCat=You still have daylight actions available. Are you sure you want to move to evening?
-tuber.canis.actions.endTurnConfirmation.WoodlandAlliance=You still have actions available. Are you sure you want end your turn?
-lobby.resign.confirmation=Are you sure you wish to resign from this game?
-lobby.gamecompleted={0} has been completed.
-tutorial.completedbody=The tutorial is complete. Put your knowledge to the test in Challenge mode?
-tutorial.completedheader=Tutorial Complete!
-tuber.canis.entities.discardpile=DISCARD PILE
-recruit.trumoil.notEnoughWarriors.opponent=Eyrie is entering Turmoil.
-build.turmoil.noRoosts.opponent=Eyrie is entering Turmoil.
-build.turmoil.noBuildableSpots.opponent=Eyrie is entering Turmoil.
-build.turmoil.noControl.opponent=Eyrie is entering Turmoil.
-tuber.canis.actions.EyrieDynastiesActions.RestoreEyrieChoice=Choose a clearing to place a roost and 3 warriors.
-tuber.canis.actions.EyrieDynastiesActions.RestoreEyrieChoice.opponent=Eyrie is choosing a clearing to place a roost and 3 warriors.
-tuber.canis.actions.tuber.canis.actions.automateactions.outrage=Choose a card to add to the Automated Alliance supporters.
-tuber.canis.actions.tuber.canis.actions.automateactions.outrage.opponent=[player] is choosing a card to add to the Automated Alliance supporters.
-vagabot.abiltiy.marksman=Marksman
-electriceyrie.ability.wartax=War Tax
-mechanicalmarquise.score.buildings={0} Buildings
-direbytes.header=Dire Wolf News
-direbytes.none=No Direwolf News
-tuber.canis.undo.endturnconfirmation=Press continue button to complete turn.
-tuber.canis.undo.marquiseDeCatSetupUndo=Press continue button to complete setup.
-tuber.canis.undo.vagabondSetupUndo=Press continue button to complete setup.
-direbytes.link=Link
-tuber.canis.undo.endturnconfirmation.opponent=Waiting for opponent to pass the turn.
-tuber.canis.undo.marquiseDeCatSetupUndo.opponent=Waiting for Marquise to confirm set up.
-tuber.canis.undo.vagabondSetupUndo.opponent=Waiting for Vagabond to confirm set up.
-prompts.productunlock.cosmetic.title={0}
-prompts.productunlock.cosmetic.description={0} has been unlocked for your account.
-tuber.canis.actions.DrawThenDiscard.NoActions=No more cards to discard. Press continue button.
-tuber.canis.actions.DrawThenDiscard.NoActions.opponent=[player] is choosing cards to discard.
-prompt.platform.warning=This setting can cause the UI to appear wrong on certain devices, and cannot be changed in-game. Are you sure you want to proceed?
-prompt.readylivegame=Your live game is ready. Because turn timers are short you must go there now or resign.
-prompt.game.aitakeover=You ran out of time to make a move in Root so your turn was taken by an AI. Make your next move in the allowed time or you will be removed from the game.
-prompt.first.live.game=Welcome to your first live game. You have 3 minutes to complete a turn. If you exceed that time, your turn will be taken by an AI. If an AI takes your turn two times in a row you will be resigned. Have fun and make sure not to go anywhere!
-tuber.canis.actions.RequiredAbilitySelect=You must use crafted card [ability] to continue.
-tuber.canis.actions.RequiredAbilitySelect.opponent=[player] is considering options.
-login.deleteaccountbutton=Delete Account
-deleteaccount.confirm.message=Are you sure you want to delete your account?
-deleteaccount.complete.message=Check your email to complete the account deletion.
-deleteaccount.failed.message=A network error has prevented you from deleting your account. Try again later.
-prompt.advancedsetup.choose.faction=Choose Your Faction
-prompt.advancedsetup.choose.faction.opponent=An opponent is choosing their Faction.
-prompt.advancedsetup.discard=Choose 2 cards to return to the deck.
-prompt.advancedsetup.discard.opponent=[player] is choosing 2 cards to return to the deck.
-prompt.advancedsetup.marquisedecat.sawmill=Choose a homeland clearing for your sawmill.
-prompt.advancedsetup.marquisedecat.sawmill.opponent=[player] is choosing a homeland clearing for their sawmill.
-prompt.advancedsetup.marquisedecat.workshop=Choose a homeland clearing for your workshop adjacent to your sawmill.
-prompt.advancedsetup.marquisedecat.workshop.opponent=[player] is choosing a homeland clearing for their workshop.
-prompt.advancedsetup.marquisedecat.recruiter=Choose a homeland clearing for your recruiter adjacent to your workshop or sawmill.
-prompt.advancedsetup.marquisedecat.recruiter.opponent=[player] is choosing a homeland clearing for their recruiter.
-prompt.advancedsetup.marquisedecat.homeland.1=Choose a homeland clearing to place a building.
-prompt.advancedsetup.marquisedecat.homeland.1.opponent=[player] is choosing a homeland clearing for their first building.
-prompt.advancedsetup.marquisedecat.homeland.2=Choose another homeland clearing adjacent to your last one to place a building.
-prompt.advancedsetup.marquisedecat.homeland.2.opponent=[player] is choosing a homeland clearing for their second building.
-prompt.advancedsetup.marquisedecat.homeland.3=Choose another homeland clearing adjacent to one of your homelands to place your last building.
-prompt.advancedsetup.marquisedecat.homeland.3.opponent=[player] is choosing a homeland clearing for their third building.
-prompt.advancedsetup.marquisedecat.keep=Place the Keep in one of your homeland clearings. You must choose a clearing not adjacent to another player's homeland clearing if possible.
-prompt.advancedsetup.marquisedecat.keep.opponent=[player] is choosing a homeland clearing for their Keep.
-prompt.advancedsetup.eyriedynasties.roost=Choose a homeland clearing for your Roost on the map edge that has 2+ clearings between it and enemy homelands.
-prompt.advancedsetup.eyriedynasties.roost.opponent=[player] is choosing a homeland clearing for their Roost.
-prompt.advancedsetup.lizardcult.garden=Choose a homeland clearing that is not adjacent to enemy homelands to place a Garden and four warriors.
-prompt.advancedsetup.lizardcult.garden.opponent=[player] is choosing a homeland clearing for their Garden.
-prompt.advancedsetup.place.warriors.evenly=Place [X] warriors in clearings adjacent to your homeland as evenly as possible.
-prompt.advancedsetup.place.warriors.evenly.opponent=[player] is choosing homeland clearings for their warriors.
-prompt.advancedsetup.corvidconspiracy.homeland=Choose a homeland clearing.
-prompt.advancedsetup.corvidconspiracy.homeland.opponent=[player] is choosing a homeland clearing.
-prompt.advancedsetup.corvidconspiracy.plot=Place a hidden plot in your homeland clearing.
-prompt.advancedsetup.corvidconspiracy.plot.opponent=[player] is choosing a plot for their homeland clearing.
-prompt.advancedsetup.undergroundduchy.homeland=Choose a homeland clearing that is not adjacent to enemy homelands and place 2 warriors and a Tunnel there.
-prompt.advancedsetup.undergroundduchy.homeland.opponent=[player] is choosing a homeland clearing.
-tuber.canis.actions.CharmOffensiveInformants=Replace Charm Offensive draw with Informants or continue.
-tuber.canis.actions.CharmOffensiveInformants.opponent=[player] is considering options.
-prompt.challenges.sectionheader.standard=Standard
-prompt.controllersupport.enable=We detected a gamepad input. Would you like to enable gamepad support?
-store.product.clockwork.name=The Clockwork Expansion
-store.product.clockwork.description=Four fiendish automated factions offer a challenging and customizable alternative to the AI. New Co-operative play allows players to team up against powerful automated opponents!
-store.product.clockwork.shortdescription=Four automated factions and co-operative play!
-store.product.clockwork.storedescription=Tick...tock...tick...tock...<br><br>The battle for the wild wood kicks into gear with the Clockwork Expansion!<br><br>Four fiendishly automated enemy factions bring new challenges to Root in a customizable alternative to the game's AI! Can you overcome the mechanical menace and secure your right to rule the forest?<br><br>Introduces Co-op Play! Team up to take on powerful automated opponents!<br><br> Mechanical Marquise 2.0<br>This is the simplest of the bots and can be used to fill out the player count in dozens of configurations. Though this bot is straightforward, don’t get complacent. At least one player will need to keep it in check!<br><br>Electrical Eyrie<br>The Electric Eyrie will inspire fear in the most stalwart of players. Like the Eyrie Dynasties, this bot can ramp up its action potential aggressively.<br><br>Automated Alliance<br>The Automated Alliance is especially zealous and will revolt frequently. Keep in mind their potential targets so you avoid any unpleasant surprises. Once they do establish a foothold, timing is critical. Don’t let them consolidate their warriors or you’ll be in trouble!<br><br>Vagabot<br>The Vagabot makes for a capricious friend or foe. Like a human player, he will reward those who craft items. But be careful, he can make for a dangerous enemy once he gets enough items to boost his maximum hits.
-store.verificationFailed=DLC integrity cannot be verified, please restart with an internet connection to verify.
-store.restorePurchases=Restore Purchases
-store.restorePurchasesError.default=An error occurred. Please check your internet connection and try again.
-store.product.wintermap.name=The Winter Map
-store.product.riverfolk.name=The Riverfolk Expansion
-store.product.riverfolk.description=Two new factions join the fray! The Riverfolk Company and the Lizard Cult bring new strategic twists to the battle to rule the woodland. <br><br>Three new Vagabonds - the Scoundrel, the Vagrant, and the Arbiter - help you swindle out a victory!
-store.product.riverfolk.shortdescription=The Riverfolk arrive in Root! Two new factions join the fray!
-store.product.riverfolk.storedescription=Two new factions and Vagabond variants bring new challenges to Root! <br><br>Riverfolk Company<br>The Riverfolk Company is open for business – the woodland may be at war, but there's no reason you can't make a profit! Establish trade posts and earn your victory! <br><br>Lizard Cult<br>Spread the scaly gospel of the Lizard Cult! Tend your gardens to radicalize new acolytes, and reveal the true extent of your proselytizing power! <br><br>New Vagabond Variants!<br>Three new Vagabonds skulk into the woodland to help you swindle your way to victory! The Scoundrel torches the woodland rather than see others rule it; the Vagrant starts fights that others have to finish; and the Arbiter offers their services...for a price, of course! <br><br>New Challenges!<br>New single-player scenarios and tutorials help you learn the wily ways of the latest woodland warriors!
-code.redeem.CodeRedeemed=Code Redeemed!
-code.redeem.error.NoDefinition=Code does not have a code definition associated to it
-code.redeem.error.CodeNotFound=Code was not found
-code.redeem.error.PerCodeLimitReachedByOther=The per code count limit has been reached for this code by another user
-code.redeem.error.PerCodeLimitReachedBySelf=The per code count limit has been reached for this code
-code.redeem.error.UserLimitReachedByOther=The per user limit has been reached for this code
-code.redeem.error.UserLimitReachedBySelf=The per user limit has been reached for this code
-code.redeem.error.NoProducts=This code will not grant any products
-code.redeem.error.NotStarted=This code is not available yet
-code.redeem.error.RedemptionEnded=Code time frame is over
-code.redeem.equip.immediate=Code Redeemed! Would you like to equip the cosmetic now?
-code.redeem.error.ios=Code cannot be redeemed on iOS. Please visit our website for code redemption at...
-code.redeem.error.NoLoggedIn=Code cannot be redeemed. Please log in or create an account.
-store.product.cosmetic.eyrie.emigre.name=Eyrie Emigre Premium Skin
-store.product.cosmetic.marquise.marquiseinboots.name=Marquise-in-Boots Premium Skin
-store.login.warning.description=If you intend to play on multiple platforms, please sign in to your account before purchasing.
-expansion.exiles.name=The Exiles and Partisans Deck
-store.purchase.error.invalidregion=This product is not yet available in your region.
-store.product.miniexpansion.name=Exiles & Partisans & Vagabonds
-store.product.miniexpansion.description=Three new Vagabonds are sneaking through the forest!<br>Plus an all-new deck for an even wilder wood!<br>Contains the Vagabond Pack & Exiles and Partisans Deck.
-store.product.underworldexpansion.name=The Underworld Expansion
-store.product.underworldexpansion.description=Conquer new battlefields as you journey into the Underworld of Root!<br>Contains the Underground Duchy and Corvid Conspiracy factions, and the Mountain and Lake maps!
-store.product.marauderexpansion.name=The Marauder Expansion
-store.product.marauderexpansion.description=Two new factions!<br>Lord of the Hundreds – Oppress the Woodland and burn it to the ground if need be. You suffer no dissent.<br>Keepers in Iron – Lead your exiled order of devout knights into battle to recover ancient relics. For glory!
-store.product.marauderexpansion.name.short=The Marauder Expansion
-scenario.journeytothenorth.name=Journey to the North
-scenario.journeytothenorth.tier1description=Rule the 4 Northmost clearings to win (no need to score victory points).
-scenario.town.name=Tinker Town
-scenario.town.tier1description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker.
-scenario.town.tier2description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker and can't use quests. Opponents start with <style="vpnum">5</style>.
-scenario.delivery.name=Egg Collector
-scenario.delivery.tier1description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>.
-scenario.delivery.tier2description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>. You start with only 2 warriors.
-scenario.work.name=Work Work Work
-scenario.work.tier1description=Your starting buildings are three workshops.
-scenario.work.tier2description=Your starting buildings are three workshops. Opponents start with <style="vpnum">5</style>.
-scenario.ww.name=Winter Warriors
-scenario.ww.tier1description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards.
-scenario.ww.tier2description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards and start with no supporters.
-Log.Eyrie.Selects.Character=<color=#3a63cb>Eyrie Dynasties</color> selects [name] as their leader, adding a <sprite name="birdicon"> to their [area1] and [area2] decrees.
-Log.Eyrie.Selects.Roost=[faction name] builds their starting roost in a [suit icon] clearing
-Log.Vagabond.Character=[faction name] chooses [name] as their character.
-Log.Keep.Choice=[faction name] places their Keep in a [suit icon] clearing.
-Log.SetupBuilding.Choice=[faction name] places their [piece] in a [suit icon] clearing.
-Log.Start.Game=Start of Game
-Log.Start.Turn=[faction name] Turn
-Log.Birdsong=<sprite name="Birdsong">Birdsong
-Log.Daylight=<sprite name="Daylight">Daylight
-Log.Evening=<sprite name="Evening">Evening
-Log.initiate.battle=[faction name] initiates a battle against [faction name 2] in a [suit icon] clearing.
-Log.Ambush=[faction name] ambushes [faction name 2] with a [suit icon] ambush.
-Log.Ambush.Cancel=[faction name] cancels [faction name 2] ambush with a [suit icon] ambush.
-Log.Roll=[faction name] takes the [X] die. [faction name 2] takes the [X2] die.
-Log.Defenseless.Hit=[faction name] gains an additional hit since their opponent is defenseless.
-Log.Casualties=[faction name] loses [pieces]
-Log.Nonvagabond.Move=[faction name] moves [X] warriors into a [suit icon] clearing.
-Log.Craft.Persistent=[faction name] crafts [name].
-Log.Craft.Item=[faction name] crafted [name], gaining [item icon] and [X] <style="vptext">VP</style>.
-Log.Build=[faction name] builds a [building name] in a [suit icon] clearing.
-Log.Recruit.single=[faction name] recruits a warrior in a [suit icon] clearing.
-Log.Recruit.multiple=[faction name] recruits [X] warriors.
-Log.Discard.eot=[faction name] discards [X] cards to meet their hand size limit.
-Log.Draw=[faction name] draws [X] cards
-Log.Generic.Scoring=[faction name] gains  [X] <style="vptext">VP</style>.
-Log.Claim.Dominance.supply=[faction name] discarded a [suit icon] card to claim [suit icon 2] [name] from the supply.
-Log.Reshuffle=The deck ran out of cards and has been reshuffled.
-Log.Aid=[faction name] exhausts a [item icon] to aid [faction name 2] with a card.
-Log.Aid.Item=[faction name] receives a [item icon] in return for aid.
-Log.Slip.Clearing=[faction name] slips into a [suit icon] clearing
-Log.Slip.Forest=[faction name] slips into a forest.
-Log.Quest=[faction name] exhausts [item icon] and [item icon 2] to complete the [name] quest.
-Log.Quest.Draw.Reward=[faction name] draws 2 cards for their quest reward.
-Log.Quest.Point.Reward=[faction name] scores [X] <style="vptext">VP</style> for their quest reward.
-Log.Relationship.1=[faction name] increases their relationship with [faction name 2] to level 1, scoring 1 <style="vptext">VP</style>.
-Log.Relationship.2=[faction name] increases their relationship with [faction name 2] to level 2, scoring 2 <style="vptext">VP</style>.
-Log.Relationship.3=[faction name] increases their relationship with [faction name 2] to allied, scoring 2 <style="vptext">VP</style>.
-Log.Relationship.Hostile=[faction name] becomes hostile to the [faction name 2].
-Log.Refresh=[faction name] refreshes the following items in Birdsong: [items]
-Log.Explore=[faction name] explores a ruin in a [suit icon] clearing. They score 1 <style="vptext">VP</style>. and gain a [item icon].
-Log.Strike=[faction name] strikes a [faction name 2] [piece] in a [suit icon] clearing.
-Log.Repair=[faction name] exhausts <sprite name="hammer"> to repair [item icon].
-Log.Evenings.Rest=[faction name] repairs all items with Evenings Rest.
-Log.Satchel.Discard=[faction name] removes the following items from their satchel since it was over stuffed: [items]
-Log.Steal=[faction name] uses Steal, exhausting <sprite name="torch"> to take a random card from [faction name 2].
-Log.Hideout=[faction name] uses Hideout, exhausting <sprite name="torch"> to repair [items]. This ends daylight.
-Log.Day.Labor=[faction name] uses Day Labor, exhausting <sprite name="torch"> to take a card from the discard pile into their hand.
-Log.Move.Vagabond=[faction name] exhausts <sprite name="boot"> to move into a [suit icon] clearing.
-Log.Vagabond.item.damage.gen=[faction name] damages the following items: [items]
-Log.Enter.Coalition=[faction name] enters a Coalition with [faction name 2].
-Log.Move.Buddy=[faction name] moves with [X] [faction name 2] warriors.
-Log.Outrage=[faction name] causes outrage, adding a card to the <color=#008D3F>Woodland Alliance</color> supporters.
-Log.Outrage.reveal=[faction name 2] reveals their hand to [faction name]  for outrage. [faction name] adds a card from the deck to their supporters.
-Log.Outrage.reveal.rootbot=[faction name 2] has no hand to reveal to [faction name]  for outrage. [faction name] adds a card from the deck to their supporters.
-Log.Outrage.reveal.nocarddrawn=[faction name 2] reveals their hand to [faction name]  for outrage. [faction name] cannot add a card from the deck to their supporters because none are available.
-Log.Outrage.reveal.rootbot.nocarddrawn=[faction name 2] has no hand to reveal to [faction name]  for outrage. [faction name] cannot add a card from the deck to their supporters because none are available.
-Log.Revolt.Intro=[faction name] revolts in a [suit icon] clearing.
-Log.Revolt.destruction=[faction name] lost [pieces]
-Log.Revolt.additions=[faction name] gains an officer and [X] warriors.
-Log.Sympathy=[faction name] spends [X] supporters to spread sympathy to a [suit icon] clearing, scoring [X2] <style="vptext">VP</style>.
-Log.Mobilize=[faction name] uses Mobilize to add a card to their supporters.
-Log.Organize=[faction name] uses Organize to sacrifice a warrior for sympathy in a [suit icon] clearing, scoring [X] <style="vptext">VP</style>.
-Log.Organize.AutomatedAlliance=[faction name] uses Organize to sacrifice all warriors in a [suit icon] clearing to spread sympathy, scoring [X] <style="vptext">VP</style>.
-Log.Train=[faction name] trains an officer.
-Log.Lost.base=Because a <color=#008D3F>Woodland Alliance</color> base was removed, they lose [X] officers and discard [X2] matching supporters.
-Log.Generate.Wood=[faction name] generated [X] wood during Birdsong.
-Log.Overwork=[faction name] used Overwork to discard a [suit icon] card for 1 wood.
-Log.Field.Hospitals=[faction name] used Field Hospitals to return [X] fallen warriors to their Keep.
-Log.Hawks=[faction name] discards a <sprite name="birdicon"> card for an extra action.
-Log.Decree.Assignment=[faction name] assigns [suit icon] to their [name] decree.
-Log.Special.Birdsong.Draw=[faction name] draws a card during Birdsong since their hand was empty.
-Log.Special.Birdsong.Roost=[faction name] places a roost and 3 warriors in a [suit icon] clearing since they had no roosts
-Log.Turmoil.recruit=[faction name]  enters turmoil because they couldn't recruit in a [suit icon] clearing.
-Log.Turmoil.move=[faction name]  enters turmoil because they couldn't move in a [suit icon] clearing.
-Log.Turmoil.battle=[faction name]  enters turmoil because they couldn't battle in a [suit icon] clearing.
-Log.Turmoil.build=[faction name]  enters turmoil because they couldn't build in a [suit icon] clearing.
-Log.Turmoil.build.noroosts=[faction name]  enters turmoil because they had no roosts left to build with in their supply.
-Log.Turmoil.recruit.nowarriors=[faction name]  enters turmoil because they had no warriors left to recruit with in their supply.
-Log.Turmoil.lose.points=[faction name]  discards their decree and loses [X] <style="vptext">VP</style>.
-Log.Turmoil.New.Leader=<color=#3a63cb>Eyrie Dynasties</color> selects [name] as their new leader adding a <sprite name="birdicon"> to their [area1] and [area2] decrees.
-Log.Despot.Power=[faction name]  scores an additional 1 <style="vptext">VP</style> from their Despot leader ability.
-Log.Charasmatic.Power=[faction name]  places an additional warrior from their Charismatic Leader ability.
-Log.Commander.hit=[faction name] gains an additional hit from their Commander ability.
-Log.Favor.Craft=[faction name] crafts [name] to remove all enemy pieces in [suit icon] clearings.
-Log.Dominance=[faction name] plays dominance to change their victory condition.
-Log.Armorers=[faction name] discards Armorers to ignore rolled hits
-Log.Sappers=[faction name] discards Sappers to deal an extra hit.
-Log.BrutalTactics=[faction name] uses Brutal Tactics to deal an extra hit. Defender scores 1<style="vptext">VP</style>.
-Log.RoyalClaim=[faction name] discards Royal Claim to score 1 <style="vptext">VP</style> for each of their ruled clearings. They score  [X] <style="vptext">VP</style>.
-Log.StandandDeliver=[faction name] uses Stand and Deliver! to take a random card from [faction name 2]. That player scores 1 <style="vptext">VP</style>.
-Log.TaxCollector=[faction name] uses Tax Collector to remove a warrior and draw a card.
-Log.CommandWarren=[faction name] uses Command Warren to start a battle against [faction name 2] in a [suit icon] clearing.
-Log.BetterBurrowBank=[faction name] uses Better Burrow Bank to draw a card along with [faction name 2].
-Log.Cobbler=[faction name] uses Cobbler to move.
-Log.Codebreakers=[faction name] uses Codebreakers to look at [faction name 2] hand.
-log.order=[faction name] reveals [suit icon] as their order.
-log.given.card=[faction name] discards the card they were given by [faction name 2] and scores 1 <style="vptext">VP</style>.
-log.nightmare.score=[faction name] scores 1 <style="vptext">VP</style> for Nightmare difficulty.
-log.escalated.daylight=Escalated Daylight
-log.expand=The <color=#CC6633>Mechanical Marquise</color> expands, drawing a new order and repeating Daylight.
-log.evening.score=<color=#CC6633>Mechanical Marquise</color> scores [X] <style="vptext">VP</style> from their building track.
-log.trait.blitz=<color=#CC6633>Mechanical Marquise</color> uses their Blitz trait to move and battle.
-Log.trait.Hospitals=<color=#CC6633>Mechanical Marquise</color> uses their Hospital trait to return [X] fallen warriors to their Keep.
-log.trait.relentless=<color=#3a63cb>Electric Eyrie</color> uses their Relentless trait to remove all defenseless enemy pieces in clearings with Eyrie warriors.
-log.trait.swoop=<color=#3a63cb>Electric Eyrie</color> uses their Swoop trait to place two warriors in a [suit icon] clearing.
-log.trait.nobility=<color=#3a63cb>Electric Eyrie</color> gains [X] <style="vptext">VP</style> from their Nobility trait.
-log.trait.wartax=[faction name] loses [X] <style="vptext">VP</style> from <color=#3a63cb>Electric Eyrie's</color> War Tax trait.
-log.setup.electric.eyrie=<color=#3a63cb>Electric Eyrie</color> Adds [X] <sprite name="birdicon"> cards to the <sprite name="birdicon"> column of their decree.
-log.battle.extrahit=<color=#3a63cb>Electric Eyrie</color> gains an extra hit for having more cards assigned to the ordered column of it's decree than any other.
-log.public.pity=<color=#008D3F>Automated Alliance</color> uses Public Pity to spread sympathy [X] times.
-log.crackdown=<color=#008D3F>Automated Alliance</color> loses all sympathy tokens in clearings matching the suit of the destroyed base due to Crackdown.
-Log.automated.Outrage=[faction name] causes Outrage, discarding a card.
-Log.automated.Outrage.vp=[faction name] causes Outrage, but does not have a matching card. <color=#008D3F>Automated Alliance</color> scores 1 <style="vptext">VP</style>.
-log.automated.ambush=<color=#008D3F>Automated Alliance</color> gains an extra hit from their Automated Ambush ability.
-log.trait.wildfire=<color=#008D3F>Automated Alliance</color> spreads sympathy to a [suit icon] clearing but scores no victory points using its Wildfire trait.
-log.generic.exhaust.item=<color=#436979>Vagabot</color> exhausts [X] items.
-log.battletrack=<color=#436979>Vagabot</color> adds an item to their battle track, increasing their hit potential in battle.
-log.trait.marksmen=<color=#436979>Vagabot</color> deals an immediate hit using their Marksmen trait.
-log.trait.helper=The <color=#436979>Vagabot</color> scores 1 <style="vptext">VP</style> from their Helper trait and the aided player draws an additional card.
-log.vagabot.steal=<color=#436979>Vagabot</color> exhausts an item to use their Steal ability, taking a random card from [faction name].
-log.vagabot.daylabor=<color=#436979>Vagabot</color> exhausts an item to use their Day Labor ability, crafting [name] from the discard pile, and scoring 1 <style="vptext">VP</style>.
-log.vagabot.hideout=<color=#436979>Vagabot</color> exhausts an item to use their Hideout ability, slipping into a forest.
-log.vagabot.explore=<color=#436979>Vagabot</color> moves [X] spaces to a [suit icon] clearing with a ruin to explore it. They exhaust [X] items, take an [item icon] from the ruin, and score 1 <style="vptext">VP</style>.
-log.vagabot.quest=<color=#436979>Vagabot</color> moves [X] spaces to a [suit icon] clearing to complete their quest. They exhaust 2 items, score 1 <style="vptext">VP</style>, and draw a new quest.
-log.vagabot.evening.refresh=<color=#436979>Vagabot</color> refreshes: [items]
-log.vagabot.evening.repair=<color=#436979>Vagabot</color> repairs: [items]
-log.aiswap.timeout=[name] timed out and was replaced by an AI.
-log.aiswap.resign=[name] resigned and was replaced by an AI.
-key.roost=Roost
-Log.vagabot.aid=<color=#436979>Vagabot</color> exhausts [X] items to aid [faction name] with [X] cards from the deck. Vagabot receives [items] in return and gains [X] <style="vptext">VP</style>."
-Log.automated.Sympathy=<color=#008D3F>Automated Alliance</color> spreads sympathy to a [suit icon] clearing, scoring [X] <style="vptext">VP</style>
-log.steal.clockwork=<color=#436979>Vagabond</color> receives a card from the deck instead.
-log.vagabot.repair.daylight=<color=#436979>Vagabot</color> exhausts an item to repair a damaged item.
-log.vagabot.battle=<color=#436979>Vagabot</color> exhausts [X] items to initiate a battle against [faction name] in a [suit icon] clearing.
-log.vagabot.battle.move=<color=#436979>Vagabot</color> exhausts [X] items to move into a [suit icon] clearing and initiate a battle against [faction name].
-log.generic.exhaust.item.one=<color=#436979>Vagabot</color> exhausts 1 item.
-log.vagabot.explore.one=<color=#436979>Vagabot</color> moves 1 space to a [suit icon] clearing with a ruin to explore it. They exhaust 1 item, take an [item icon] from the ruin, and scores 1 <style="vptext">VP</style>.
-Log.vagabot.aid.one=<color=#436979>Vagabot</color> exhausts 1 item to aid [faction name] with 1 card from the deck. Vagabot receives [items] in return and gains 1 <style="vptext">VP</style>.
-log.vagabot.battle.one=<color=#436979>Vagabot</color> exhausts 1 item to initiate a battle against [faction name] in a [suit icon] clearing.
-log.vagabot.battle.move.one=<color=#436979>Vagabot</color> exhausts 1 item to move into a [suit icon] clearing and initiate a battle against [faction name].
-Log.DiscardOne.eot=[faction name] discards 1 card to meet their hand size limit.
-Log.DrawOne=[faction name] draws 1 card.
-log.setup.electric.eyrie.one=<color=#3a63cb>Electric Eyrie</color> Adds 1 <sprite name="birdicon"> card to the <sprite name="birdicon"> column of their decree.
-Log.Nonvagabond.Move.one=[faction name] moves 1 warrior into a [suit icon] clearing.
-Log.Field.Hospitals.one=[faction name] used Field Hospitals to return 1 fallen warrior to their Keep.
-Log.Move.Buddy.one=[faction name] moves with 1 [faction name 2] warrior.
-log.public.pity.one=<color=#008D3F>Automated Alliance</color> uses Public Pity to spread sympathy 1 time.
-Log.trait.Hospitals.one=<color=#CC6633>Mechanical Marquise</color> uses their Hospital trait to return 1 fallen warrior to their Keep.
-Log.Sympathy.one=[faction name] spends 1 supporter to spread sympathy to a [suit icon] clearing, scoring [X2] <style="vptext">VP</style>.
-log.vagabot.quest.one=<color=#436979>Vagabot</color> moves 1 space to a [suit icon] clearing to complete their quest. They exhaust 2 items, score 1 <style="vptext">VP</style>, and draw a new quest.
-log.hatch=<color=#3a63cb>Eyrie Dynasties</color> hatches a warrior from an egg in a [suit icon] clearing.
-log.multi.hatch=<color=#3a63cb>Eyrie Dynasties</color> hatches [X] warriors from eggs in a [suit icon] clearing.
+tooltip.ui.vagabond.secondvagabond_scoundrel=<size=125%><b>Scoundrel</b></size>\
+prompt.tutorial.riverfolk.upsell.title=Riverfolk Tutorials
+prompt.tutorial.riverfolk.upsell.description=The Riverfolk Company and Lizard Cult are part of The Riverfolk Expansion. Visit the store to learn more?
+tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.opponent=Lizard Cult is choosing a Conspiracy
+Firsttime.ally=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the [faction name]. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
+factionnames.RiverfolkCompany=Riverfolk Company
+aiplayername.secondvagabond=Vagabond
+playmat.enlisted=Enlisted!
+prompts.vagabonditems.novalidchoices=You cannot take two items of the same type from ruins.
+playmat.establishtradepost=Establish Trade Post!
+playmat.export=Export!
+prompts.gameresults.winner.SecondVagabond=Vagabond Wins
+prompt.selectaplayer=Select A Player!
+Log.riverfolk.Favor.Craft=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name], removing all enemy pieces in [suit icon] clearings.
+tooltip.ui.riverfolk.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.lizards.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.lizards.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tuber.canis.abilities.CraftAbility.lizardcult=Choose a card to craft using gardens in the outcast suit.
+tuber.canis.abilities.CraftAbility.lizardcult.opponent=Lizard Cult is choosing a card to craft
+tuber.canis.actions.LizardCultActions.ConfirmScoreForNoPoints=Choosing this card would score you 0 points. Are you sure you wish to continue?
+prompt.vagabond.enlistarbiter.title=Enlist Arbiter
+prompt.export=Choose a card to Export.
+shortfactionnames.RiverfolkCompany=Riverfolk
+shortfactionnames.lizardcult=Lizard Cult
+root.vagabond.adventurer=Adventurer
+root.vagabond.adventurer.ability.title=Improvise
+root.vagabond.adventurer.ability.title.required=Improvise Required
+root.vagabond.adventurer.ability.text=Once per turn, you may damage any item to treat it as another item for a quest.
+root.vagabond.harrier=Harrier
+root.vagabond.harrier.ability.title=Glide
+root.vagabond.harrier.ability.text=Move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
+root.vagabond.ronin=Ronin
+root.vagabond.ronin.ability.title=Swift Strike
+root.vagabond.ronin.ability.text=In battle, you may exhaust a sword to deal an extra hit.
+tuber.canis.abilities.VagabondAbilities.GlideAbility.Destination=Choose a clearing to glide to.
+vagabond.swiftstrike.activate=Would you like to exhaust a sword to deal an extra hit?
+vagabond.improvise.activate=Would you like to Improvise this quest?
+vagabond.improvise.item=Choose an item to damage for Improvise.
+vagabond.improvise.item.opponent=[player] is choosing an item to damage for Improvise.
+vagabond.improvise.item.quest=Choose which quest item to exhaust.
+Log.Quest.Improvise=[faction name] Improvised, exhausting a [item icon] and damaging a [item icon 2] to complete the [name] quest.
+log.vagabond.ronin.ability=[faction name] used Swift Strike, exhausting [item icon] to add an additional hit.
+log.vagabond.harrier.ability=[faction name] used Glide to move, soaring across the sky.
+tooltip.ability.vagabond.glide=<size=125%><b>Glide</b></size> - Exhaust <sprite name="torch"> to move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
+tooltip.ui.vagabond.Vagabond_Adventurer=<size=125%><b>Adventurer</b></size>\
+tooltip.ui.vagabond.Vagabond_Harrier=<size=125%><b>Harrier</b></size>\
+<b>Glide</b> — Exhaust <sprite name="torch"> to move to any clearing (even hostile). You may not bring allies and don't need to exhaust boots.
+tooltip.ui.vagabond.Vagabond_Ronin=<size=125%><b>Ronin</b></size>\
+tooltip.ui.vagabond.SecondVagabond_Harrier=<size=125%><b>Harrier</b></size>\
+tooltip.ui.vagabond.SecondVagabond_Ronin=<size=125%><b>Ronin</b></size>\
+tooltip.ui.vagabond.SecondVagabond_Adventurer=<size=125%><b>Adventurer</b></size>\
+vagabond.title.Vagabond_Adventurer=Adventurer
+vagabond.title.Vagabond_Ronin=Ronin
+vagabond.title.Vagabond_Harrier=Harrier
+vagabond.title.SecondVagabond_Harrier=Harrier
+vagabond.title.SecondVagabond_Ronin=Ronin
+vagabond.title.SecondVagabond_Adventurer=Adventurer
+vagabond.swiftstrike.activate.opponent=Ronin Vagabond is considering Swift Strike.
+vagabond.improvise.item.quest.opponent=[player] is choosing an item to exhaust for Improvise.
+vagabond.improvise.activate.opponent=Vagabond is choosing a quest to complete.
+tooltip.swiftstrike.battle=<size=125%><b>Swift Strike:</b></size><br>Exhaust a sword to deal an extra hit.
+root.cardname.exilesandpartisans.boatbuilders=Boat Builders
+root.cardtext.exilesandpartisans.boatbuilders.any=You treat rivers as paths.
+root.cardname.exilesandpartisans.charmoffensive=Charm Offensive
+root.cardtext.exilesandpartisans.charmoffensive.any=At start of Evening, may draw a card and choose another player to score one point.
+root.cardname.exilesandpartisans.coffinmakers=Coffin Makers
+root.cardtext.exilesandpartisans.coffinmakers.any=Whenever any warriors would return to a supply, place them on this card instead. At start of Birdsong, you score one point per five warriors here, then return all warriors here to their supplies.
+root.cardname.exilesandpartisans.corvidplanners=Corvid Planners
+root.cardtext.exilesandpartisans.corvidplanners.any=When moving, you ignore rule.
+root.cardname.exilesandpartisans.eyrieemigre=Eyrie Emigre
+root.cardtext.exilesandpartisans.eyrieemigre.any=At the end of Birdsong, take a move then initiate a battle in the clearing you moved into. If you did not take both actions, discard this card.
+root.cardname.exilesandpartisans.falseorders=False Orders
+root.cardtext.exilesandpartisans.falseorders.any=In Birdsong, may discard this card to force an enemy to move half their faction warriors (round up) from a clearing you choose to a clearing you choose, ignoring rule.
+root.cardname.exilesandpartisans.foxpartisans=Fox Partisans
+root.cardtext.exilesandpartisans.foxpartisans.any=In battle in fox clearings, may deal one extra hit, then discard all your cards except foxes.
+root.cardname.exilesandpartisans.informants=Informants
+root.cardtext.exilesandpartisans.informants.any=In Evening, if you would draw cards, you may instead take one ambush card from the discard pile.
+root.cardname.exilesandpartisans.leagueofadventurousmice=League of Adventurous Mice
+root.cardtext.exilesandpartisans.leagueofadventurousmice.any=Once in Daylight, may exhaust an item in your Crafted Items box to take a move or initiate a battle.
+root.cardname.exilesandpartisans.masterengravers=Master Engravers
+root.cardtext.exilesandpartisans.masterengravers.any=Whenever you craft an item, score one extra point.
+root.cardname.exilesandpartisans.mousepartisans=Mouse Partisans
+root.cardtext.exilesandpartisans.mousepartisans.any=In battle in mouse clearings, may deal one extra hit, then discard all your cards except mice.
+root.cardname.exilesandpartisans.murinebroker=Murine Broker
+root.cardtext.exilesandpartisans.murinebroker.any=Whenever another player crafts an item, draw a card.
+root.cardname.exilesandpartisans.propagandabureau=Propaganda Bureau
+root.cardtext.exilesandpartisans.propagandabureau.any=Once in Daylight, may spend a card to remove an enemy warrior from a matching clearing and place a warrior there.
+root.cardname.exilesandpartisans.rabbitpartisans=Rabbit Partisans
+root.cardtext.exilesandpartisans.rabbitpartisans.any=In battle in rabbit clearings, may deal one extra hit, then discard all your cards except rabbits.
+root.cardname.exilesandpartisans.saboteurs=Saboteurs
+root.cardtext.exilesandpartisans.saboteurs.any=At the start of Birdsong, may discard this card to discard an enemy's crafted card.
+root.cardname.exilesandpartisans.soupkitchens=Soup Kitchens
+root.cardtext.exilesandpartisans.soupkitchens.any=Your tokens now count towards rule, and each of your tokens counts twice.
+root.cardname.exilesandpartisans.swapmeet=Swap Meet
+root.cardtext.exilesandpartisans.swapmeet.any=Once in Birdsong, may take a random card from another player and then give them a card.
+root.cardname.exilesandpartisans.tunnels=Tunnels
+root.cardtext.exilesandpartisans.tunnels.any=You treat clearings with any of your crafting pieces as adjacent.
+tuber.canis.abilities.ExilesAndPartisansAbilities.CharmOffensiveAbility=Choose a player to gain <sprite name="1VP">.
+tuber.canis.abilities.ExilesAndPartisansAbilities.CharmOffensiveAbility.opponent=[player] is choosing an opponent to gain <sprite name="1VP"> for Charm Offensive
+tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigreAbility.move=Select a clearing to move from using Eyrie Emigre.

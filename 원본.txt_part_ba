@@ -1,0 +1,100 @@
+root.vagabond.thief.ability.title=Steal
+root.vagabond.thief.ability.text=Take a random card from a player in your clearing.
+root.vagabond.startingitems=Starting Items
+root.cardtext.dominance.clearingtext.rabbit.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.fox.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.mouse.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.dominance.clearingtext.bird.override.vagabond=In a four player game, you may form a coalition with the player with the fewest <style="vptext">VP</style>. <i><br> If they win, you win. </i>
+root.cardtext.craftcoinstack.override.eyrie=<size=200%><sprite name="coinstack">, <sprite name="DisdainVP"></size>
+root.cardtext.craftsword.override.eyrie=<size=200%><sprite name="sword">, <sprite name="DisdainVP"></size>
+root.cardtext.roottea.override.eyrie=<size=200%><sprite name="teapot">, <sprite name="DisdainVP"></size>
+root.cardtext.anvil.override.eyrie=<size=200%><sprite name="hammer">, <sprite name="DisdainVP"></size>
+root.cardtext.craftbag.override.eyrie=<size=200%><sprite name="bag">, <sprite name="1VP"></size>
+root.cardtext.craftboot.override.eyrie=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
+root.cardtext.crossbow.override.eyrie=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
+root.rootbot.trait.empty=
+root.mechMarquise.trait.ironWill=Iron Will
+root.mechMarquise.trait.ironWill.bold=<size=125%><b>Iron Will</b></size>
+root.mechMarquise.trait.ironWill.text=Whenever you Recruit in Escalated Daylight, place double the warriors.
+root.mechMarquise.trait.hospitals=Hospitals
+root.mechMarquise.trait.hospitals.bold=<size=125%><b>Hospitals</b></size>
+root.mechMarquise.trait.hospitals.text=At the end of battle as defender, if two or more Marquise warriors were removed in the battle, place two warriors in the clearing with the keep token.
+root.mechMarquise.trait.fortified=Fortified
+root.mechMarquise.trait.fortified.bold=<size=125%><b>Fortified</b></size>
+root.mechMarquise.trait.fortified.text=Your buildings each take two hits to remove.<br>Taking a single hit with a building has no effect.
+root.mechMarquise.trait.blitz=Blitz
+root.mechMarquise.trait.blitz.bold=<size=125%><b>Blitz</b></size>
+root.mechMarquise.trait.blitz.text=After you move, find the clearing you rule of the highest priority without any enemy pieces.<br>Move all but one warrior from the clearing. Then, battle in the destination clearing.
+root.electricEyrie.trait.warTax=War Tax
+root.electricEyrie.trait.warTax.bold=<size=125%><b>War Tax</b></size>
+root.electricEyrie.trait.warTax.text=Whenever you remove an enemy building or token, its owner loses one victory point.
+root.electricEyrie.trait.swoop=Swoop
+root.electricEyrie.trait.swoop.bold=<size=125%><b>Swoop</b></size>
+root.electricEyrie.trait.swoop.text=At the end of Daylight, place two warriors in the clearing of highest priority with no Eyrie pieces.
+root.electricEyrie.trait.relentless=Relentless
+root.electricEyrie.trait.relentless.bold=<size=125%><b>Relentless</b></size>
+root.electricEyrie.trait.relentless.text=After resolving the Decree, remove all defenseless buildings and tokens in any clearing with Eyrie warriors.
+root.electricEyrie.trait.nobility=Nobility
+root.electricEyrie.trait.nobility.bold=<size=125%><b>Nobility</b></size>
+root.electricEyrie.trait.nobility.text=You now fall into turmoil if you cannot place a roost or a warrior.<br>Whenever you fall into turmoil, you do not lose victory points. Instead, you score one victory point per bird card in the Decree.
+root.automatedAlliance.trait.informants=Informants
+root.automatedAlliance.trait.informants.bold=<size=125%><b>Informants</b></size>
+root.automatedAlliance.trait.informants.text=Defenseless sympathy tokens benefit from Automated Ambush.
+root.automatedAlliance.trait.popularity=Popularity
+root.automatedAlliance.trait.popularity.bold=<size=125%><b>Popularity</b></size>
+root.automatedAlliance.trait.popularity.text=Enemies do not score victory points for removing sympathy tokens.
+root.automatedAlliance.trait.veterans=Veterans
+root.automatedAlliance.trait.veterans.bold=<size=125%><b>Veterans</b></size>
+root.automatedAlliance.trait.veterans.text=Gain the Guerrilla Warfare ability of the Woodland Alliance.<br>(In battle as defender, you use the higher roll and the attacker uses the lower roll.)
+root.automatedAlliance.trait.wildfire=Wildfire
+root.automatedAlliance.trait.wildfire.bold=<size=125%><b>Wildfire</b></size>
+root.automatedAlliance.trait.wildfire.text=At the end of evening, Spread Sympathy. Do not score points for placing this sympathy token.
+root.vagabot.trait.marksman=Marksman
+root.vagabot.trait.marksman.bold=<size=125%><b>Marksman</b></size>
+root.vagabot.trait.marksman.text=At the start of battle as attacker, deal an immediate hit.
+root.vagabot.trait.helper=Helper
+root.vagabot.trait.helper.bold=<size=125%><b>Helper</b></size>
+root.vagabot.trait.helper.text=Whenever you Aid, score one extra victory point, and the aided player draws two cards instead of one.
+root.vagabot.trait.berserker=Berserker
+root.vagabot.trait.berserker.bold=<size=125%><b>Berserker</b></size>
+root.vagabot.trait.berserker.text=Whenever you Battle, instead move to the nearest clearing with the most pieces and target the player with the most pieces there.<br>In evening, repair one more item.
+root.vagabot.trait.adventurer=Adventurer
+root.vagabot.trait.adventurer.bold=<size=125%><b>Adventurer</b></size>
+root.vagabot.trait.adventurer.text=You can Battle no more than once per turn.<br>At the end of Daylight, repeat Quest as many times as possible.
+root.vagabot.thief.text=Steal: Take a random card from the enemy in your clearing with most points there, then most pieces there.
+root.vagabot.tinker.text=Day Labor: Craft the top card in the discard pile with an item, scoring <sprite name="1VP">.<br>Start the game with one fewer item.
+root.vagabot.ranger.text=Hideout: If you have three or more damaged items, slip into a random adjacent forest.
+root.mechMarquise.difficulty.easy=Easy
+root.mechMarquise.difficulty.normal=Normal
+root.electricEyrie.difficulty.easy=Easy
+root.electricEyrie.difficulty.normal=Normal
+root.automatedAlliance.difficulty.easy=Easy
+root.automatedAlliance.difficulty.normal=Normal
+root.vagabot.difficulty.easy=Easy
+root.vagabot.difficulty.normal=Normal
+root.difficulty.challenging=Challenging
+root.difficulty.nightmare=Nightmare
+root.suit.mouse=Mouse
+root.suit.fox=Fox
+root.suit.rabbit=Rabbit
+tutorial1.turn1.preintro=Welcome to Root, a game of warfare and adventure where four unique factions struggle for control over the vast woodlands.
+tutorial1.turn1.intro=In this scenario, you will play as the ambitious <color=#CC6633>Marquise de Cat</color>. Long before they became the military and industrial powerhouse they are today, the <color=#CC6633>Marquise</color> came to the forest with a small band of warriors and a few modest buildings.
+tutorial1.turn1.movelesson=Move a <sprite name="marquise"><color=#CC6633>warrior</color> into a neighboring clearing to expand your rule.
+tutorial1.turn1.suits=Each clearing has a "suit" representing the community of creatures living there: Mouse <sprite name="ClearingMouse">, Fox <sprite name="ClearingFox">, and Rabbit <sprite name="ClearingRabbit">.
+tutorial1.turn1.control=Excellent! Because you have more pieces in that clearing than any enemy, you rule it.
+tutorial1.turn1.movelesson.2=When you use the March action, you get to make 2 moves. Make another move now.
+tutorial1.turn1.endofturn=Let's end our turn and rest. We have a big day of building ahead.
+tutorial1.turn2.wood=Your <sprite name="CatSawmill"><color=#CC6633>sawmills</color> generate 1 <sprite name="Wood"><color=#CC6633>wood</color> at the start of your turn. <sprite name="Wood"><color=#CC6633>Wood</color> is used to create buildings.
+tutorial1.turn2.build=Let's build a <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> to get more <sprite name="marquise"><color=#CC6633>warriors</color> into the forest. Select the Build button.
+tutorial1.turn2.recruiter=This clearing is purrrfect. Pay 1 <sprite name="Wood"><color=#CC6633>wood</color> to build the <sprite name="CatRecruiter"><color=#CC6633>recruiter</color>.
+tutorial1.turn2.daylight=Use the recruit action to place a <sprite name="marquise"><color=#CC6633>warrior</color> at each of your <sprite name="CatRecruiter"><color=#CC6633>recruiter</color> buildings.
+tutorial1.turn2.goal=I hear the flapping of wings in the distance. Move quickly to establish your hold on the forest before your feathery foes the <color=#336699>Eyrie</color> arrive.
+tutorial1.goal.clearings=Rule 5 clearings ({0}/{1})
+tutorial1.turn2.endofturn=After three actions, the day has finished for the mighty <color=#CC6633>Marquise</color>.
+tutorial1.EyrieAppear=As I feared, an <sprite name="eyrie"><color=#336699>Eyrie warrior</color> has seized a nearby clearing. They aren't friendly to outsiders.
+tutorial1.goal.movewarriorstoeyrie=March your <sprite name="marquise"><color=#CC6633>warriors</color> into the clearing occupied by the <sprite name="eyrie"><color=#336699>Eyrie</color> to challenge them.
+tutorial1.firstbattle.intro=Our <sprite name="marquise"><color=#CC6633>warriors</color> will surely triumph over these vile birds. Select Battle to fight them off.
+tutorial1.goal.defeatalleyrie=Defeat all <sprite name="eyrie"><color=#336699>Eyrie warriors</color>
+tutorial1.roostintroduction=<color=#336699>The Eyrie</color> have built a <sprite name="Roost"><color=#336699>roost</color> that can recruit more of their warriors. You must attack and destroy it before their flock becomes too strong!
+tutorial1.goal.destroy2roosts=Destroy the <sprite name="Roost"><color=#336699>roost</color>
+tutorial1.roostbattle=During battle your hits defeat enemy <sprite name="eyrie"><color=#336699>warriors</color> first. Any remaining hits carry over to the <sprite name="Roost"><color=#336699>roost</color>.

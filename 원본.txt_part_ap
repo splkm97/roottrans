@@ -1,0 +1,100 @@
+playerinfo.corvid.plot.bomb.description=Bomb: When revealed, remove all enemy pieces in its clearing, then remove this token.
+playerinfo.corvid.plot.extortion.description=Extortion: When revealed, take a random card from each player who has any pieces in its clearing. While revealed, you draw an extra card in Evening.
+playerinfo.corvid.plot.raid.description=Raid: When removed, place one warrior in each adjacent clearing.
+playerinfo.corvid.plot.snare.description=Snare: While revealed, enemy pieces cannot be placed in or moved from its clearing.
+playerinfo.corvid.plots.title=Plots
+playerinfo.duchy.Birdsong=Place one warrior, plus one warrior per <sprite index=106> showing, in the Burrow.
+playerinfo.duchy.buildings.citadels=Citadels
+playerinfo.duchy.buildings.markets=Markets
+playerinfo.duchy.buildings.title=Buildings
+playerinfo.duchy.burrow.title=The Burrow
+playerinfo.duchy.crowntrack.lords=Lords <sprite name="crown"> x {0}<br><i>Cost: Four Cards</i>
+playerinfo.duchy.crowntrack.nobles=Nobles <sprite name="crown"> x {0}<br><i>Cost: Three Cards</i>
+playerinfo.duchy.crowntrack.squires=Squires <sprite name="crown"> x {0}<br><i>Cost: Two Cards</i>
+playerinfo.duchy.crowntrack.title=Crown Track
+playerinfo.duchy.Daylight=1st: Take up to 2 actions.<br><br><sprite index=101>Build<br>Reveal a card to place a building in a matching clearing you rule.<br><br><sprite index=101>Recruit<br>Place a warrior in the Burrow.<br><br><sprite index=101>Dig<br>Spend a card to place a tunnel in a matching clearing with no tunnel, then move up to four warriors from the Burrows into that clearing. (Move a tunnel if all on map.)<br><br><sprite index=101>Move<br><br><sprite index=101>Battle<br><br>2nd: You may take the action of each swayed minister once.<br><br>3rd: Once per turn, you may reveal cards matching clearings with any Duchy pieces (one card per clearing) to sway a Minister. A squire needs two cards, a noble needs three, and a lord needs four.
+playerinfo.duchy.Evening=1st: Discard<size=80%> - any revealed <sprite name="birdicon"> cards. Return all other revealed cards to hand.<br><br></size=80%>2nd: Craft <size=80%>- using citadels and markets.<br></size=80%><br>Draw <size=80%>- 1 card, plus 1 card per <sprite name="DrawCard"> showing. </size=90%>Discard<size=80%> down to 5 cards.
+playerinfo.duchy.priceoffailure.description=When Duchy buildings are removed, return your swayed minister of highest rank and discard a random card.
+playerinfo.duchy.priceoffailure.title=Price of Failure
+playmat.bomb=Bomb!
+playmat.exert=Exert!
+playmat.extortion=Extortion!
+playmat.ministeractived=Minister Activated
+playmat.priceoffailure=Price of Failure!
+playmat.raid=Raid!
+playmat.rightguess=Right Guess!
+playmat.snare=Snare!
+playmat.trailblaze=Clear Path
+playmat.trick=Trick!
+playmat.wrongguess=Wrong Guess!
+prompt.adset.factiondraft=Choose a Faction.
+prompt.challenges.nolordsbeforeme.minister.Lord=Choose a Lord to sway for free.
+prompt.challenges.nolordsbeforeme.minister.Squire=Choose a Squire to sway for free.
+prompt.corvid.exposure.title=Exposure
+prompt.corvid.plot.place=Choose a plot to place.
+prompt.corvid.plot.place.opponent=[player] is choosing a plot to place.
+prompt.corvid.plot.title=Plot
+prompt.corvid.raid.warrior=Choose clearings to place [X] warriors.
+prompt.corvid.raid.warrior.opponent=[player] is choosing clearings to place warriors.
+prompt.corvid.trick.swap=Choose a second plot token to swap.
+prompt.corvid.trick.swap.opponent=[player] is choosing plots to swap.
+prompt.duchy.chooseminister.title=Choose Minister
+prompt.duchy.dig.discard=Choose a card to spend.
+prompt.duchy.dig.discard.opponent=[player] is choosing a card to discard to dig a tunnel.
+prompt.duchy.dig.tunnel.place=Place a tunnel.
+prompt.duchy.dig.tunnel.place.opponent=[player] is placing a tunnel.
+prompt.duchy.dig.tunnel.remove=Choose a tunnel to remove from the board.
+prompt.duchy.dig.tunnel.remove.opponent=[player] is choosing a tunnel to remove from play.
+prompt.duchy.dig.warriors.move=Move up to 4 warriors from the burrow.
+prompt.duchy.minister.banker.discard=Discard any number of cards that share a suit.
+prompt.duchy.minister.banker.discard.opponent=[player] is choosing cards to discard for Banker.
+prompt.duchy.minister.brigadier=Choose One
+prompt.duchy.minister.brigadier.button.battle=Battle x2
+prompt.duchy.minister.brigadier.button.move=Move x2
+prompt.duchy.minister.brigadier.opponent=[player] is considering options.
+prompt.duchy.minister.foremole.building=Choose a building to build.
+prompt.duchy.minister.foremole.clearing=Choose a clearing to build in.
+prompt.duchy.minister.mayor=Choose a swayed Noble or Squire.
+prompt.duchy.minister.mayor.opponent=[player] is considering options.
+prompt.duchy.priceoffailure.description=Choose a Minister to return as a Price of Failure.
+prompt.duchy.priceoffailure.description.opponent=[player] is choosing a Minister to return as a Price of Failure.
+prompt.duchy.priceoffailure.title=Price of Failure
+prompt.duchy.sway.minister=Choose a minister to sway.
+prompt.duchy.sway.minister.noneavailable=No ministers available to sway. Press continue button.
+prompt.duchy.sway.minister.noneavailable.opponent=[player] is choosing a minister to sway.
+prompt.duchy.sway.minister.opponent=[player] is choosing a minister to sway.
+prompt.duchy.sway.reveal=Choose [X] cards to reveal. Birds revealed will be discarded.
+prompt.duchy.sway.reveal.opponent=[player] is choosing cards to reveal.
+prompt.duchy.swayminister.crowns=<sprite name="crown"> x {0}
+prompt.duchy.swayministers.title=Sway Ministers
+prompt.exposure.card=Choose a card to reveal.
+prompt.exposure.card.opponent=[player] is choosing cards to reveal.
+prompt.exposure.plot.type=Choose a plot type to proclaim.
+prompt.exposure.plot.type.opponent=[player] is choosing a plot type to proclaim.
+prompt.factiondraft.insurgent=Insurgent
+prompt.factiondraft.militant=Militant
+prompt.locked.factiondraft=Cannot be chosen unless at least one militant faction has been chosen.
+prompts.duchy.revealswayedministers.title=Swayed Ministers
+prompts.duchy.revealunswayedministers.title=Unswayed Ministers
+prompts.duchybuild.citadel=Citadel
+prompts.duchybuild.market=Market
+prompts.gameresults.winner.CorvidConspiracy=Corvid Wins
+prompts.gameresults.winner.UndergroundDuchy=Duchy Wins
+root.duchy.banker=Banker
+root.duchy.banker.text=Spend any number of cards of the same suit to score an equal amount of <style="vptext">VP</style>.
+root.duchy.baronofdirt=Baron of Dirt
+root.duchy.baronofdirt.text=Score <sprite name="1VP"> per market on the map.
+root.duchy.brigadier=Brigadier
+root.duchy.brigadier.text=Take up to two moves or initiate up to two battles.
+root.duchy.captain=Captain
+root.duchy.captain.text=Initiate a battle.
+root.duchy.duchessofmud=Duchess of Mud
+root.duchy.duchessofmud.text=Score <sprite name="2VP"> if all tunnels are on the map.
+root.duchy.earlofstone=Earl of Stone
+root.duchy.earlofstone.text=Score <sprite name="1VP"> per citadel on the map.
+root.duchy.foremole=Foremole
+root.duchy.foremole.text=Reveal any card to place a citadel or market in any clearing (matching or not) you rule.
+root.duchy.marshal=Marshal
+root.duchy.marshal.text=Take a move.
+root.duchy.mayor=Mayor
+root.duchy.mayor.text=Take the action of any swayed noble or squire.

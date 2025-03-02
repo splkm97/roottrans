@@ -1,0 +1,100 @@
+udt.Daylight.t4.cat.destroyed=You take a building, we take a building.
+udt.Daylight.t4.dig=Our economy is booming! But so is the <color=#CC6633>Marquise</color>, and we can't have that. <color=#BD5752>Dig</color> a hole near their wood source and shut it down with force.
+udt.Daylight.t4.priceoffailure=Oh no! We were so focused on aggression that we forgot to protect our <sprite name="Market"> <color=#BD5752>Market</color> and must suffer the <color=#BD5752>Price of Failure</color>. When a <color=#BD5752>Duchy</color> building is removed, you lose your highest rank swayed <color=#BD5752>Minister</color> and discard a random card from your hand.
+udt.Daylight.t4.skipsway=Because you only have Bake Sale left in hand, you don't have enough cards to sway a <color=#BD5752>minister</color> this turn. Time to pass to the <color=#CC6633>Marquise</color> and draw for the turn.
+udt.Evening.t1.craft=Now we get to craft using the suits of the clearings our buildings are in. Note that <sprite name="Tunnel"> <color=#BD5752>Tunnels</color> are tokens and not buildings, so they won't contribute during crafting.
+udt.Evening.t1.craft.2=Your <sprite name="Citadel"> <color=#BD5752>Citadel</color> building in the <sprite name="ClearingRabbit"> clearing will allow you to craft Travel Gear.
+udt.Evening.t1.draw=Finally, we draw a card and pass the turn to our whiskered opponents.
+udt.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})
+udt.intro=Welcome to the <color=#BD5752>Underground Duchy</color>, a vast underground empire that seeks total domination of the woodlands. Together we will strike from below using our vast tunnel system, then sway the "lower crust" of society to our side, accessing new powerful abilities.
+udt.setup.tunnel=To start, we get a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> in the corner clearing opposite the <color=#CC6633>Marquise</color> <sprite name="KeepToken"> <color=#CC6633>Keep</color>. We also get 2 warriors in this clearing and each adjacent one.
+tooltip.disablefactiondraft=<size=125%><b>Disable Faction Draft</b></size><br>Disables faction drafting in Advanced Setup mode.
+creategame.disablefactiondraft=Disable Faction Draft
+tooltip.bansecondvagabond=<size=125%><b>Ban Second Vagabond</b></size><br>Bans multiple Vagabonds in Advanced Setup mode.
+creategame.bansecondvagabond=Ban Second Vagabond
+shortfactionnames.corvidconspiracy=Corvid
+shortfactionnames.undergroundduchy=Duchy
+factionnames.keepersiniron=Keepers in Iron
+factionnames.lordofthehundreds=Lord of the Hundreds
+tooltip.opponent.keepers=<size=125%><b>Keepers in Iron Opponent</b></size>
+tooltip.opponent.hundreds=<size=125%><b>Lord of the Hundreds Opponent</b></size>
+playerinfo.keepersiniron.devoutknights.title=Devout Knights
+playerinfo.keepersiniron.devoutknights.description=In battle, ignore the first hit you take if you have a relic and Keeper warrior. When moving you may move a relic with each Keeper warrior.
+playerinfo.keepersiniron.prizedtrophies.title=Prized Trophies
+playerinfo.keepersiniron.prizedtrophies.description=When an enemy removes a relic, they put it, value face up, in any forest and score an extra point.
+playerinfo.keepersiniron.relics.title=Relics
+playerinfo.keepersiniron.relics.desc=<sprite name="2VP"> if you fill a column
+playerinfo.keepersiniron.waystations.title=Waystations
+playerinfo.keepersiniron.birdsong=1st: Encamp<size=80%> once per clearing. You may replace a Keeper warrior with a waystation. If neither is on the map, put both in a clearing on the map edge.<br><br></size>2nd: Decamp<size=80%> once per clearing. You may replace a waystation with a Keeper warrior. <br><br></size>3rd: Recruit <size=80%>any number of times. Spend a card to place 2 warriors at a matching waystation.</size>
+playerinfo.keepersiniron.daylight=1st: Craft<size=80%> using waystations.<br><br></size>2nd: Act with Retinue<br><br><b>Move</b><size=80%> from a matching clearing<br><br>You must </size><b>Battle</b><size=80%> if able, then you may </size><b>Delve</b><size=80%> in the same matching clearing.<br><br>Delve - If you rule with a Keeper warrior, move and reveal a relic from an adjacent forest. Discard the card used to Delve if you rule fewer clearings adjacent to that forest than the relic's value.<br><br></size><b>Move</b><size=80%> or </size><b>Recover</b><size=80%>.<br><br>Recover - Score any number of relics of the same type as waystations there. Discard the card used to Recover and stop action if you rule fewer matching clearings than a taken relic's value.</size>
+playerinfo.keepersiniron.daylight.deliverymission=1st: Craft<size=80%> using waystations.<br><br></size>2nd: Act with Retinue<br><br><b>Move</b><size=80%> from a matching clearing.<br><br>You must </size><b>Battle</b><size=80%> if able, then you may </size><b>Delve</b><size=80%> in the same matching clearing.<br><br>Delve - If you rule with a Keeper warrior, move and reveal a relic from an adjacent forest. Discard the card used to Delve if you rule fewer clearings adjacent to that forest than the relic's value.<br><br></size><b>Move</b><size=80%> from a matching clearing.</size>
+playerinfo.keepersiniron.evening=1st: Live Off the Land<size=80%> You must remove one Keeper warrior from each clearing with four or more.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
+playerinfo.keepersiniron.evening.huddle=1st: Huddle Up<size=80%> You must remove each Keeper warrior in a clearing with no other Keeper warriors.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
+playerinfo.keepersiniron.evening.famine=1st: Relic Bound<size=80%> You must remove one Keeper warrior from each clearing without a relic.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
+playerinfo.lordofthehundreds.thewarlord.title=The Warlord
+playerinfo.lordofthehundreds.thewarlord.description=The Warlord is a warrior that cannot be removed outside battle, moved outside your turn, or placed except with Anoint.
+playerinfo.lordofthehundreds.contemptfortrade.title=Contempt for Trade
+playerinfo.lordofthehundreds.contemptfortrade.description=When you craft an item, gain it but score no listed points, or remove it to score them.
+playerinfo.lordofthehundreds.looters.title=Looters
+playerinfo.lordofthehundreds.looters.description=At the start of battle as attacker, you may say you're looting the defender. You deal no rolled hits, but they do. At the end, if you rule the battle clearing, take an item from their Crafted Items.
+playerinfo.lordofthehundreds.moods.title=Moods
+playerinfo.lordofthehundreds.thehoard.title=The Hoard
+playerinfo.lordofthehundreds.oppressedspaces.title=Oppressed Spaces: {0}
+playerinfo.lordofthehundreds.infiltratedspaces.title=Infiltrated Spaces: {0}
+playerinfo.lordofthehundreds.birdsong=1st: Raze<size=80%> - At each mob, remove all enemy buildings and tokens, take an item from ruin if any. After resolving mobs, roll the mob die and place a mob in a matching clearing with no mob but adjacent to a mob.<br><br></size>2nd: Recruit <size=80%>warriors equal to it's Prowess in your warlord's clearing, then one warrior at each stronghold.<br><br></size>3rd: Anoint <size=80%>a Hundreds warrior as your new warlord if it was off map. If you cannot, place your warlord in any clearing.<br><br></size>4th: Choose a different mood <size=80%>that does not show an item in your Hoard.</size>
+playerinfo.lordofthehundreds.daylight=1st: Craft<size=80%> using strongholds.<br><br></size>2nd: Command the Hundreds<size=80%> a number of times up to Command.<br><br><sprite name="hundredswarrior"> Move<br><br><sprite name="hundredswarrior"> Battle<br><br><sprite name="hundredswarrior"> Build<br><br></size>3rd: Advance the Warlord<size=80%> a number of times up to Prowess.<br><br>You may move your warlord with any Hundreds warriors, then you may battle in your warlords' clearing.</size>
+playerinfo.lordofthehundreds.evening=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Oppress <size=80%>clearings you rule that have a Hundreds piece and no enemy pieces. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
+playerinfo.lordofthehundreds.evening.infiltrate.normal=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Infiltrate <size=80%>clearings an opponent rules that have a Hundreds warlord or warrior. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
+playerinfo.lordofthehundreds.evening.infiltrate.heroic=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Infiltrate <size=80%>clearings an opponent rules with at least 4 pieces that have a Hundreds warrior or warlord. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
+playerinfo.lordofthehundreds.protectthewarlord=Protect the Warlord
+hundreds.moods.selection.title=Choose Mood
+hundreds.moods.selection.no.moods=No Moods Available
+hundreds.moods.selection.newmood=New Mood
+hundreds.moods.selection.oldmood=Old Mood
+hundreds.moods.grandiose=Grandiose
+hundreds.moods.desc.grandiose=Swap your Advance the Warlord step and Command the Hundreds step.
+hundreds.moods.stubborn=Stubborn
+hundreds.moods.desc.stubborn=In battle with your warlord, you ignore the first hit you take.
+hundreds.moods.bitter=Bitter
+hundreds.moods.desc.bitter=In battle with warlord, before the roll, place one warrior in the battle clearing per mob you choose to remove from the battle clearing and adjacent ones.
+hundreds.moods.lavish=Lavish
+hundreds.moods.desc.lavish=At end of Birdsong, you may remove any items from your Hoard to place two warriors per item removed into your warlord's clearing.
+hundreds.moods.relentless=Relentless
+hundreds.moods.desc.relentless=Whenever you advance your warlord and both move and battle, you may move or battle with your warlord <i>(like half of an advance)</i>.
+hundreds.moods.wrathful=Wrathful
+hundreds.moods.desc.wrathful=As attacker in battle with your warlord, you deal an extra hit. <i>(When looting, you do deal this hit.)</i>
+hundreds.moods.jubilant=Jubilant
+hundreds.moods.desc.jubilant=After you incite your warlord's clearing, you may roll the mob die to place a mob <i>(as described in your Raze step)</i> up to four times.
+hundreds.moods.rowdy=Rowdy
+hundreds.moods.desc.rowdy=In Evening, draw one more card. If your warlord's clearing has three or more enemy pieces, draw two more cards instead.
+hundreds.movewarlord.prompt.title=Move Warlord?
+keepers.faithfulretainers=Faithful Retainer
+keepers.faithfulretainers.desc=When you discard this card, remove it permanently.
+hundreds.command=Command
+hundreds.prowess=Prowess
+hundreds.lavish.desc=You may choose to remove items from your Hoard to place two warriors in your warlord's clearing per item removed.
+hundreds.lavish.title=Remove Items for Lavish?
+hundreds.contemptfortrade.button.victorypoints=<style="vptext">VP</style>
+hundreds.contemptfortrade.button.hoard=Hoard
+hundreds.contemptfortrade.desc=Craft to add <sprite name="[item]"> to Hoard or for <sprite name="2VP">
+hundreds.hoardfull.desc=Choose an item to remove from your Hoard (or the item you just gained) and score (<sprite name="1VP">).
+hundreds.hoardfull.title=Your Hoard is Full
+hundreds.hoardfull.newitem=New Item
+playerinfo.keepersiniron.retinue.desc=You may add any number of cards from your hand to your Retinue or you may shift one card in it.
+playerinfo.keepersiniron.retinue.move.title=Move
+playerinfo.keepersiniron.retinue.battleanddelve.title=<size=20><i>must</i></size> Battle <size=20><i>if able, then may</i></size> Delve
+playerinfo.keepersiniron.retinue.battleanddelve.desc=...in the same matching clearing
+playerinfo.keepersiniron.retinue.moveorrecover.title=Move or Recover
+playerinfo.keepersiniron.retinue.moveorrecover.desc=...from a matching clearing
+playerinfo.keepersiniron.retinue.recruit.title=Move
+playerinfo.keepersiniron.retinue.recruit.desc=...from a matching clearing
+playerinfo.keepersiniron.buildwaystations.title=Choose a waystation to place.
+playerinfo.keepersiniron.buildwaystations.desc=
+playerinfo.keepersiniron.buildwaystations.tablet=Tablet
+playerinfo.keepersiniron.buildwaystations.jewelry=Jewelry
+playerinfo.keepersiniron.buildwaystations.figure=Figure
+playerinfo.keepersiniron.buildwaystations.prompt.title=Choose Waystation
+playerinfo.keepersiniron.moverelic.prompt.title=Move Relic?
+playerinfo.keepersiniron.recoverrelic.prompt.title=Relics
+playerinfo.keepersiniron.recoverrelic.prompt.button=Recover
+playerinfo.keepersiniron.delverelic.prompt.button=Delve

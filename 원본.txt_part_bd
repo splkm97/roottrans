@@ -1,0 +1,100 @@
+tutorial.title.tutorial01=The Rise of the Marquise
+tutorial.description.tutorial01=Learn the basics of playing Root
+tutorial.title.tutorial02=The Long War for the Forest
+tutorial.description.tutorial02=Learn to play the Marquise de Cat
+tutorial.title.tutorial03=Birds of a Feather
+tutorial.description.tutorial03=Learn to play the Eyrie Dynasties
+tutorial.title.tutorial04=Critters Unite!
+tutorial.description.tutorial04=Learn to play the Woodland Alliance
+tutorial.title.tutorial05=The Lone Wanderer
+tutorial.description.tutorial05=Learn to play the Vagabond
+tutorial.ftt.outrage.nomatch=Because your opponent has no cards that match the suit of the clearing where they caused <sprite name="Outrage"><color=#008D3F>Outrage</color>, they must reveal their hand and you get a random <color=#008D3F>supporter</color> instead.
+firsttime.openStore=You drew a card that crafts a sold-out item. Tap the supply icon to view the available items.
+firsttime.NoItemsToCraft=Each item players craft is taken from the supply. Once an item is sold out, cards that reward that item can no longer be crafted.
+PracticeGamePrompt.MarquiseEyrie.Header=Marquise de Cat vs. Eyrie Dynasties
+PracticeGamePrompt.MarquiseEyrie.Body=Now that you know the Marquise and Eyrie,<br>would you like to play a practice game between them?
+PracticeGamePrompt.MarquiseEyrie.PlayMarquise=Play as Marquise
+PracticeGamePrompt.MarquiseEyrie.PlayEyrie=Play as Eyrie
+firsttime.damage=When you take hits in battle, you must damage that many items. You can choose exhausted or unexhausted items.
+firsttime.damage.revolt=When the Vagabond is in the clearing of a revolt, they must damage 3 items.
+Firsttime.repair=You have a damaged item. You may exhaust a <sprite name="hammer"> with the Repair action to fix a damaged item.
+Secondtime.evenings.rest=Your items are in pretty rough shape. Remember, you can slip into a forest to repair your items during Evening.
+tutorial.reserve=Reserve
+Firsttime.discard=At the end of turn, you must discard down to your max hand size of 5 cards.
+Firsttime.sympathyTokenRemoved=Your opponent removed your <sprite name="Sympathy"><color=#008D3F>sympathy token</color>, scoring <sprite name="1VP">. Tokens can be attacked in battle much like Warriors, but they can't fight back.
+practice.openingLine=Time to put your training to the test. In this practice game, the first faction to <style="vpnumdd">20</style> wins!
+tutorial3.turnthree.turmoil.1.b=I feel turmoil approaching, but you must add to the <color=#336699>Decree</color> each turn, no matter what. Make an assignment now -- just don't worry too much about where.
+tutorial3.turnthree.turmoil.1.cats=Those malevolent <color=#CC6633>Marquise</color> destroyed your only <sprite name="Roost"><color=#336699>roost</color> in a <sprite name="ClearingFox"> clearing last turn, leaving you with no <sprite name="ClearingFox"> clearings to recruit to.
+tutorial3.aiturnthree.use.sappers=Select the Sappers card you crafted to take out an additional enemy warrior.
+tutorial3.turnfour.goal.1=You look ready to take it from here. Destroy enemy buildings, craft cards, and build and protect <sprite name="Roost"><color=#336699>roosts</color> to score <style="vpnumddteen">10</style> and complete this scenario.
+Firsttime.ally.Marquise=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with  the<color=#CC6633>Marquise de Cat</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
+Firsttime.ally.Eyrie=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the<color=#336699>Eyrie Dynasties</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
+Firsttime.ally.Alliance=You are now <sprite name="Allied"><color=#4E6F89>allied</color> with the<color=#008D3F>Woodland Alliance</color>. Each time you give them <sprite name="heart"> <color=#4E6F89>aid</color> you will score <style="vptext">VP</style>. You may also command their warriors in your clearing to move and fight on your side.
+tutorial4.turn2.craftOrMobilize=You may craft or <color=#008D3F>Mobilize</color> the card in your hand. It's up to you.
+tutorial2.turn1.evening2=Let's review the phases of your turn.
+tutorial2.turn1.evening2.gamepad=To review the turn phases press <sprite name="Switch_LeftBumper"> followed by <sprite name="Switch_RightStickButton">.
+tutorial1.turn2.daylight2=Spread out your warriors to rule more clearings.
+tutorial1.firstbattle.dice.revamp=In battle, two dice are rolled with sides 0-3 to determine hits. The attacker has the advantage. They take the higher die, leaving the defender with the lower one.
+Tutorial1.firstbattle.dice.2.revamp=Each player can deal no more hits than the number of warriors they have in the clearing of battle.
+tutorial1.firstbattle.remove.revamp=For each hit, an enemy piece is removed from the map, starting with warriors. Your total hits are added up and displayed below.
+ftt.vp.battle=You score <sprite name="1VP"> for each enemy building and token removed. Removing warriors does not score <style="vptext">VP</style>.
+ftt.hit.reduce.warriors=You rolled a number that was higher than the number of warriors you have in this clearing. That means the hits you earned for your die roll were reduced to your number of warriors here.
+ftt.die.swap=Excellent. Your advantage as the attacker let you take the higher die from the right.
+FTT.enemy.defenseless=Your enemy is Defenseless since they have no warriors to protect them. This means you get to deal an extra hit.
+FTT.enemy.defenseless.2=Extra hits are not limited by the number of warriors in the clearing of battle, so a single warrior could deal multiple hits.
+tutorial3.move.1.trunk=<sprite name="birdicon"> assigned to a <color=#336699>Decree</color> can be used in any clearing.
+tutorial3.move.1.b.trunk=Move 3 <color=#336699><sprite name="eyrie"> warriors</color> to the <sprite name="ClearingFox"> clearing below. Three warriors allow you to maximize the hit potential of your die roll in battle.
+tutorial2.ftt.encouragement=Nice work taking down that <sprite name="Roost"> <color=#336699>roost</color>. Keep attacking roosts and placing buildings to reach your <style="vptext">VP</style>goal.
+Clockwork.tutorial.intro=Clockwork bots are a challenging and customizable alternative to the AI. The bot version of each faction works a bit differently than its living counterpart.
+Clockwork.tutorial.orders=On its turn, a bot draws and reveals an order card, then uses its suit to determine the actions it takes.
+Clockwork.tutorial.crafting=If the order card has an item on it, the bot crafts that item. It ignores the listed victory points and instead scores only <sprite name="1VP">.
+Clockwork.tutorial.powers.1=You can review a bot’s special powers and turn order by selecting their avatar. Let’s do so now for the Mechanical Marquise.
+Clockwork.tutorial.powers.1.gamepad=You can review a bot’s special powers and turn order by selecting their avatar. Press <sprite name="Switch_LeftBumper"> twice to do so now.
+Clockwork.tutorial.powers.2=The following powers are shared by all bots.
+Clockwork.tutorial.traits.gamepad=Each game, bots may be assigned additional difficulty and trait modifiers. Highlight a trait and press <sprite name="Switch_Action4"> to see what it does, then press <sprite name="Switch_Action4"> again to dismiss it.
+Clockwork.tutorial.traits.gamepad.switch=Each game, bots may be assigned additional difficulty and trait modifiers. Highlight a trait and press <sprite name="Switch_Action3"> to see what it does, then press <sprite name="Switch_Action3"> again to dismiss it.
+Clockwork.tutorial.traits.touch=Each game, bots may be assigned additional difficulty and trait modifiers. Hold your finger on a trait to see what it does.
+Clockwork.tutorial.traits.mouse=Each game, bots may be assigned additional difficulty and trait modifiers. Hold your mouse over a trait to see what it does.
+Clockwork.tutorial.turnorder=For more info on the differences between bots and their standard counterparts, you can view their turn order page.
+Clockwork.tutorial.turnorder.gamepad.DEFUNCT=For more info on the differences between bots and their standard counterparts, you can view their turn order page. Press in your <sprite name="Switch_RightStickButton"> to do so now.
+Clockwork.tutorial.priority=Each clearing has a priority marker. If a bot must decide between two clearings of equal value to them, they choose the clearing with the lower number.
+Clockwork.tutorial.ending=Time to dismantle this hunk of rust. Score 10 <style="vptext">VP</style>
+tutorial.title.MechaTutorial=Clockwork Introduction
+tutorial.description.MechaTutorial=Learn about Clockwork enemies
+Clockwork.tutorial.goal.10vp=Score 10 <style="vptext">VP</style>
+tutorial.advanced.separator=Expansions
+ftt.MoveToKeepArea=Watch out for the Marquise Field Hospital ability. Warriors can be healed with no delay when removed from the Keep clearing.
+practice.savedgame=You have a practice game in progress. Would you like to continue?
+tutorial.strategic.touch=To adjust your zoom level, place two fingers on the map and move them closer together or further apart. Zoom all the way out now to enter strategic view (which locks camera movement).
+tutorial.strategic.mouse=To adjust your zoom level, use your mouse wheel, up and down arrow keys, or +/- buttons. Zoom all the way out now to enter strategic view (which locks camera movement).
+tutorial.strategic.gamepad=To adjust your zoom level, use your <sprite name="Switch_LeftTrigger"> and <sprite name="Switch_RightTrigger"> buttons. Zoom all the way out now to enter strategic view (which locks camera movement).
+scenario.fortified.name=Fortified
+scenario.fortified.description=Use the Mechanical Marquise's Fortified Trait to take on powerful automated enemies. <b>Fortified:</b> Your buildings each take two hits to remove.
+scenario.wartax.name=War Tax
+scenario.wartax.description=Use the Electric Eyrie's War Tax Trait to take on powerful automated enemies. \
+scenario.popularity.name=Popularity
+scenario.popularity.description=Use the Automated Alliance's Popularity Trait to take on powerful automated enemies. <b>Popularity:</b> Enemies do not score victory points for removing sympathy tokens.
+scenario.marksman.name=Marksman
+scenario.marksman.description=Use the Vagabot's Marksman Trait to take on powerful automated enemies. \
+tooltip.opponent.cat=<size=125%><b>Marquise de Cat Opponent</b></size>
+tooltip.opponent.eyrie=<size=125%><b>Eyrie Dynasties Opponent</b></size>
+tooltip.opponent.alliance=<size=125%><b>Woodland Alliance Opponent</b></size>
+tooltip.opponent.vagabond=<size=125%><b>Vagabond Opponent</b></size>
+tooltip.opponent.secondvagabond=<size=125%><b>Vagabond Opponent</b></size>
+tooltip.opponent.riverfolk=<size=125%><b>Riverfolk Company Opponent</b></size>
+tooltip.opponent.lizard=<size=125%><b>Lizard Cult Opponent</b></size>
+tooltip.opponent.player=<size=125%><b>{0}</b></size>
+tooltip.ui.shopinventory=<size=125%><b>Supply</b></size>
+tooltip.ui.victorypoints=<size=125%><b>Victory Points</b></size><br>The first player to <style="vpnumddteen"><size=14><space=.1em>30</size></style>wins.
+tooltip.ui.suitdominanceactive=<size=125%><b>Dominance Active</b></size>\
+tooltip.ui.birddominanceactive=<size=125%><b>Dominance Active</b></size>\
+tooltip.ui.coalitionactive=<size=125%><b>Coalition: {0}</b></size>\
+tooltip.ui.advanceday=<size=125%><b>Continue</b></size>
+tooltip.ui.cat.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.cat.woodonboard=<size=125%><b>Wood on Board</b></size>\
+tooltip.ability.cat.battle=<size=125%><b>Battle</b></size>\
+tooltip.ability.cat.march=<size=125%><b>March</b></size>\
+tooltip.ability.cat.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.ability.cat.build=<size=125%><b>Build</b></size>\
+tooltip.ability.cat.overwork=<size=125%><b>Overwork</b></size>\
+tooltip.ability.cat.birdaction=<size=125%><b>Hawks for Hire</b></size>\

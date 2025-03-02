@@ -1,0 +1,100 @@
+tutorial3.turn4.hint.2=Once you have a better idea of your board position, you can re-expand your <color=#336699>Decree</color> and assign cards with more confidence.
+firsttime.NoRoosts=The Eyrie are resilient creatures. Because you have no <sprite name="Roost"><color=#336699>roosts</color> on the map during Birdsong, you get to place a <sprite name="Roost"> <color=#336699>roost</color> and 3<sprite name="eyrie"> <color=#336699>warriors</color> in the clearing with the fewest <color=#336699>warriors</color>.
+tutorial3.badDecree.recruit=Assigning a [SUITNAME] card to Recruit will lead to Turmoil since you have no roosts in [SUITNAME] clearings. Press the cancel button on the Decree to undo.
+tutorial3.badDecree.move=Assigning a [SUITNAME] card to Move may lead to Turmoil since you have no warriors in [SUITNAME] clearings. Press the cancel button on the Decree if you want to undo.
+tutorial3.badDecree.battle=Assigning a [SUITNAME] card to Battle will lead to Turmoil unless you move warriors into an enemy [SUITNAME] clearing this turn. Press the cancel button on the Decree if you want to undo.
+tutorial3.badDecree.build=Assigning a [SUITNAME] card to Build will lead to Turmoil unless you take control of a [SUITNAME] clearing with an open building slot this turn. Press the cancel button on the Decree if you want to undo.
+tutorial4.opening.1=The upstart <color=#008D3F>Woodland Alliance</color> wish to unite the creatures of the forest and revolt against their oppressors. They score by spreading sympathy for their cause across the Woodlands.
+tutorial4.opening.2=Being the underdogs, we won’t start with any <sprite name="AlliWarrior"><color=#008D3F>warriors</color> or buildings on the map. Instead we begin with three <color=#008D3F>supporters</color> that can spread <sprite name="Sympathy"><color=#008D3F>sympathy tokens</color> for our cause.
+tutorial4.sympathy.goal=Spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> five times ({0}/{1})
+tutorial4.sympathy.0=Each clearing where we can spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> has a <color=#008D3F>supporter</color> cost.
+tutorial4.sympathy.1=Spend a <sprite name="SupporterFox"><color=#008D3F>supporter</color> to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> in the <sprite name="ClearingFox"> clearing below.
+tutorial4.sympathy.2=We can spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> multiple times in one turn if we have the <color=#008D3F>supporters</color>, so long as we expand from an existing sympathetic clearing.
+tutorial4.sympathy.3=Select a second clearing to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> to.
+tutorial4.sympathy.4=Nice work. Placing our second <sprite name="Sympathy"><color=#008D3F>sympathy</color> scores us <sprite name="1VP">.
+tutorial4.sympathy.4b=Select your avatar to learn more about scoring <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
+tutorial4.sympathy.4b.gamepad=Press <sprite name="Switch_LeftBumper"> to learn more about scoring <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
+tutorial4.sympathy.5=As we go higher on the <color=#008D3F>Sympathy Track</color>, gaining <sprite name="Sympathy"><color=#008D3F>Sympathy</color> costs more <color=#008D3F>Supporters</color> and scores more <style="vptext">VP</style> for us.
+tutorial4.craft.1=At the start of Daylight, <sprite name="Sympathy"><color=#008D3F>sympathy</color> contribute the suit of their clearing towards paying crafting costs just like the <color=#336699>Eyrie roosts</color>, and <color=#CC6633>Marquise workshops</color>. Let's get crafting!
+tutorial4.mobilize.1=Use <color=#008D3F>Mobilize</color> to turn the remaining cards in our hand to <color=#008D3F>supporters</color>. You can’t hold more than 5 <color=#008D3F>supporters</color> until you build a <color=#008D3F>base</color>.
+tutorial4.endturn1=The revolution has awakened. But for now, it is time to rest.
+tutorial4.aiturn1.1=Don't listen to this woodland rabble! Ignore this Hare-esy! The <color=#CC6633>Marquise</color> is your rightful ruler!
+tutorial4.turn2.revolt.1=Building support was just the beginning. Now it's time to rise up and <color=#008D3F>revolt</color>!
+tutorial4.turn2.revolt.2=Select the clearing below. We must spend 2 <color=#008D3F>supporters</color> matching the suit of the clearing to cause the <color=#008D3F>revolt</color>.
+tutorial4.turn2.revolt.3=A <color=#008D3F>revolt</color> destroys ALL opposing units, tokens, and buildings in that clearing. Then you build a <color=#008D3F>base</color> there with warriors equal to the number of sympathetic clearings in the same suit!
+tutorial4.turn2.revolt.4=We can only have 3 <color=#008D3F>bases</color> (<sprite name="BaseMouse"><sprite name="BaseFox"><sprite name="BaseRabbit">) in the forest, one for each clearing type <sprite name="ClearingMouse"><sprite name="ClearingFox"><sprite name="ClearingRabbit">.
+tutorial4.turn2.revolt.5=Ahhh, looks like an <sprite name="Officer"><color=#008D3F>officer</color> has arrived as well with our new <color=#008D3F>base</color>. He'll help direct our Evening military operations.
+tutorial4.turn2.evening.1=You now have access to a number of Evening Military Operations actions equal to your <sprite name="Officer"><color=#008D3F>officers</color>.
+tutorial4.turn2.evening.2=Use your one military action to <color=#008D3F>recruit</color> a <sprite name="AlliWarrior"><color=#008D3F>warrior</color>.
+tutorial4.AIturn2.1=Time to quell these rabbit-rousers!
+tutorial4.AIturn2.2=When an opponent moves warriors into a <color=#008D3F>sympathetic</color> clearing or destroys a <sprite name="Sympathy"><color=#008D3F>sympathy</color> token, it causes <sprite name="Outrage"><color=#008D3F>Outrage</color>. This forces your opponent to add a card from their hand that matches the clearing to your <color=#008D3F>supporters</color>.
+tutorial4.AIturn2.3=We've been outfoxed!
+tutorial4.AIturn2.4=You are being attacked. Thankfully, the <color=#008D3F>Woodland Alliance</color> are masters of <sprite name="Guerilla"><color=#008D3F>Guerrilla War</color>. When defending, you take the higher die in combat as if you were the attacker.
+tutorial4.turn3.goal.1=Spread <sprite name="Sympathy"><color=#008D3F>sympathy</color>, craft cards, and remove enemy buildings to score <style="vpnumddteen">15</style> and complete this scenario.
+tutorial4.organize.goal=Use the <sprite name="Organize"><color=#008D3F>Organize</color> action to sacrifice a <sprite name="AlliWarrior"><color=#008D3F>warrior</color> for <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
+tutorial4.law.1=Enemy spaces with three or more warriors cost you an additional <color=#008D3F>supporter</color> to spread <sprite name="Sympathy"><color=#008D3F>sympathy</color> there. Spread to cheaper spaces unless you really have it out for that enemy.
+tutorial4.supply.1=Your shared supply of <sprite name="AlliWarrior"><color=#008D3F>warriors</color>/<sprite name="Officer"><color=#008D3F>officers</color> is empty. You can free up room in your supply by using the <sprite name="Organize"><color=#008D3F>Organize</color> action to sacrifice a <sprite name="AlliWarrior"><color=#008D3F>warrior</color> for <sprite name="Sympathy"><color=#008D3F>sympathy</color>.
+tutorial4.baseremoved1=You lose all your matching <color=#008D3F>supporters</color> when one of your <color=#008D3F>bases</color> is destroyed, and then remove all but 5 <color=#008D3F>supporters</color> if you have no <color=#008D3F>bases</color> left on the map.
+tutorial4.fivesupporters=You need to build a <color=#008D3F>base</color> to have more than 5 <color=#008D3F>supporters</color>.
+tutorial4.organize.training=You have a new Daylight action, <color=#008D3F>Training</color>. Discard a card from your hand matching the suit of one of your <color=#008D3F>bases</color> to train an <sprite name="Officer"><color=#008D3F>officer</color> allowing you to take more Evening actions.
+tutorial4.organize.training.supply=Officers come from the same reserve as your warriors. Beware, when this supply runs out you can’t recruit either type.
+tutorial4.goal.1=Score <style="vpnumddteen">15</style>.  ({0}/{1})
+tutorial4.goal.2=Use the <sprite name="Organize"><color=#008D3F>Organize</color> action
+tutorial5.intro=The wily <color=#4E6F89>Vagabond</color> wishes to gain fame—or infamy—in the midst of this brewing conflict. He scores by completing quests for the creatures of the Woodland, and by aiding and harming the other factions.
+Tutorial5.pawn=Your <color=#4E6F89>Vagabond</color> character is represented by a single pawn that can move and fight like a warrior, and begins the game in a forest.
+Tutorial5.slip=Being early risers, <color=#4E6F89>Vagabond</color> may <color=#4E6F89>slip</color> between forests and clearings each Birdsong. Let’s <color=#4E6F89>slip</color> into a clearing.
+Tutorial5.turn1.actions=These are your actions.
+Tutorial5.turn1.satchel=Your available actions are mostly determined by the items you hold in your <sprite name="Satchel"><color=#4E6F89>Satchel.</color>
+Tutorial5.turn1.item=When an item is used to perform an action, it is exhausted. You can’t take that action again until the item is <color=#4E6F89>refreshed</color> in Birdsong.
+Tutorial5.turn1.ruins=<sprite name="Ruins"><color=#4E6F89>ruins</color> are scattered across the map that hold new items for a <color=#4E6F89>Vagabond</color>. <color=#4E6F89>Explore</color> the <sprite name="Ruins"><color=#4E6F89>ruin</color> in your space using your <sprite name="torch"><color=#4E6F89>torch</color> item.
+Tutorial5.turn1.craft=<color=#4E6F89>Explore</color> gained you <sprite name="1VP"> and a <sprite name="hammer"><color=#4E6F89>hammer</color> that can be used to craft cards from your hand. Move into the <sprite name="ClearingMouse"> clearing to your right to craft a card requiring that suit.
+Tutorial5.turn1.craft2=Each <sprite name="hammer"> you exhaust contributes one toward crafting cards with a cost matching the suit of your clearing. Collecting more <sprite name="hammer"> will allow you to craft more expensive cards.
+Tutorial5.turn1.craft3=Craft Mouse-in-a-Sack now to score <sprite name="1VP"> and gain a <sprite name="bag"> item.
+Tutorial5.turn1.satchel.limit=The number of items you can hold is limited by the 6 slots in your <sprite name="Satchel"><color=#4E6F89>Satchel</color>. Each <sprite name="bag"> you acquire increases the amount of standard items <sprite name="sword"> <sprite name="crossbow"> <sprite name="boot"> <sprite name="torch"> <sprite name="hammer"> you can store in your <sprite name="Satchel"> by 2.
+Tutorial5.turn1.special.items=The <sprite name="bag">, <sprite name="coinstack">, and <sprite name="teapot"> items don’t take up room in your <sprite name="Satchel"><color=#4E6F89>Satchel</color> and provide their effect automatically without needing to exhaust them.
+Tutorial5.turn1.end=Most of your items are exhausted, so let's end Daylight and rest.
+Tutorial5.turn2.Birdsong=During Birdsong, you <color=#4E6F89>refresh</color> 3 items. This makes their actions available again.
+Tutorial5.turn2.trade=Ahhh, I see the <color=#008D3F>Woodland Alliance</color> has a <sprite name="crossbow"> for trade. <color=#4E6F89>slip</color> into the forest above you to head their way.
+Tutorial5.turn2.trade2=Now move into the <sprite name="ClearingMouse"> clearing sympathetic to the <color=#008D3F>Woodland Alliance</color>.
+Tutorial5.turn2.aid=You can give a card matching your clearing’s suit to another player in your clearing to improve your <color=#4E6F89>relationship</color> with them.
+Tutorial5.turn2.aid.b=If the player you <sprite name="heart"> <color=#4E6F89>aid</color> has crafted any items, they will give you one in return.
+Tutorial5.turn2.aid2=You must also exhaust an item of your choice to <sprite name="heart"> <color=#4E6F89>aid</color>. Exhaust your <sprite name="bag">.
+Tutorial5.turn2.satchel=Exhausted items ALWAYS take up room in your <sprite name="Satchel"><color=#4E6F89>Satchel</color> (even <sprite name="bag"> <sprite name="coinstack"> <sprite name="teapot">) and won’t provide their effect until you <color=#4E6F89>refresh</color> them.
+Tutorial5.turn2.gift=Thank you for the <sprite name="heart"> <color=#4E6F89>aid</color>, friend. Be careful with that <sprite name="crossbow"> <color=#4E6F89>crossbow</color> we gave you!
+Tutorial5.turn2.strike=The <sprite name="crossbow"> <color=#4E6F89>crossbow</color> can be used to remove warriors without needing to battle. You can even use <sprite name="crossbow"> to remove a building or token so long as its owner doesn't have a warrior there. Use it now on those unsuspecting cats!
+Tutorial5.turn2.aicomment=En Garde! That wily <color=#4E6F89>Vagabond</color> is no friend of the <color=#CC6633>Marquise</color>!
+Tutorial5.turn2.hostal=Oops. I probably should have mentioned that killing enemy warriors will make them <sprite name="Hostile"> <color=#4E6F89>hostile</color> with you for the rest of the game. Such is the life of a vagabond...
+Tutorial5.turn2.hostal2=Once an enemy is <sprite name="Hostile"> <color=#4E6F89>hostile</color>, your <color=#4E6F89>Infamy</color> scores you an extra <sprite name="1VP"> each time you remove one of their pieces in battle on your turn.
+Tutorial5.turn2.hostal3=However, you must exhaust an additional <sprite name="boot"> boot to move into spaces with <sprite name="Hostile"> <color=#4E6F89>Hostile</color> warriors.
+Tutorial5.turn2.sword=Use your <sprite name="sword"> to battle their weakened army. The maximum number of hits you can deal is determined by how many <sprite name="sword"> you have (even if they are exhausted).
+Tutorial5.turn2.end=Press continue button to complete turn.
+Tutorial5.ai.turn2.attacked=This doesn't seem like a fair fight!
+Tutorial5.turn3.damage=Many of our items were damaged in your last battle and are useless until we repair them.
+Tutorial5.turn3.damage2=<color=#4E6F89>Slipping</color> into the forest lets you repair all your items during Evening and will protect you from being attacked on enemy turns.
+Tutorial5.turn3.endturn=There are few actions you can take in a forest. Press continue to move to Evening.
+Tutorial5.turn4.quest1=Now that your items are in tip-top shape you should be ready to take them on a <sprite name="Quest"><color=#4E6F89>quest</color>! A bear is rampaging in a <sprite name="ClearingMouse"> clearing nearby. Slip there to see if we can help.
+Tutorial5.turn4.quest2=Select your <sprite name="Quest"><color=#4E6F89>quest</color> action to see what you will need to fend off the bear.
+Tutorial5.turn4.fendoffbear=You have what it takes to Fend off a Bear! To complete a <sprite name="Quest"><color=#4E6F89>quest</color>, you need to be in a clearing matching its suit and exhaust the items required.
+Tutorial5.turn4.reward=Pick your reward! The <style="vptext">VP</style> victory point reward for each <sprite name="Quest"><color=#4E6F89>quest</color> is increased by 1 for each <sprite name="Quest"> you have completed in the same suit.
+Tutorial5.turn4.questbook=After you complete a <sprite name="Quest"><color=#4E6F89>Quest</color>, you draw a new one. You can review your three active <sprite name="Quest"> anytime by selecting your <sprite name="Quest"><color=#4E6F89>Quest book</color>.
+Tutorial5.relationship=Reach the next <color=#4E6F89>relationship level</color> with the <color=#008D3F>Woodland Alliance</color> by <sprite name="heart"> <color=#4E6F89>aiding</color> them twice in one turn.
+Tutorial5.relationship.2=To improve your <color=#4E6F89>relationship</color> to the second and third levels, you must <sprite name="heart"> <color=#4E6F89>aid</color> two and three times respectively in a single turn.
+Tutorial5.relationship.3=Other players don’t have to have items for trade to <sprite name="heart"> <color=#4E6F89>aid</color> them, but you do have to give them a card.
+Tutorial5.relationship.4=Each time you increase your <color=#4E6F89>relationship</color> with a faction, you gain more <style="vptext">VP</style>. When you reach the final level of your <color=#4E6F89>relationship</color>, you become <color=#4E6F89>allied</color> and earn <voffset=-5><sprite name="2VP"></voffset> each time you provide them with additional <sprite name="heart"> <color=#4E6F89>aid</color>.
+Tutorial5.relationship.5=You may also move and battle with the warriors of a fully <sprite name="Allied"><color=#4E6F89>allied</color> faction in your clearing.
+Tutorial5.goaltocomplete=Explore another <sprite name="Ruins"><color=#4E6F89>Ruin</color>, complete another <sprite name="Quest"><color=#4E6F89>Quest</color>, and score <style="vpnumddteen">15</style> to complete this scenario.
+firsttime.defenseless=You are defenseless, taking an extra hit in battle since you have no undamaged <sprite name="sword"> items.
+firsttime.hostile=Wait! If you attack them, they will become <sprite name="Hostile"><color=#4E6F89>hostile</color>for the rest of the game and can no longer be <sprite name="heart"> <color=#4E6F89>aided</color>.
+firsttime.coin=Each <sprite name="coinstack"> you have increases the amount of cards you draw during Evening by 1.
+firsttime.tea=Each <sprite name="teapot"> you have increases the amount of items you can <color=#4E6F89>refresh</color> during Birdsong by 2.
+Firsttime.ally.battle=The maximum hits you can roll equals the number of that allied warriors there plus your total undamaged <sprite name="sword">.
+Firsttime.ally.battle.2=If you take more hits in a battle by removing <sprite name="Allied"><color=#4E6F89>allied</color> warriors than by damaging items, that <sprite name="Allied"><color=#4E6F89>allied</color> faction becomes <sprite name="Hostile"><color=#4E6F89>hostile</color>.
+firsttime.character=Each Vagabond character starts with different items and a special ability that can be activated by exhausting a <sprite name="torch"><color=#4E6F89>torch</color>. Choose your character for this game below.
+tutorial5.goal.1=<sprite name="heart"> <color=#4E6F89>aid</color> the <color=#008D3F>Woodland Alliance</color> twice in one turn.
+tutorial5.goal.2=Explore a <sprite name="Ruins"><color=#4E6F89>ruin</color>
+tutorial5.goal.3=Complete a <sprite name="Quest"><color=#4E6F89>quest</color>
+tutorial5.goal.4=Score <style="vpnumddteen">15</style> ({0}/{1})
+tutorial.officers=Officers
+tutorial.satchel=Satchel
+Tutorial5.AI.aid.goal.feedback=Your effort is appreciated. <sprite name="heart"> <color=#4E6F89>aid</color> us again to show you are a true comrade of the <color=#008D3F>Alliance</color>.
+FTT.Vagabond.Repair=In addition to crafting, a <sprite name="hammer"> can be exhausted to repair a damage item with the <color=#4E6F89>Repair</color> action.

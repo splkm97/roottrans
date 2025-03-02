@@ -1,0 +1,100 @@
+tooltip.ui.alliance.warriorcount=<size=125%><b>Reserve (Warriors + Officers)</b></size>\
+tooltip.ui.alliance.officercount=<size=125%><b>Officers</b></size>\
+tooltip.ability.alliance.revolt=<size=125%><b>Revolt</b></size>\
+tooltip.ability.alliance.spreadsympathy=<size=125%><b>Spread Sympathy</b></size>\
+tooltip.ability.alliance.mobilize=<size=125%><b>Mobilize</b></size>\
+tooltip.ability.alliance.organize=<size=125%><b>Organize</b></size>\
+tooltip.ability.alliance.battle=<size=125%><b>Battle</b></size>\
+tooltip.ability.alliance.move=<size=125%><b>Move</b></size>\
+tooltip.ability.alliance.train=<size=125%><b>Train</b></size>\
+tooltip.ability.alliance.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.ui.eyrie.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ability.eyrie.recruitdecree=<size=125%><b>Recruit Decree</b></size>\
+tooltip.ability.eyrie.movedecree=<size=125%><b>Move Decree</b></size>\
+tooltip.ability.eyrie.battledecree=<size=125%><b>Battle Decree</b></size>\
+tooltip.ability.eyrie.builddecree=<size=125%><b>Build Decree</b></size>\
+tooltip.ui.vagabond.backpack=<size=125%><b>Satchel</b></size>\
+Each <sprite name="sword"> provides 1 additional attack power.
+Unexhausted <sprite name="teapot">, <sprite name="coinstack">, and <sprite name="bag"> don't take up satchel space.
+tooltip.ui.vagabond.quest=<size=125%><b>Available Quests</b></size>\
+tooltip.ability.vagabond.move=<size=125%><b>Move</b></size>\
+tooltip.ability.vagabond.attack=<size=125%><b>Battle</b></size>\
+tooltip.ability.vagabond.explore=<size=125%><b>Explore</b></size>\
+tooltip.ability.vagabond.aid=<size=125%><b>Aid</b></size>\
+tooltip.ability.vagabond.quest=<size=125%><b>Quest</b></size>\
+tooltip.ability.vagabond.strike=<size=125%><b>Strike</b></size>\
+tooltip.ability.vagabond.repair=<size=125%><b>Repair</b></size>\
+tooltip.ability.vagabond.craft=<size=125%><b>Craft</b></size>\
+Craft a card from your hand. All of your <sprite name="hammer"> match your current clearing.
+tooltip.ability.vagabond.steal=<size=125%><b>Steal</b></size> - Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
+tooltip.ability.vagabond.hideout=<size=125%><b>Hideout</b></size> - Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
+tooltip.ability.vagabond.daylabor=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
+tooltip.ability.vagabond.daylabor.disabled=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.<br><br> Currently unavailable because your <sprite name="torch"> is exhausted, there are no cards in the discard pile matching the suit of your clearing, or because you are in a forest.
+tooltip.ability.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b></size> - Discard <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing. Cannot be used in a clearing with the Keep.
+tooltip.clearing.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b>\
+tooltip.ability.vagabond.instigate=<size=125%><b>Instigate</b></size> - Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
+tooltip.playmat.base=<size=125%><b>Base</b></size>\
+tooltip.playmat.recruiter=<size=125%><b>Recruiter</b></size>\
+tooltip.playmat.roost=<size=125%><b>Roost</b></size>\
+tooltip.playmat.ruin=<size=125%><b>Ruin</b></size>\
+tooltip.playmat.ruin.favor=<size=125%><b>Ruin</b></size>\
+tooltip.playmat.ruin.availableitems=<br>Available Items:
+tooltip.playmat.ruin.itementry=<br><size=150%><sprite name="{0}"></size>
+tooltip.playmat.sawmill=<size=125%><b>Sawmill</b></size>\
+tooltip.playmat.workshop=<size=125%><b>Workshop</b></size>\
+tooltip.playmat.keep=<size=125%><b>Keep</b></size>\
+tooltip.playmat.woodstack=<size=125%><b>Wood Tokens</b></size><br> Used to pay for buildings in connected clearings. Can't produce more wood if you already have 8 on the map.
+tooltip.playmat.catstack=<size=125%><b>Marquise Warriors</b></size>
+tooltip.playmat.birdstack=<size=125%><b>Eyrie Warriors</b></size>
+tooltip.playmat.alliancestack=<size=125%><b>Alliance Warriors</b></size>
+tooltip.playmat.vagabond=<size=125%><b>Vagabond</b></size>
+tooltip.playmat.vagabot=<size=125%><b>Vagabot</b></size>
+tooltip.playmat.sympathystack=<size=125%><b>Sympathy Token</b></size>\
+tooltip.playmat.cancelaction=<size=125%><b>Cancel</b></size>
+tooltip.ability.alliance.craft=<size=125%><b>Craft</b></size>\
+tooltip.ability.eyrie.craft=<size=125%><b>Craft</b></size>\
+tooltip.ability.cat.craft=<size=125%><b>Craft</b></size>\
+tooltip.item.sack=<size=125%><b>Bag</b></size>\
+The Vagabond uses <sprite name="coinstack"> to draw additional cards during evening.
+tooltip.item.boot=<size=125%><b>Boot</b></size>\
+tooltip.item.crossbow=<size=125%><b>Crossbow</b></size>\
+tooltip.item.hammer=<size=125%><b>Hammer</b></size>\
+tooltip.item.sword=<size=125%><b>Sword</b></size>\
+tooltip.item.teapot=<size=125%><b>Tea Pot</b></size>\
+tooltip.item.torch=<size=125%><b>Torch</b></size>\
+tooltip.item.goldstack=<size=125%><b>Coin Stack</b></size>\
+tooltip.item.fromruins=\
+tooltip.item.invalid=Invalid Item
+tooltip.ui.eyrie.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.marquise.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.alliance.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.vagabond.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.lizardcult.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.eyrie.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.marquise.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.alliance.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.eyrie.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.marquise.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.alliance.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+toolitp.ui.vagabond.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.alliance.supportersinfo=<size=125%><b>Supporters</b></size>\
+tooltip.ui.alliance.officersinfo=<size=125%><b>Officers</b></size>\
+tooltip.ui.alliance.unplacedbase=<size=125%><b>Unplaced Bases</b></size>\
+tooltip.prompts.vagabonditems.remainingselections=<size=125%><b>Remaining Selections</b></size>\
+tooltip.prompts.vagabonditems.relationship=<size=125%><b>Warning!</b></size>\
+tooltip.ui.alliance.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.alliance.sympathysupportercost=<size=125%><b>Supporter Cost</b></size>\
+tooltip.ui.eyrie.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.eyrieleaderformat=<size=125%><b>{0}:</b> </size>{1}
+tooltip.ui.vagabond.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.marquise.sawmillcost=<size=125%><b>Sawmill Cost</b></size>\
+tooltip.ui.marquise.workshopcost=<size=125%><b>Workshop Cost</b></size>\
+tooltip.ui.marquise.recruitercost=<size=125%><b>Recruiter Cost</b></size>\
+tooltip.ui.marquise.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.vagabond.refreshrate=<size=125%><b>Refresh Rate</b></size>\
+tooltip.ui.vagabond.attackpower=<size=125%><b>Attack Power</b></size>\
+tooltip.ui.vagabondrelationship.hostile=<size=125%><b>Hostile</b></size>\
+The Vagabond must exhaust 1 additional <sprite name="boot"> to enter hostile clearings, and scores an extra <sprite name="1VP"> per hostile piece removed in battle.
+tooltip.ui.vagabondrelationship.indifferent=<size=125%><b>Indifferent</b></size>\
+The Vagabond may Aid a player to improve this relationship and score <sprite name="1VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
+tooltip.ui.vagabondrelationship.one=<size=125%><b>Relationship</b></size>\

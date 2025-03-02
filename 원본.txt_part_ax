@@ -1,0 +1,100 @@
+lht.2.8.gamepad=Use your <sprite name="Stronghold"><color=#B40518>stronghold</color> to craft the <sprite name="bag"> you drew last turn.
+tuber.canis.actions.ContinueToEvening.opponent=[player] are moving.
+kiit.goal.figure=Recover a <sprite name="RelicFigure">
+kiit.goal.tablet=Recover a <sprite name="RelicTablet">
+kiit.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})
+Log.Hundreds.Start.Location=[faction name] places their warlord and stronghold in a [suit icon] clearing.
+Log.Keepers.Start.Location=[faction name] places 4 warriors in a [suit icon] clearing.
+Log.exile.start=The Exile hireling is placed in a forest
+Log.uprising.start=The Uprising die rolls [suit icon] and an Uprising warrior is placed in a matching clearing.
+Log.dynasty.start=5 Dynasty warriors are placed in a [suit icon] clearing on the map edge.
+log.patrol.start=A Patrol warrior is placed in each clearing
+log.band.start=Band warriors are placed in two different clearings.
+log.vault.keepers.start=2 Keeper warrriors and a Vault are placed in a [suit icon] clearing
+log.bearers.start=2 Bearers warriors are placed in clearings
+log.encamp=[faction name] replaces a warrior with [type] waystation at a [suit icon] clearing.
+log.decamp=[faction name] replaces [type] waystation at a [suit icon] clearing with a warrior.
+log.recruit.keepers=[faction name] spends [card] to recruit two warriors in a [suit icon] clearing
+log.delve=[faction name] delves at a [suit icon] clearing, discovering [X] [type] relic.
+log.retinue.lost=[faction name] discards [card] from their [type] Retinue.
+log.recover=[faction name] recovers [type] relic, scoring [X] <style=""vptext"">VP</style>.
+log.live.off.land=[faction name] loses one warrior in a [suit icon] clearing due to Live Off the Land.
+log.gather.retinue=[faction name] adds [card] to their [type] Retinue.
+log.shift.retinue=[faction name] shifts [suit icon] from [type1] Retinue to [type2] Retinue.
+log.move.relic=[faction name] moves a [type] relic to a [suit icon] clearing.
+log.prized.relic=[faction name] scores an extra 1 <style=""vptext"">VP</style> from Prized Trophies for removing a relic and places it back in a forest
+log.raze=[faction name] razes a [suit icon] clearing, removing all ruins and enemy buildings and tokens.
+log.razeitem=[faction name] razes a ruin in a [suit icon] clearing. They gain a [item icon].
+log.razeitem.noitems=[faction name] razes a ruin in a [suit icon] clearing, but it contained no items.
+log.mob.spread=[faction name]'s mob spreads to a [suit icon] clearing.
+log.anoint=[faction name] anoints a new leader in a [suit icon] clearing.
+log.mood=[faction name] becomes [name].
+log.trash.item=[faction name] trashes [item icon] to score [X] <style=""vptext"">VP</style>.
+log.hundreds.craft=[faction name] adds [item icon] to their [type] track.
+log.incite=[faction name] incites a mob in a [suit icon] clearing.
+log.oppress=[faction name] oppresses [X] clearings for [X2] <style=""vptext"">VP</style>.
+log.loot=[faction name] loots [item icon] from [faction name 2].
+log.stubborn=[faction name] stubbornly takes 1 less hit!
+log.bitter=[faction name] removes a mob from a [suit icon] clearing to recruit a warrior.
+log.lavish=[faction name] removes [items] from their hoard to recruit [X] warriors.
+log.wrathful=[faction name] takes 1 more hit because of Wrathful!
+log.winterschill=[faction name] loses one warrior in a [suit icon] clearing due to Winter's Chill.
+log.infiltration=[faction name] infiltrates [X] clearings for [X2] <style=""vptext"">VP</style>.
+log.deliverymission.recover=[faction name] recovers relics, scoring [X] <style=""vptext"">VP</style>.
+log.move.warlord=[faction name] moves the Warlord to a [suit icon] clearing.
+tooltip.ui.hundreds.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.hundreds.drawrate=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.hundreds.strongholds=<size=125%><b>Strongholds</b></size>
+tooltip.ui.hundreds.mob=<size=125%><b>Mobs</b></size>
+tooltip.ui.hundreds.command=<size=125%><b>Command</b></size><br>The number of times you may Command the Hundreds (Move, Battle, Build) each turn.
+tooltip.ui.hundreds.prowess=<size=125%><b>Prowess</b></size><br>The number of times you may Advance the Warlord (Move and/or Battle) each turn.
+tooltip.ui.hundreds.oppression=<size=125%><b>Oppressed Spaces</b></size>
+tooltip.ui.hundreds.infiltration=<size=125%><b>Infiltrated Spaces</b></size>
+tooltip.ui.hundreds.moods=<size=125%><b>Moods</b></size>
+tooltip.ui.hundreds.protectwarlord=<size=125%><b>Protect Warlord</b></size>\
+tooltip.ui.keepers.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.keepers.drawrate=<size=125%><b>Draw Rate</b></size>\
+tooltip.ui.keepers.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.keepers.waystations.tablet=<size=125%><b>Tablet Waystations</b></size>
+tooltip.ui.keepers.waystations.figure=<size=125%><b>Figure Waystations</b></size>
+tooltip.ui.keepers.waystations.jewelry=<size=125%><b>Jewelry Waystations</b></size>
+tooltip.ui.keepers.relics.tablet=<size=125%><b>Tablet Relics</b></size>
+tooltip.ui.keepers.relics.figure=<size=125%><b>Figure Relics</b></size>
+tooltip.ui.keepers.relics.jewelry=<size=125%><b>Jewelry Relics</b></size>
+tooltip.ui.keepers.retinue.moveorrecover=<size=125%><b>Move or Recover</b></size>\
+tooltip.ui.keepers.retinue.battleanddelve=<size=125%><b>Battle then Delve</b></size>\
+tooltip.ui.keepers.retinue.move=<size=125%><b>Move</b></size>\
+tooltip.keepersiniron.relics.description=<size=125%><b>Relics</b></size>
+tooltip.keepersiniron.waystations.description=<size=125%><b>Waystations</b></size>
+tooltip.ui.keepers.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.keepers.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.hundreds.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.hundreds.warriormovementtoggle=When enabled, defaults to moving your warlord whenever you move from a clearing with your warlord.
+tooltip.hangar.hirelings.ability=<b>Ability</b><br><br>Abilities are always active, though some say when they happen.
+tooltip.hangar.hirelings.whenhiredaction=<b>When-Hired Action</b><br><br>When they gain control of the hireling, the controlling player must take this action.
+tooltip.hangar.hirelings.startofbirdsongaction=<b>Start-of-Birdsong Action</b><br><br>At the start of their Birdsong, the controlling player must or may take this action, as the action describes.
+tooltip.hangar.hirelings.onceperdaylightaction=<b>Once-Per-Daylight Action</b><br><br>Once in their Daylight, the controlling player may take this action.
+tooltip.playmat.relic.tablet=<size=125%><b>Relic</b></size>\
+tooltip.playmat.relic.figure=<size=125%><b>Relic</b></size>\
+tooltip.playmat.relic.jewelry=<size=125%><b>Relic</b></size>\
+tooltip.playmat.stronghold=<size=125%><b>Stronghold</b></size>
+tooltip.playmat.mob=<size=125%><b>Mob</b></size>
+tooltip.playmat.waystation=Waystation
+tooltip.playmat.waystation.figure.backj=Waystation: <sprite name="RelicFigure"><br>Reverse side: <sprite name="RelicJewelry">
+tooltip.playmat.waystation.figure.backt=Waystation: <sprite name="RelicFigure"><br>Reverse side: <sprite name="RelicTablet">
+tooltip.playmat.waystation.jewelry.backf=Waystation: <sprite name="RelicJewelry"><br>Reverse side: <sprite name="RelicFigure">
+tooltip.playmat.waystation.jewelry.backt=Waystation: <sprite name="RelicJewelry"><br>Reverse side: <sprite name="RelicTablet">
+tooltip.playmat.waystation.tablet.backf=Waystation: <sprite name="RelicTablet"><br>Reverse side: <sprite name="RelicFigure">
+tooltip.playmat.waystation.tablet.backj=Waystation: <sprite name="RelicTablet"><br>Reverse side: <sprite name="RelicJewelry">
+tooltip.hirelingsenabled=Hirelings Enabled
+tooltip.playerinfo.keepers.relic.figure=<sprite name="RelicFigure"> relic
+tooltip.playerinfo.keepers.relic.figure.empty=<sprite name="RelicFigure"> relic (empty)
+tooltip.playerinfo.keepers.relic.jewelry=<sprite name="RelicJewelry"> relic
+tooltip.playerinfo.keepers.relic.jewelry.empty=<sprite name="RelicJewelry"> relic (empty)
+tooltip.playerinfo.keepers.relic.tablet=<sprite name="RelicTablet"> relic
+tooltip.playerinfo.keepers.relic.tablet.empty=<sprite name="RelicTablet"> relic (empty)
+tooltip.playerinfo.hundreds.oppress=<b>Oppressed Spaces</b><br>Clearings you rule that have a Hundreds piece and no enemy pieces.
+tooltip.playerinfo.hundreds.infiltration.normal=<b>Infiltrated Spaces</b><br>Clearings an enemy rules that have a Hundreds warrior or warlord in them.
+tooltip.playerinfo.hundreds.infiltration.heroic=<b>Infiltrated Spaces</b><br>Clearings an enemy rules with at least four pieces that have a Hundreds warrior or warlord in them.
+tooltip.playmat.keeperstack=<size=125%><b>Keeper Warriors</b></size>
+tooltip.playmat.hundredsstack=<size=125%><b>Hundreds Warriors</b></size>

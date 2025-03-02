@@ -1,0 +1,100 @@
+lht.4.8=The <color=#CC6633>Marquise</color> crafted a <sprite name="boot"> last turn. <color=#B40518>Advance</color> with four <sprite name="HundredsWarrior"><color=#B40518>warriors</color> and <color=#B40518><b>Loot</b></color> it from them!
+lht.4.9=Whenever you attack, you can choose to <color=#B40518>Loot</color>. You deal no rolled hits, but if you rule the clearing at the end of the battle, you steal an item from the defender's item box.
+lht.4.10=Haha! Make your enemy's crafting skills work for <i>you</i>! Take that <sprite name="boot">!
+lht.4.11=When <color=#B40518>Advancing</color> with your <sprite name="HundredsWarlord"><color=#B40518>warlord</color>, you can choose to only move or battle instead of doing both. Battle again to soften up the <color=#CC6633>Marquise</color>.
+lht.4.12=They felt that! Continue to Evening.
+lht.4.13=Hold off on <color=#B40518>Inciting</color> more for now.
+lht.4.14=You're <color=#B40518>Oppressing</color> 5 clearings for <style="vpnum">3</style>!
+lht.5.1=You've done well leading us this far. Score <style="vpnumddteen">20</style> to show once and for all that the <color=#B40518>Hundreds</color> cannot be stopped!
+lht.5.2=Remember, you keep scoring every round you <color=#B40518>Oppress</color> clearings. Remove enemy pieces and maintain your rule, and the <color=#CC6633>Marquise</color> won't be able to keep up.
+lht.trigger.tutorialcomplete=Your legions stand triumphant!
+lotht.goal.20vp=Score <size=130%><style="vpnumddteen"></size>20</style>. ({0}/{1})
+lht.ftt.lavish=You've collected one of each item type, disabling all your <color=#B40518>moods</color> except <color=#B40518>Lavish</color>. You will remain <color=#B40518>Lavish</color> until you discard items of a particular type.
+label.retinue=Retinue
+kii.intro.1=Marching banners and the clunk of iron signal the <color=#575757>Keepers</color> are here to recover what's theirs.<br><br>Left alone, they'll delve up forgotten relics from the forests, but be warned - these armored knights are formidable warriors, and should their retinue of local guides grow too quickly they may overwhelm the Woodland!
+kii.setup.1=Commander, this <sprite name="ClearingFox"> clearing is a good place to set up camp.
+kii.setup.2=Your next 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> should support them in the <sprite name="ClearingMouse"> clearing to the south.
+kii.t1.1=The forward scouts are reporting back on the positions of the <color=#575757><b>relics</b></color>: there are <sprite name="RelicJewelry"><b><color=#575757>jewelry</color>, <sprite name="RelicTablet"><color=#575757>tablets</color>,</b> and <b><sprite name="RelicFigure"><color=#575757>figures</color></b> spread all across the Woodland.
+kii.t1.2=Your mission is to <color=#575757><b>recover</b></color> these <color=#575757>relics</color>. To do that, you'll need to establish <color=#575757><b>waystations</b></color>.
+kii.t1.3=During Birdsong, once in each clearing you can <color=#575757><b>Encamp</b></color>, spending a <sprite name="KeeperWarrior"><color=#575757>warrior</color> there to build one of your <color=#575757>waystations</color>.<br>Place a  <color=#575757>waystation</color> in this <sprite name="ClearingFox"> clearing.
+kii.t1.4=Each <color=#575757>waystation</color> has two sides. You can choose which side of a <color=#575757>waystation</color> to have face-up when you place it.
+kii.t1.5=For now, choose this <color=#575757>waystation</color> with the <sprite name="RelicTablet"> side face-up.
+kii.t1.6=You've got it. Now, place another <color=#575757>waystation</color> in your <sprite name="ClearingMouse"> clearing.
+kii.t1.7=Put the <sprite name="RelicJewelry"> side face-up.
+kii.t1.8=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
+kii.t1.8.gamepad=Now that you've established <color=#575757>waystations</color>, you can recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color>. Choose this <sprite name="ClearingMouse"> clearing again and spend a <sprite name="ClearingMouse"> card from your hand to recruit 2 <sprite name="KeeperWarrior">.
+kii.t1.9=You can craft cards with costs matching the clearings your <color=#575757>waystations</color> are in. You can't afford any right now, so continue.
+kii.t1.10=In Daylight, you take actions using your <color=#575757><b>Retinue</b></color>. The <color=#575757>Retinue</color> works similarly to the <color=#336699>Eyrie's Decree</color>, but unlike those squabbling birds, the disciplined ranks of the <color=#575757>Keepers</color> will not fall into <color=#336699>Turmoil</color> if you fail to take an action.
+kii.t1.11=You start with one <color=#575757>Faithful Retainer</color> in each <color=#575757>Retinue</color> column. As <color=#575757>Faithful Retainers</color> have the <sprite name="birdicon"> suit, they give you flexibility in your actions.
+kii.t1.12=You use the <color=#575757>Retinue</color> in your leftmost column first, which is <color=#575757><b>Move</b></color>. You must move from a clearing of a suit matching the <color=#575757>Retinue</color> card used - in this case, the <sprite name="birdicon"> lets you choose any clearing.
+kii.t1.13=Send 4 <sprite name="KeeperWarrior"><color=#575757>warriors</color> from your <sprite name="ClearingMouse"> clearing towards the center of the Woodland.
+kii.t1.14=The middle <color=#575757>Retinue</color> column is <color=#575757><b>Battle, then Delve</b></color>. To take this action, you must choose a clearing of a suit matching your <color=#575757>Retinue</color> card where you have at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>.
+kii.t1.15=If there are any enemy pieces there, you <i>must</i> battle. There are none in this clearing at the moment.
+kii.t1.16=Then, if you rule the clearing with at least 1 <sprite name="KeeperWarrior"><color=#575757>warrior</color>, you may <color=#575757><b>delve</b></color> a <color=#575757>relic</color> from an adjacent forest. Grab that <sprite name="RelicJewelry">.
+kii.t1.17=It'll be worth <sprite name="3VP"> if we can <color=#575757>recover</color>! What a find!
+kii.t1.18=<color=#575757>Delving</color> can be dangerous, though. If you rule fewer clearings adjacent to the forest you <color=#575757>delved</color> than the <color=#575757>relic's</color> <style="vptext">VP</style>, the <color=#575757>Retinue</color> card you used to <color=#575757>delve</color> is lost!
+kii.t1.19=Fortunately, your <sprite name="KeeperWarrior"><color=#575757>warriors</color> are positioned around this forest - you rule these 3 clearings adjacent to it, so your <color=#575757>Retinue</color> is safe.
+kii.t1.20=The final <color=#575757>Retinue</color> action is <color=#575757><b>Move or Recover</b></color>. With no <color=#575757>relics</color> in a clearing with a matching <color=#575757>waystation</color>, you can't <color=#575757>recover</color> yet.
+kii.t1.21=Move a <sprite name="KeeperWarrior"><color=#575757>warrior</color> to surround the <sprite name="RelicFigure"> to the West.
+kii.t1.22=After using your <color=#575757>Retinue</color>, you have the opportunity to either grow it by adding any number of cards from your hand to any of the columns, or alter it by shifting 1 card from one column to another.
+kii.t1.23=Your <color=#575757>Retinue</color> can hold up to 10 cards at once. The more cards you add, the more actions you can take.
+kii.t1.24=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
+kii.t1.24.gamepad=Add <b>Stand and Deliver</b> to your <color=#575757>Move</color> column. Keeping your <sprite name="KeeperWarrior"><color=#575757>warriors</color> mobile will allow you to quickly obtain more <color=#575757>relics</color>.
+kii.t1.26=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
+kii.t1.26.gamepad=Next, add <b>Scouting Party</b> to your <color=#575757>Move or Recover</color> column.
+kii.t1.28=Finally, at the end of each Evening, you draw 1 card plus another card for each <color=#575757>waystation</color> on the map.
+kii.t2.1=Caw! Badger off! This forest belongs to the <color=#336699>Eyrie</color>!
+kii.t2.2=The enemy advances, but your mission remains. <color=#575757>Encamp</color> a <color=#575757>waystation</color> here, <sprite name="RelicFigure"> side up.
+kii.t2.3=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
+kii.t2.3.gamepad=The <color=#575757>waystation</color> you just <color=#575757>Encamped</color> is in a good position for recruiting. Select it and spend a <sprite name="ClearingFox"> card to recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> there.
+kii.t2.4=Keep going - build your forces!
+kii.t2.4.gamepad=Keep going - build your forces!
+kii.t2.5=Still no need to craft - cards are quite valuable to the <color=#575757>Keepers</color> and for now their best use is growing your <color=#575757>Retinue</color>.
+kii.t2.6=Time to use your <color=#575757>Retinue</color>. First, have a <sprite name="KeeperWarrior"><color=#575757>warrior</color> take that <sprite name="RelicJewelry"> back towards the matching <color=#575757>waystation</color>.
+kii.t2.6b=Each <sprite name="KeeperWarrior"><color=#575757>warrior</color> you move can carry up to 1 <color=#575757>relic</color> from its clearing.
+kii.t2.7=Next, reinforce your southern position with 3 more <sprite name="KeeperWarrior"><color=#575757>warriors</color>.
+kii.t2.8=<color=#575757>Battle, then Delve</color> in this <sprite name="ClearingRabbit"> clearing to claim the <sprite name="RelicFigure"> in the forest above.
+kii.t2.9=Ah, a smaller <sprite name="1VP"> <color=#575757>relic</color>. It may not be worth many points, but that makes it easier to <color=#575757>recover</color> later.
+kii.t2.10=Speaking of <color=#575757>recovering</color> - it's time to score the <color=#575757>relic</color> you <color=#575757>delved</color> last turn.
+kii.t2.11=There's a catch, though. If you do not rule at least as many clearings matching the suit of the clearing you're <color=#575757>recovering</color> in as the <color=#575757>relic's</color> <sprite name="VpIcon">, the <color=#575757>Retinue</color> card you used for the action is lost.
+kii.t2.12=<color=#575757>Recover</color> that <sprite name="RelicJewelry"> now.
+kii.t2.13=The <sprite name="ClearingMouse"> card from your <color=#575757>Retinue</color> is lost as you do not rule 3 <sprite name="ClearingMouse"> clearings, but <sprite name="3VP"> is a worthy reward!
+kii.t2.14=Use your second <color=#575757>Move or Recover</color> action to move 2 <sprite name="KeeperWarrior"><color=#575757>warriors</color> and your <sprite name="RelicFigure"> and continue surrounding the forest to the south.
+kii.t2.14b=The <color=#336699>Eyrie</color> will be in for a surprise if they're foolish enough to fight over it.
+kii.t2.15=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.15.gamepad=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.16=Time to replenish your <color=#575757>Retinue</color>. Add a card to the <color=#575757>Battle, then Delve</color> column.
+kii.t2.17=End your turn. The <color=#336699>Eyrie</color> may be tempted to do battle - let them come.
+kii.ait2.1=<color=#336699>Eyrie Warriors</color>, defeat the invaders and confiscate their treasure!
+kii.ait2.2=Ha! These <color=#336699>Eyrie</color> fools have underestimated what it means to battle with the <color=#575757>Keepers in Iron</color>. Your <color=#575757><b>Devout Knights</b></color> ability means you take 1 less hit when battling in a clearing with a <color=#575757>relic</color>!
+kii.t3.1=The <color=#336699>Eyrie</color> have decided to open hostilities, and the <color=#575757>Keepers</color> will answer in kind!
+kii.t3.2=<color=#575757>Decamp</color> this <color=#575757>waystation</color>, as there are no longer any <sprite name="RelicJewelry"> nearby.
+kii.t3.3=<color=#575757>Decamping</color> is the opposite of <color=#575757>Encamping</color> - you replace a <color=#575757>waystation</color> with a <sprite name="KeeperWarrior"> <color=#575757>warrior</color>.
+kii.t3.4=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
+kii.t3.4.gamepad=Recruit more <sprite name="KeeperWarrior"><color=#575757>warriors</color> at your <sprite name="RelicFigure"> <color=#575757>waystation</color>. You'll need them in order to take the fight to the <color=#336699>Eyrie</color>.
+kii.t3.5=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
+kii.t3.5.gamepad=You could still use some more strength. Recruit at the <sprite name="RelicFigure"> <color=#575757>waystation</color> again.
+kii.t3.6=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
+kii.t3.6.gamepad=Go ahead and craft that <b>Foxfolk Steel</b> using your <color=#575757>waystations</color>.
+kii.t3.7=It's time to act. First, move a warrior to continue surrounding the northern forest. The <color=#336699>Eyrie</color> must be beaten back, but your main objective is still <color=#575757>recovering</color> <color=#575757>relics</color>.
+kii.t3.8=Now, it's time to show those bird-brains what it means to wage war on the <color=#575757>Keepers</color>. Move four <sprite name="KeeperWarrior"><color=#575757>warriors</color> to threaten the <color=#336699>Eyrie's</color> nearest <color=#336699>roost</color>.
+kii.t3.9=Your forces are well-positioned. Battle at the <sprite name="RelicFigure">!
+kii.t3.10=An ambush! Those crafty birds...
+kii.t3.11=Ouch! Not only did the <color=#336699>Eyrie</color> defeat your <sprite name="KeeperWarrior"><color=#575757>warriors</color>, they've taken the <color=#575757>relic</color>!
+kii.t3.12=Because <color=#575757>relics</color> are <color=#575757><b>Prized Trophies</b></color>, when an enemy removes one, they score <sprite name="2VP"> instead of the usual <sprite name="1VP">. Then, they choose a forest to return it to.
+kii.t3.13=Get that <sprite name="RelicFigure"> back. <color=#575757>Battle, then Delve</color> at the <color=#336699>Eyrie's roost</color>. Show them your righteous fury!
+kii.t3.14=Now that you've dispensed with the birds, retrieve the <sprite name="RelicFigure"> they stole - since it's face-up we can see that its <sprite name="1VP"> value means we can <color=#575757>delve</color> it safely.
+kii.t3.15=Retreat the <sprite name="RelicFigure"> and your 3 <sprite name="KeeperWarrior"><color=#575757>warriors</color> back to safety.
+kii.t3.16=On your next turn you can use your <color=#575757>waystation</color> to <color=#575757>recover</color> that <sprite name="RelicFigure">.
+kii.t3.17=Your <sprite name="KeeperWarrior"><color=#575757>warriors</color> don't have supply lines - they <color=#575757><b>Live Off the Land</b></color>. In the Evening, in each clearing with 4 or more <sprite name="KeeperWarrior"> , 1 is removed.
+kii.t3.18=Oops, I guess we should have moved 1 fewer <sprite name="KeeperWarrior"><color=#575757>warrior</color>! Well, we'll know next time.
+kii.t3.19=Add cards to your <color=#575757>Retinue</color> columns or shift a card from one column to another. Keep in mind that you can examine the icons on top of each column for more information about the actions.
+kii.t4.1=From here, you command the <color=#575757>Keepers</color> alone. Your first goal is to <color=#575757>recover</color> one <color=#575757>relic</color> of each type.
+kii.t4.2=You've already got a <sprite name="RelicJewelry">, so focus on getting a <sprite name="RelicTablet"> and a <sprite name="RelicFigure">.
+kii.trigger.column1=Well done. When you <color=#575757>recover</color> a full set of 3 <color=#575757>relics</color> - 1 of each type - you score an additional <sprite name="2VP">!
+kii.trigger.column2=Now, score  <style="vpnumddteen">15</style> to prove your mettle as commander of the <color=#575757>Keepers in Iron</color>.
+kii.trigger.tutorialcomplete=You've done it! The Woodland trembles at your might!
+tutorial.title.TutorialM01=Returned from Exile
+tutorial.description.TutorialM01=Learn to play the Keepers in Iron
+tutorial.title.TutorialM02=Rabble Rousers
+tutorial.description.TutorialM02=Learn to play the Lord of the Hundreds

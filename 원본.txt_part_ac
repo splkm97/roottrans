@@ -1,300 +1,100 @@
-prompt.leaderboard.rank.label=Rank
-prompt.leaderboard.score.label=Score
-prompt.login.banned=Your account has been banned.
-prompt.minimize=Minimize
-prompt.time.out.removed=You were removed from this game for exceeding your turn timer two turns in a row.
-prompt.time.out.removed.setup=You were removed from this game for exceeding your turn timer during set up.
-prompts.aid.automatedalliance=Aiding Automated Alliance
-prompts.aid.electriceyrie=Aiding Electric Eyrie
-prompts.aid.eyriedynasties=Aiding Eyrie Dynasties
-prompts.aid.lizardcult=Aiding Lizard Cult
-prompts.aid.marquisedecat=Aiding Marquise de Cat
-prompts.aid.mechanicalmarquise=Aiding Mechanical Marquise
-prompts.aid.riverfolkcompany=Aiding Riverfolk Company
-prompts.aid.woodlandalliance=Aiding Woodland Alliance
-prompts.aid.SecondVagabond=Aiding Another Vagabond
-prompts.aid.Vagabond=Aiding Vagabond
-prompts.aid.undergroundduchy=Underground Duchy
-prompts.aid.corvidconspiracy=Corvid Conspiracy
-prompts.aid.keepersiniron=Aiding Keepers in Iron
-prompts.aid.lordofthehundreds=Aiding Lord of the Hundreds
-prompts.demolanding.playgame=Play Game
-prompts.demolanding.tutorial1=Tutorial 1 - The Basics
-prompts.demolanding.tutorial2=Tutorial 2 - The Marquise
-prompts.eyriedynasties.move.label=Move
-prompts.eyriescoreroosts.label={0} Roosts
-prompts.gameresults.coalitionwinner=Coalition Victory
-prompts.gameresults.cooperativewinner=Cooperative Victory
-prompts.gameresults.nowinner=Resigned
-prompts.gameresults.title=Game Over
-prompts.gameresults.tutorialcomplete=Tutorial Complete
-prompts.gameresults.winner.automatedalliance=Automated Alliance Wins
-prompts.gameresults.winner.electriceyrie=Electric Eyrie Wins
-prompts.gameresults.winner.eyriedynasties=Eyrie Wins
-prompts.gameresults.winner.marquisedecat=Marquise Wins
-prompts.gameresults.winner.mechanicalmarquise=Mechanical Marquise Wins
-prompts.gameresults.winner.vagabond=Vagabond Wins
-prompts.gameresults.winner.vagabot=Vagabot Wins
-prompts.gameresults.winner.woodlandalliance=Alliance Wins
-prompts.gameresults.winner.lordofthehundreds=Hundreds Wins
-prompts.gameresults.winner.keepersiniron=Keepers Wins
-prompts.loginfailure.eulanotaccepted=Please accept EULA to log in.
-prompts.marquisebuild.recruiter=Recruiter
-prompts.marquisebuild.sawmill=Sawmill
-prompts.marquisebuild.workshop=Workshop
-prompts.marquisedecat.march.label=March
-prompts.movenumber.displayformat={0}/{1}
-prompts.passtoplayer.ai.text={0}'s turn
-prompts.passtoplayer.text=Pass to {0}
-prompts.playerturn.yourturn=Your Turn
-prompts.quests.title=Available Quests
-prompts.relentless.title=Relentless
-prompts.revolt.title=Revolt
-prompts.selectfaction.title=Select Faction
-prompts.shop.availableitems=Craftable Items
-prompts.shop.claim=Claim
-prompts.shop.dominance=Available Dominance
-prompts.shop.title=Supply
-prompts.turmoil.faileddecree.battle=Could not <nobr><size=150%><sprite name="EyrieBattle"></size> battle</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
-prompts.turmoil.faileddecree.build=Could not <nobr><size=150%><sprite name="EyrieBuild"></size> build</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
-prompts.turmoil.faileddecree.move=Could not <nobr><size=150%><sprite name="EyrieMove"></size> move</nobr> from a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
-prompts.turmoil.faileddecree.recruit=Could not <nobr><size=150%><sprite name="EyrieRecruit"></size> recruit</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
-prompts.turmoil.title=The Eyrie have entered
-prompts.turmoil.title2=Turmoil
-prompts.turmoil.vpgained.label=gained
-prompts.turmoil.vplost.label=lost
-prompts.vagabonditems.continue=Continue
-prompts.vagabonditems.damageallies=Damage Allies
-prompttitles.generic.success=Success
-quitapplication.confirm.message=Are you sure you want to quit?
-rankedselect.errors.connectfailed=Your connection has timed out. Please check your internet connection and try again.
-root.vagabot.ranger=Ranger
-root.vagabot.thief=Thief
-root.vagabot.tinker=Tinker
-savedgames.continueGames=Continue Games
-savedgames.description=You have no active games.
-savedgames.joinGame=Join Game
-savedgames.lastPlayed=Last Played: {0}/{1}/{2} {3}:{4}:{5}
-savedgames.savedGames=Saved Games
-scenariotitle.config.passandplay=Pass And Play
-scenariotitle.config.standardsolo=Solo Play
-select.card.cancel=Skip
-select.card.confirm=OK
-select.card.description=Select a card.
-set.expansion.base=Base Game
-set.expansion.riverfolk=Riverfolk Expansion
-set.expansion.vagabond=Vagabond Expansion
-setting.undobutton=Allow Undo
-settings.about=About
-settings.advancedgameplay=Advanced Gameplay
-settings.android.uiscale=UI Scale
-settings.android.uiscale.0=Small
-settings.android.uiscale.1=Large
-settings.audio.effectsvolume=Effects Volume
-settings.audio.musicvolume=Music Volume
-settings.audio.mastervolume=Master Volume
-settings.audio.ambiencevolume=Ambience Volume
-settings.audio.muteMusic=Mute Music
-settings.audio.muteSound=Mute Sound
-settings.audio.title=Audio
-settings.audiovideo=Audio/Video
-settings.clientversion=Client Version:
-settings.default=Default
-settings.dontShowAgain=Don't show this message again
-settings.enableControllerInput=Enable Controller Input
-settings.eula=EULA
-settings.feedback=Feedback
-settings.feedback.email.placeholder=Email
-settings.feedback.placeholder=Enter issue here. Please include your faction and game mode when applicable.
-settings.feedback.send=Send
-settings.gamesettings=Game Settings
-settings.general.title=Gameplay
-settings.languages=Languages
-settings.login=Log In
-settings.matchtype=Match Type
-settings.matchtypeformat=Match Type: {0}
-settings.pc.confirmation.body=Do you want to keep these display settings? Reverting to previous settings in {0} seconds.
-settings.pc.confirmation.header=Display Settings Changed
-settings.pc.confirmation.keep=Keep
-settings.pc.confirmation.revert=Revert
-settings.pc.graphics.high=High
-settings.pc.graphics.low=Low
-settings.pc.graphics.medium=Medium
-settings.pc.vsync=VSync
-settings.pc.windowed=Windowed
-settings.quickbattle=Quick Battle
-settings.rules=Rules
-settings.serverversion=Server Version:
-settings.title=Settings
-settings.turntimer=Turn Timer
-settings.video.quality=Quality
-settings.video.resolution=Resolution
-settings.video.title=Video
-shop.cosmetics=Cosmetics
-shop.error=Shop failed to load. Please check your connection and try again later.
-shop.expansions=Expansions
-shop.featured=Featured
-shop.noitems=Items coming soon!
-shop.purchase=Purchase
-shop.purchased=Purchased
-singleplayer.difficulty.heroic=Heroic
-singleplayer.difficulty.label=Difficulty: {0}
-singleplayer.difficulty.legendary=Legendary
-singleplayer.difficulty.normal=Normal
-singleplayer.map.label=Map
-singleplayer.factionselect.label=Faction Selection
-singleplayer.factionselect.locked.label=Faction
-singleplayer.header.label=Challenges
-solooptions.header=Solo Play
-solooptions.play=Solo Play
-solooptions.singleplayer=Challenges
-solooptions.tutorial1=Tutorial 1
-solooptions.tutorial2=Tutorial 2
-special.rules=Special Rules
-steam.initialize.genericerror=Steam not found
-tax.message=Price Includes Tax
-their.turn.indicator=Their Turn
-title.subtitle=A Game of Woodland Might and Right
-tooltip.deck.EnP=Exiles & Partisans Deck
-tooltip.deck.standard=Standard Deck
-turn.indicator={0}'s Turn
-turn.lastRound=Last Round
-tutorial.game1.label.cost=Cost
-tutorial.game1.label.strength=Strength
-tutorial.goals.title=Goals
-tutorial.title=Welcome!
-undochoiceentity.button=Undo
-unlockedCardsDialog.Ok=Okay
-vagabond.title.vagabond_ranger=Ranger Vagabond
-vagabond.title.vagabond_thief=Thief Vagabond
-vagabond.title.vagabond_tinker=Tinker Vagabond
-vagabondWithColor=<color=#436979>Vagabond</color>
-Vagabot.Challenging=<b>Challenging:</b> In Evening, Vagabot refreshes one more item.
-Vagabot.Easy=<b>Easy:</b> In Evening, Vagabot refreshes one fewer item.
-Vagabot.Nightmare=<b>Nightmare:</b> In Evening, Vagabot refreshes one more item and scores one victory point.
-vagabotWithColor=<color=#436979>Vagabot</color>
-view.results=View Results
-waitingforplayers.aidifficulty.label=AI Difficulty: {0}
-waitingforplayers.banned.label=Banned Factions
-waitingforplayers.invalidePlayerState=An error occurred. Please try again.
-waitingforplayers.norandomfactions=There are no remaining factions available to you if you join this game.
-waitingforplayers.password.label=Password protected
-waitingforplayers.timer.label=Turn time limit: {0}
-woodlandWithColor=<color=#008D3F>Woodland Alliance</color>
-your.turn.indicator=Your Turn
-playerinfo.keepersiniron.retinue.title=Gather Retinue
-playerinfo.keepersiniron.retinue.move=Move
-playerinfo.keepersiniron.retinue.move.desc=...from a matching clearing
-playerinfo.keepersiniron.retinue.battledelve=Battle and Delve
-playerinfo.keepersiniron.retinue.battledelve.desc=...in the same matching clearing
-playerinfo.keepersiniron.retinue.moverecover=Move or Recover
-playerinfo.keepersiniron.retinue.moverecover.desc=...from a matching clearing
-loading.fastforward=Skipping replay...
-button.skipreplay=Skip Replay
-prompts.loot.automatedalliance=Looting Automated Alliance
-prompts.loot.electriceyrie=Looting Electric Eyrie
-prompts.loot.eyriedynasties=Looting Eyrie Dynasties
-prompts.loot.lizardcult=Looting Lizard Cult
-prompts.loot.marquisedecat=Looting Marquise de Cat
-prompts.loot.mechanicalmarquise=Looting Mechanical Marquise
-prompts.loot.riverfolkcompany=Looting Riverfolk Company
-prompts.loot.woodlandalliance=Looting Woodland Alliance
-prompts.loot.SecondVagabond=Looting Another Vagabond
-prompts.loot.Vagabond=Looting Vagabond
-prompts.loot.undergroundduchy=Looting Underground Duchy
-prompts.loot.corvidconspiracy=Looting Corvid Conspiracy
-prompts.loot.keepersiniron=Looting Keepers in Iron
-prompts.loot.lordofthehundreds=Looting Lord of the Hundreds
-shortfactionnames.AutomatedAlliance=Alliance
-shortfactionnames.ElectricEyrie=Eyrie
-shortfactionnames.eyriedynasties=Eyrie
-shortfactionnames.invalid=Random Faction
-shortfactionnames.marquisedecat=Marquise
-shortfactionnames.MechanicalMarquise=Marquise
-shortfactionnames.SecondVagabond=Vagabond
-shortfactionnames.vagabond=Vagabond
-shortfactionnames.Vagabot=Vagabot
-shortfactionnames.woodlandalliance=Alliance
-playerinfo.liz.Birdsong=1st: Adjust the Outcast. <br><br>2nd: Discard Lost Souls. <br><br> 3rd: Perform Conspiracies<size=90%> <i>in Outcast Clearings.</I><br><br><style=RB>Crusade:</style> Spend two acolytes to battle in an Outcast clearing or move from an Outcast clearing and then, if you wish, battle in the destination clearing. <br><br><style=RB>Convert:</style> Spend two acolytes to remove an enemy warrior from an Outcast clearing and then place a warrior there. <br><br><style=RB>Sanctify:</style> Spend three acolytes to remove an enemy building from an Outcast clearing and then place a garden there.
-playerinfo.liz.daylight=Reveal any number of cards from your hand, and perform one ritual for each. <br><br><sprite index=75>Build<br>Place a garden in a matching clearing you rule. <br><br><sprite index=75>Recruit<br>Place a warrior in a matching clearing.<br><br><sprite index=75>Score<br>Discard this card to score <style="vptext">VP</style>of rightmost empty, matching Gardens space.<br><br><sprite index=73>Sacrifice<br>Place one warrior in the Acolytes box.
-playerinfo.liz.evening=1st: Return revealed cards to hand.<br><br>2nd: Craft using gardens matching Outcast suit. <br><br>3rd: Draw 1 card per <sprite index=31> showing.<br><br>Discard down to 5 cards.
-factionnames.lizardcult=The Lizard Cult
-playerinfo.lizardcult.revenge.title=Revenge
-playerinfo.lizardcult.revenge.description=Your removed defending warriors become acolytes.
-playerinfo.lizardcult.conquest.title=Conquest
-playerinfo.lizardcult.conquest.description=When attacking, enemy warriors you remove in battle become acolytes.
-playerinfo.lizardcult.hatredofbirds.title=Hatred of Birds
-playerinfo.lizardcult.hatredofbirds.description=Bird cards are not wild for your rituals.
-playerinfo.lizardcult.pilgrims.title=Pilgrims
-playerinfo.lizardcult.pilgrims.description=You rule any clearings where you have any gardens.
-playerinfo.lizardcult.theoutcast.title=The Outcast
-playerinfo.lizardcult.gardens.title=Gardens
-tooltip.lizardcult.theoutcast.description=In Birdsong, most common suit of Lost Souls, ignoring birds, becomes Outcast. If already Outcast, flip to Hated Outcast.<br><br><i>If Outcast suit is Hated, all conspiracies cost one less acolyte.
-playerinfo.riverfolkcompany.services.title=Services
-playerinfo.riverfolkcompany.handcard.title=Hand Card
-playerinfo.riverfolkcompany.riverboats.title=Riverboats
-playerinfo.riverfolkcompany.mercenaries.title=Mercenaries
-playerinfo.riverfolkcompany.commitments.title=Commitments
-playerinfo.riverfolkcompany.funds.title=Funds
-playerinfo.riverfolkcompany.payments.title=Payments
-playerinfo.riverfolkcompany.forsale.title=For Sale
-playerinfo.riverfolkcompany.forsale.description=You have a public hand.
-playerinfo.riverfolkcompany.swimmers.title=Swimmers
-playerinfo.riverfolkcompany.swimmers.description=You treat rivers as paths, and may move along rivers regardless of ruler.
-playerinfo.riverfolkcompany.tradingpost.removed=Removed Trade Post: This trade post was removed from the map but can still be used for crafting.
-playerinfo.riverfolkcompany.Birdsong=1st: Protectionism - If Payments box is empty, place two warriors in it.<br><br>2nd: Score Dividends - If there are any trade posts on the map, score one victory point per two funds. (You do not score points for warriors in the Payments or Committed boxes.)<br><br>3rd: Gather Funds - Move all warriors on your faction board to the Funds box.
-playerinfo.riverfolkcompany.daylight=Commit or spend funds to take actions<br>
-<sprite index=76>Establish Trade Post with Garrison
-playerinfo.riverfolkcompany.evening=1st: Discard down to 5 cards.<br><br>2nd: Set Service Costs.
-prompt.riverfolkcompany.hand.title=Riverfolk Company Hand
-prompts.buyservices.description=Lend warriors from your supply to purchase services.
-prompts.buyservices.vagabond.description=Exhaust items to purchase services.
-prompts.riverfolkscoredividends.label=Scoring Dividends
-tooltip.playmat.tradepost=<size=125%><b>Riverfolk Trade Post</b></size><br>•Contributes the suit of this clearing towards crafting.<br>•Enemies in this clearing may purchase an additional service.<br>•You cannot score dividends without at least one trade post on the map.<br>•When a trade post is removed, lose half your funds rounded up.<br>•Each clearing can only have one trade post.
-tooltip.playmat.otterstack=<size=125%><b>Riverfolk Warriors</b></size>
-tooltip.ui.riverfolk.publichand=View the Riverfolk player's hand.
-tooltip.ui.riverfolk.craftingslots=<size=125%><b>Available Crafting Pieces</b></size>
-tooltip.ability.riverfolk.battle=<size=125%><b>Battle</b></size>\
-tooltip.ability.riverfolk.craft=<size=125%><b>Craft</b></size>\
-tooltip.ability.riverfolk.export=<size=125%><b>Export</b></size>\
-tooltip.ability.riverfolk.draw=<size=125%><b>Draw</b></size>\
-tooltip.ability.riverfolk.move=<size=125%><b>Move</b></size>\
-tooltip.ability.riverfolk.recruit=<size=125%><b>Recruit</b></size>\
-tooltip.ability.riverfolk.establishtradepost=<size=125%><b>Establish Trade Post</b></size>\
-tooltip.ui.riverfolk.services=At the start of their Birdsong, other players may purchase 1 service plus 1 per clearing with a trade post and any of their pieces.
-tooltip.ui.riverfolk.handcard=<size=125%><b>Hand Card</b></size><br>The buyer takes any card from the Riverfolk’s hand and adds it to their hand.
-tooltip.ui.riverfolk.riverboats=<size=125%><b>Riverboats</b></size><br>The buyer treats rivers as paths until the end of their turn.
-tooltip.ui.riverfolk.mercenaries=<size=125%><b>Mercenaries</b></size><br>During Daylight and Evening of this turn, the buyer treats Riverfolk warriors as their own only for rule and for battle against factions other than the Riverfolk. The buyer must split hits taken evenly between their pieces and Riverfolk warriors, with the buyer taking odd hits.
-tooltip.ui.riverfolk.commitments=<size=125%><b>Commitments</b></size>\
-tooltip.ui.riverfolk.funds=<size=125%><b>Funds</b></size>\
-tooltip.ui.riverfolk.payments=<size=125%><b>Payments</b></size>\
-tooltip.ui.riverfolk.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-tooltip.ui.riverfolk.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
-tooltip.ui.riverfolk.crafteditems=<size=125%><b>Crafted Items</b></size>\
-tooltip.ui.riverfolk.tradeposts=<size=125%><b>Trade Posts</b></size>\
-settings.skins.title=Skins
-settings.controls.title=Controls
-settings.controls.lefttrigger=Zoom In : <sprite name="Switch_LeftTrigger">
-settings.controls.leftbumper=Faction Info : <sprite name="Switch_LeftBumper">
-settings.controls.minus=Action Log : <sprite name="Switch_Minus">
-settings.controls.leftstick=Move between selections :
-settings.controls.dpad=Same as Left Stick : <sprite name="Switch_DPad">
-settings.controls.capture=Capture : <sprite name="Switch_Capture">
-settings.controls.home=<font="F_bdy_BaskervilleTenPro">H</font><smallcaps>ome</smallcaps>  Button : <sprite name="Switch_Home">
-settings.controls.righttrigger=<sprite name="Switch_RightTrigger"> : Zoom Out
-settings.controls.rightbumper=<sprite name="Switch_RightBumper"> : Supply
-settings.controls.plus=<sprite name="Switch_Plus"> : Settings
-settings.controls.action1=<sprite name="Switch_Action1"> : Select/ Confirm
-settings.controls.action2=<sprite name="Switch_Action2"> : Cancel/ Undo
-settings.controls.action3=<sprite name="Switch_Action3"> : Tooltip/ Expand Card
-settings.controls.action3.xbox=<sprite name="Switch_Action3"> : End Turn/ Skip/ EndPhase
-settings.controls.action4=<sprite name="Switch_Action4"> : End Turn/ Skip/ EndPhase
-settings.controls.action4.xbox=<sprite name="Switch_Action4"> : Tooltip/ Expand Card
-settings.controls.rightstick=<sprite name="Switch_RightStickButton"> : Pans Map
-settings.controls.lefttrigger.xbox=Zoom In : <sprite name="Xbox_LeftTrigger">
-settings.controls.leftbumper.xbox=Faction Info : <sprite name="Xbox_LeftBumper">
-settings.controls.select.xbox=Action Log : <sprite name="Xbox_Select">
-settings.controls.righttrigger.xbox=<sprite name="Xbox_RightTrigger"> : Zoom Out
-settings.controls.rightbumper.xbox=<sprite name="Xbox_RightBumper"> : Supply
-settings.controls.start.xbox=Settings : <sprite name="Xbox_Start">
-settings.gen.title=General
+friends.invite=Invite
+friends.inviteFriends.description=Send your friend an email invite to try out Raiders of the North Sea.\
+friends.inviteFriends.send=Send
+friends.inviteFriends.title=Invite Friends
+friends.removeFriend=Remove Friend
+friends.title=Friends
+friends.waitingForAcceptance=Waiting for {0} to accept
+game.over.prompt.confirm=Leave Game
+gameoptions.AIdifficulty=AI Difficulty
+gameoptions.AIdifficultyChallenging=Challenging
+gameoptions.AIdifficultyEasy=Easy
+gameoptions.AIdifficultyHard=Hard
+gameoptions.AIdifficultyMedium=Medium
+gameoptions.AIdifficultyNightmare=Nightmare
+gameoptions.creategame=Create Game
+gameoptions.deck.EnP=Exiles & Partisans
+gameoptions.deck.standard=Standard
+gameoptions.gametype=Select A Game Type
+gameoptions.header=Game Options
+gameoptions.numAIplayers=Ai Players
+gameoptions.numplayers=Human Players
+gameoptions.password.label=Password (Optional)
+gameoptions.password.placeholder=Optional Password
+gameoptions.resignConfirmed=You have resigned.
+gameoptions.resigned=Resigned
+gameoptions.resignMatch=Resign Match?
+gameoptions.startgame=Start Game
+gameoptions.timer.fast=Live
+gameoptions.timer.slow=Async
+gamepad.disable=Would you like to disable gamepad support?
+gamepad.firstTimeActivation=Would you like to enable controller input?
+general.defined=Defined
+general.difficulty=Difficulty
+general.random=Random
+general.traits=Traits
+general.traits.0=0 Traits
+general.traits.1=1 Trait
+general.traits.2=2 Traits
+general.traits.3=3 Traits
+general.traits.4=4 Traits
+generic.completed=Completed!
+generic.singlenumber={0}
+header.options=Options
+header.unlockedcard=New Card Available!
+header.unlockedcards=New Cards Available!
+initialturn.tooltip.tutorial.switch=Press <sprite name="moz_button"> to learn more about the selected building or raid location.
+input.placeholderText=Enter text...
+leaderboards.friendsonly=Friends Only
+level.progression=Level {0}: {1}
+lobby.aiplayer=AI Player
+lobby.availablegames=Available Games
+lobby.mode=Mode
+lobby.nogames.label=No Games
+lobby.players=Players
+lobby.prompt.password=You must enter a password to join this game.
+lobby.timerdisplay.daysformat={0}d
+lobby.timerdisplay.hoursformat={0}h
+lobby.timerdisplay.minsformat={0}m
+login.accountCreated=Account Created
+login.email=Email
+login.error.failedAuth=Could not connect to authorization server, please try again later.
+login.error.invalidEmail=Error: Invalid Email
+login.error.invalidPassword=Error: Password must be at least 8 characters, have a capitalized letter, and contain both letters and numbers.
+login.error.invalidUsername=Error: Invalid Username
+login.error.passwordMismatch=Error: Passwords do not match
+login.forgotpassword=Forgot Password
+login.forgotpassword.reset=Reset
+login.loggedInAs=Logged in as: {0}
+login.logout=Log out?
+login.logoutbutton=Log Out
+login.newaccount=New Account
+login.password=Password
+login.register=Register
+login.register.newsletter=Sign up for Dire Wolf's newsletter for exclusive offers and the latest on upcoming games!
+login.registrationThanks=Thanks
+login.title.change.user=Change User
+login.title.create.account=Create Account
+login.title.log.in=Log In
+mainmenu.challenges=Challenges
+mainmenu.continue=Continue
+mainmenu.friends=Friends
+mainmenu.leaderboards=Leaderboards
+mainmenu.localplay=Local Play
+mainmenu.moregames=More Games
+mainmenu.multiplayer=Multiplayer
+mainmenu.news=News
+mainmenu.onlineplay=Online Play
+mainmenu.singleplayer=Solo Play
+marquiseWithColor=<color=#CC6633>Marquise de Cat</color>
+match.start.failure=Match failed to load
+Mechanical.Marquise.Challenging=<b>Challenging:</b> Whenever the Mechanical Marquise Recruits, place two warriors in the ordered clearing they rule of highest priority.
+Mechanical.Marquise.Easy=<b>Easy:</b> Whenever the Mechanical Marquise Recruits, instead place only two warriors.
+Mechanical.Marquise.Nightmare=<b>Nightmare:</b> Whenever the Mechanical Marquise Recruits, also place two warriors in the ordered clearing they rule of highest priority. At the end of Evening, they score one victory point.
+mechanicalmarquiseWithColor=<color=#CC6633>Mechanical Marquise</color>
+moregames.header=More Games
+moveworkernoopability.button=Skip
+moz.tipIntro=Here is a tip!
+multiplayer.activegames=Active Games
+multiplayer.activetab=Active
+multiplayer.alreadyJoined=Already Joined

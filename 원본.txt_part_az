@@ -1,0 +1,100 @@
+root.cardname.armorers=Armorers
+root.cardname.brutaltactics=Brutal Tactics
+root.cardname.sword=Sword
+root.cardname.armstrader=Arms Trader
+root.cardname.foxfolksteel=Foxfolk Steel
+root.cardname.roottea=Root Tea
+root.cardname.anvil=Anvil
+root.cardname.sappers=Sappers
+root.cardname.smugglerstrail=Smuggler's Trail
+root.cardname.birdybindle=Birdy Bindle
+root.cardname.gentlyusedknapsack=Gently Used Knapsack
+root.cardname.mouseinasack=Mouse-in-a-Sack
+root.cardname.travelgear=Travel Gear
+root.cardname.woodlandrunners=Woodland Runners
+root.cardname.avisittofriends=A Visit to Friends
+root.cardname.crossbow=Crossbow
+root.cardname.commandwarren=Command Warren
+root.cardname.standanddeliver=Stand and Deliver!
+root.cardname.betterburrowbank=Better Burrow Bank
+root.cardname.taxcollector=Tax Collector
+root.cardname.cobbler=Cobbler
+root.cardname.codebreakers=Codebreakers
+root.cardname.dominance=Dominance
+root.cardname.coalition=Coalition
+root.cardname.ambush=Ambush!
+root.cardtext.favoroftherabbits=Remove all enemy pieces in rabbit clearings.
+root.cardtext.favorofthefoxes=Remove all enemy pieces in fox clearings.
+root.cardtext.favorofthemice=Remove all enemy pieces in mouse clearings.
+root.cardtext.royalclaim=In Birdsong, may discard this to score one point per clearing you rule.
+root.cardtext.craftcoinstack=<size=200%><sprite name="coinstack">, <sprite name="3VP"></size>
+root.cardtext.scoutingparty=As attacker in battle, you are not affected by ambush cards.
+root.cardtext.armorers=In battle, may discard this to ignore all rolled hits taken.
+root.cardtext.brutaltactics=In battle as attacker, may deal an extra hit, but defender scores one point.
+root.cardtext.craftsword=<size=200%><sprite name="sword">, <sprite name="2VP"></size>
+root.cardtext.roottea=<size=200%><sprite name="teapot">, <sprite name="2VP"></size>
+root.cardtext.anvil=<size=200%><sprite name="hammer">, <sprite name="2VP"></size>
+root.cardtext.sappers=In battle as a defender, may discard this to deal an extra hit.
+root.cardtext.craftbag=<size=200%><sprite name="bag">, <sprite name="1VP"></size>
+root.cardtext.craftboot=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
+root.cardtext.crossbow=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
+root.cardtext.commandwarren=At start of Daylight, may initiate a battle.
+root.cardtext.standanddeliver=In Birdsong, may take a random card from another player. That player scores one point.
+root.cardtext.betterburrowbank=At start of Birdsong, you and another player draw a card.
+root.cardtext.taxcollector=Once in Daylight, may remove one of your warriors to draw a card.
+root.cardtext.cobbler=At start of Evening, may take a move.
+root.cardtext.codebreakers=Once in Daylight, may look at another player's hand.
+root.cardtext.dominance.suit=If spent for suit, make available.
+root.cardtext.dominance.points=If you have at least 10 points, play during Daylight. You can no longer score <style="vptext">VP</style>.
+root.cardtext.dominance.clearingtext.rabbit=You win the game if you rule three rabbit clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.fox=You win the game if you rule three fox clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.mouse=You win the game if you rule three mouse clearings at the start of your Birdsong.
+root.cardtext.dominance.clearingtext.bird=You win the game if you rule two opposite corners at the start of your Birdsong.
+root.cardtext.dominance.vagabond=In games of four or more, as Vagabond, you may form a coalition.
+root.cardtext.ambush.any=You may ambush in any clearing.
+root.cardtext.ambush.fox=You may ambush in a fox clearing.
+root.cardtext.ambush.mouse=You may ambush in a mouse clearing
+root.cardtext.ambush.rabbit=You may ambush in a rabbit clearing.
+root.cardtext.ambush.startofbattle=At start of battle, defender may play to deal two immediate hits. Cancel if attacker plays matching ambush.
+root.quest.header=Quest Card
+root.quest.clearingtype.rabbit=in a rabbit clearing.
+root.quest.clearingtype.fox=in a fox clearing.
+root.quest.clearingtype.mouse=in a mouse clearing.
+root.quest.claimtext=Claim this quest and pick a reward.
+root.quest.eitheror=or
+root.quest.requireditems=Items Required
+root.quest.drawtwo=Draw <size=200%><sprite name="twocards"></size>
+root.quest.foxvp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="foxquest"></size>
+root.quest.mousevp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="mousequest"></size>
+root.quest.rabbitvp=<size=200%><sprite name="1VP"></size> per <size=200%><sprite name="rabbitquest"></size>
+root.quest.repairashed=Repair a Shed
+root.quest.logisticshelp=Logistics Help
+root.quest.guardduty=Guard Duty
+root.quest.giveaspeech=Give a Speech
+root.quest.fundraising=Fundraising
+root.quest.fendoffabear=Fend off a Bear
+root.quest.expelbandits=Expel Bandits
+root.quest.escort=Escort
+root.quest.errand=Errand
+root.eyrie.leader=Eyrie Leader
+root.eyrie.builder=Builder
+root.eyrie.builder.text=Ignore your Disdain for Trade when you craft.
+root.eyrie.commander=Commander
+root.eyrie.commander.text=As attacker in battle, you deal an extra hit.
+root.eyrie.despot=Despot
+root.eyrie.despot.text=If you remove at least one enemy building or token in battle, score one point.
+root.eyrie.charismatic=Charismatic
+root.eyrie.charismatic.text=You place two warriors, not one, each time you recruit.
+root.eyrie.actions={0} & {1}
+root.eyrie.action.move=Move
+root.eyrie.action.recruit=Recruit
+root.eyrie.action.build=Build
+root.eyrie.action.battle=Battle
+root.eyrie.loyalvizier=Loyal Vizier
+root.vagabond.ranger=Ranger
+root.vagabond.ranger.ability.title=Hideout
+root.vagabond.ranger.ability.text=Repair three items. Then, immediately end Daylight.
+root.vagabond.tinker=Tinker
+root.vagabond.tinker.ability.title=Day Labor
+root.vagabond.tinker.ability.text=Take a card from the discard pile matching your clearing.
+root.vagabond.thief=Thief

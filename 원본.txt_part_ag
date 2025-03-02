@@ -1,300 +1,100 @@
-udt.Daylight.t4.cat.destroyed=You take a building, we take a building.
-udt.Daylight.t4.dig=Our economy is booming! But so is the <color=#CC6633>Marquise</color>, and we can't have that. <color=#BD5752>Dig</color> a hole near their wood source and shut it down with force.
-udt.Daylight.t4.priceoffailure=Oh no! We were so focused on aggression that we forgot to protect our <sprite name="Market"> <color=#BD5752>Market</color> and must suffer the <color=#BD5752>Price of Failure</color>. When a <color=#BD5752>Duchy</color> building is removed, you lose your highest rank swayed <color=#BD5752>Minister</color> and discard a random card from your hand.
-udt.Daylight.t4.skipsway=Because you only have Bake Sale left in hand, you don't have enough cards to sway a <color=#BD5752>minister</color> this turn. Time to pass to the <color=#CC6633>Marquise</color> and draw for the turn.
-udt.Evening.t1.craft=Now we get to craft using the suits of the clearings our buildings are in. Note that <sprite name="Tunnel"> <color=#BD5752>Tunnels</color> are tokens and not buildings, so they won't contribute during crafting.
-udt.Evening.t1.craft.2=Your <sprite name="Citadel"> <color=#BD5752>Citadel</color> building in the <sprite name="ClearingRabbit"> clearing will allow you to craft Travel Gear.
-udt.Evening.t1.draw=Finally, we draw a card and pass the turn to our whiskered opponents.
-udt.goal.15vp=Score <style="vpnumddteen">15</style> ({0}/{1})
-udt.intro=Welcome to the <color=#BD5752>Underground Duchy</color>, a vast underground empire that seeks total domination of the woodlands. Together we will strike from below using our vast tunnel system, then sway the "lower crust" of society to our side, accessing new powerful abilities.
-udt.setup.tunnel=To start, we get a <sprite name="Tunnel"> <color=#BD5752>Tunnel</color> in the corner clearing opposite the <color=#CC6633>Marquise</color> <sprite name="KeepToken"> <color=#CC6633>Keep</color>. We also get 2 warriors in this clearing and each adjacent one.
-tooltip.disablefactiondraft=<size=125%><b>Disable Faction Draft</b></size><br>Disables faction drafting in Advanced Setup mode.
-creategame.disablefactiondraft=Disable Faction Draft
-tooltip.bansecondvagabond=<size=125%><b>Ban Second Vagabond</b></size><br>Bans multiple Vagabonds in Advanced Setup mode.
-creategame.bansecondvagabond=Ban Second Vagabond
-shortfactionnames.corvidconspiracy=Corvid
-shortfactionnames.undergroundduchy=Duchy
-factionnames.keepersiniron=Keepers in Iron
-factionnames.lordofthehundreds=Lord of the Hundreds
-tooltip.opponent.keepers=<size=125%><b>Keepers in Iron Opponent</b></size>
-tooltip.opponent.hundreds=<size=125%><b>Lord of the Hundreds Opponent</b></size>
-playerinfo.keepersiniron.devoutknights.title=Devout Knights
-playerinfo.keepersiniron.devoutknights.description=In battle, ignore the first hit you take if you have a relic and Keeper warrior. When moving you may move a relic with each Keeper warrior.
-playerinfo.keepersiniron.prizedtrophies.title=Prized Trophies
-playerinfo.keepersiniron.prizedtrophies.description=When an enemy removes a relic, they put it, value face up, in any forest and score an extra point.
-playerinfo.keepersiniron.relics.title=Relics
-playerinfo.keepersiniron.relics.desc=<sprite name="2VP"> if you fill a column
-playerinfo.keepersiniron.waystations.title=Waystations
-playerinfo.keepersiniron.birdsong=1st: Encamp<size=80%> once per clearing. You may replace a Keeper warrior with a waystation. If neither is on the map, put both in a clearing on the map edge.<br><br></size>2nd: Decamp<size=80%> once per clearing. You may replace a waystation with a Keeper warrior. <br><br></size>3rd: Recruit <size=80%>any number of times. Spend a card to place 2 warriors at a matching waystation.</size>
-playerinfo.keepersiniron.daylight=1st: Craft<size=80%> using waystations.<br><br></size>2nd: Act with Retinue<br><br><b>Move</b><size=80%> from a matching clearing<br><br>You must </size><b>Battle</b><size=80%> if able, then you may </size><b>Delve</b><size=80%> in the same matching clearing.<br><br>Delve - If you rule with a Keeper warrior, move and reveal a relic from an adjacent forest. Discard the card used to Delve if you rule fewer clearings adjacent to that forest than the relic's value.<br><br></size><b>Move</b><size=80%> or </size><b>Recover</b><size=80%>.<br><br>Recover - Score any number of relics of the same type as waystations there. Discard the card used to Recover and stop action if you rule fewer matching clearings than a taken relic's value.</size>
-playerinfo.keepersiniron.daylight.deliverymission=1st: Craft<size=80%> using waystations.<br><br></size>2nd: Act with Retinue<br><br><b>Move</b><size=80%> from a matching clearing.<br><br>You must </size><b>Battle</b><size=80%> if able, then you may </size><b>Delve</b><size=80%> in the same matching clearing.<br><br>Delve - If you rule with a Keeper warrior, move and reveal a relic from an adjacent forest. Discard the card used to Delve if you rule fewer clearings adjacent to that forest than the relic's value.<br><br></size><b>Move</b><size=80%> from a matching clearing.</size>
-playerinfo.keepersiniron.evening=1st: Live Off the Land<size=80%> You must remove one Keeper warrior from each clearing with four or more.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
-playerinfo.keepersiniron.evening.huddle=1st: Huddle Up<size=80%> You must remove each Keeper warrior in a clearing with no other Keeper warriors.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
-playerinfo.keepersiniron.evening.famine=1st: Relic Bound<size=80%> You must remove one Keeper warrior from each clearing without a relic.<br><br></size>2nd: Gather Retinue<size=80%> of up to ten cards. You may add any number of cards from hand to your Retinue, or you may shift one card in it. <br><br></size>3rd: Draw <size=80%>1 card per <sprite index=31> showing.<br></size><br>Discard <size=80%>down to 5 cards.</size>
-playerinfo.lordofthehundreds.thewarlord.title=The Warlord
-playerinfo.lordofthehundreds.thewarlord.description=The Warlord is a warrior that cannot be removed outside battle, moved outside your turn, or placed except with Anoint.
-playerinfo.lordofthehundreds.contemptfortrade.title=Contempt for Trade
-playerinfo.lordofthehundreds.contemptfortrade.description=When you craft an item, gain it but score no listed points, or remove it to score them.
-playerinfo.lordofthehundreds.looters.title=Looters
-playerinfo.lordofthehundreds.looters.description=At the start of battle as attacker, you may say you're looting the defender. You deal no rolled hits, but they do. At the end, if you rule the battle clearing, take an item from their Crafted Items.
-playerinfo.lordofthehundreds.moods.title=Moods
-playerinfo.lordofthehundreds.thehoard.title=The Hoard
-playerinfo.lordofthehundreds.oppressedspaces.title=Oppressed Spaces: {0}
-playerinfo.lordofthehundreds.infiltratedspaces.title=Infiltrated Spaces: {0}
-playerinfo.lordofthehundreds.birdsong=1st: Raze<size=80%> - At each mob, remove all enemy buildings and tokens, take an item from ruin if any. After resolving mobs, roll the mob die and place a mob in a matching clearing with no mob but adjacent to a mob.<br><br></size>2nd: Recruit <size=80%>warriors equal to it's Prowess in your warlord's clearing, then one warrior at each stronghold.<br><br></size>3rd: Anoint <size=80%>a Hundreds warrior as your new warlord if it was off map. If you cannot, place your warlord in any clearing.<br><br></size>4th: Choose a different mood <size=80%>that does not show an item in your Hoard.</size>
-playerinfo.lordofthehundreds.daylight=1st: Craft<size=80%> using strongholds.<br><br></size>2nd: Command the Hundreds<size=80%> a number of times up to Command.<br><br><sprite name="hundredswarrior"> Move<br><br><sprite name="hundredswarrior"> Battle<br><br><sprite name="hundredswarrior"> Build<br><br></size>3rd: Advance the Warlord<size=80%> a number of times up to Prowess.<br><br>You may move your warlord with any Hundreds warriors, then you may battle in your warlords' clearing.</size>
-playerinfo.lordofthehundreds.evening=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Oppress <size=80%>clearings you rule that have a Hundreds piece and no enemy pieces. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
-playerinfo.lordofthehundreds.evening.infiltrate.normal=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Infiltrate <size=80%>clearings an opponent rules that have a Hundreds warlord or warrior. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
-playerinfo.lordofthehundreds.evening.infiltrate.heroic=1st: Incite<size=80%> - any number of times. Spend a card to place a mob in a matching clearing with a Hundreds warrior or warlord but no mob.<br><br></size>2nd: Infiltrate <size=80%>clearings an opponent rules with at least 4 pieces that have a Hundreds warrior or warlord. <br><br>1-2: <sprite name="1VP_White">   3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White">   6+: <sprite name="4VP_White"><br></size><br>Draw <size=80%>- 1 card. </size=90%>Discard<size=80%> down to 5 cards.</size>
-playerinfo.lordofthehundreds.protectthewarlord=Protect the Warlord
-hundreds.moods.selection.title=Choose Mood
-hundreds.moods.selection.no.moods=No Moods Available
-hundreds.moods.selection.newmood=New Mood
-hundreds.moods.selection.oldmood=Old Mood
-hundreds.moods.grandiose=Grandiose
-hundreds.moods.desc.grandiose=Swap your Advance the Warlord step and Command the Hundreds step.
-hundreds.moods.stubborn=Stubborn
-hundreds.moods.desc.stubborn=In battle with your warlord, you ignore the first hit you take.
-hundreds.moods.bitter=Bitter
-hundreds.moods.desc.bitter=In battle with warlord, before the roll, place one warrior in the battle clearing per mob you choose to remove from the battle clearing and adjacent ones.
-hundreds.moods.lavish=Lavish
-hundreds.moods.desc.lavish=At end of Birdsong, you may remove any items from your Hoard to place two warriors per item removed into your warlord's clearing.
-hundreds.moods.relentless=Relentless
-hundreds.moods.desc.relentless=Whenever you advance your warlord and both move and battle, you may move or battle with your warlord <i>(like half of an advance)</i>.
-hundreds.moods.wrathful=Wrathful
-hundreds.moods.desc.wrathful=As attacker in battle with your warlord, you deal an extra hit. <i>(When looting, you do deal this hit.)</i>
-hundreds.moods.jubilant=Jubilant
-hundreds.moods.desc.jubilant=After you incite your warlord's clearing, you may roll the mob die to place a mob <i>(as described in your Raze step)</i> up to four times.
-hundreds.moods.rowdy=Rowdy
-hundreds.moods.desc.rowdy=In Evening, draw one more card. If your warlord's clearing has three or more enemy pieces, draw two more cards instead.
-hundreds.movewarlord.prompt.title=Move Warlord?
-keepers.faithfulretainers=Faithful Retainer
-keepers.faithfulretainers.desc=When you discard this card, remove it permanently.
-hundreds.command=Command
-hundreds.prowess=Prowess
-hundreds.lavish.desc=You may choose to remove items from your Hoard to place two warriors in your warlord's clearing per item removed.
-hundreds.lavish.title=Remove Items for Lavish?
-hundreds.contemptfortrade.button.victorypoints=<style="vptext">VP</style>
-hundreds.contemptfortrade.button.hoard=Hoard
-hundreds.contemptfortrade.desc=Craft to add <sprite name="[item]"> to Hoard or for <sprite name="2VP">
-hundreds.hoardfull.desc=Choose an item to remove from your Hoard (or the item you just gained) and score (<sprite name="1VP">).
-hundreds.hoardfull.title=Your Hoard is Full
-hundreds.hoardfull.newitem=New Item
-playerinfo.keepersiniron.retinue.desc=You may add any number of cards from your hand to your Retinue or you may shift one card in it.
-playerinfo.keepersiniron.retinue.move.title=Move
-playerinfo.keepersiniron.retinue.battleanddelve.title=<size=20><i>must</i></size> Battle <size=20><i>if able, then may</i></size> Delve
-playerinfo.keepersiniron.retinue.battleanddelve.desc=...in the same matching clearing
-playerinfo.keepersiniron.retinue.moveorrecover.title=Move or Recover
-playerinfo.keepersiniron.retinue.moveorrecover.desc=...from a matching clearing
-playerinfo.keepersiniron.retinue.recruit.title=Move
-playerinfo.keepersiniron.retinue.recruit.desc=...from a matching clearing
-playerinfo.keepersiniron.buildwaystations.title=Choose a waystation to place.
-playerinfo.keepersiniron.buildwaystations.desc=
-playerinfo.keepersiniron.buildwaystations.tablet=Tablet
-playerinfo.keepersiniron.buildwaystations.jewelry=Jewelry
-playerinfo.keepersiniron.buildwaystations.figure=Figure
-playerinfo.keepersiniron.buildwaystations.prompt.title=Choose Waystation
-playerinfo.keepersiniron.moverelic.prompt.title=Move Relic?
-playerinfo.keepersiniron.recoverrelic.prompt.title=Relics
-playerinfo.keepersiniron.recoverrelic.prompt.button=Recover
-playerinfo.keepersiniron.delverelic.prompt.button=Delve
-hirelings.uprising.title=Choose Uprising Ability.
-hirelings.selection.title=Choose a hireling to take.
-hirelings.card.forestpatrol.title=Forest Patrol
-hirelings.card.forestpatrol.ability.1=Whenever any Patrol warriors are removed, place one of them on this card, not in the supply.
-hirelings.card.forestpatrol.ability.2=You may move, and then you may battle.<br><br><b>—OR—</b><br><br>Place all Patrol warriors from here into a clearing with any Patrol warriors.
-hirelings.card.lastdynasty.title=Last Dynasty
-hirelings.card.lastdynasty.ability.2=If no Dynasty warriors are on the map, place all 5 Dynasty warriors in any edge clearing and battle there. <br><br><b>—OR—</b><br><br>If they rule their clearing, move all their warriors and then battle with them if able. <br><br><b>—OR—</b><br><br>If they do not rule their clearing, battle there twice.
-hirelings.card.springuprising.title=Spring Uprising
-hirelings.card.springuprising.ability.1=If no Uprising warriors are on the map, roll the uprising die and place an Uprising warrior in a matching clearing.<br><br>To battle the Uprising, the attacker must discard a card matching the battle clearing.
-hirelings.card.springuprising.ability.2=<size=125%><b>1st</b></size> You must roll the uprising die.<br><br><size=125%><b>2nd</b></size> You must remove an Uprising warrior and all enemy pieces from a matching clearing.<br><br><b>—OR—</b><br><br>You must place an Uprising warrior in a matching clearing.
-hirelings.card.theexile.title=The Exile
-hirelings.card.theexile.ability.1=Anytime on their turn, a player with faction pieces adjacent to the Exile may place an item from their Crafted Items box on this card to draw a card and score a point.
-hirelings.card.theexile.ability.2=Any number of times, you may exhaust one item here to move to an adjacent forest, and may exhaust two items here to battle in an adjacent clearing.<br><br>When done, refresh all items here.<br><br>In battle, you can roll hits up to the number of items here. For each hit taken, exhaust one item, or remove one if you cannot exhaust any.
-hirelings.card.felinephysicians.title=Feline Physicians
-hirelings.card.felinephysicians.ability.1=<b>Controller:</b> Whenever any of your faction warriors are removed, you may spend a card matching their clearing to place those warriors in a clearing with your faction pieces, instead of your supply <i>(like Field Hospitals)</i>.
-hirelings.card.bluebirdnobles.title=Bluebird Nobles
-hirelings.card.bluebirdnobles.ability.1=<b>Controller:</b> You rule clearings when tied for presence <i>(like Lords of the Forest)</i>.<br><br><b>Controller:</b> Score one point for every three clearings you rule.
-hirelings.card.rabbitscouts.title=Rabbit Scouts
-hirelings.card.rabbitscouts.ability.1=<b>Controller:</b> As defender in battle, before the roll, you may spend a card matching the battle clearing to use the higher roll and make the attacker use the lower roll <i>(like Guerilla Warfare)</i>.
-hirelings.card.thebrigand.title=The Brigand
-hirelings.card.thebrigand.ability.1=<b>Controller:</b> You may take an item from a ruin in a clearing with your faction piecess. <i>(As Lord of the Hundreds, put it in your Hoard.)</i> If you took the last item from the ruin, remove the ruin.<br><br><b>Controller:</b> You may exhaust an item in your Crafted Items box <i>(not Hoard)</i> to take a random card from a player with faction pieces in a clearing with your faction pieces.
-hirelings.card.popularband.title=Popular Band
-hirelings.card.popularband.ability.1=If no Band warriors are on the map, place a Band warrior in a clearing with your faction pieces.<br><br>Enemies cannot move from a clearing with a Band warrior on the same turn they moved into it.
-hirelings.card.popularband.ability.2=<b>1st</b> Choose a clearing with a Band warrior. You may force any faction warrior in each adjacent clearing to move into the chosen clearing.<br><br><b>2nd</b> You may place a Band warrior in any clearing.
-hirelings.card.vaultkeepers.title=Vault Keepers
-hirelings.card.vaultkeepers.ability.1=If no Keeper pieces are on the map, place 2 Keeper warriors and a vault building in any clearing.
-hirelings.card.vaultkeepers.ability.2=<b>1st</b> You may place a vault in a clearing with a vault or adjacent to one. If you cannot, place a warrior and a vault in any clearing.<br><br><b>2nd</b> You may battle in each clearing with a vault.<br><br><b>—OR—</b><br><br>You may place a Keeper warrior at each vault.
-hirelings.card.flamebearers.title=Flame Bearers
-hirelings.card.flamebearers.ability.1=If no Bearer warriors are on the map, place 2 Bearer warriors among any clearings.
-hirelings.card.flamebearers.ability.2=<b>1st</b> In each clearing with any Bearer warriors, you must remove one enemy piece per Bearer warrior there, warriors first.<br><br><b>2nd</b> You must place one Bearer warrior at a Bearer warrior or adjacent to one. If you cannot, place 2 Bearer warriors in any clearings.
-hirelings.card.streetband.title=Street Band
-hirelings.card.streetband.ability.1=Place a band warrior in any clearing.
-hirelings.card.badgerbodyguards.title=Badger Bodyguards
-hirelings.card.badgerbodyguards.ability.1=<b>Controller: </b>In battle, you ignore the first hit you take. <i>(This does not combine with other effects that let you ignore the first hit you take.)</i>
-hirelings.card.ratsmugglers.title=Rat Smugglers
-hirelings.card.ratsmugglers.ability.1=<b>Controller: </b>Any number of times in Daylight, you may discard a card with an item in order to move or battle. <i>(You do not need to be able to craft it.)</i>
-hirelings.prompt.bluebirdvpgain.title=Clearing Rule Bonus
-hirelings.prompt.flamebearersremovewarrior.title=Flamebearers
-hirelings.prompt.flamebearersremovewarrior.desc=Removing enemy pieces in bearer clearings.
-hirelings.prompt.uprisingremovingpieces.title=Uprising
-hirelings.prompt.uprisingremovingpieces.body=Removing Uprising Warrior and all enemy pieces.
-keepers.prompt.liveoftheland.title=Live off the Land
-keepers.prompt.liveoftheland.desc=1 Keeper warrior is removed from each clearing with 4 or more.
-keepers.prompt.huddleup.title=Huddle Up
-keepers.prompt.huddleup.desc=Keepers removed from clearings with no other Keeper warriors.
-keepers.prompt.famine.title=Relic Bound
-keepers.prompt.famine.desc=1 Keeper warrior is removed from each clearing without any relics.
-keepers.prompt.recovered.title=Recovered
-keepers.prompt.recovered.desc=Complete Bonus:
-keepers.prompt.delve.title=Delve
-keepers.prompt.retinuelost.title=Retinue Lost
-keepers.prompt.retinuelost.delve.desc=Keepers rule fewer clearings adjacent to the forest the relic came from than its value.
-keepers.prompt.retinuelost.recover.desc=Keepers rule fewer matching clearings than the recovered relic's value.
-hundreds.prompt.item.tohoard=<size=125%><b>Contempt for Trade</b></size><br>Item Added to Hoard and Didn't Score
-hundreds.prompt.item.tononhoard=<size=125%><b>Contempt for Trade</b></size><br>Removed Item and Scored
-hundreds.prompt.warlordanointed.title=Warlord Anointed
-hundreds.prompt.incite.title=Incite
-hundreds.prompt.oppress.title=Oppress
-hundreds.prompt.oppress.description={0} clearings ruled with no enemies
-hundreds.prompt.infiltrate.title=Infiltrate
-hundreds.prompt.infiltrate.normal.description={0} opponent ruled clearings with a Hundreds warrior or warlord
-hundreds.prompt.infiltrate.heroic.description={0} opponent ruled clearings with 4 or more enemy pieces and a Hundreds warrior or warlord
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseNewEncamp=Choose a clearing to place a warrior and a waystation.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseEncamp=Encamp: Choose a clearing to replace a warrior with a waystation.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseWaystation=Build Waystation
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoEncamp=No further Encampments possible.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseDecamp=Decamp: Choose a waystation to replace with a warrior.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoDecamp=Unable to Decamp.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseCardRecruit=Spend a matching card to recruit 2 warriors.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseCardRecruitOne=Spend a matching card to recruit 1 warrior.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseRecruitClearing=Choose a clearing with a waystation to recruit 2 warriors there.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseRecruitClearingOne=Choose a clearing with a waystation to recruit 1 warrior there.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoRecruit=Unable to recruit any more.
-creategame.enablehirelings=Enable Hirelings
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoMoves=No Moves possible.
-tuber.canis.abilities.KeepersInIronAbilities.KeepersMoveAbility.ChooseMoveRelics=Choose warriors and relics to move.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseBattleDelve=Choose a clearing to Battle, then Delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseBattleDelve.BattleOrDelve=Choose enemy warriors to battle or choose a relic to delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.Delve=Choose a relic to delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoBattleDelve=No Battle, then Delves possible.
-tuber.canis.abilities.KeepersInIronAbilities.KeepersBattleDelveAbility.ChooseBattleEnemy=Choose an enemy to battle.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseMoveRecover=Choose warriors to move or a relic to recover.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseRecover=Choose a relic to recover.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoMoveRecover=No Moves or Recovers possible.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronSetup.ChooseStarting=Choose a clearing to place four warriors.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronSetup.ChooseSecond=Choose a neighboring clearing to place four warriors.
-tuber.canis.undo.KeepersSetupUndo=Press continue to complete setup.
-tuber.canis.actions.KeepersInIronActions.KeepersRelicDestroyed=Choose a forest to place the removed [X] [type] relic.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.AddOrShift=Add cards to your Retinue (max 10) or shift 1 card in it.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.Add=Add cards to your Retinue (max 10).
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.Shift=Shift a card in your Retinue.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.None=No Retinue modifications possible.
-tuber.canis.undo.HundredsSetupUndo=Press continue to complete setup.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsSetup.ChooseStarting=Choose a clearing to place your warlord, four warriors, and a stronghold.
-tooltip.playmat.relicstack=<size=125%><b>Relics</b></size>
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRaze=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMobClearing=Choose a clearing adjacent to a mob to place a mob.
-tuber.canis.actions.LordOfTheHundredsActions.NoClearingsForMob=No matching clearings to place a mob. Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze=Out of mob tokens! Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRazeTakeItem=Choose an item to take from the ruin.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRecruit=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitClearing=Choose a stronghold to recruit a warrior.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToAnoint=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointClearing=Choose a clearing to place your warlord.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointWarrior=Choose a clearing with a Hundreds warrior to replace one of them with your warlord.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.AnointAlreadyPresent=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMood=Choose a mood.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToLavish=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseLavish=Remove items from your Hoard to place two warriors for each.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToBirdsongEnd=Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCraftMode=Craft to add [item] to Hoard or to gain [X]
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraft=No cards to craft. Press continue.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCommand=Choose a Command action to take.
-hundredsWithColor=<color=#B40518>Lord of the Hundreds</color>
-keepersWithColor=<color=#575757>Keepers in Iron</color>
-tuber.canis.actions.LordOfTheHundredsActions.HundredsHoardDiscard=Choose an item to remove from your Hoard and score 1 <style="vptext">VP</style>.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLoot=You deal no rolled hits in battle. Instead, take one of the following items if you rule the clearing after the battle:
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLootItem=Choose an item to take.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsBattleBitter=Remove adjacent mobs to add that many warriors to the battle.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildClearing=Choose a matching clearing to place a stronghold.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildCard=Spend a card to place a stronghold in a matching clearing you rule.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsBattleAbility=Choose an enemy to battle.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsDaylightRelentless=Relentless! Move or battle with your warlord?
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteClearing=Choose a clearing to incite a mob (costs a matching card).
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteCard=Choose a matching card to spend.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteCard=No cards in hand matching a valid clearing to Incite. Press continue.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteMob=No mobs in supply to Incite with. Press continue.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.JubilantChooseRoll=Roll to place a mob? ([X] remaining)
-keepers.prompt.mobdie.title=Mob Die
-playerinfo.lordofthehundreds.command=Command
-playerinfo.lordofthehundreds.prowess=Prowess
-prompts.keepersbuild.waystation=Waystation
-prompts.hundredsbuild.stronghold=Stronghold
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseMoveWarlord=Choose how many warriors to move and whether to move your warlord.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoWarlord=No warlord to advance with.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOrBattle=Choose a clearing to move your warlord with any Hundreds warriors or choose an enemy to battle.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOnly=Choose a clearing to move your warlord with any Hundreds warriors.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceBattleOnly=Choose an enemy to battle with your warlord and Hundreds warriors.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoActions=No remaining advances.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.CommandNoActions=No remaining Command actions.
-warning.keepers.encamp=This clearing doesn't have an open building slot for your waystation. Are you sure you want to choose it and only place a warrior?
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseNewEncamp.opponent=[player] are Encamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseEncamp.opponent=[player] are Encamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseWaystation.opponent=[player] are Encamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoEncamp.opponent=[player] are Encamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseDecamp.opponent=[player] are Decamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoDecamp.opponent=[player] are Decamping.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseCardRecruit.opponent=[player] are recruiting.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.ChooseRecruitClearing.opponent=[player] are recruiting.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronBirdsongAction.NoRecruit.opponent=[player] are recruiting.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoMoves.opponent=[player] are moving.
-tuber.canis.abilities.KeepersInIronAbilities.KeepersMoveAbility.ChooseMoveRelics.opponent=[player] are moving.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseBattleDelve.opponent=[player] are choosing to Battle, then Delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseBattleDelve.BattleOrDelve.opponent=[player] are choosing to Battle, then Delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.Delve.opponent=[player] are choosing to Delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoBattleDelve.opponent=[player] are choosing to Battle, then Delve.
-tuber.canis.abilities.KeepersInIronAbilities.KeepersBattleDelveAbility.ChooseBattleEnemy.opponent=[player] are choosing to Battle, then Delve.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseMoveRecover.opponent=[player] are choosing to Move or Recover.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.ChooseRecover.opponent=[player] are choosing to Move or Recover.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronDaylightAction.NoMoveRecover.opponent=[player] are choosing to Move or Recover.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronSetup.ChooseStarting.opponent=[player] are choosing their starting clearings.
-tuber.canis.actions.KeepersInIronActions.KeepersInIronSetup.ChooseSecond.opponent=[player] are choosing their starting clearings.
-tuber.canis.undo.KeepersSetupUndo.opponent=[player] are choosing their starting clearings.
-tuber.canis.actions.KeepersInIronActions.KeepersRelicDestroyed.opponent=[player] are placing the removed relic in a forest.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.AddOrShift.opponent=[player] are gathering Retinue.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.Add.opponent=[player] are gathering Retinue.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.Shift.opponent=[player] are gathering Retinue.
-tuber.canis.actions.KeepersInIronActions.KeepersGatherRetinueAction.None.opponent=[player] are gathering Retinue.
-tuber.canis.undo.HundredsSetupUndo.opponent=[player] are choosing their starting clearing.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsSetup.ChooseStarting.opponent=[player] are choosing their starting clearing.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRaze.opponent=[player] are starting their turn.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMobClearing.opponent=[player] are choosing a clearing to place a mob in.
-tuber.canis.actions.LordOfTheHundredsActions.NoClearingsForMob.opponent=[player] are choosing a clearing to place a mob in.
-tuber.canis.actions.LordOfTheHundredsActions.NoMobTokens.opponent=[player] are choosing a clearing to place a mob in.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze.opponent=[player] are choosing a clearing to place a mob in.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRazeTakeItem.opponent=[player] are choosing an item to take from the ruin.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRecruit.opponent=[player] are recruiting.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitClearing.opponent=[player] are recruiting.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToAnoint.opponent=[player] are recruiting.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointClearing.opponent=[player] are placing their warlord.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointWarrior.opponent=[player] are anointing a warrior.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.AnointAlreadyPresent.opponent=[player] are choosing a new mood.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMood.opponent=[player] are choosing a new mood.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToLavish.opponent=[player] are choosing a new mood.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseLavish.opponent=[player] are removing items from their Hoard to place warriors.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToBirdsongEnd.opponent=[player] are ending Birdsong.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCraftMode.opponent=[player] are crafting.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraft.opponent=[player] are crafting.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCommand.opponent=[player] are choosing a Command action to take.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsHoardDiscard.opponent=[player] are choosing an item to discard.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLoot.opponent=[player] are choosing whether to loot.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLootItem.opponent=[player] are choosing an item to loot.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsBattleBitter.opponent=[player] are choosing mobs to replace with warriors.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildClearing.opponent=[player] are building.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildCard.opponent=[player] are building.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsBattleAbility.opponent=[player] are choosing to battle.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsDaylightRelentless.opponent=[player] are choosing to move or battle.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteClearing.opponent=[player] are Inciting!
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteCard.opponent=[player] are Inciting!
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteCard.opponent=[player] are Inciting!
+prompt.leaderboard.rank.label=Rank
+prompt.leaderboard.score.label=Score
+prompt.login.banned=Your account has been banned.
+prompt.minimize=Minimize
+prompt.time.out.removed=You were removed from this game for exceeding your turn timer two turns in a row.
+prompt.time.out.removed.setup=You were removed from this game for exceeding your turn timer during set up.
+prompts.aid.automatedalliance=Aiding Automated Alliance
+prompts.aid.electriceyrie=Aiding Electric Eyrie
+prompts.aid.eyriedynasties=Aiding Eyrie Dynasties
+prompts.aid.lizardcult=Aiding Lizard Cult
+prompts.aid.marquisedecat=Aiding Marquise de Cat
+prompts.aid.mechanicalmarquise=Aiding Mechanical Marquise
+prompts.aid.riverfolkcompany=Aiding Riverfolk Company
+prompts.aid.woodlandalliance=Aiding Woodland Alliance
+prompts.aid.SecondVagabond=Aiding Another Vagabond
+prompts.aid.Vagabond=Aiding Vagabond
+prompts.aid.undergroundduchy=Underground Duchy
+prompts.aid.corvidconspiracy=Corvid Conspiracy
+prompts.aid.keepersiniron=Aiding Keepers in Iron
+prompts.aid.lordofthehundreds=Aiding Lord of the Hundreds
+prompts.demolanding.playgame=Play Game
+prompts.demolanding.tutorial1=Tutorial 1 - The Basics
+prompts.demolanding.tutorial2=Tutorial 2 - The Marquise
+prompts.eyriedynasties.move.label=Move
+prompts.eyriescoreroosts.label={0} Roosts
+prompts.gameresults.coalitionwinner=Coalition Victory
+prompts.gameresults.cooperativewinner=Cooperative Victory
+prompts.gameresults.nowinner=Resigned
+prompts.gameresults.title=Game Over
+prompts.gameresults.tutorialcomplete=Tutorial Complete
+prompts.gameresults.winner.automatedalliance=Automated Alliance Wins
+prompts.gameresults.winner.electriceyrie=Electric Eyrie Wins
+prompts.gameresults.winner.eyriedynasties=Eyrie Wins
+prompts.gameresults.winner.marquisedecat=Marquise Wins
+prompts.gameresults.winner.mechanicalmarquise=Mechanical Marquise Wins
+prompts.gameresults.winner.vagabond=Vagabond Wins
+prompts.gameresults.winner.vagabot=Vagabot Wins
+prompts.gameresults.winner.woodlandalliance=Alliance Wins
+prompts.gameresults.winner.lordofthehundreds=Hundreds Wins
+prompts.gameresults.winner.keepersiniron=Keepers Wins
+prompts.loginfailure.eulanotaccepted=Please accept EULA to log in.
+prompts.marquisebuild.recruiter=Recruiter
+prompts.marquisebuild.sawmill=Sawmill
+prompts.marquisebuild.workshop=Workshop
+prompts.marquisedecat.march.label=March
+prompts.movenumber.displayformat={0}/{1}
+prompts.passtoplayer.ai.text={0}'s turn
+prompts.passtoplayer.text=Pass to {0}
+prompts.playerturn.yourturn=Your Turn
+prompts.quests.title=Available Quests
+prompts.relentless.title=Relentless
+prompts.revolt.title=Revolt
+prompts.selectfaction.title=Select Faction
+prompts.shop.availableitems=Craftable Items
+prompts.shop.claim=Claim
+prompts.shop.dominance=Available Dominance
+prompts.shop.title=Supply
+prompts.turmoil.faileddecree.battle=Could not <nobr><size=150%><sprite name="EyrieBattle"></size> battle</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
+prompts.turmoil.faileddecree.build=Could not <nobr><size=150%><sprite name="EyrieBuild"></size> build</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
+prompts.turmoil.faileddecree.move=Could not <nobr><size=150%><sprite name="EyrieMove"></size> move</nobr> from a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
+prompts.turmoil.faileddecree.recruit=Could not <nobr><size=150%><sprite name="EyrieRecruit"></size> recruit</nobr> in a <nobr><size=150%><sprite name="{0}"></size> clearing</nobr>
+prompts.turmoil.title=The Eyrie have entered
+prompts.turmoil.title2=Turmoil
+prompts.turmoil.vpgained.label=gained
+prompts.turmoil.vplost.label=lost
+prompts.vagabonditems.continue=Continue
+prompts.vagabonditems.damageallies=Damage Allies
+prompttitles.generic.success=Success
+quitapplication.confirm.message=Are you sure you want to quit?
+rankedselect.errors.connectfailed=Your connection has timed out. Please check your internet connection and try again.
+root.vagabot.ranger=Ranger
+root.vagabot.thief=Thief
+root.vagabot.tinker=Tinker
+savedgames.continueGames=Continue Games
+savedgames.description=You have no active games.
+savedgames.joinGame=Join Game
+savedgames.lastPlayed=Last Played: {0}/{1}/{2} {3}:{4}:{5}
+savedgames.savedGames=Saved Games
+scenariotitle.config.passandplay=Pass And Play
+scenariotitle.config.standardsolo=Solo Play
+select.card.cancel=Skip
+select.card.confirm=OK
+select.card.description=Select a card.
+set.expansion.base=Base Game
+set.expansion.riverfolk=Riverfolk Expansion
+set.expansion.vagabond=Vagabond Expansion
+setting.undobutton=Allow Undo
+settings.about=About
+settings.advancedgameplay=Advanced Gameplay
+settings.android.uiscale=UI Scale
+settings.android.uiscale.0=Small
+settings.android.uiscale.1=Large
+settings.audio.effectsvolume=Effects Volume
+settings.audio.musicvolume=Music Volume
+settings.audio.mastervolume=Master Volume
+settings.audio.ambiencevolume=Ambience Volume
+settings.audio.muteMusic=Mute Music
+settings.audio.muteSound=Mute Sound
+settings.audio.title=Audio
+settings.audiovideo=Audio/Video

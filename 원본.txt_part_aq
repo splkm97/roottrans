@@ -1,0 +1,100 @@
+scenario.burrowwarfare.name=Burrow Warfare
+scenario.burrowwarfare.tier1description=You add one less warrior to your Burrow during Birdsong. When your warriors are removed in battle they go to your Burrow.
+scenario.burrowwarfare.tier2description=You do not add warriors to your Burrow during Birdsong and can't build Citadels. When your warriors are removed in battle they go to your Burrow.
+scenario.burrowwarfare.tier2description.balanceupdate=You do not add warriors to your Burrow during birdsong and can't build Citadels. When one or more of your warriors are removed in battle, return one to your Burrow.
+scenario.canyoudigit.name=Can You Dig It?
+scenario.canyoudigit.tier1description=You have an unlimited number of tunnels in your supply. You can't win unless you have a tunnel in each corner clearing.
+scenario.canyoudigit.tier2description=You have an unlimited number of tunnels in your supply. You can't win unless you have a tunnel in each corner clearing and in the Tower clearing. Your enemies are out to get your tunnels.
+scenario.corvidcrafting.name=Crafty Corvid
+scenario.corvidcrafting.tier1description=When revealing a plot token, gain <sprite name="1VP"> for each crafted item you have instead of each revealed plot on the map. Your starting hand is full of items.
+scenario.corvidcrafting.tier2description=When revealing a plot token, gain <sprite name="1VP"> for each crafted item you have instead of each revealed plot on the map. Oh and watch out for that thieving Vagabond!
+scenario.dredgingthelake.name=Dredging the Lake
+scenario.dredgingthelake.tier1description=When you use the Ferry, you may choose to draw a card of your choice from the discard pile instead of the deck.
+scenario.dredgingthelake.tier2description=When you use the Ferry, you may choose to draw a card of your choice from the discard pile instead of the deck. You start with no hand.
+scenario.grandplan.name=Grand Plan
+scenario.grandplan.tier1description=You can't win unless you have a piece in every clearing.
+scenario.grandplan.tier2description=You can't win unless you have a piece in every clearing and at least one of each kind of plot on the map.
+scenario.navalwarfare.name=Naval Warfare
+scenario.navalwarfare.tier1description=You gain an extra hit in battles adjacent to the lake. Your opponents gain an extra hit in battles against you in clearings not adjacent to the lake.
+scenario.navalwarfare.tier2description=You gain an extra hit in battles in the Ferry clearing. Your opponents gain an extra hit in battles against you in all other clearings.
+scenario.nolordsbeforeme.name=No Lords Before Me
+scenario.nolordsbeforeme.tier1description=At the start of the game, choose a lord to sway for free. You may have no other lords.
+scenario.nolordsbeforeme.tier2description=At the start of the game, choose a squire to sway for free. You may have no other squires.
+scenario.nolordsbeforeme.tier2description.balance.update=At the start of the game, choose a squire to sway for free. You may have no other squires and no lords.
+scenario.offensiveagents.name=Offensive Agents
+scenario.offensiveagents.tier1description=Your Embedded Agents ability is replaced with "Offensive Agents: When attacking in a clearing with a hidden plot token, you deal an extra hit."
+scenario.offensiveagents.tier2description=Your Embedded Agents ability is replaced with "Offensive Agents: When attacking in a clearing with a hidden plot token, you deal an extra hit." You are missing the Extortion plot.
+scenario.theTower.name=The Tower
+scenario.theTower.tier1description=You may only gain <style="vptext">VP</style> while you control the Tower.
+scenario.theTower.tier2description=You may only gain <style="vptext">VP</style> while you control the Tower. Your enemies will aggressively seek the Tower.
+scenario.trailblazer.name=Trailblazer
+scenario.trailblazer.tier1description=You may only move 1 warrior at a time through standard clearings paths (rivers, mountain paths, and tunnels open as normal).
+scenario.trailblazer.tier2description=You cannot move through standard clearing paths (rivers, mountain paths, and tunnels open as normal). Opponents won't clear mountain paths.
+tooltip.ability.corvid.exert=<size=125%><b>Exert</b></size>\
+tooltip.ability.corvid.exposure=<size=125%><b>Exposure</b></size>\
+tooltip.ability.corvid.plot=<size=125%><b>Plot</b></size>\
+tooltip.ability.corvid.trick=<size=125%><b>Trick</b></size>\
+tooltip.ability.duchy.battle=<size=125%><b>Battle</b></size>\
+tooltip.ability.duchy.build=<size=125%><b>Build</b></size>\
+tooltip.ability.duchy.dig=<size=125%><b>Dig</b></size>\
+tooltip.ability.duchy.move=<size=125%><b>Move</b></size>\
+tooltip.ability.duchy.recruit=<size=125%><b>Recruit</b></size>\
+tooltip.advancedsetup=<size=125%><b>Advanced Setup</b></size><br>Advanced Setup is an alternative way to draft and set up factions that changes the balance of various factions and offers more variety to starting placements. When using advanced setup, players also draw 5 starting cards and discard 2.
+tooltip.advancedsetup.locked=<size=125%><b>Advanced Setup</b></size><br>Advanced Setup is an alternative way to draft and set up factions that changes the balance of various factions and offers more variety to starting placements. When using advanced setup, players also draw 5 starting cards and discard 2. To unlock this mode, you must own 6 or more factions in your collection.
+tooltip.advancedsetup.ownedfactions=Factions included in the advanced setup draft can't be manually modified. Instead, they represent the collection of the player who created the game.
+tooltip.banned.alliance=Alliance is Banned
+tooltip.banned.corvid=Corvids are Banned
+tooltip.banned.duchy=Duchy is Banned
+tooltip.banned.eyrie=Eyrie is Banned
+tooltip.banned.lizards=Lizards are Banned
+tooltip.banned.marquise=Marquise is Banned
+tooltip.banned.riverfolk=Riverfolk are Banned
+tooltip.banned.secondvagabond=Second Vagabond is Banned
+tooltip.banned.vagabond=Vagabond is Banned
+tooltip.corvid.plots.description=Each clearing can only hold one plot token.
+tooltip.crowns=Each rank of Minister (Squire, Noble, Lord) may be swayed a maximum of 3 times a game. The amount of times you have left is represented by crowns.
+tooltip.duchy.burrow.description=The burrow is adjacent to each clearing with a tunnel. You always rule it, and only you can enter it.
+tooltip.duchy.playmat.burrow=<size=125%><b>The Burrow</b></size>\
+tooltip.embeddedagents.battle=<size=125%><b>Offensive Agents:</b></size><br>When defending in a clearing with a hidden plot token, deal an extra hit.
+tooltip.lakemap=<size=125%><b>Lake Map</b></size><br>Use the Ferry to cross the great lake and fill your hand with extra cards.
+tooltip.minister.locked=You don't have any crowns left to play a minister of this rank.
+tooltip.minister.moreinfo=To Sway a minister, you must reveal a number of cards based on the minister's rank (squire 2, noble 3, lord 4). You may only reveal cards matching clearings where you have any pieces, and each of those clearings lets you reveal only one card. When swaying a minister, you also lose a crown of its rank. If you have no crowns left in a rank, you may not recruit a minister of that type.
+tooltip.mountainmap=<size=125%><b>Mountain Map</b></size><br>Clear blocked paths and control the Tower to earn additional victory points.
+tooltip.mountainmap.tower=<size=125%><b>Tower</b></size>\
+The clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color> is called the Pass. At the end of a player’s Evening they score <sprite name="1VP"> if they rule the Pass.
+tooltip.offensiveagents.battle=<size=125%><b>Offensive Agents:</b></size><br>When attacking in a clearing with a hidden plot token, deal an extra hit.
+tooltip.opponent.corvid=<size=125%><b>Corvid Conspiracy Opponent</b></size>
+tooltip.opponent.duchy=<size=125%><b>Underground Duchy Opponent</b></size>
+tooltip.opponent.invalid=<size=125%><b>Factionless Opponent</b></size>
+tooltip.playmat.citadel=<size=125%><b>Citadel</b></size>\
+tooltip.playmat.corvidplots=<size=125%><b>Corvid Conspiracy plots</b></size>
+tooltip.playmat.corvidstack=<size=125%><b>Corvid Conspiracy Warriors</b></size>
+tooltip.playmat.duchystack=<size=125%><b>Underground Duchy Warriors</b></size>
+tooltip.playmat.Ferry=<size=125%><b>Ferry</b></size>\
+tooltip.playmat.market=<size=125%><b>Market</b></size>\
+tooltip.playmat.plot.Bomb.Down=<size=125%><b>Hidden Bomb</b></size>\
+tooltip.playmat.plot.Down.opponent=<size=125%><b>Hidden Plot</b></size>\
+tooltip.playmat.plot.Extortion.Down=<size=125%><b>Hidden Extortion</b></size>\
+tooltip.playmat.plot.Extortion.Up=<size=125%><b>Revealed Extortion</b></size>\
+tooltip.playmat.plot.Extortion.Up.opponent=<size=125%><b>Revealed Extortion</b></size>\
+tooltip.playmat.plot.Raid.Down=<size=125%><b>Hidden Raid</b></size>\
+tooltip.playmat.plot.Raid.Up=<size=125%><b>Revealed Raid</b></size>\
+tooltip.playmat.plot.Raid.Up.opponent=<size=125%><b>Revealed Raid</b></size>\
+tooltip.playmat.plot.Snare.Down=<size=125%><b>Hidden Snare</b></size>\
+tooltip.playmat.plot.Snare.Up=<size=125%><b>Revealed Snare</b></size>\
+tooltip.playmat.plot.Snare.Up.opponent=<size=125%><b>Revealed Snare</b></size>\
+tooltip.playmat.tunnel=<size=125%><b>Tunnel</b></size>\
+tooltip.quickbattle.disabled=3D battles are disabled on your device for performance reasons.
+tooltip.revealed.cards.duchy=<size=125%><b>Revealed Cards</b></size><br>View the cards Underground Duchy have revealed since the start of their most recent turn.
+tooltip.trailblaze=<size=125%><b>Clear Path</b></size>\
+Once per turn in Daylight, a player can discard a card from hand to open a mountain path and score <sprite name="1VP">. The player must have at least one piece in a clearing linked to the closed path to do so.
+tooltip.ui.buildmodal.extrawarrior=Building this increases the number of warriors placed in the Burrow during Birdsong.
+tooltip.ui.corvid.bombplots=<size=125%><b>Available Bomb Plots</b></size>\
+tooltip.ui.corvid.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
+tooltip.ui.corvid.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.ui.corvid.crafteditems=<size=125%><b>Crafted Items</b></size>\
+tooltip.ui.corvid.extortionplots=<size=125%><b>Available Extortion Plots</b></size>\
+tooltip.ui.corvid.raidplots=<size=125%><b>Available Raid Plots</b></size>\
+tooltip.ui.corvid.snareplots=<size=125%><b>Available Snare Plots</b></size>\
+tooltip.ui.corvid.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
+tooltip.ui.duchy.burrowwarriorcount=<size=125%><b>Warriors in Burrow</b></size>\

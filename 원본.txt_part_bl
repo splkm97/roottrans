@@ -1,0 +1,100 @@
+store.product.clockwork.storedescription=Tick...tock...tick...tock...<br><br>The battle for the wild wood kicks into gear with the Clockwork Expansion!<br><br>Four fiendishly automated enemy factions bring new challenges to Root in a customizable alternative to the game's AI! Can you overcome the mechanical menace and secure your right to rule the forest?<br><br>Introduces Co-op Play! Team up to take on powerful automated opponents!<br><br> Mechanical Marquise 2.0<br>This is the simplest of the bots and can be used to fill out the player count in dozens of configurations. Though this bot is straightforward, don’t get complacent. At least one player will need to keep it in check!<br><br>Electrical Eyrie<br>The Electric Eyrie will inspire fear in the most stalwart of players. Like the Eyrie Dynasties, this bot can ramp up its action potential aggressively.<br><br>Automated Alliance<br>The Automated Alliance is especially zealous and will revolt frequently. Keep in mind their potential targets so you avoid any unpleasant surprises. Once they do establish a foothold, timing is critical. Don’t let them consolidate their warriors or you’ll be in trouble!<br><br>Vagabot<br>The Vagabot makes for a capricious friend or foe. Like a human player, he will reward those who craft items. But be careful, he can make for a dangerous enemy once he gets enough items to boost his maximum hits.
+store.verificationFailed=DLC integrity cannot be verified, please restart with an internet connection to verify.
+store.restorePurchases=Restore Purchases
+store.restorePurchasesError.default=An error occurred. Please check your internet connection and try again.
+store.product.wintermap.name=The Winter Map
+store.product.riverfolk.name=The Riverfolk Expansion
+store.product.riverfolk.description=Two new factions join the fray! The Riverfolk Company and the Lizard Cult bring new strategic twists to the battle to rule the woodland. <br><br>Three new Vagabonds - the Scoundrel, the Vagrant, and the Arbiter - help you swindle out a victory!
+store.product.riverfolk.shortdescription=The Riverfolk arrive in Root! Two new factions join the fray!
+store.product.riverfolk.storedescription=Two new factions and Vagabond variants bring new challenges to Root! <br><br>Riverfolk Company<br>The Riverfolk Company is open for business – the woodland may be at war, but there's no reason you can't make a profit! Establish trade posts and earn your victory! <br><br>Lizard Cult<br>Spread the scaly gospel of the Lizard Cult! Tend your gardens to radicalize new acolytes, and reveal the true extent of your proselytizing power! <br><br>New Vagabond Variants!<br>Three new Vagabonds skulk into the woodland to help you swindle your way to victory! The Scoundrel torches the woodland rather than see others rule it; the Vagrant starts fights that others have to finish; and the Arbiter offers their services...for a price, of course! <br><br>New Challenges!<br>New single-player scenarios and tutorials help you learn the wily ways of the latest woodland warriors!
+code.redeem.CodeRedeemed=Code Redeemed!
+code.redeem.error.NoDefinition=Code does not have a code definition associated to it
+code.redeem.error.CodeNotFound=Code was not found
+code.redeem.error.PerCodeLimitReachedByOther=The per code count limit has been reached for this code by another user
+code.redeem.error.PerCodeLimitReachedBySelf=The per code count limit has been reached for this code
+code.redeem.error.UserLimitReachedByOther=The per user limit has been reached for this code
+code.redeem.error.UserLimitReachedBySelf=The per user limit has been reached for this code
+code.redeem.error.NoProducts=This code will not grant any products
+code.redeem.error.NotStarted=This code is not available yet
+code.redeem.error.RedemptionEnded=Code time frame is over
+code.redeem.equip.immediate=Code Redeemed! Would you like to equip the cosmetic now?
+code.redeem.error.ios=Code cannot be redeemed on iOS. Please visit our website for code redemption at...
+code.redeem.error.NoLoggedIn=Code cannot be redeemed. Please log in or create an account.
+store.product.cosmetic.eyrie.emigre.name=Eyrie Emigre Premium Skin
+store.product.cosmetic.marquise.marquiseinboots.name=Marquise-in-Boots Premium Skin
+store.login.warning.description=If you intend to play on multiple platforms, please sign in to your account before purchasing.
+expansion.exiles.name=The Exiles and Partisans Deck
+store.purchase.error.invalidregion=This product is not yet available in your region.
+store.product.miniexpansion.name=Exiles & Partisans & Vagabonds
+store.product.miniexpansion.description=Three new Vagabonds are sneaking through the forest!<br>Plus an all-new deck for an even wilder wood!<br>Contains the Vagabond Pack & Exiles and Partisans Deck.
+store.product.underworldexpansion.name=The Underworld Expansion
+store.product.underworldexpansion.description=Conquer new battlefields as you journey into the Underworld of Root!<br>Contains the Underground Duchy and Corvid Conspiracy factions, and the Mountain and Lake maps!
+store.product.marauderexpansion.name=The Marauder Expansion
+store.product.marauderexpansion.description=Two new factions!<br>Lord of the Hundreds – Oppress the Woodland and burn it to the ground if need be. You suffer no dissent.<br>Keepers in Iron – Lead your exiled order of devout knights into battle to recover ancient relics. For glory!
+store.product.marauderexpansion.name.short=The Marauder Expansion
+scenario.journeytothenorth.name=Journey to the North
+scenario.journeytothenorth.tier1description=Rule the 4 Northmost clearings to win (no need to score victory points).
+scenario.town.name=Tinker Town
+scenario.town.tier1description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker.
+scenario.town.tier2description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker and can't use quests. Opponents start with <style="vpnum">5</style>.
+scenario.delivery.name=Egg Collector
+scenario.delivery.tier1description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>.
+scenario.delivery.tier2description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>. You start with only 2 warriors.
+scenario.work.name=Work Work Work
+scenario.work.tier1description=Your starting buildings are three workshops.
+scenario.work.tier2description=Your starting buildings are three workshops. Opponents start with <style="vpnum">5</style>.
+scenario.ww.name=Winter Warriors
+scenario.ww.tier1description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards.
+scenario.ww.tier2description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards and start with no supporters.
+Log.Eyrie.Selects.Character=<color=#3a63cb>Eyrie Dynasties</color> selects [name] as their leader, adding a <sprite name="birdicon"> to their [area1] and [area2] decrees.
+Log.Eyrie.Selects.Roost=[faction name] builds their starting roost in a [suit icon] clearing
+Log.Vagabond.Character=[faction name] chooses [name] as their character.
+Log.Keep.Choice=[faction name] places their Keep in a [suit icon] clearing.
+Log.SetupBuilding.Choice=[faction name] places their [piece] in a [suit icon] clearing.
+Log.Start.Game=Start of Game
+Log.Start.Turn=[faction name] Turn
+Log.Birdsong=<sprite name="Birdsong">Birdsong
+Log.Daylight=<sprite name="Daylight">Daylight
+Log.Evening=<sprite name="Evening">Evening
+Log.initiate.battle=[faction name] initiates a battle against [faction name 2] in a [suit icon] clearing.
+Log.Ambush=[faction name] ambushes [faction name 2] with a [suit icon] ambush.
+Log.Ambush.Cancel=[faction name] cancels [faction name 2] ambush with a [suit icon] ambush.
+Log.Roll=[faction name] takes the [X] die. [faction name 2] takes the [X2] die.
+Log.Defenseless.Hit=[faction name] gains an additional hit since their opponent is defenseless.
+Log.Casualties=[faction name] loses [pieces]
+Log.Nonvagabond.Move=[faction name] moves [X] warriors into a [suit icon] clearing.
+Log.Craft.Persistent=[faction name] crafts [name].
+Log.Craft.Item=[faction name] crafted [name], gaining [item icon] and [X] <style="vptext">VP</style>.
+Log.Build=[faction name] builds a [building name] in a [suit icon] clearing.
+Log.Recruit.single=[faction name] recruits a warrior in a [suit icon] clearing.
+Log.Recruit.multiple=[faction name] recruits [X] warriors.
+Log.Discard.eot=[faction name] discards [X] cards to meet their hand size limit.
+Log.Draw=[faction name] draws [X] cards
+Log.Generic.Scoring=[faction name] gains  [X] <style="vptext">VP</style>.
+Log.Claim.Dominance.supply=[faction name] discarded a [suit icon] card to claim [suit icon 2] [name] from the supply.
+Log.Reshuffle=The deck ran out of cards and has been reshuffled.
+Log.Aid=[faction name] exhausts a [item icon] to aid [faction name 2] with a card.
+Log.Aid.Item=[faction name] receives a [item icon] in return for aid.
+Log.Slip.Clearing=[faction name] slips into a [suit icon] clearing
+Log.Slip.Forest=[faction name] slips into a forest.
+Log.Quest=[faction name] exhausts [item icon] and [item icon 2] to complete the [name] quest.
+Log.Quest.Draw.Reward=[faction name] draws 2 cards for their quest reward.
+Log.Quest.Point.Reward=[faction name] scores [X] <style="vptext">VP</style> for their quest reward.
+Log.Relationship.1=[faction name] increases their relationship with [faction name 2] to level 1, scoring 1 <style="vptext">VP</style>.
+Log.Relationship.2=[faction name] increases their relationship with [faction name 2] to level 2, scoring 2 <style="vptext">VP</style>.
+Log.Relationship.3=[faction name] increases their relationship with [faction name 2] to allied, scoring 2 <style="vptext">VP</style>.
+Log.Relationship.Hostile=[faction name] becomes hostile to the [faction name 2].
+Log.Refresh=[faction name] refreshes the following items in Birdsong: [items]
+Log.Explore=[faction name] explores a ruin in a [suit icon] clearing. They score 1 <style="vptext">VP</style>. and gain a [item icon].
+Log.Strike=[faction name] strikes a [faction name 2] [piece] in a [suit icon] clearing.
+Log.Repair=[faction name] exhausts <sprite name="hammer"> to repair [item icon].
+Log.Evenings.Rest=[faction name] repairs all items with Evenings Rest.
+Log.Satchel.Discard=[faction name] removes the following items from their satchel since it was over stuffed: [items]
+Log.Steal=[faction name] uses Steal, exhausting <sprite name="torch"> to take a random card from [faction name 2].
+Log.Hideout=[faction name] uses Hideout, exhausting <sprite name="torch"> to repair [items]. This ends daylight.
+Log.Day.Labor=[faction name] uses Day Labor, exhausting <sprite name="torch"> to take a card from the discard pile into their hand.
+Log.Move.Vagabond=[faction name] exhausts <sprite name="boot"> to move into a [suit icon] clearing.
+Log.Vagabond.item.damage.gen=[faction name] damages the following items: [items]
+Log.Enter.Coalition=[faction name] enters a Coalition with [faction name 2].
+Log.Move.Buddy=[faction name] moves with [X] [faction name 2] warriors.
+Log.Outrage=[faction name] causes outrage, adding a card to the <color=#008D3F>Woodland Alliance</color> supporters.
