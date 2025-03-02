@@ -48,53 +48,53 @@ log.corvid.recruit=[faction name]이(가) [name]을(를) 버려 각 [suit icon] 
 log.corvid.setup=[faction name]이(가) [suit icon] 공터에 전사를 배치했다.
 log.duchy.build=[faction name]이(가) [name]을(를) 공개하여 [building name]을(를) [suit icon] 공터에 배치했다.
 log.duchy.dig=[faction name]이(가) [name]을(를) 버려 [suit icon] 공터에 터널을 배치했다. [X]명의 전사가 은신처에서 이동했다.
-log.duchy.dig.nomove=[faction name] discards [name] to place a tunnel in a [suit icon] clearing.
-log.duchy.dig.tunnel.removed=[faction name] removes a tunnel from a [suit icon] clearing.
-log.duchy.Evening.step1.bird=[faction name] returns their revealed cards to their hand and discards the following revealed bird cards: [cardnames]
-log.duchy.Evening.step1.nobird=[faction name] returns their revealed cards to their hand.
-log.duchy.failure=[faction name] returns [name] and discards [cardname] due to Price of Failure.
-log.duchy.lord.score=[faction name] activates [name] to score [X] <style="vptext">VP</style>.
-log.duchy.move=<color=#BD5752>Underground Duchy</color> moves [X] warriors into a [suit icon] clearing.
-log.duchy.move.burrow=<color=#BD5752>Underground Duchy</color> moves [X] warriors from the Burrow into a [suit icon] clearing.
-log.duchy.move.one=<color=#BD5752>Underground Duchy</color> moves 1 warrior into a [suit icon] clearing.
-log.duchy.move.one.burrow=<color=#BD5752>Underground Duchy</color> moves 1 warrior from the Burrow into a [suit icon] clearing.
-log.duchy.recruit=[faction name] places a warrior in the Burrow.
-log.duchy.setup=[faction name] places their starting tunnel and 2 warriors in a [suit icon] corner clearing. 2 more warriors are placed in each adjacent clearing.
-log.duchy.sway=[faction name] reveals [cardnames] to sway [name] gaining [X] <style="vptext">VP</style>.
-log.embedded.agents=[faction name] gets an extra hit for their hidden plot token in the clearing of battle.
-log.exert=[faction name] uses Exert to to gain an extra Daylight action in Evening. As payment, they will skip drawing cards in Evening.
-log.exposure.failure=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals [name] to guess [plot token name]. The guess is incorrect and the [faction name 2] takes [name].
-log.exposure.failure.opponent=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals a card to guess [plot token name]. The guess is incorrect and the [faction name 2] takes the revealed card.
-log.exposure.success=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals [name] to guess [plot token name]. The guess is correct and the [plot token name] is removed.
-log.exposure.success.opponent=[faction name] attempts to expose a plot token in a [suit icon] clearing and reveals a card to guess [plot token name]. The guess is correct and the [plot token name] is removed.
-log.flip=[faction name] reveals [plot token name] in a [suit icon] clearing, scoring [X] <style="vptext">VP</style>.
-log.flip.resolution.bomb=Bomb removes [pieces] from [faction name].
-log.flip.resolution.extortion=[faction name] takes a card from [faction name 2].
-log.foremole=[faction name] activates Foremole, revealing [name] to place [building name] in a [suit icon] clearing.
-log.lake.Ferry=[faction name] used the Ferry while moving and drew a card.
-log.marshal=[faction name] activates Marshal for a move.
-log.mayor=[faction name] copies the action of [name] with Mayor.
-log.navalwarfare.hit=[faction name] scores a Naval Warfare hit.
-log.playerwon=[faction name] Wins!
-log.plot=[faction name] removes [X] warriors from a [suit icon] clearing to place a hidden plot there.
-log.plot.one=[faction name] removes one of their warriors from a [suit icon] clearing to place a hidden plot there.
-log.spawn.burrow=[X] Warrior(s) added to the Burrow
-log.Tower.score=[faction name] gains 1 <style="vptext">VP</style> for ruling the clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color>.
-log.trick=[faction name] swapped the location of two plot tokens.
-ministertype.lords=Lords
-ministertype.nobles=Nobles
-ministertype.squires=Squires
-mountain.intro=Welcome to The Mountain! There are a few things you should know if you want to be the ruler around here.
-mountain.pass=The clearing with the <sprite name="TowerToken"> <color=#6E5656>Tower</color> is called the Pass. At the end of a player’s Evening, they score <sprite name="1VP"> if they rule the Pass.
-mountain.path=There are some closed paths here that will need to be cleared if you want to move through them. Once per turn in Daylight, a player can spend a card to turn an adjacent closed path into a working one, and score <sprite name="1VP">.
-playerinfo.corvid.Birdsong=1st: Craft - using plots, revealed or hidden. <br><br>2nd: Reveal - plot tokens of your choice in clearings with any Corvid warriors. For each reveal, score 1 VP per revealed plot on the map, then resolve its reveal effect, if any. <br><br> 3rd: Recruit - Once per turn, spend any card to place one warrior in each matching clearing.
-playerinfo.corvid.Daylight=Take up to 3 actions. <br><br><sprite index=96>Plot<br>Remove one Corvid warrior, plus one per plot token you placed this turn, from a clearing with no plot token to place a hidden plot token there. <br><br><sprite index=96>Trick<br>Swap two plot tokens, both revealed or hidden, on the map.<br><br><sprite index=96>Move<br><br><sprite index=96>Battle
-playerinfo.corvid.embeddedagents.description=In battle as defender with a hidden plot token, you deal an extra hit.
-playerinfo.corvid.embeddedagents.title=Embedded Agents
-playerinfo.corvid.Evening=1st: Exert<size=80%> - You may take an extra Daylight action. If you do, you do not draw cards during your next draw step.<br><br></size=80%>2nd: Draw <size=80%>1 card, plus 1 card per <sprite index=97> on the map.<br></size=80%><br>Discard <size=80%>down to 5 cards.
-playerinfo.corvid.exposure.description=An enemy player in a clearing with a hidden plot token may show you a card matching the suit of the clearing to guess the plot's type. If correct, the plot is removed. Otherwise, you get the revealed card.
-playerinfo.corvid.exposure.title=Exposure
-playerinfo.corvid.nimble.description=You can move regardless of who rules your clearing.
-playerinfo.corvid.nimble.title=Nimble
-playerinfo.corvid.offensiveagents.description=When attacking in a clearing with a hidden plot token, you deal an extra hit.
-playerinfo.corvid.offensiveagents.title=Offensive Agents
+log.duchy.dig.nomove=[faction name]이(가) [name]을(를) 버리고 [suit icon] 공터에 터널을 놓음.  
+log.duchy.dig.tunnel.removed=[faction name]이(가) [suit icon] 공터에서 터널을 제거함.  
+log.duchy.Evening.step1.bird=[faction name]이(가) 공개한 카드를 손으로 되돌리고, 공개된 새 카드 [cardnames]을(를) 버림.  
+log.duchy.Evening.step1.nobird=[faction name]이(가) 공개한 카드를 손으로 되돌림.  
+log.duchy.failure=[faction name]이(가) 실패의 대가로 [name]을(를) 되돌리고 [cardname]을(를) 버림.  
+log.duchy.lord.score=[faction name]이(가) [name]을(를) 활성화하여 [X] <style="vptext">VP</style>을(를) 획득함.  
+log.duchy.move=<color=#BD5752>지하 공국</color>이(가) [X]명의 전사를 [suit icon] 공터로 이동함.  
+log.duchy.move.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 [X]명의 전사를 [suit icon] 공터로 이동함.  
+log.duchy.move.one=<color=#BD5752>지하 공국</color>이(가) 1명의 전사를 [suit icon] 공터로 이동함.  
+log.duchy.move.one.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 1명의 전사를 [suit icon] 공터로 이동함.  
+log.duchy.recruit=[faction name]이(가) 은신처에 전사를 배치함.  
+log.duchy.setup=[faction name]이(가) 시작 터널과 전사 2명을 [suit icon] 모서리 공터에 배치함. 인접한 각 공터에 전사 2명을 추가로 배치함.  
+log.duchy.sway=[faction name]이(가) [cardnames]을(를) 공개하여 [name]을(를) 포섭하고 [X] <style="vptext">VP</style>을(를) 획득함.  
+log.embedded.agents=[faction name]이(가) 전투가 벌어진 공터에 숨겨진 음모 토큰이 있어 추가 피해를 줌.  
+log.exert=[faction name]이(가) 압박을 사용하여 저녁에 추가 낮 행동을 수행함. 그 대가로 이번 턴에 카드를 뽑지 않음.  
+log.exposure.failure=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, [name]을(를) 공개하여 [plot token name]이라고 추측함. 추측이 틀렸으며, [faction name 2]이(가) [name]을(를) 가져감.  
+log.exposure.failure.opponent=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, 카드를 공개하여 [plot token name]이라고 추측함. 추측이 틀렸으며, [faction name 2]이(가) 공개된 카드를 가져감.  
+log.exposure.success=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, [name]을(를) 공개하여 [plot token name]이라고 추측함. 추측이 맞았으며, [plot token name]이(가) 제거됨.  
+log.exposure.success.opponent=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, 카드를 공개하여 [plot token name]이라고 추측함. 추측이 맞았으며, [plot token name]이(가) 제거됨.  
+log.flip=[faction name]이(가) [suit icon] 공터에서 [plot token name]을(를) 공개하여 [X] <style="vptext">VP</style>을(를) 획득함.  
+log.flip.resolution.bomb=폭탄이 [faction name]의 [pieces]을(를) 제거함.  
+log.flip.resolution.extortion=[faction name]이(가) [faction name 2]에게서 카드를 빼앗음.  
+log.foremole=[faction name]이(가) 땅두더지를 활성화하여 [name]을(를) 공개하고 [suit icon] 공터에 [building name]을(를) 배치함.  
+log.lake.Ferry=[faction name]이(가) 페리를 이용해 이동한 후 카드를 뽑음.  
+log.marshal=[faction name]이(가) 원수(Marshal)를 활성화하여 이동함.  
+log.mayor=[faction name]이(가) 시장(Mayor)의 능력으로 [name]의 행동을 복제함.  
+log.navalwarfare.hit=[faction name]이(가) 해상 전투에서 추가 피해를 줌.  
+log.playerwon=[faction name]이(가) 승리함!  
+log.plot=[faction name]이(가) [suit icon] 공터에서 전사 [X]명을 제거하고 숨겨진 음모를 배치함.  
+log.plot.one=[faction name]이(가) [suit icon] 공터에서 전사 1명을 제거하고 숨겨진 음모를 배치함.  
+log.spawn.burrow=[X]명의 전사가 은신처에 추가됨.  
+log.Tower.score=[faction name]이(가) <sprite name="TowerToken"> <color=#6E5656>탑</color>이 있는 공터를 지배하여 1 <style="vptext">VP</style>을(를) 획득함.  
+log.trick=[faction name]이(가) 두 개의 음모 토큰 위치를 바꿈.  
+ministertype.lords=영주  
+ministertype.nobles=귀족  
+ministertype.squires=시종  
+mountain.intro=산맥에 온 것을 환영합니다! 이곳에서 지배자가 되려면 몇 가지 알아야 할 점이 있습니다.  
+mountain.pass=<sprite name="TowerToken"> <color=#6E5656>탑</color>이 있는 공터는 "협곡"이라 불립니다. 플레이어의 저녁 단계가 끝날 때 협곡을 지배하고 있다면 <sprite name="1VP">을(를) 획득합니다.  
+mountain.path=이곳에는 이동하려면 개척해야 하는 막힌 길이 있습니다. 낮 동안 한 번, 카드를 사용하여 인접한 막힌 길을 개척하고 <sprite name="1VP">을(를) 획득할 수 있습니다.  
+playerinfo.corvid.Birdsong=1단계: 제작 - 공개되었거나 숨겨진 음모를 사용해 제작합니다. <br><br>2단계: 공개 - 까마귀 모략단 전사가 있는 공터에서 원하는 음모 토큰을 공개합니다. 지도에 공개된 음모 토큰 1개당 1VP를 얻고, 공개 효과를 해결합니다. <br><br>3단계: 모집 - 한 번에 원하는 카드를 소비하여 일치하는 공터마다 전사를 1명씩 배치합니다.  
+playerinfo.corvid.Daylight=최대 3회 행동을 수행합니다. <br><br><sprite index=96>음모<br>공터에서 까마귀 모략단 전사 1명(이 턴에 배치한 음모 토큰 1개당 추가 1명)을 제거하고 숨겨진 음모 토큰을 배치합니다. <br><br><sprite index=96>속임수<br>지도에 있는 두 개의 음모 토큰(공개/숨김)을 서로 교환합니다.<br><br><sprite index=96>이동<br><br><sprite index=96>전투  
+playerinfo.corvid.embeddedagents.description=숨겨진 음모 토큰이 있는 공터에서 방어자로 전투를 수행할 때, 추가 피해를 입힙니다.  
+playerinfo.corvid.embeddedagents.title=잠입 요원  
+playerinfo.corvid.Evening=1단계: 압박<size=80%> - 추가 낮 행동을 수행할 수 있습니다. 대신, 다음 카드 뽑기 단계에서 카드를 뽑지 않습니다.<br><br></size=80%>2단계: 카드 뽑기 <size=80%>기본 1장 + 지도에 있는 <sprite index=97> 1개당 1장.<br></size=80%><br>손에 있는 카드를 5장 이하로 정리합니다.  
+playerinfo.corvid.exposure.description=숨겨진 음모 토큰이 있는 공터에 있는 적 플레이어는 공터의 문양과 일치하는 카드를 공개하여 음모의 종류를 추측할 수 있습니다. 추측이 맞으면 음모가 제거됩니다. 틀리면 공개된 카드를 가져갑니다.  
+playerinfo.corvid.exposure.title=노출  
+playerinfo.corvid.nimble.description=해당 공터를 지배하는 세력과 관계없이 이동할 수 있습니다.  
+playerinfo.corvid.nimble.title=기민함  
+playerinfo.corvid.offensiveagents.description=숨겨진 음모 토큰이 있는 공터에서 공격자로 전투를 수행할 때, 추가 피해를 입힙니다.  
+playerinfo.corvid.offensiveagents.title=공격 요원  
