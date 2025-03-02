@@ -68,33 +68,33 @@ aiplayername.lizardCult=도마뱀 교단
 riverfolkWithColor=<color=#397F7F>리버포크 주식회사</color>
 cultWithColor=<color=#748421>도마뱀 교단</color>
 vagabondWithColorAndCharacter=<color=#436979>[character name] 방랑자</color>
-vagabondWithColorAndCharacter2=<color=#436979>[character name 2] Vagabond</color>
-tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>Hated Outcast</b></size>\
-tooltip.ui.lizardcult.outcast=<size=125%><b>Outcast</b></size>\
-log.riverfolk.protectionism=<color=#397F7F>Riverfolk Company</color> adds [X] warriors to payments since it was empty at the start of Birdsong.
-log.riverfolk.dividends=<color=#397F7F>Riverfolk Company</color> gains [X] victory points from dividends.
-log.riverfolk.gather=<color=#397F7F>Riverfolk Company</color> moves [X] warriors into their funds.
-log.riverfolk.move=<color=#397F7F>Riverfolk Company</color> commits a fund to move [X] warriors into a [suit icon] clearing.
-log.riverfolk.move.one=<color=#397F7F>Riverfolk Company</color> commits a fund to move 1 warrior into a [suit icon] clearing.
-log.riverfolk.battle=<color=#397F7F>Riverfolk Company</color> commits a fund to initiate a battle against [faction name 2] in a [suit icon] clearing.
-Log.riverfolk.Craft.Persistent=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name].
-Log.riverfolk.Craft.Item=<color=#397F7F>Riverfolk Company</color> commits [X2] funds to craft [name], gaining [item icon] and [X] <style="vptext">VP</style>.
-Log.Riverfolk.Craft.for.Warriors=<color=#397F7F>Riverfolk Company</color> commits [X] funds to craft [name] for a payment instead of the cards effect.
-log.riverfolk.draw=<color=#397F7F>Riverfolk Company</color> commits [X] funds to draw a card.
-log.riverfolk.recruit=<color=#397F7F>Riverfolk Company</color> spends a fund to recruit a warrior in a [suit icon] clearing.
-log.riverfolk.trade.post=<color=#397F7F>Riverfolk Company</color> spends [X] funds to establish a trade post in a [suit icon] clearing, scoring <style=vpnum">2</style>.
-log.riverfolk.set.price=<color=#397F7F>Riverfolk Company</color> sets [service name] service price to [X].
-log.riverfolk.setup=<color=#397F7F>Riverfolk Company</color> adds [X] warriors to a [suit icon] clearing for set up.
-log.riverfolk.trade.discard=<color=#397F7F>Riverfolk Company</color> loses [X] funds because a trade post was removed.
-log.buy.service.hand=[faction name] purchases the Hand Card service from the Riverfolk Company for [X], taking [suit icon][name].
-log.buy.service.riverboats=[faction name] purchases the Riverboats service from the Riverfolk Company for [X].
-log.buy.service.mercenaries=[faction name] purchases the Mercenaries service from the Riverfolk Company for [X].
-log.cult.setup.garden=<color=#748421>Lizard Cult</color> places their starting garden and 4 warriors in a [suit icon] clearing. 1 warrior is placed in each adjacent clearing.
-log.cult.outcast=The Outcast becomes [suit icon].
-log.cult.outcast.hated=The [suit icon] Outcast is now hated.
-log.cult.outcast.no.change=The Hated Outcast stays [suit icon].
-log.cult.crusade=<color=#748421>Lizard Cult</color> spends [X] acolytes to Crusade.
-log.cult.convert=<color=#748421>Lizard Cult</color> spends [X] acolytes to Convert a [faction name] warrior in a [suit icon] clearing to a Lizard Cult warrior.
-log.cult.sanctify=<color=#748421>Lizard Cult</color> spends [X] acolytes to Sanctify a [faction name] building in a [suit icon] clearing, replacing it with a garden.
-log.cult.build=<color=#748421>Lizard Cult</color> reveals [name] to build a garden in a [suit icon] clearing.
-log.cult.recruit=<color=#748421>Lizard Cult</color> reveals [name] to recruit a warrior in a [suit icon] clearing.
+vagabondWithColorAndCharacter2=<color=#436979>[character name 2] 방랑자</color>
+tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>증오받는 추방자</b></size>\
+tooltip.ui.lizardcult.outcast=<size=125%><b>추방자</b></size>\
+log.riverfolk.protectionism=<color=#397F7F>리버포크 주식회사</color>가 새벽 시작 시 자금이 비어 있었기 때문에 [X]명의 전사를 추가로 받습니다.
+log.riverfolk.dividends=<color=#397F7F>리버포크 주식회사</color>가 배당금으로 [X] 승점<sprite name="vp">을 획득합니다.
+log.riverfolk.gather=<color=#397F7F>리버포크 주식회사</color>가 [X]명의 전사를 자금으로 이동시킵니다.
+log.riverfolk.move=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [X]명의 전사를 [suit icon] 공터로 이동시킵니다.
+log.riverfolk.move.one=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 전사 1명을 [suit icon] 공터로 이동시킵니다.
+log.riverfolk.battle=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [suit icon] 공터에서 [faction name 2]와 전투를 개시합니다.
+Log.riverfolk.Craft.Persistent=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작합니다.
+Log.riverfolk.Craft.Item=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작하고, [item icon]과 [X] <style="vptext">승점</style>을 획득합니다.
+Log.Riverfolk.Craft.for.Warriors=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 [name]을(를) 카드 효과 대신 자금으로 제작합니다.
+log.riverfolk.draw=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 카드를 뽑습니다.
+log.riverfolk.recruit=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [suit icon] 공터에서 전사를 모집합니다.
+log.riverfolk.trade.post=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 [suit icon] 공터에 교역소를 세우고, <style="vpnum">2</style> 승점을 획득합니다.
+log.riverfolk.set.price=<color=#397F7F>리버포크 주식회사</color>가 [service name] 서비스 가격을 [X]으로 설정합니다.
+log.riverfolk.setup=<color=#397F7F>리버포크 주식회사</color>가 설정을 위해 [suit icon] 공터에 [X]명의 전사를 추가합니다.
+log.riverfolk.trade.discard=<color=#397F7F>리버포크 주식회사</color>가 교역소가 제거되어 [X] 자금을 잃습니다.
+log.buy.service.hand=[faction name]이(가) 리버포크 주식회사로부터 핸드 카드 서비스를 [X]의 비용으로 구매하고, [suit icon][name]을(를) 가져갑니다.
+log.buy.service.riverboats=[faction name]이(가) 리버포크 주식회사로부터 보트 서비스를 [X]의 비용으로 구매합니다.
+log.buy.service.mercenaries=[faction name]이(가) 리버포크 주식회사로부터 용병 서비스를 [X]의 비용으로 구매합니다.
+log.cult.setup.garden=<color=#748421>도마뱀 교단</color>이(가) 시작 정원을 배치하고, [suit icon] 공터에 전사 4명을 놓습니다. 또한, 인접한 각 공터에 전사 1명을 배치합니다.
+log.cult.outcast=추방자가 [suit icon](으)로 변경됩니다.
+log.cult.outcast.hated=[suit icon] 추방자가 이제 증오받는 추방자가 됩니다.
+log.cult.outcast.no.change=증오받는 추방자가 그대로 유지됩니다. ([suit icon])
+log.cult.crusade=<color=#748421>도마뱀 교단</color>이(가) 성전을 위해 신도 [X]명을 소모합니다.
+log.cult.convert=<color=#748421>도마뱀 교단</color>이(가) [suit icon] 공터에서 [faction name]의 전사 한 명을 개종시키고, 도마뱀 교단 전사로 변경합니다.
+log.cult.sanctify=<color=#748421>도마뱀 교단</color>이(가) [suit icon] 공터에서 [faction name]의 건물을 축성하고, 이를 정원으로 교체합니다.
+log.cult.build=<color=#748421>도마뱀 교단</color>이(가) [name]을(를) 공개하여 [suit icon] 공터에 정원을 건설합니다.
+log.cult.recruit=<color=#748421>도마뱀 교단</color>이(가) [name]을(를) 공개하여 [suit icon] 공터에서 전사를 모집합니다.
