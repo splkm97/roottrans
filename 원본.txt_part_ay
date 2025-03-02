@@ -1,100 +1,100 @@
-tooltip.playmat.hundredswarlord=<size=125%><b>Warlord</b></size>
-tooltip.ability.hundreds.craftforvp=<size=125%><b>Craft for  <style="vptext">VP</style></b></size>\
-tooltip.ability.hundreds.crafttohoard=<size=125%><b>Craft to Hoard</b></size>\
-tooltip.ability.hundreds.build=<size=125%><b>Build</b></size>\
-tooltip.playmat.relic.title=<size=125%><b>Relics</b></size>\
-tooltip.configure.player=Configure Player
-tooltip.ability.hundreds.temperamental.normal=<size=125%><b>Temperamental</b></size>\
-tooltip.ability.hundreds.temperamental.heroic=<size=125%><b>Temperamental</b></size>\
-title.lordofthehundreds=Lord of the Hundreds
-rule.lordofthehundreds.intro1=<i>Claiming to be the one true voice of the Woodland, the Lord of the Hundreds consolidates power by crushing all dissent. In their Evening, they score points based on how many clearings they</i> <b>oppress</b>—<i>clearings they rule that have no enemy pieces at all. Their swarming army is led by the</i> <b>warlord</b><i>, a warrior-demagogue whose shifting</i> <b>mood</b> <i>provides fleeting advantages.
-rule.lordofthehundreds.intro2=By piling items onto their towering</i> <b>Hoard</b><i>,the Hundreds grow in</i> <b>Command</b> <i>and</i> <b>Prowess</b><i>, which let them take more actions and attract more warriors to their warlord. If that is not enough, they can incite torch-wielding</i> <b>mobs</b> <i>to raze the Woodland.</i>
-rule.lordofthehundreds.setup1=<b>Step 1: Place Warriors</b><br>Place your warlord, 4 warriors, and 1 stronghold in a corner clearing that another player has not chosen as their starting clearing.
-lht.1.14.gamepad=Evening falls, but the raiding has just begun. You can discard a card to <color=#B40518><b>Incite</b></color> a <sprite name="Mob"><color=#B40518><b>mob</b></color> in a matching clearing that has a <sprite name="HundredsWarrior"><color=#B40518>warrior</color> but no <sprite name="Mob">!
-lht.2.12.gamepad=To build a <sprite name="Stronghold"><color=#B40518>stronghold</color>, you must spend a card of a suit matching the clearing you want to build in.
-lht.3.5.gamepad=Craft the <sprite name="teapot"> in your hand to continue growing your <color=#B40518>Hoard</color>.
-title.keepersiniron=Keepers in Iron
-prompt.hundreds.choosetoloot.header=Loot the Defender?
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber=Choose the number of warriors to move with your warlord
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber.opponent=[player] are advancing their warlord.
-shortfactionnames.keepersiniron=Keepers
-shortfactionnames.lordofthehundreds=Hundreds
-prompt.advancedsetup.keepersiniron.homeland.1=Choose a homeland clearing to place four warriors. It must be on the map edge with 2+ clearings between it and enemy homelands.
-prompt.advancedsetup.keepersiniron.homeland.1.opponent=[player] is choosing a homeland clearing.
-prompt.advancedsetup.keepersiniron.homeland.2=Choose a second homeland clearing to place four warriors. It must be adjacent to your other homeland, on the map edge, and with 2+ clearings between it and enemy homelands.
-prompt.advancedsetup.keepersiniron.homeland.2.opponent=[player] is choosing a second homeland clearing.
-prompt.advancedsetup.lordofthehundreds.homeland=Choose a homeland clearing to place your warlord, 4 warriors, and a stronghold. It must be on the map edge with 2+ clearings between it and enemy homelands.
-prompt.advancedsetup.lordofthehundreds.homeland.opponent=[player] is choosing a homeland clearing.
-tooltip.devoutknights.battle=<size=125%><b>Devout Knights</b></size><br>The first hit is ignored because there is a relic and Keepers warrior in this clearing.
-tooltip.wrathful.battle=<size=125%><b>Wrathful Mood</b></size><br>As attacker in battle with their warlord, Hundreds deal an additional hit.
-tooltip.stubborn.battle=<size=125%><b>Stubborn Mood</b></size><br>In battle with their warlord, Hundreds ignore the first hit they take.
-warning.keepers.ironritual=You will no longer be able to win this challenge if you recover this relic. Are you sure you want to do so?
-prompt.retinueselect.header=Choose Retinue card to use
-prompt.supporterselect.header=Choose Supporter card to use
-prompt.buildingselect.cats.toggle=Choose wood to spend
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraftTemp=Unable to craft (Temperamental). Press continue.
-scenario.classic.tier1description=Normal game against two Easy AI.
-scenario.classic.tier2description=Normal game against two Medium AI.
-scenario.classic.tier3description=Normal game against three Hard AI.
-scenario.fairfight.description=Ambush cards are removed from the deck.
-scenario.fairfight.tier2description=Ambush cards are removed from the deck. Opponents start with <style="vpnum">5</style>.
-scenario.assemblyline.description.1=Gain an additional <style="vpone">1</style> whenever you craft a card. Opponents start with <style="vpnumddteen">10</style> and all players need <style="vpnumdd">40</style> to win.
-scenario.assemblyline.description.3=Gain an additional <style="vpnum">2</style> whenever you craft a card. Opponents start with <style="vpnumdd">25</style> and all players need <style="vpnumdd">50</style> to win.
-scenario.scrappyfighters.tier1description=There are no Armorers in the deck. There are double the number of Sappers, Brutal Tactics, and Command Warren.
-scenario.scrappyfighters.tier2description=There are no Armorers in the deck. There are double the number of Sappers, Brutal Tactics, and Command Warren in the deck and your opponents each start with one of them.
-scenario.riverwaywarfare.description=Clearings connected by rivers are considered adjacent.
-scenario.riverwaywarfare.tier2description=Clearings connected by rivers are considered adjacent. Opponents start with <style="vpnum">5</style>.
-scenario.totaldomination.description=You begin the game with a random dominance card in hand. You can only win using dominance.
-scenario.battleinthebranches.description=Warriors can move into and out of forests and battle in them. At the end of a players turn, if they control more forests than any other player, they draw a card.
-scenario.thelonggame.tier1description=The first player to <style="vpnumdd">40</style> wins.
-scenario.thelonggame.tier2description=The first player to <style="vpnumdd">50</style> wins. Enemies start with <style="vpnum">5</style>
-scenario.thelonggame.tier3description=The first player to <style="vpnumdd">60</style> wins. Enemies start with <style="vpnumddteen">10</style>
-scenario.medic.tier1description=Your Field Hospital ability automatically rescues warriors for no cost.
-scenario.medic.tier2description=Your Field Hospital ability automatically rescues warriors for no cost. Each enemy starts with Brutal Tactics and <style="vpnum">5</style> .
-scenario.builder.tier2description=You start with three sawmills at the start of the game and one warrior in those spaces instead of a warrior in each clearing.
-scenario.builder.tier3description=You start with three sawmills at the start of the game and one warrior in those spaces instead of a warrior in each clearing. Building sawmills does not score you victory points.
-scenario.castlesiege.tier1description=You can't win unless the Marquise keep is destroyed.
-scenario.castlesiege.tier3description=You can't win unless the Marquise keep is destroyed. The Marquise start with three additional warriors in their keep.
-scenario.thetrueking.tier1description=Whenever you enter turmoil you keep the same leader but lose an additional <style="vpone">1</style> .
-scenario.thetrueking.tier2description=Whenever you enter turmoil you keep the same leader but lose an additional <style="vpnum">2</style> .
-scenario.thetrueking.tier3description=If you enter turmoil, you lose.
-scenario.ruletheroost.tier1description=You can't score <style="vptext">VP</style> . Instead, you win if you place all your roosts. Enemies gain <style="vpnum">3</style> when destroying your roosts.
-scenario.ruletheroost.tier2description=You can't score <style="vptext">VP</style> . Instead, you win if you place all your roosts. Enemies gain <style="vpnum">4</style> when destroying your roosts and have it out for them.
-scenario.pacifist.tier1description=You can't initiate attacks or strikes.
-scenario.pacifist.tier2description=You can't initiate attacks or strikes. You can't win without reaching the highest level of friendship with another player.
-scenario.winwin.tier1description=You can only win in a coalition. You start with a dominance card in hand.
-scenario.winwin.tier2description=You can only win in a coalition. You start with only a dominance card in hand.
-scenario.baseofsupport.tier1description=You can't win unless you have all three bases on the map.
-scenario.baseofsupport.tier2description=You can't win unless you have all three bases on the map. Enemies start with <style="vpnum">5</style> .
-scenario.statehood.tier1description=You start with a base on the map in a corner space with 1 warrior and 1 officer. You cannot start revolts. Training costs you an additional matching card.
-scenario.statehood.tier2description=You start with a base on the map in a corner space with 1 warrior and 1 officer. You cannot start revolts. Training costs you two additional matching cards.
-vagabond.coalition.1=In four player games, the Vagabond can play a dominance card to form a coalition with the enemy with the fewest victory points.
-vagabond.coalition.2=In a coalition the vagabond can no longer win with their own score. Instead, they share the victory if the player they made the coalition with wins.
-scenario.classic.name=Classic
-scenario.fairfight.name=Fair Fight
-scenario.assemblyline.name=Assembly Line
-scenario.scrappyfighters.name=Scrappy Fighters
-scenario.riverwaywarfare.name=Riverway Warfare
-scenario.totaldomination.name=Total Domination
-scenario.battleinthebranches.name=Battle in the Branches
-scenario.thelonggame.name=The Long Game
-scenario.medic.name=Medic!
-scenario.builder.name=Builder
-scenario.castlesiege.name=Castle Siege
-scenario.thetrueking.name=The True King
-scenario.ruletheroost.name=Rule the Roost
-scenario.pacifist.name=Pacifist
-scenario.winwin.name=Win-Win
-scenario.baseofsupport.name=Base of Support
-scenario.statehood.name=Statehood
-root.attribute.mouse=mouse
-root.attribute.fox=fox
-root.attribute.rabbit=rabbit
-root.cardname.favorofthefoxes=Favor of the Foxes
-root.cardname.favorofthemice=Favor of the Mice
-root.cardname.favoroftherabbits=Favor of the Rabbits
-root.cardname.royalclaim=Royal Claim
-root.cardname.bakesale=Bake Sale
-root.cardname.investments=Investments
-root.cardname.protectionracket=Protection Racket
-root.cardname.scoutingparty=Scouting Party
+tooltip.playmat.hundredswarlord=<size=125%><b>전쟁군주</b></size>
+tooltip.ability.hundreds.craftforvp=<size=125%><b>VP를 위한 제작</b></size>\
+tooltip.ability.hundreds.crafttohoard=<size=125%><b>보물 창고로 제작</b></size>\
+tooltip.ability.hundreds.build=<size=125%><b>건설</b></size>\
+tooltip.playmat.relic.title=<size=125%><b>유물</b></size>\
+tooltip.configure.player=플레이어 설정
+tooltip.ability.hundreds.temperamental.normal=<size=125%><b>변덕스러움</b></size>\
+tooltip.ability.hundreds.temperamental.heroic=<size=125%><b>변덕스러움</b></size>\
+title.lordofthehundreds=수백마리 들쥐 군주
+rule.lordofthehundreds.intro1=<i>우드랜드의 진정한 목소리라고 주장하는 수백마리 들쥐 군주는 모든 반대를 짓밟으며 권력을 강화합니다. 그들의 저녁에, 그들은 그들이</i> <b>억압한</b><i> 공터 수에 따라 점수를 얻습니다—적의 조각이 전혀 없는 자신이 지배하는 공터입니다. 그들의 몰려드는 군대는 </i> <b>전쟁군주</b><i>, 기분에 따라 유동적인 이 전사-선동가가 이끕니다.</i>
+rule.lordofthehundreds.intro2=<i>그들의 거대한</i> <b>보물 창고</b><i>에 아이템을 쌓아 올리며, 수백마리 들쥐 군주는 </i> <b>명령</b> <i>과</i> <b>기량</b><i>을 키워 더 많은 행동을 하고 전쟁군주에게 더 많은 전사들을 끌어들입니다. 그것만으로는 부족하면, 그들은</i> <b>폭도</b><i>를 선동해 우드랜드를 불태울 수 있습니다.</i>
+rule.lordofthehundreds.setup1=<b>1단계: 전사 배치</b><br>다른 플레이어가 시작 공터로 선택하지 않은 구석 공터에 전쟁군주, 4명의 전사, 1개의 주둔지를 배치하세요.
+lht.1.14.gamepad=저녁이 다가오지만, 습격은 이제 시작되었습니다. 카드를 버려 <color=#B40518><b>폭도</b></color>를 일으킬 수 있습니다. 폭도는 전사만 있고 폭도는 없는 일치하는 공터에 있습니다.
+lht.2.12.gamepad=<sprite name="Stronghold"><color=#B40518>주둔지</color>를 건설하려면 건설할 공터의 문양에 맞는 카드를 사용해야 합니다.
+lht.3.5.gamepad=손에 있는 <sprite name="teapot">을(를) 제작하여 <color=#B40518>보물 창고</color>를 계속 확장하세요.
+title.keepersiniron=강철의 수호자
+prompt.hundreds.choosetoloot.header=수비자를 약탈할까요?
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber=전쟁군주와 함께 이동할 전사 수를 선택하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveNumber.opponent=[player]가 전쟁군주를 이동시키고 있습니다.
+shortfactionnames.keepersiniron=수호자
+shortfactionnames.lordofthehundreds=수백마리 들쥐
+prompt.advancedsetup.keepersiniron.homeland.1=네 개의 전사를 배치할 본토 공터를 선택하세요. 이 공터는 맵의 가장자리에 위치해야 하며, 적의 본토와 2개 이상의 공터가 떨어져 있어야 합니다.
+prompt.advancedsetup.keepersiniron.homeland.1.opponent=[player]가 본토 공터를 선택하고 있습니다.
+prompt.advancedsetup.keepersiniron.homeland.2=네 개의 전사를 배치할 두 번째 본토 공터를 선택하세요. 이 공터는 다른 본토와 인접해야 하며, 맵의 가장자리에 위치하고, 적의 본토와 2개 이상의 공터가 떨어져 있어야 합니다.
+prompt.advancedsetup.keepersiniron.homeland.2.opponent=[player]가 두 번째 본토 공터를 선택하고 있습니다.
+prompt.advancedsetup.lordofthehundreds.homeland=전쟁군주, 4명의 전사, 1개의 주둔지를 배치할 본토 공터를 선택하세요. 이 공터는 맵의 가장자리에 위치해야 하며, 적의 본토와 2개 이상의 공터가 떨어져 있어야 합니다.
+prompt.advancedsetup.lordofthehundreds.homeland.opponent=[player]가 본토 공터를 선택하고 있습니다.
+tooltip.devoutknights.battle=<size=125%><b>신앙심 깊은 기사들</b></size><br>이 공터에 유물과 수호자 전사가 있으면 첫 번째 공격을 무시합니다.
+tooltip.wrathful.battle=<size=125%><b>분노의 기분</b></size><br>전쟁군주와 함께 전투 중일 때, 수백마리 들쥐는 추가 피해를 입힙니다.
+tooltip.stubborn.battle=<size=125%><b>완강한 기분</b></size><br>전쟁군주와 함께 전투 중일 때, 수백마리 들쥐는 첫 번째 공격을 무시합니다.
+warning.keepers.ironritual=이 유물을 회수하면 더 이상 이 도전을 이길 수 없습니다. 정말 회수하시겠습니까?
+prompt.retinueselect.header=사용할 후비 카드 선택
+prompt.supporterselect.header=사용할 지지자 카드 선택
+prompt.buildingselect.cats.toggle=지불할 나무 선택
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraftTemp=제작할 수 없습니다(변덕스러움). 계속을 눌러주세요.
+scenario.classic.tier1description=두 명의 쉬운 AI와의 일반 게임.
+scenario.classic.tier2description=두 명의 중간 난이도 AI와의 일반 게임.
+scenario.classic.tier3description=세 명의 어려운 AI와의 일반 게임.
+scenario.fairfight.description=매복 카드는 덱에서 제거됩니다.
+scenario.fairfight.tier2description=매복 카드는 덱에서 제거됩니다. 상대는 <style="vpnum">5</style>에서 시작합니다.
+scenario.assemblyline.description.1=카드를 제작할 때마다 추가로 <style="vpone">1</style>을 얻습니다. 상대는 <style="vpnumddteen">10</style>에서 시작하며, 모든 플레이어는 <style="vpnumdd">40</style>을 필요로 합니다.
+scenario.assemblyline.description.3=카드를 제작할 때마다 추가로 <style="vpnum">2</style>을 얻습니다. 상대는 <style="vpnumdd">25</style>에서 시작하며, 모든 플레이어는 <style="vpnumdd">50</style>을 필요로 합니다.
+scenario.scrappyfighters.tier1description=덱에 갑옷 제작자가 없습니다. 사퍼, 잔인한 전술, 지휘소가 두 배로 존재합니다.
+scenario.scrappyfighters.tier2description=덱에 갑옷 제작자가 없습니다. 사퍼, 잔인한 전술, 지휘소가 두 배로 존재하고, 상대는 각자 하나씩 시작합니다.
+scenario.riverwaywarfare.description=강으로 연결된 공터는 인접한 것으로 간주됩니다.
+scenario.riverwaywarfare.tier2description=강으로 연결된 공터는 인접한 것으로 간주됩니다. 상대는 <style="vpnum">5</style>에서 시작합니다.
+scenario.totaldomination.description=게임 시작 시 랜덤한 지배 카드가 손에 주어집니다. 지배로만 승리할 수 있습니다.
+scenario.battleinthebranches.description=전사들은 숲으로 들어가고 나올 수 있으며 숲에서 전투를 벌일 수 있습니다. 턴이 끝날 때, 숲을 가장 많이 지배하는 플레이어는 카드를 뽑습니다.
+scenario.thelonggame.tier1description=첫 번째 플레이어가 <style="vpnumdd">40</style>을 달성하면 승리합니다.
+scenario.thelonggame.tier2description=첫 번째 플레이어가 <style="vpnumdd">50</style>을 달성하면 승리합니다. 적은 <style="vpnum">5</style>로 시작합니다.
+scenario.thelonggame.tier3description=첫 번째 플레이어가 <style="vpnumdd">60</style>을 달성하면 승리합니다. 적은 <style="vpnumddteen">10</style>으로 시작합니다.
+scenario.medic.tier1description=귀하의 야전 병원 능력은 자동으로 전사들을 구출합니다, 비용 없이.
+scenario.medic.tier2description=귀하의 야전 병원 능력은 자동으로 전사들을 구출합니다, 비용 없이. 각 적은 잔혹한 전술과 <style="vpnum">5</style>로 시작합니다.
+scenario.builder.tier2description=게임 시작 시 3개의 제재소를 배치하고, 각 공터에 전사 대신 제재소에 1명의 전사를 배치합니다.
+scenario.builder.tier3description=게임 시작 시 3개의 제재소를 배치하고, 각 공터에 전사 대신 제재소에 1명의 전사를 배치합니다. 제재소를 건설해도 승리 점수를 얻을 수 없습니다.
+scenario.castlesiege.tier1description=고양이 후작의 요새가 파괴되지 않으면 승리할 수 없습니다.
+scenario.castlesiege.tier3description=고양이 후작의 요새가 파괴되지 않으면 승리할 수 없습니다. 고양이 후작은 요새에 3명의 추가 전사를 배치하고 시작합니다.
+scenario.thetrueking.tier1description=혼란에 빠질 때마다 같은 지도자를 유지하지만 추가로 <style="vpone">1</style>을 잃습니다.
+scenario.thetrueking.tier2description=혼란에 빠질 때마다 같은 지도자를 유지하지만 추가로 <style="vpnum">2</style>을 잃습니다.
+scenario.thetrueking.tier3description=혼란에 빠지면 패배합니다.
+scenario.ruletheroost.tier1description=당신은 <style="vptext">VP</style>를 얻을 수 없습니다. 대신, 모든 로스트를 배치하면 승리합니다. 적은 당신의 로스트를 파괴할 때 <style="vpnum">3</style>을 얻습니다.
+scenario.ruletheroost.tier2description=당신은 <style="vptext">VP</style>를 얻을 수 없습니다. 대신, 모든 로스트를 배치하면 승리합니다. 적은 당신의 로스트를 파괴할 때 <style="vpnum">4</style>을 얻고 이를 파괴하려 합니다.
+scenario.pacifist.tier1description=당신은 공격이나 타격을 시작할 수 없습니다.
+scenario.pacifist.tier2description=당신은 공격이나 타격을 시작할 수 없습니다. 다른 플레이어와 최고의 친선 관계에 도달하지 않으면 승리할 수 없습니다.
+scenario.winwin.tier1description=당신은 연합에서만 승리할 수 있습니다. 당신은 손에 지배 카드가 있습니다.
+scenario.winwin.tier2description=당신은 연합에서만 승리할 수 있습니다. 당신은 손에 지배 카드만 있습니다.
+scenario.baseofsupport.tier1description=당신은 지도에서 세 개의 기지를 모두 배치해야만 승리할 수 있습니다.
+scenario.baseofsupport.tier2description=당신은 지도에서 세 개의 기지를 모두 배치해야만 승리할 수 있습니다. 적은 <style="vpnum">5</style>로 시작합니다.
+scenario.statehood.tier1description=당신은 지도에서 모퉁이에 기지 1개와 전사 1명, 장교 1명을 배치하고 시작합니다. 반란을 시작할 수 없습니다. 훈련은 추가로 일치하는 카드가 필요합니다.
+scenario.statehood.tier2description=당신은 지도에서 모퉁이에 기지 1개와 전사 1명, 장교 1명을 배치하고 시작합니다. 반란을 시작할 수 없습니다. 훈련은 두 개의 일치하는 카드가 추가로 필요합니다.
+vagabond.coalition.1=4인 플레이 시, 방랑자는 지배 카드를 사용하여 가장 적은 승리 점수를 가진 적과 연합을 형성할 수 있습니다.
+vagabond.coalition.2=연합에서는 방랑자가 독립적으로 승리할 수 없습니다. 대신, 연합을 맺은 플레이어가 승리하면 방랑자도 함께 승리합니다.
+scenario.classic.name=클래식
+scenario.fairfight.name=공정한 싸움
+scenario.assemblyline.name=조립 라인
+scenario.scrappyfighters.name=거친 전사들
+scenario.riverwaywarfare.name=강변 전투
+scenario.totaldomination.name=완전 지배
+scenario.battleinthebranches.name=가지 속 전투
+scenario.thelonggame.name=긴 게임
+scenario.medic.name=의무병!
+scenario.builder.name=건축가
+scenario.castlesiege.name=성 요새
+scenario.thetrueking.name=진정한 왕
+scenario.ruletheroost.name=지배의 둥지
+scenario.pacifist.name=평화주의자
+scenario.winwin.name=윈-윈
+scenario.baseofsupport.name=지지의 기지
+scenario.statehood.name=국가의 상태
+root.attribute.mouse=들쥐
+root.attribute.fox=여우
+root.attribute.rabbit=토끼
+root.cardname.favorofthefoxes=여우의 호의
+root.cardname.favorofthemice=들쥐의 호의
+root.cardname.favoroftherabbits=토끼의 호의
+root.cardname.royalclaim=왕의 주장
+root.cardname.bakesale=베이크 세일
+root.cardname.investments=투자
+root.cardname.protectionracket=보호 협정
+root.cardname.scoutingparty=정찰대
