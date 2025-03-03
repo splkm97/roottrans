@@ -1,100 +1,100 @@
-tooltip.ui.alliance.warriorcount=<size=125%><b>Reserve (Warriors + Officers)</b></size>\
-tooltip.ui.alliance.officercount=<size=125%><b>Officers</b></size>\
-tooltip.ability.alliance.revolt=<size=125%><b>Revolt</b></size>\
-tooltip.ability.alliance.spreadsympathy=<size=125%><b>Spread Sympathy</b></size>\
-tooltip.ability.alliance.mobilize=<size=125%><b>Mobilize</b></size>\
-tooltip.ability.alliance.organize=<size=125%><b>Organize</b></size>\
-tooltip.ability.alliance.battle=<size=125%><b>Battle</b></size>\
-tooltip.ability.alliance.move=<size=125%><b>Move</b></size>\
-tooltip.ability.alliance.train=<size=125%><b>Train</b></size>\
-tooltip.ability.alliance.recruit=<size=125%><b>Recruit</b></size>\
-tooltip.ui.eyrie.warriorcount=<size=125%><b>Warriors in Reserve</b></size>\
-tooltip.ability.eyrie.recruitdecree=<size=125%><b>Recruit Decree</b></size>\
-tooltip.ability.eyrie.movedecree=<size=125%><b>Move Decree</b></size>\
-tooltip.ability.eyrie.battledecree=<size=125%><b>Battle Decree</b></size>\
-tooltip.ability.eyrie.builddecree=<size=125%><b>Build Decree</b></size>\
-tooltip.ui.vagabond.backpack=<size=125%><b>Satchel</b></size>\
-Each <sprite name="sword"> provides 1 additional attack power.
-Unexhausted <sprite name="teapot">, <sprite name="coinstack">, and <sprite name="bag"> don't take up satchel space.
-tooltip.ui.vagabond.quest=<size=125%><b>Available Quests</b></size>\
-tooltip.ability.vagabond.move=<size=125%><b>Move</b></size>\
-tooltip.ability.vagabond.attack=<size=125%><b>Battle</b></size>\
-tooltip.ability.vagabond.explore=<size=125%><b>Explore</b></size>\
-tooltip.ability.vagabond.aid=<size=125%><b>Aid</b></size>\
-tooltip.ability.vagabond.quest=<size=125%><b>Quest</b></size>\
-tooltip.ability.vagabond.strike=<size=125%><b>Strike</b></size>\
-tooltip.ability.vagabond.repair=<size=125%><b>Repair</b></size>\
-tooltip.ability.vagabond.craft=<size=125%><b>Craft</b></size>\
-Craft a card from your hand. All of your <sprite name="hammer"> match your current clearing.
-tooltip.ability.vagabond.steal=<size=125%><b>Steal</b></size> - Exhaust <sprite name="torch"> to take a random card from a player in your clearing.
-tooltip.ability.vagabond.hideout=<size=125%><b>Hideout</b></size> - Exhaust <sprite name="torch"> to repair three items. Then, immediately end Daylight.
-tooltip.ability.vagabond.daylabor=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.
-tooltip.ability.vagabond.daylabor.disabled=<size=125%><b>Day Labor</b></size> - Exhaust <sprite name="torch"> to take a card from the discard pile matching your clearing.<br><br> Currently unavailable because your <sprite name="torch"> is exhausted, there are no cards in the discard pile matching the suit of your clearing, or because you are in a forest.
-tooltip.ability.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b></size> - Discard <sprite name="torch"> to remove all enemy pieces in your clearing. Pieces can no longer be placed or moved into the scorched clearing. Cannot be used in a clearing with the Keep.
-tooltip.clearing.vagabond.scorchedearth=<size=125%><b>Scorched Earth</b>\
-tooltip.ability.vagabond.instigate=<size=125%><b>Instigate</b></size> - Exhaust <sprite name="torch"> to initiate a battle in your clearing. You choose both attacker and defender and you remove pieces for each.
-tooltip.playmat.base=<size=125%><b>Base</b></size>\
-tooltip.playmat.recruiter=<size=125%><b>Recruiter</b></size>\
-tooltip.playmat.roost=<size=125%><b>Roost</b></size>\
-tooltip.playmat.ruin=<size=125%><b>Ruin</b></size>\
-tooltip.playmat.ruin.favor=<size=125%><b>Ruin</b></size>\
-tooltip.playmat.ruin.availableitems=<br>Available Items:
+tooltip.ui.alliance.warriorcount=<size=125%><b>남은 병사 (전사 + 장교)</b></size>
+tooltip.ui.alliance.officercount=<size=125%><b>장교</b></size>
+tooltip.ability.alliance.revolt=<size=125%><b>반란</b></size>
+tooltip.ability.alliance.spreadsympathy=<size=125%><b>동조 확산</b></size>
+tooltip.ability.alliance.mobilize=<size=125%><b>조직화</b></size>
+tooltip.ability.alliance.organize=<size=125%><b>정비</b></size>
+tooltip.ability.alliance.battle=<size=125%><b>전투</b></size>
+tooltip.ability.alliance.move=<size=125%><b>이동</b></size>
+tooltip.ability.alliance.train=<size=125%><b>훈련</b></size>
+tooltip.ability.alliance.recruit=<size=125%><b>모집</b></size>
+tooltip.ui.eyrie.warriorcount=<size=125%><b>남은 병사</b></size>
+tooltip.ability.eyrie.recruitdecree=<size=125%><b>모집 규율</b></size>
+tooltip.ability.eyrie.movedecree=<size=125%><b>이동 규율</b></size>
+tooltip.ability.eyrie.battledecree=<size=125%><b>전투 규율</b></size>
+tooltip.ability.eyrie.builddecree=<size=125%><b>건설 규율</b></size>
+tooltip.ui.vagabond.backpack=<size=125%><b>배낭</b></size>
+각 <sprite name="sword">는 추가 공격력 1을 제공합니다.
+소모되지 않은 <sprite name="teapot">, <sprite name="coinstack">, 그리고 <sprite name="bag">은 배낭 공간을 차지하지 않습니다.
+tooltip.ui.vagabond.quest=<size=125%><b>수행 가능한 퀘스트</b></size>
+tooltip.ability.vagabond.move=<size=125%><b>이동</b></size>
+tooltip.ability.vagabond.attack=<size=125%><b>전투</b></size>
+tooltip.ability.vagabond.explore=<size=125%><b>탐색</b></size>
+tooltip.ability.vagabond.aid=<size=125%><b>지원</b></size>
+tooltip.ability.vagabond.quest=<size=125%><b>퀘스트</b></size>
+tooltip.ability.vagabond.strike=<size=125%><b>기습</b></size>
+tooltip.ability.vagabond.repair=<size=125%><b>수리</b></size>
+tooltip.ability.vagabond.craft=<size=125%><b>제작</b></size>
+손에서 카드를 제작합니다. 모든 <sprite name="hammer">은 현재 공터와 동일한 문양을 가집니다.
+tooltip.ability.vagabond.steal=<size=125%><b>도둑질</b></size> - <sprite name="torch">을 소모하여 같은 공터에 있는 플레이어에게서 무작위 카드 한 장을 가져옵니다.
+tooltip.ability.vagabond.hideout=<size=125%><b>은신처</b></size> - <sprite name="torch">을 소모하여 아이템 세 개를 수리합니다. 그런 다음 즉시 낮 단계를 종료합니다.
+tooltip.ability.vagabond.daylabor=<size=125%><b>일일 노동</b></size> - <sprite name="torch">을 소모하여 현재 공터와 같은 문양의 버려진 카드 한 장을 가져옵니다.
+tooltip.ability.vagabond.daylabor.disabled=<size=125%><b>일일 노동</b></size> - <sprite name="torch">을 소모하여 현재 공터와 같은 문양의 버려진 카드 한 장을 가져옵니다.<br><br> 현재 사용할 수 없습니다. 이유: <sprite name="torch">이 소모되었거나, 버려진 카드 더미에 현재 공터와 같은 문양의 카드가 없거나, 숲에 위치해 있음.
+tooltip.ability.vagabond.scorchedearth=<size=125%><b>초토화</b></size> - <sprite name="torch">을 버려 현재 공터의 모든 적군 말들을 제거합니다. 해당 공터에는 더 이상 말이 배치되거나 이동할 수 없습니다. 요새가 있는 공터에서는 사용할 수 없습니다.
+tooltip.clearing.vagabond.scorchedearth=<size=125%><b>초토화</b></size>
+tooltip.ability.vagabond.instigate=<size=125%><b>선동</b></size> - <sprite name="torch">을 소모하여 현재 공터에서 전투를 시작합니다. 공격자와 방어자를 직접 선택하며, 각각의 말들을 제거합니다.
+tooltip.playmat.base=<size=125%><b>기지</b></size>
+tooltip.playmat.recruiter=<size=125%><b>모병소</b></size>
+tooltip.playmat.roost=<size=125%><b>둥지</b></size>
+tooltip.playmat.ruin=<size=125%><b>유적</b></size>
+tooltip.playmat.ruin.favor=<size=125%><b>유적</b></size>
+tooltip.playmat.ruin.availableitems=<br>획득 가능한 아이템:
 tooltip.playmat.ruin.itementry=<br><size=150%><sprite name="{0}"></size>
-tooltip.playmat.sawmill=<size=125%><b>Sawmill</b></size>\
-tooltip.playmat.workshop=<size=125%><b>Workshop</b></size>\
-tooltip.playmat.keep=<size=125%><b>Keep</b></size>\
-tooltip.playmat.woodstack=<size=125%><b>Wood Tokens</b></size><br> Used to pay for buildings in connected clearings. Can't produce more wood if you already have 8 on the map.
-tooltip.playmat.catstack=<size=125%><b>Marquise Warriors</b></size>
-tooltip.playmat.birdstack=<size=125%><b>Eyrie Warriors</b></size>
-tooltip.playmat.alliancestack=<size=125%><b>Alliance Warriors</b></size>
-tooltip.playmat.vagabond=<size=125%><b>Vagabond</b></size>
-tooltip.playmat.vagabot=<size=125%><b>Vagabot</b></size>
-tooltip.playmat.sympathystack=<size=125%><b>Sympathy Token</b></size>\
-tooltip.playmat.cancelaction=<size=125%><b>Cancel</b></size>
-tooltip.ability.alliance.craft=<size=125%><b>Craft</b></size>\
-tooltip.ability.eyrie.craft=<size=125%><b>Craft</b></size>\
-tooltip.ability.cat.craft=<size=125%><b>Craft</b></size>\
-tooltip.item.sack=<size=125%><b>Bag</b></size>\
-The Vagabond uses <sprite name="coinstack"> to draw additional cards during evening.
-tooltip.item.boot=<size=125%><b>Boot</b></size>\
-tooltip.item.crossbow=<size=125%><b>Crossbow</b></size>\
-tooltip.item.hammer=<size=125%><b>Hammer</b></size>\
-tooltip.item.sword=<size=125%><b>Sword</b></size>\
-tooltip.item.teapot=<size=125%><b>Tea Pot</b></size>\
-tooltip.item.torch=<size=125%><b>Torch</b></size>\
-tooltip.item.goldstack=<size=125%><b>Coin Stack</b></size>\
-tooltip.item.fromruins=\
-tooltip.item.invalid=Invalid Item
-tooltip.ui.eyrie.drawrate=<size=125%><b>Draw Rate</b></size>\
-tooltip.ui.marquise.drawrate=<size=125%><b>Draw Rate</b></size>\
-tooltip.ui.alliance.drawrate=<size=125%><b>Draw Rate</b></size>\
-tooltip.ui.vagabond.drawrate=<size=125%><b>Draw Rate</b></size>\
-tooltip.ui.lizardcult.drawrate=<size=125%><b>Draw Rate</b></size>\
-tooltip.ui.eyrie.crafteditems=<size=125%><b>Crafted Items</b></size>\
-tooltip.ui.marquise.crafteditems=<size=125%><b>Crafted Items</b></size>\
-tooltip.ui.alliance.crafteditems=<size=125%><b>Crafted Items</b></size>\
-tooltip.ui.eyrie.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-tooltip.ui.marquise.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-tooltip.ui.alliance.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-toolitp.ui.vagabond.cardsinhand=<size=125%><b>Cards in Hand</b></size>\
-tooltip.ui.alliance.supportersinfo=<size=125%><b>Supporters</b></size>\
-tooltip.ui.alliance.officersinfo=<size=125%><b>Officers</b></size>\
-tooltip.ui.alliance.unplacedbase=<size=125%><b>Unplaced Bases</b></size>\
-tooltip.prompts.vagabonditems.remainingselections=<size=125%><b>Remaining Selections</b></size>\
-tooltip.prompts.vagabonditems.relationship=<size=125%><b>Warning!</b></size>\
-tooltip.ui.alliance.craftedcards=<size=125%><b>Crafted Cards</b></size>\
-tooltip.ui.alliance.sympathysupportercost=<size=125%><b>Supporter Cost</b></size>\
-tooltip.ui.eyrie.craftedcards=<size=125%><b>Crafted Cards</b></size>\
+tooltip.playmat.sawmill=<size=125%><b>제재소</b></size>
+tooltip.playmat.workshop=<size=125%><b>작업장</b></size>
+tooltip.playmat.keep=<size=125%><b>요새</b></size>
+tooltip.playmat.woodstack=<size=125%><b>목재 토큰</b></size><br> 연결된 공터에서 건물을 짓는 데 사용됩니다. 지도에 이미 8개가 있으면 추가로 생산할 수 없습니다.
+tooltip.playmat.catstack=<size=125%><b>고양이 후작 병사</b></size>
+tooltip.playmat.birdstack=<size=125%><b>이어리 왕조 병사</b></size>
+tooltip.playmat.alliancestack=<size=125%><b>우드랜드 연합 병사</b></size>
+tooltip.playmat.vagabond=<size=125%><b>방랑자</b></size>
+tooltip.playmat.vagabot=<size=125%><b>방랑봇</b></size>
+tooltip.playmat.sympathystack=<size=125%><b>동조 토큰</b></size>
+tooltip.playmat.cancelaction=<size=125%><b>취소</b></size>
+tooltip.ability.alliance.craft=<size=125%><b>제작</b></size>
+tooltip.ability.eyrie.craft=<size=125%><b>제작</b></size>
+tooltip.ability.cat.craft=<size=125%><b>제작</b></size>
+tooltip.item.sack=<size=125%><b>가방</b></size>방랑자는 <sprite name="coinstack">을 사용해 저녁에 추가로 카드를 뽑을 수 있습니다.
+tooltip.item.boot=<size=125%><b>장화</b></size>
+tooltip.item.crossbow=<size=125%><b>석궁</b></size>
+tooltip.item.hammer=<size=125%><b>망치</b></size>
+tooltip.item.sword=<size=125%><b>검</b></size>
+tooltip.item.teapot=<size=125%><b>찻주전자</b></size>
+tooltip.item.torch=<size=125%><b>횃불</b></size>
+tooltip.item.goldstack=<size=125%><b>금화 더미</b></size>
+tooltip.item.fromruins=
+tooltip.item.invalid=잘못된 아이템
+tooltip.ui.eyrie.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.marquise.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.alliance.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.alliance.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.vagabond.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.lizardcult.drawrate=<size=125%><b>카드 드로우</b></size>
+tooltip.ui.eyrie.crafteditems=<size=125%><b>제작된 아이템</b></size>
+tooltip.ui.marquise.crafteditems=<size=125%><b>제작된 아이템</b></size>
+tooltip.ui.alliance.crafteditems=<size=125%><b>제작된 아이템</b></size>
+tooltip.ui.eyrie.cardsinhand=<size=125%><b>손패</b></size>
+tooltip.ui.marquise.cardsinhand=<size=125%><b>손패</b></size>
+tooltip.ui.alliance.cardsinhand=<size=125%><b>손패</b></size>
+toolitp.ui.vagabond.cardsinhand=<size=125%><b>손패</b></size>
+tooltip.ui.alliance.supportersinfo=<size=125%><b>지지자</b></size>
+tooltip.ui.alliance.officersinfo=<size=125%><b>장교</b></size>
+tooltip.ui.alliance.unplacedbase=<size=125%><b>배치되지 않은 기지</b></size>
+tooltip.prompts.vagabonditems.remainingselections=<size=125%><b>남은 선택</b></size>
+tooltip.prompts.vagabonditems.relationship=<size=125%><b>경고!</b></size>
+tooltip.ui.alliance.craftedcards=<size=125%><b>제작된 카드</b></size>
+tooltip.ui.alliance.sympathysupportercost=<size=125%><b>지지자 비용</b></size>
+tooltip.ui.eyrie.craftedcards=<size=125%><b>제작된 카드</b></size>
 tooltip.ui.eyrieleaderformat=<size=125%><b>{0}:</b> </size>{1}
-tooltip.ui.vagabond.craftedcards=<size=125%><b>Crafted Cards</b></size>\
-tooltip.ui.marquise.sawmillcost=<size=125%><b>Sawmill Cost</b></size>\
-tooltip.ui.marquise.workshopcost=<size=125%><b>Workshop Cost</b></size>\
-tooltip.ui.marquise.recruitercost=<size=125%><b>Recruiter Cost</b></size>\
-tooltip.ui.marquise.craftedcards=<size=125%><b>Crafted Cards</b></size>\
-tooltip.ui.vagabond.refreshrate=<size=125%><b>Refresh Rate</b></size>\
-tooltip.ui.vagabond.attackpower=<size=125%><b>Attack Power</b></size>\
-tooltip.ui.vagabondrelationship.hostile=<size=125%><b>Hostile</b></size>\
-The Vagabond must exhaust 1 additional <sprite name="boot"> to enter hostile clearings, and scores an extra <sprite name="1VP"> per hostile piece removed in battle.
-tooltip.ui.vagabondrelationship.indifferent=<size=125%><b>Indifferent</b></size>\
-The Vagabond may Aid a player to improve this relationship and score <sprite name="1VP">. Progress towards this goal is represented by filled in pips to the right of the heart.
-tooltip.ui.vagabondrelationship.one=<size=125%><b>Relationship</b></size>\
+tooltip.ui.vagabond.craftedcards=<size=125%><b>제작된 카드</b></size>
+tooltip.ui.marquise.sawmillcost=<size=125%><b>제재소 비용</b></size>
+tooltip.ui.marquise.workshopcost=<size=125%><b>작업장 비용</b></size>
+tooltip.ui.marquise.recruitercost=<size=125%><b>모병소 비용</b></size>
+tooltip.ui.marquise.craftedcards=<size=125%><b>제작된 카드</b></size>
+tooltip.ui.vagabond.refreshrate=<size=125%><b>회복 속도</b></size>
+tooltip.ui.vagabond.attackpower=<size=125%><b>공격력</b></size>
+tooltip.ui.vagabondrelationship.hostile=<size=125%><b>적대적</b></size>
+방랑자는 적대적인 공터에 들어가려면 추가로 <sprite name="boot"> 1개를 소모해야 하며, 전투에서 적대적인 말을 제거할 때마다 추가로 <sprite name="1VP">를 획득합니다.
+tooltip.ui.vagabondrelationship.indifferent=<size=125%><b>무관심</b></size>
+방랑자는 플레이어를 돕고 <sprite name="1VP">를 얻으며 관계를 개선할 수 있습니다. 이 관계의 진행도는 하트 오른쪽에 채워진 점으로 표시됩니다.
+tooltip.ui.vagabondrelationship.one=<size=125%><b>관계</b></size>
