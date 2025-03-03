@@ -1,100 +1,100 @@
-store.product.clockwork.storedescription=Tick...tock...tick...tock...<br><br>The battle for the wild wood kicks into gear with the Clockwork Expansion!<br><br>Four fiendishly automated enemy factions bring new challenges to Root in a customizable alternative to the game's AI! Can you overcome the mechanical menace and secure your right to rule the forest?<br><br>Introduces Co-op Play! Team up to take on powerful automated opponents!<br><br> Mechanical Marquise 2.0<br>This is the simplest of the bots and can be used to fill out the player count in dozens of configurations. Though this bot is straightforward, don’t get complacent. At least one player will need to keep it in check!<br><br>Electrical Eyrie<br>The Electric Eyrie will inspire fear in the most stalwart of players. Like the Eyrie Dynasties, this bot can ramp up its action potential aggressively.<br><br>Automated Alliance<br>The Automated Alliance is especially zealous and will revolt frequently. Keep in mind their potential targets so you avoid any unpleasant surprises. Once they do establish a foothold, timing is critical. Don’t let them consolidate their warriors or you’ll be in trouble!<br><br>Vagabot<br>The Vagabot makes for a capricious friend or foe. Like a human player, he will reward those who craft items. But be careful, he can make for a dangerous enemy once he gets enough items to boost his maximum hits.
-store.verificationFailed=DLC integrity cannot be verified, please restart with an internet connection to verify.
-store.restorePurchases=Restore Purchases
-store.restorePurchasesError.default=An error occurred. Please check your internet connection and try again.
-store.product.wintermap.name=The Winter Map
-store.product.riverfolk.name=The Riverfolk Expansion
-store.product.riverfolk.description=Two new factions join the fray! The Riverfolk Company and the Lizard Cult bring new strategic twists to the battle to rule the woodland. <br><br>Three new Vagabonds - the Scoundrel, the Vagrant, and the Arbiter - help you swindle out a victory!
-store.product.riverfolk.shortdescription=The Riverfolk arrive in Root! Two new factions join the fray!
-store.product.riverfolk.storedescription=Two new factions and Vagabond variants bring new challenges to Root! <br><br>Riverfolk Company<br>The Riverfolk Company is open for business – the woodland may be at war, but there's no reason you can't make a profit! Establish trade posts and earn your victory! <br><br>Lizard Cult<br>Spread the scaly gospel of the Lizard Cult! Tend your gardens to radicalize new acolytes, and reveal the true extent of your proselytizing power! <br><br>New Vagabond Variants!<br>Three new Vagabonds skulk into the woodland to help you swindle your way to victory! The Scoundrel torches the woodland rather than see others rule it; the Vagrant starts fights that others have to finish; and the Arbiter offers their services...for a price, of course! <br><br>New Challenges!<br>New single-player scenarios and tutorials help you learn the wily ways of the latest woodland warriors!
-code.redeem.CodeRedeemed=Code Redeemed!
-code.redeem.error.NoDefinition=Code does not have a code definition associated to it
-code.redeem.error.CodeNotFound=Code was not found
-code.redeem.error.PerCodeLimitReachedByOther=The per code count limit has been reached for this code by another user
-code.redeem.error.PerCodeLimitReachedBySelf=The per code count limit has been reached for this code
-code.redeem.error.UserLimitReachedByOther=The per user limit has been reached for this code
-code.redeem.error.UserLimitReachedBySelf=The per user limit has been reached for this code
-code.redeem.error.NoProducts=This code will not grant any products
-code.redeem.error.NotStarted=This code is not available yet
-code.redeem.error.RedemptionEnded=Code time frame is over
-code.redeem.equip.immediate=Code Redeemed! Would you like to equip the cosmetic now?
-code.redeem.error.ios=Code cannot be redeemed on iOS. Please visit our website for code redemption at...
-code.redeem.error.NoLoggedIn=Code cannot be redeemed. Please log in or create an account.
-store.product.cosmetic.eyrie.emigre.name=Eyrie Emigre Premium Skin
-store.product.cosmetic.marquise.marquiseinboots.name=Marquise-in-Boots Premium Skin
-store.login.warning.description=If you intend to play on multiple platforms, please sign in to your account before purchasing.
-expansion.exiles.name=The Exiles and Partisans Deck
-store.purchase.error.invalidregion=This product is not yet available in your region.
-store.product.miniexpansion.name=Exiles & Partisans & Vagabonds
-store.product.miniexpansion.description=Three new Vagabonds are sneaking through the forest!<br>Plus an all-new deck for an even wilder wood!<br>Contains the Vagabond Pack & Exiles and Partisans Deck.
-store.product.underworldexpansion.name=The Underworld Expansion
-store.product.underworldexpansion.description=Conquer new battlefields as you journey into the Underworld of Root!<br>Contains the Underground Duchy and Corvid Conspiracy factions, and the Mountain and Lake maps!
-store.product.marauderexpansion.name=The Marauder Expansion
-store.product.marauderexpansion.description=Two new factions!<br>Lord of the Hundreds – Oppress the Woodland and burn it to the ground if need be. You suffer no dissent.<br>Keepers in Iron – Lead your exiled order of devout knights into battle to recover ancient relics. For glory!
-store.product.marauderexpansion.name.short=The Marauder Expansion
-scenario.journeytothenorth.name=Journey to the North
-scenario.journeytothenorth.tier1description=Rule the 4 Northmost clearings to win (no need to score victory points).
-scenario.town.name=Tinker Town
-scenario.town.tier1description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker.
-scenario.town.tier2description=The deck of cards is stuffed with only items and the supply is unlimited. You start as the Tinker and can't use quests. Opponents start with <style="vpnum">5</style>.
-scenario.delivery.name=Egg Collector
-scenario.delivery.tier1description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>.
-scenario.delivery.tier2description=At the start of your turn, eggs appear in random clearings. When you move into a clearing with an egg, it hatches into an eyrie warrior. At the start of each opponent's turn, they crack an egg in a clearing they are in for <style="vpnum">1</style>. You start with only 2 warriors.
-scenario.work.name=Work Work Work
-scenario.work.tier1description=Your starting buildings are three workshops.
-scenario.work.tier2description=Your starting buildings are three workshops. Opponents start with <style="vpnum">5</style>.
-scenario.ww.name=Winter Warriors
-scenario.ww.tier1description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards.
-scenario.ww.tier2description=You start with three warriors and an officer and use warriors to craft this game instead of sympathy. You may not mobilize bird cards and start with no supporters.
-Log.Eyrie.Selects.Character=<color=#3a63cb>Eyrie Dynasties</color> selects [name] as their leader, adding a <sprite name="birdicon"> to their [area1] and [area2] decrees.
-Log.Eyrie.Selects.Roost=[faction name] builds their starting roost in a [suit icon] clearing
-Log.Vagabond.Character=[faction name] chooses [name] as their character.
-Log.Keep.Choice=[faction name] places their Keep in a [suit icon] clearing.
-Log.SetupBuilding.Choice=[faction name] places their [piece] in a [suit icon] clearing.
-Log.Start.Game=Start of Game
-Log.Start.Turn=[faction name] Turn
-Log.Birdsong=<sprite name="Birdsong">Birdsong
-Log.Daylight=<sprite name="Daylight">Daylight
-Log.Evening=<sprite name="Evening">Evening
-Log.initiate.battle=[faction name] initiates a battle against [faction name 2] in a [suit icon] clearing.
-Log.Ambush=[faction name] ambushes [faction name 2] with a [suit icon] ambush.
-Log.Ambush.Cancel=[faction name] cancels [faction name 2] ambush with a [suit icon] ambush.
-Log.Roll=[faction name] takes the [X] die. [faction name 2] takes the [X2] die.
-Log.Defenseless.Hit=[faction name] gains an additional hit since their opponent is defenseless.
-Log.Casualties=[faction name] loses [pieces]
-Log.Nonvagabond.Move=[faction name] moves [X] warriors into a [suit icon] clearing.
-Log.Craft.Persistent=[faction name] crafts [name].
-Log.Craft.Item=[faction name] crafted [name], gaining [item icon] and [X] <style="vptext">VP</style>.
-Log.Build=[faction name] builds a [building name] in a [suit icon] clearing.
-Log.Recruit.single=[faction name] recruits a warrior in a [suit icon] clearing.
-Log.Recruit.multiple=[faction name] recruits [X] warriors.
-Log.Discard.eot=[faction name] discards [X] cards to meet their hand size limit.
-Log.Draw=[faction name] draws [X] cards
-Log.Generic.Scoring=[faction name] gains  [X] <style="vptext">VP</style>.
-Log.Claim.Dominance.supply=[faction name] discarded a [suit icon] card to claim [suit icon 2] [name] from the supply.
-Log.Reshuffle=The deck ran out of cards and has been reshuffled.
-Log.Aid=[faction name] exhausts a [item icon] to aid [faction name 2] with a card.
-Log.Aid.Item=[faction name] receives a [item icon] in return for aid.
-Log.Slip.Clearing=[faction name] slips into a [suit icon] clearing
-Log.Slip.Forest=[faction name] slips into a forest.
-Log.Quest=[faction name] exhausts [item icon] and [item icon 2] to complete the [name] quest.
-Log.Quest.Draw.Reward=[faction name] draws 2 cards for their quest reward.
-Log.Quest.Point.Reward=[faction name] scores [X] <style="vptext">VP</style> for their quest reward.
-Log.Relationship.1=[faction name] increases their relationship with [faction name 2] to level 1, scoring 1 <style="vptext">VP</style>.
-Log.Relationship.2=[faction name] increases their relationship with [faction name 2] to level 2, scoring 2 <style="vptext">VP</style>.
-Log.Relationship.3=[faction name] increases their relationship with [faction name 2] to allied, scoring 2 <style="vptext">VP</style>.
-Log.Relationship.Hostile=[faction name] becomes hostile to the [faction name 2].
-Log.Refresh=[faction name] refreshes the following items in Birdsong: [items]
-Log.Explore=[faction name] explores a ruin in a [suit icon] clearing. They score 1 <style="vptext">VP</style>. and gain a [item icon].
-Log.Strike=[faction name] strikes a [faction name 2] [piece] in a [suit icon] clearing.
-Log.Repair=[faction name] exhausts <sprite name="hammer"> to repair [item icon].
-Log.Evenings.Rest=[faction name] repairs all items with Evenings Rest.
-Log.Satchel.Discard=[faction name] removes the following items from their satchel since it was over stuffed: [items]
-Log.Steal=[faction name] uses Steal, exhausting <sprite name="torch"> to take a random card from [faction name 2].
-Log.Hideout=[faction name] uses Hideout, exhausting <sprite name="torch"> to repair [items]. This ends daylight.
-Log.Day.Labor=[faction name] uses Day Labor, exhausting <sprite name="torch"> to take a card from the discard pile into their hand.
-Log.Move.Vagabond=[faction name] exhausts <sprite name="boot"> to move into a [suit icon] clearing.
-Log.Vagabond.item.damage.gen=[faction name] damages the following items: [items]
-Log.Enter.Coalition=[faction name] enters a Coalition with [faction name 2].
-Log.Move.Buddy=[faction name] moves with [X] [faction name 2] warriors.
-Log.Outrage=[faction name] causes outrage, adding a card to the <color=#008D3F>Woodland Alliance</color> supporters.
+store.product.clockwork.storedescription=똑...딱...똑...딱...<br><br>야생의 숲을 둘러싼 전투가 기계의 힘으로 가속됩니다!<br><br>네 개의 치명적인 자동화 적대 세력이 등장하여, 기존 AI와는 다른 새로운 도전을 제공합니다! 기계 군단의 위협을 극복하고 숲의 지배권을 쟁취할 수 있을까요?<br><br>협력 플레이 도입! 강력한 자동화 적들을 상대로 힘을 합쳐 싸워보세요!<br><br>기계 후작 2.0<br>이 봇은 가장 단순하여 다양한 게임 설정에서 플레이어 수를 맞추는 데 유용합니다. 하지만 방심은 금물! 반드시 한 명 이상의 플레이어가 견제해야 합니다!<br><br>전기 이어리<br>전기 이어리는 가장 용맹한 플레이어에게도 두려움을 안겨줄 것입니다. 이어리 왕조처럼, 이 봇은 빠르게 행동력을 끌어올릴 수 있습니다.<br><br>자동화 연합<br>자동화 연합은 특히 열정적이며, 자주 반란을 일으킵니다. 그들의 목표를 미리 파악하여 뜻밖의 위기를 피하세요. 일단 거점을 확보하면, 타이밍이 중요합니다. 그들이 병력을 결집하기 전에 막아야 합니다!<br><br>방랑자 봇<br>방랑자 봇은 변덕스러운 동료이자 적입니다. 인간 플레이어처럼 아이템을 제작하는 자에게 보상을 주지만, 충분한 아이템을 확보하면 강력한 적으로 돌변할 수 있습니다.
+store.verificationFailed=DLC 무결성을 확인할 수 없습니다. 인터넷에 연결한 상태로 다시 시작하여 확인해 주세요.
+store.restorePurchases=구매 복원
+store.restorePurchasesError.default=오류가 발생했습니다. 인터넷 연결을 확인한 후 다시 시도해 주세요.
+store.product.wintermap.name=겨울 지도
+store.product.riverfolk.name=리버포크 확장
+store.product.riverfolk.description=새로운 두 개의 팩션이 참전합니다! 리버포크 주식회사와 도마뱀 교단이 숲을 지배하기 위한 전투에 새로운 전략적 변수를 추가합니다.<br><br>세 명의 새로운 방랑자 - 악당, 방랑자, 중재자 - 가 승리를 향한 교활한 술수를 더합니다!
+store.product.riverfolk.shortdescription=리버포크가 Root에 등장합니다! 두 개의 신규 팩션 참전!
+store.product.riverfolk.storedescription=새로운 두 개의 팩션과 방랑자 변형이 Root에 새로운 도전을 선사합니다!<br><br>리버포크 주식회사<br>리버포크 주식회사는 전쟁 속에서도 이익을 추구합니다! 교역소를 세우고 승리를 쟁취하세요!<br><br>도마뱀 교단<br>도마뱀 교단의 비늘 복음을 전파하세요! 정원을 가꾸어 새로운 신자를 모집하고, 선교의 진정한 힘을 드러내세요!<br><br>새로운 방랑자 변형!<br>세 명의 방랑자가 숲속으로 숨어들어 승리를 위한 계략을 꾸밉니다! 악당은 숲을 불태워 다른 자들의 지배를 거부하며, 방랑자는 싸움을 유도하고, 중재자는 대가를 받고 도움을 제공합니다!<br><br>새로운 도전!<br>새로운 싱글 플레이어 시나리오와 튜토리얼을 통해 최신 팩션의 계략을 배워보세요!
+code.redeem.CodeRedeemed=코드가 사용되었습니다!
+code.redeem.error.NoDefinition=해당 코드에 연결된 정의가 없습니다.
+code.redeem.error.CodeNotFound=코드를 찾을 수 없습니다.
+code.redeem.error.PerCodeLimitReachedByOther=해당 코드의 사용 한도가 다른 사용자에 의해 초과되었습니다.
+code.redeem.error.PerCodeLimitReachedBySelf=해당 코드의 사용 한도를 초과했습니다.
+code.redeem.error.UserLimitReachedByOther=다른 사용자에 의해 해당 코드의 1인당 사용 한도가 초과되었습니다.
+code.redeem.error.UserLimitReachedBySelf=해당 코드의 1인당 사용 한도를 초과했습니다.
+code.redeem.error.NoProducts=이 코드는 어떠한 제품도 제공하지 않습니다.
+code.redeem.error.NotStarted=이 코드는 아직 사용할 수 없습니다.
+code.redeem.error.RedemptionEnded=코드 사용 기간이 종료되었습니다.
+code.redeem.equip.immediate=코드가 사용되었습니다! 지금 즉시 해당 외형을 장착하시겠습니까?
+code.redeem.error.ios=iOS에서는 코드를 사용할 수 없습니다. 코드 사용을 위해 당사 웹사이트를 방문해 주세요...
+code.redeem.error.NoLoggedIn=코드를 사용할 수 없습니다. 로그인하거나 계정을 생성해 주세요.
+store.product.cosmetic.eyrie.emigre.name=이어리 망명자 프리미엄 스킨
+store.product.cosmetic.marquise.marquiseinboots.name=장화 신은 후작 프리미엄 스킨
+store.login.warning.description=여러 플랫폼에서 플레이할 계획이라면, 구매 전에 계정에 로그인해 주세요.
+expansion.exiles.name=추방자와 망명자 덱
+store.purchase.error.invalidregion=이 제품은 아직 귀하의 지역에서 이용할 수 없습니다.
+store.product.miniexpansion.name=추방자와 망명자 & 방랑자
+store.product.miniexpansion.description=세 명의 새로운 방랑자가 숲을 배회합니다!<br>그리고 더욱 다채로운 게임을 위한 신규 덱도 포함되어 있습니다!<br>방랑자 팩 & 추방자와 망명자 덱 포함.
+store.product.underworldexpansion.name=지하 세계 확장
+store.product.underworldexpansion.description=Root의 지하 세계로 뛰어들어 새로운 전장을 정복하세요!<br>지하 공국과 까마귀 모략단 팩션, 그리고 산악과 호수 지도가 포함됩니다!
+store.product.marauderexpansion.name=약탈자 확장
+store.product.marauderexpansion.description=새로운 두 개의 팩션이 등장합니다!<br>수백마리 들쥐 군주 - 우드를 억압하고, 필요하다면 불태워 버리세요. 반란은 용납되지 않습니다.<br>강철의 수호자 - 추방당한 기사단을 이끌고 고대 유물을 되찾기 위해 전투를 벌이세요. 영광을 위하여!
+store.product.marauderexpansion.name.short=약탈자 확장
+scenario.journeytothenorth.name=북쪽으로의 여정
+scenario.journeytothenorth.tier1description=북쪽의 네 개 공터를 지배하면 승리합니다 (승점이 필요하지 않음).
+scenario.town.name=땜장이 마을
+scenario.town.tier1description=덱에는 아이템 카드만 포함되어 있으며, 아이템 공급량은 무제한입니다. 땜장이로 시작합니다.
+scenario.town.tier2description=덱에는 아이템 카드만 포함되어 있으며, 아이템 공급량은 무제한입니다. 땜장이로 시작하며, 퀘스트를 사용할 수 없습니다. 상대는 <style="vpnum">5</style>점으로 시작합니다.
+scenario.delivery.name=알 수집가
+scenario.delivery.tier1description=턴 시작 시, 무작위 공터에 알이 생성됩니다. 해당 공터로 이동하면 알이 부화하여 이어리 병사가 됩니다. 상대 턴 시작 시, 상대는 자신이 있는 공터의 알을 깨고 <style="vpnum">1</style>점을 얻습니다.
+scenario.delivery.tier2description=턴 시작 시, 무작위 공터에 알이 생성됩니다. 해당 공터로 이동하면 알이 부화하여 이어리 병사가 됩니다. 상대 턴 시작 시, 상대는 자신이 있는 공터의 알을 깨고 <style="vpnum">1</style>점을 얻습니다. 플레이어는 병사 2명으로 시작합니다.
+scenario.work.name=일해라! 일해라! 일해라!
+scenario.work.tier1description=초기 건물은 공방 세 개입니다.
+scenario.work.tier2description=초기 건물은 공방 세 개입니다. 상대는 <style="vpnum">5</style>점으로 시작합니다.
+scenario.ww.name=겨울 전사들
+scenario.ww.tier1description=세 명의 병사와 한 명의 장교로 시작하며, 이번 게임에서는 동조 대신 병사를 사용하여 제작합니다. 새 문양 카드를 조직화할 수 없습니다.
+scenario.ww.tier2description=세 명의 병사와 한 명의 장교로 시작하며, 이번 게임에서는 동조 대신 병사를 사용하여 제작합니다. 새 문양 카드를 조직화할 수 없으며, 지지자를 가지고 시작하지 않습니다.
+Log.Eyrie.Selects.Character=<color=#3a63cb>이어리 왕조</color>가 지도자로 [name]을 선택하고, [area1] 및 [area2] 규율에 <sprite name="birdicon">을 추가합니다.
+Log.Eyrie.Selects.Roost=[faction name]이(가) [suit icon] 공터에 첫 번째 둥지를 건설합니다.
+Log.Vagabond.Character=[faction name]이(가) 자신의 캐릭터로 [name]을(를) 선택했습니다.
+Log.Keep.Choice=[faction name]이(가) 자신의 요새를 [suit icon] 공터에 배치했습니다.
+Log.SetupBuilding.Choice=[faction name]이(가) 자신의 [piece]을(를) [suit icon] 공터에 배치했습니다.
+Log.Start.Game=게임 시작
+Log.Start.Turn=[faction name]의 턴
+Log.Birdsong=<sprite name="Birdsong">새벽
+Log.Daylight=<sprite name="Daylight">대낮
+Log.Evening=<sprite name="Evening">저녁
+Log.initiate.battle=[faction name]이(가) [faction name 2]을(를) 상대로 [suit icon] 공터에서 전투를 개시했습니다.
+Log.Ambush=[faction name]이(가) [suit icon] 매복으로 [faction name 2]을(를) 기습했습니다.
+Log.Ambush.Cancel=[faction name]이(가) [suit icon] 매복으로 [faction name 2]의 기습을 취소했습니다.
+Log.Roll=[faction name]이(가) [X] 주사위를 굴렸습니다. [faction name 2]이(가) [X2] 주사위를 굴렸습니다.
+Log.Defenseless.Hit=[faction name]이(가) 상대가 무방비 상태이므로 추가 피해를 입힙니다.
+Log.Casualties=[faction name]이(가) [pieces]을(를) 잃었습니다.
+Log.Nonvagabond.Move=[faction name]이(가) [X]명의 병사를 [suit icon] 공터로 이동시켰습니다.
+Log.Craft.Persistent=[faction name]이(가) [name]을(를) 제작했습니다.
+Log.Craft.Item=[faction name]이(가) [name]을(를) 제작하여 [item icon]과(와) [X] <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Build=[faction name]이(가) [suit icon] 공터에 [building name]을(를) 건설했습니다.
+Log.Recruit.single=[faction name]이(가) [suit icon] 공터에 병사를 모집했습니다.
+Log.Recruit.multiple=[faction name]이(가) [X]명의 병사를 모집했습니다.
+Log.Discard.eot=[faction name]이(가) 손 패 제한을 맞추기 위해 [X]장의 카드를 버렸습니다.
+Log.Draw=[faction name]이(가) [X]장의 카드를 뽑았습니다.
+Log.Generic.Scoring=[faction name]이(가) [X] <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Claim.Dominance.supply=[faction name]이(가) [suit icon] 카드를 버리고 공급처에서 [suit icon 2] [name]을(를) 차지했습니다.
+Log.Reshuffle=덱의 카드가 모두 소진되어 다시 섞였습니다.
+Log.Aid=[faction name]이(가) [item icon]을(를) 소진하여 [faction name 2]에게 카드를 지원했습니다.
+Log.Aid.Item=[faction name]이(가) 지원의 대가로 [item icon]을(를) 받았습니다.
+Log.Slip.Clearing=[faction name]이(가) [suit icon] 공터로 산책했습니다.
+Log.Slip.Forest=[faction name]이(가) 숲으로 산책했습니다.
+Log.Quest=[faction name]이(가) [item icon]과(와) [item icon 2]을(를) 소진하여 [name] 퀘스트를 완료했습니다.
+Log.Quest.Draw.Reward=[faction name]이(가) 퀘스트 보상으로 카드 2장을 뽑았습니다.
+Log.Quest.Point.Reward=[faction name]이(가) 퀘스트 보상으로 [X] <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Relationship.1=[faction name]이(가) [faction name 2]와의 관계를 1단계로 올리고 1 <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Relationship.2=[faction name]이(가) [faction name 2]와의 관계를 2단계로 올리고 2 <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Relationship.3=[faction name]이(가) [faction name 2]와 동맹 관계가 되어 2 <style="vptext">VP</style>을(를) 획득했습니다.
+Log.Relationship.Hostile=[faction name]이(가) [faction name 2]와 적대 관계가 되었습니다.
+Log.Refresh=[faction name]이(가) 새벽에 다음 아이템을 새로고침했습니다: [items]
+Log.Explore=[faction name]이(가) [suit icon] 공터에서 유적을 탐색했습니다. 1 <style="vptext">VP</style>을(를) 획득하고 [item icon]을(를) 얻었습니다.
+Log.Strike=[faction name]이(가) [suit icon] 공터에서 [faction name 2]의 [piece]을(를) 기습했습니다.
+Log.Repair=[faction name]이(가) <sprite name="hammer">을(를) 소진하여 [item icon]을(를) 수리했습니다.
+Log.Evenings.Rest=[faction name]이(가) 저녁 휴식으로 모든 아이템을 수리했습니다.
+Log.Satchel.Discard=[faction name]이(가) 가방이 넘쳐 다음 아이템을 버렸습니다: [items]
+Log.Steal=[faction name]이(가) 도둑질을 사용하여 <sprite name="torch">을(를) 소진하고 [faction name 2]의 무작위 카드를 가져갔습니다.
+Log.Hideout=[faction name]이(가) 은신처를 사용하여 <sprite name="torch">을(를) 소진하고 [items]을(를) 수리했습니다. 이는 대낮을 종료합니다.
+Log.Day.Labor=[faction name]이(가) 하루 노동을 사용하여 <sprite name="torch">을(를) 소진하고 버린 카드 더미에서 카드를 가져왔습니다.
+Log.Move.Vagabond=[faction name]이(가) <sprite name="boot">을(를) 소진하여 [suit icon] 공터로 이동했습니다.
+Log.Vagabond.item.damage.gen=[faction name]이(가) 다음 아이템을 손상시켰습니다: [items]
+Log.Enter.Coalition=[faction name]이(가) [faction name 2]와 동맹을 맺었습니다.
+Log.Move.Buddy=[faction name]이(가) [X]명의 [faction name 2] 병사와 함께 이동했습니다.
+Log.Outrage=[faction name]이(가) 분노를 일으켜 <color=#008D3F>우드랜드 연합</color>의 지지자에게 카드를 추가했습니다.
