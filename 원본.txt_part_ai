@@ -15,42 +15,42 @@ shortfactionnames.SecondVagabond=방랑자
 shortfactionnames.vagabond=방랑자
 shortfactionnames.Vagabot=방랑자 봇
 shortfactionnames.woodlandalliance=연합
-playerinfo.liz.Birdsong=1단계: 이단자 조정 <br><br>2단계: 잃어버린 영혼을 버림 <br><br> 3단계: 음모 실행<size=90%> <i>이단자 공터에서</i><br><br><style=RB>성전:</style> 이단자 공터에서 전투를 벌이거나, 이단자 공터에서 이동한 후 도착한 공터에서 전투를 벌임 (선택 사항). <br><br><style=RB>개종:</style> 이단자 공터에서 적 전사를 제거한 후, 해당 공터에 내 전사 배치. <br><br><style=RB>신성화:</style> 이단자 공터에서 적 건물을 제거한 후, 해당 공터에 정원 배치.
-playerinfo.liz.daylight=손에서 원하는 만큼의 카드를 공개하고, 카드 1장당 1번씩 의식을 수행.<br><br><sprite index=75>건설<br>내가 지배하는 일치하는 공터에 정원 배치. <br><br><sprite index=75>모집<br>일치하는 공터에 전사 배치.<br><br><sprite index=75>득점<br>이 카드를 버려 점수를 얻음. (일치하는 정원 공간에서 가장 오른쪽 빈 공간 참고)<br><br><sprite index=73>희생<br>아콜라이트 상자에 전사 1명 배치.
-playerinfo.liz.evening=1단계: 공개한 카드를 손으로 되돌림.<br><br>2단계: 정원을 사용해 이단자 문양으로 제작.<br><br>3단계: <sprite index=31> 1개당 카드 1장 뽑음.<br><br>손에 5장 이하가 되도록 조정.
+playerinfo.liz.Birdsong=1단계: 난민 조정 <br><br>2단계: 잃어버린 영혼을 버림 <br><br> 3단계: 음모 실행<size=90%> <i>난민 공터에서</i><br><br><style=RB>성전:</style> 난민 공터에서 전투를 벌이거나, 난민 공터에서 이동한 후 도착한 공터에서 전투를 벌임 (선택 사항). <br><br><style=RB>개종:</style> 난민 공터에서 적 전사를 제거한 후, 해당 공터에 내 전사 배치. <br><br><style=RB>신성화:</style> 난민 공터에서 적 건물을 제거한 후, 해당 공터에 정원 배치.
+playerinfo.liz.daylight=손에서 원하는 만큼의 카드를 공개하고, 카드 1장당 1번씩 의식을 수행.<br><br><sprite index=75>건설<br>내가 지배하는 일치하는 공터에 정원 배치. <br><br><sprite index=75>모집<br>일치하는 공터에 전사 배치.<br><br><sprite index=75>득점<br>이 카드를 버려 점수를 얻음. (일치하는 정원 공간에서 가장 오른쪽 빈 공간 참고)<br><br><sprite index=73>희생<br>신도 상자에 전사 1명 배치.
+playerinfo.liz.evening=1단계: 공개한 카드를 손으로 되돌림.<br><br>2단계: 정원을 사용해 난민 문양으로 제작.<br><br>3단계: <sprite index=31> 1개당 카드 1장 뽑음.<br><br>손에 5장 이하가 되도록 조정.
 factionnames.lizardcult=도마뱀 교단
 playerinfo.lizardcult.revenge.title=복수
-playerinfo.lizardcult.revenge.description=방어 중 제거된 전사들은 아콜라이트가 됨.
+playerinfo.lizardcult.revenge.description=방어 중 제거된 전사들은 신도가 됨.
 playerinfo.lizardcult.conquest.title=정복
-playerinfo.lizardcult.conquest.description=공격 시, 전투에서 제거한 적 전사는 아콜라이트가 됨.
-playerinfo.lizardcult.hatredofbirds.title=새의 증오
+playerinfo.lizardcult.conquest.description=공격 시, 전투에서 제거한 적 전사는 신도가 됨.
+playerinfo.lizardcult.hatredofbirds.title=조류 혐오
 playerinfo.lizardcult.hatredofbirds.description=새 카드는 의식에서 와일드카드로 사용할 수 없음.
 playerinfo.lizardcult.pilgrims.title=순례자
 playerinfo.lizardcult.pilgrims.description=정원이 있는 공터를 자동으로 지배함.
-playerinfo.lizardcult.theoutcast.title=이단자
+playerinfo.lizardcult.theoutcast.title=난민
 playerinfo.lizardcult.gardens.title=정원
-tooltip.lizardcult.theoutcast.description=새 문양을 제외한 잃어버린 영혼 중 가장 많은 문양이 이단자가 됨. 기존 이단자와 같다면 증오받는 이단자로 변경.<br><br><i>이단자가 증오받는 상태라면, 모든 음모 비용이 1 감소.</i>
+tooltip.lizardcult.theoutcast.description=새 문양을 제외한 잃어버린 영혼 중 가장 많은 문양이 난민가 됨. 기존 난민와 같다면 미움 받는 난민로 변경.<br><br><i>난민가 증오받는 상태라면, 모든 음모 비용이 1 감소.</i>
 playerinfo.riverfolkcompany.services.title=서비스
 playerinfo.riverfolkcompany.handcard.title=손 카드
 playerinfo.riverfolkcompany.riverboats.title=보트
 playerinfo.riverfolkcompany.mercenaries.title=용병
 playerinfo.riverfolkcompany.commitments.title=약속
-playerinfo.riverfolkcompany.funds.title=자금
+playerinfo.riverfolkcompany.funds.title=기금
 playerinfo.riverfolkcompany.payments.title=지불
 playerinfo.riverfolkcompany.forsale.title=판매 중
 playerinfo.riverfolkcompany.forsale.description=공개된 손 패를 가짐.
 playerinfo.riverfolkcompany.swimmers.title=수영꾼
 playerinfo.riverfolkcompany.swimmers.description=강을 경로처럼 사용하며, 지배 여부와 관계없이 이동 가능.
 playerinfo.riverfolkcompany.tradingpost.removed=제거된 교역소: 지도에서 제거되었지만 제작에는 여전히 사용 가능.
-playerinfo.riverfolkcompany.Birdsong=1단계: 보호주의 - 지불 상자가 비어 있으면 전사 2명 배치.<br><br>2단계: 배당금 분배 - 지도에 교역소가 있으면, 자금 2개당 1점 획득. (지불 및 약속된 상자에 있는 전사는 점수 계산 제외)<br><br>3단계: 자금 수집 - 팩션 보드에 있는 모든 전사를 자금 상자로 이동.
-playerinfo.riverfolkcompany.daylight=자금을 사용하거나 약속하여 행동 수행<br>
+playerinfo.riverfolkcompany.Birdsong=1단계: 보호주의 - 지불 상자가 비어 있으면 전사 2명 배치.<br><br>2단계: 배당금 분배 - 지도에 교역소가 있으면, 기금 2개당 1점 획득. (지불 및 약속된 상자에 있는 전사는 점수 계산 제외)<br><br>3단계: 기금 수집 - 팩션 보드에 있는 모든 전사를 기금 상자로 이동.
+playerinfo.riverfolkcompany.daylight=기금을 사용하거나 약속하여 행동 수행<br>
 <sprite index=76>수비대를 포함한 교역소 설치
 playerinfo.riverfolkcompany.evening=1단계: 손에 5장 이하가 되도록 조정.<br><br>2단계: 서비스 비용 설정.
 prompt.riverfolkcompany.hand.title=리버포크 주식회사 손 패
-prompts.buyservices.description=자금을 사용해 서비스를 구매.
+prompts.buyservices.description=기금을 사용해 서비스를 구매.
 prompts.buyservices.vagabond.description=아이템을 소진하여 서비스를 구매.
 prompts.riverfolkscoredividends.label=배당금 분배
-tooltip.playmat.tradepost=<size=125%><b>리버포크 교역소</b></size><br>• 해당 공터의 문양을 제작에 사용 가능.<br>• 이 공터의 적들은 추가 서비스를 구매 가능.<br>• 지도에 교역소가 없으면 배당금 점수를 획득할 수 없음.<br>• 교역소 제거 시, 자금의 절반(반올림) 손실.<br>• 공터마다 교역소는 하나만 배치 가능.
+tooltip.playmat.tradepost=<size=125%><b>리버포크 교역소</b></size><br>• 해당 공터의 문양을 제작에 사용 가능.<br>• 이 공터의 적들은 추가 서비스를 구매 가능.<br>• 지도에 교역소가 없으면 배당금 점수를 획득할 수 없음.<br>• 교역소 제거 시, 기금의 절반(반올림) 손실.<br>• 공터마다 교역소는 하나만 배치 가능.
 tooltip.playmat.otterstack=<size=125%><b>리버포크 전사</b></size>
 tooltip.ui.riverfolk.publichand=리버포크 플레이어의 손패 보기.
 tooltip.ui.riverfolk.craftingslots=<size=125%><b>사용 가능한 제작 조각</b></size>
@@ -60,18 +60,18 @@ tooltip.ability.riverfolk.export=<size=125%><b>수출</b></size>\
 tooltip.ability.riverfolk.draw=<size=125%><b>카드 뽑기</b></size>\
 tooltip.ability.riverfolk.move=<size=125%><b>이동</b></size>\
 tooltip.ability.riverfolk.recruit=<size=125%><b>모집</b></size>\
-tooltip.ability.riverfolk.establishtradepost=<size=125%><b>무역 거점 설립</b></size>\
-tooltip.ui.riverfolk.services=버드송 시작 시, 다른 플레이어는 서비스 1개와 무역 거점이 있는 공터마다 1개씩 추가로 구매할 수 있음.
+tooltip.ability.riverfolk.establishtradepost=<size=125%><b>교역소 설립</b></size>\
+tooltip.ui.riverfolk.services=아침 시작 시, 다른 플레이어는 서비스 1개와 교역소이 있는 공터마다 1개씩 추가로 구매할 수 있음.
 tooltip.ui.riverfolk.handcard=<size=125%><b>손패 카드</b></size><br>구매자는 리버포크의 손패에서 원하는 카드를 가져가 자신의 손패에 추가함.
 tooltip.ui.riverfolk.riverboats=<size=125%><b>보트</b></size><br>구매자는 이번 턴 종료까지 강을 길처럼 사용할 수 있음.
 tooltip.ui.riverfolk.mercenaries=<size=125%><b>용병</b></size><br>이번 턴의 낮과 밤 동안, 구매자는 리버포크 전사를 자신이 지배하는 것처럼 다룰 수 있으며, 리버포크를 제외한 다른 팩션과 전투할 수 있음. 전투 중 피해를 받을 경우, 구매자는 리버포크 전사와 자신의 부대를 균등하게 나누어 피해를 배분해야 하며, 홀수 피해는 구매자가 감당함.
-tooltip.ui.riverfolk.commitments=<size=125%><b>약정</b></size>\
-tooltip.ui.riverfolk.funds=<size=125%><b>자금</b></size>\
+tooltip.ui.riverfolk.commitments=<size=125%><b>위탁</b></size>\
+tooltip.ui.riverfolk.funds=<size=125%><b>기금</b></size>\
 tooltip.ui.riverfolk.payments=<size=125%><b>지불</b></size>\
 tooltip.ui.riverfolk.cardsinhand=<size=125%><b>손패 카드 수</b></size>\
 tooltip.ui.riverfolk.warriorcount=<size=125%><b>예비 전사</b></size>\
 tooltip.ui.riverfolk.crafteditems=<size=125%><b>제작된 아이템</b></size>\
-tooltip.ui.riverfolk.tradeposts=<size=125%><b>무역 거점</b></size>\
+tooltip.ui.riverfolk.tradeposts=<size=125%><b>교역소</b></size>\
 settings.skins.title=스킨
 settings.controls.title=조작
 settings.controls.lefttrigger=확대 : <sprite name="Switch_LeftTrigger">

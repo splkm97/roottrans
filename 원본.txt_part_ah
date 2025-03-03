@@ -69,10 +69,10 @@ vagabond.title.vagabond_ranger=방랑자 레인저
 vagabond.title.vagabond_thief=방랑자 도둑
 vagabond.title.vagabond_tinker=방랑자 땜장이
 vagabondWithColor=<color=#436979>방랑자</color>
-Vagabot.Challenging=<b>어려움:</b> 밤 단계에서 바가봇이 추가로 아이템을 하나 더 회복합니다.
-Vagabot.Easy=<b>쉬움:</b> 밤 단계에서 바가봇이 아이템을 하나 덜 회복합니다.
-Vagabot.Nightmare=<b>악몽:</b> 밤 단계에서 바가봇이 추가로 아이템을 하나 더 회복하고 승점 1점을 획득합니다.
-vagabotWithColor=<color=#436979>바가봇</color>
+Vagabot.Challenging=<b>어려움:</b> 밤 단계에서 방랑자봇이 추가로 아이템을 하나 더 회복합니다.
+Vagabot.Easy=<b>쉬움:</b> 밤 단계에서 방랑자봇이 아이템을 하나 덜 회복합니다.
+Vagabot.Nightmare=<b>악몽:</b> 밤 단계에서 방랑자봇이 추가로 아이템을 하나 더 회복하고 승점 1점을 획득합니다.
+vagabotWithColor=<color=#436979>방랑자봇</color>
 view.results=결과 보기
 waitingforplayers.aidifficulty.label=AI 난이도: {0}
 waitingforplayers.banned.label=금지된 팩션
@@ -92,7 +92,7 @@ playerinfo.keepersiniron.retinue.moverecover.desc=...일치하는 공터에서
 loading.fastforward=리플레이 건너뛰는 중...
 button.skipreplay=리플레이 건너뛰기
 prompts.loot.automatedalliance=자동화 연합 약탈
-prompts.loot.electriceyrie=전기 이어리 약탈
+prompts.loot.electriceyrie=메카 이어리 약탈
 prompts.loot.eyriedynasties=이어리 왕조 약탈
 prompts.loot.lizardcult=도마뱀 교단 약탈
 prompts.loot.marquisedecat=고양이 후작 약탈

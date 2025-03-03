@@ -1,41 +1,41 @@
 playerinfo.used.title=사용됨
 settings.gameplay.title=게임플레이
 button.commit=확정
-RFT.Thematic.Intro=<color=#397F7F>리버포크 주식회사</color>는 우드랜드를 가로지르는 강을 따라 상점을 열었습니다. 다른 팩션이 <color=#397F7F>서비스</color>를 구매하면, <color=#397F7F>리버포크</color>는 이를 자금으로 삼아 숲 곳곳에 교역소를 설립할 수 있습니다. 이러한 교역소를 건설하면 승점이 쌓이며, 부를 축적하여 배당금을 얻는 것도 또 다른 승리 전략입니다.
+RFT.Thematic.Intro=<color=#397F7F>리버포크 주식회사</color>는 우드랜드를 가로지르는 강을 따라 상점을 열었습니다. 다른 팩션이 <color=#397F7F>서비스</color>를 구매하면, <color=#397F7F>리버포크</color>는 이를 기금으로 삼아 숲 곳곳에 교역소를 설립할 수 있습니다. 이러한 교역소를 건설하면 승점이 쌓이며, 부를 축적하여 배당금을 얻는 것도 또 다른 승리 전략입니다.
 RFT.character.intro=어이, 친구. 잠깐만 기다려 줘. 손에서 조개 냄새가 나서 좀 씻어야겠어.
 RFT.set.up=그동안 설정을 마무리해 줘. 강을 따라 공터 4곳에 <color=#397F7F>전사</color>를 배치해 줘.
 RFT.services.1=우리 <color=#397F7F>서비스</color>는 우드랜드 최고야!
-RFT.services.2=각 상대는 자신들의 버드송 시작 시 <color=#397F7F>서비스</color>를 구매할 수 있으며, 이를 위해 자신의 보급처에서 전사를 가져와 너의 <color=#397F7F>지불</color> 영역에 추가해야 해.
-RFT.services.3=이 <color=#397F7F>지불</color>이 바로 <color=#397F7F>자금</color>이 되어, 너의 턴 동안 수행할 수 있는 행동을 결정하게 돼.
+RFT.services.2=각 상대는 자신들의 아침 시작 시 <color=#397F7F>서비스</color>를 구매할 수 있으며, 이를 위해 자신의 보급처에서 전사를 가져와 너의 <color=#397F7F>지불</color> 영역에 추가해야 해.
+RFT.services.3=이 <color=#397F7F>지불</color>이 바로 <color=#397F7F>기금</color>이 되어, 너의 턴 동안 수행할 수 있는 행동을 결정하게 돼.
 rft.set.price=설정 중 및 매 저녁 단계에서 <color=#397F7F>서비스</color> 가격을 조정할 수 있어. 이번엔 세게 나가 보자. 전부 3으로 설정하자.
 rft.bs.intro.funds=<color=#397F7F>서비스</color> 가격이 너무 높아서 아무도 구매하지 않았어. 하지만 게임을 시작할 때마다 전사 아이콘으로 표시된 <color=#397F7F>지불</color> 3개를 기본으로 받게 돼.
-rft.gather.funds=버드송 단계에서 모든 <color=#397F7F>지불</color>을 <color=#397F7F>자금</color>으로 옮겨, 낮 동안 행동하는 데 사용할 수 있어.
-rft.basic.funds=<color=#397F7F>자금</color>을 소모하여 이동, 전투, 카드 드로우를 할 수 있어. 사용한 <color=#397F7F>자금</color>은 <color=#397F7F>소모</color> 영역으로 이동하며, 다음 턴까지 다시 사용할 수 없어.
-rft.basic.battle=<color=#397F7F>자금</color> 하나를 소모해 네가 위치한 <sprite name="ClearingRabbit"> 공터에서 후작 가문과 전투를 벌여라. 그들이 더 많은 전사를 모집하기 전에 말이야.
+rft.gather.funds=아침 단계에서 모든 <color=#397F7F>지불</color>을 <color=#397F7F>기금</color>으로 옮겨, 낮 동안 행동하는 데 사용할 수 있어.
+rft.basic.funds=<color=#397F7F>기금</color>을 소모하여 이동, 전투, 카드 드로우를 할 수 있어. 사용한 <color=#397F7F>기금</color>은 <color=#397F7F>소모</color> 영역으로 이동하며, 다음 턴까지 다시 사용할 수 없어.
+rft.basic.battle=<color=#397F7F>기금</color> 하나를 소모해 네가 위치한 <sprite name="ClearingRabbit"> 공터에서 후작 나부랭이들과 전투를 벌여. 더 많은 병사를 모집하기 전에 말이야..
 rft.battle.2=잘했어! 생각보다 싸움을 잘하는군!
 rft.battle.enemy=후작 가문을 건드리다니, 위험한 선택이야!
 rft.recruit=전투를 벌인 공터에서 <color=#397F7F>전사</color>를 모집해, 전투 중 잃은 전력을 보충하자.
-rft.recruit.2=모집에는 큰 비용이 들어. <color=#397F7F>자금</color>을 사용해 모집하면, 그 <color=#397F7F>자금</color>은 <color=#397F7F>소모</color>가 아니라 보급처로 돌아가. 즉, 다음 턴에 다시 사용할 수 없어.
-rft.draw=다른 많은 팩션과 달리, 너는 턴 종료 시 카드를 뽑지 않아. 카드를 뽑으려면 <color=#397F7F>자금</color> 하나를 소모해 드로우 행동을 해야 해.
+rft.recruit.2=모집에는 큰 비용이 들어. <color=#397F7F>기금</color>을 사용해 모집하면, 그 <color=#397F7F>기금</color>은 <color=#397F7F>소모</color>가 아니라 보급처로 돌아가. 즉, 다음 턴에 다시 사용할 수 없어.
+rft.draw=다른 많은 팩션과 달리, 너는 턴 종료 시 카드를 뽑지 않아. 카드를 뽑으려면 <color=#397F7F>기금</color> 하나를 소모해 드로우 행동을 해야 해.
 rft.set.cost=저녁 단계에서는 <color=#397F7F>서비스</color>의 가격을 조정할 수 있어. 이번에는 세일을 해보자! <color=#397F7F>보트</color> 가격을 1로, 나머지 <color=#397F7F>서비스</color> 가격을 2로 낮추자.
 rtf.marquise.hand.card=네가 파는 빵이 맛있어 보이는군!
-rtf.marquise.hand.card.2=또 조개 케이크야? 헛기침 좀 할게...
+rtf.marquise.hand.card.2=또 조개 케이크야? 잠깐 헤어볼 좀 뱉고....
 rft.lizard.riverboats=너의 <color=#397F7F>보트</color>는 교단에게 아주 유용할 거야. 비늘의 축복이 있기를.
-rft.enemy.funds=장사를 잘 한 덕분에 <color=#397F7F>자금</color>을 다양하게 확보했어. 이번 턴에 사용할 수 있겠군.
-rft.trade.post=공터를 지배하는 팩션과 일치하는 <color=#397F7F>자금</color> 2개를 소모하면 <sprite name="TradePost"><color=#397F7F>교역소</color> 토큰과 <color=#397F7F>전사</color>를 그 공터에 배치할 수 있어. 단, 이미 <color=#397F7F>교역소</color>가 있는 공터에는 배치할 수 없어.
+rft.enemy.funds=장사를 잘 한 덕분에 <color=#397F7F>기금</color>을 다양하게 확보했어. 이번 턴에 사용할 수 있겠군.
+rft.trade.post=공터를 지배하는 팩션과 일치하는 <color=#397F7F>기금</color> 2개를 소모하면 <sprite name="TradePost"><color=#397F7F>교역소</color> 토큰과 <color=#397F7F>전사</color>를 그 공터에 배치할 수 있어. 단, 이미 <color=#397F7F>교역소</color>가 있는 공터에는 배치할 수 없어.
 rft.trade.post.2=<color=#397F7F>교역소</color>를 건설하면 <style="vpnum">2</style>점을 얻어. 또한, <sprite name="TradePost"><color=#397F7F>교역소</color>를 사용해 제작할 수 있고, 배당금을 얻을 수 있으며, 다른 플레이어들이 너의 <color=#397F7F>서비스</color>를 추가로 구매할 수 있어.
 rtf.craft=각 <sprite name="TradePost"><color=#397F7F>교역소</color>는 제작 시 그 문양에 기여해.
-rtf.fund.choice=제작에 사용할 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 <color=#397F7F>자금</color> 하나를 소모해야 해. 어느 팩션의 자금을 사용할지 선택해.
+rtf.fund.choice=제작에 사용할 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 <color=#397F7F>기금</color> 하나를 소모해야 해. 어느 팩션의 기금을 사용할지 선택해.
 RFT.Swimmers=우리는 훌륭한 수영 실력을 가지고 있어. 이동할 때 강을 길처럼 사용할 수 있으며, 강을 따라 이동할 때 지배 제한을 무시해.
 rtf.trade.post.protect=<sprite name="TradePost"><color=#397F7F>교역소</color>를 보호하기 위해 강을 따라 <color=#397F7F>전사</color> 2명을 이동시키자.
 rtf.battle.workshop=후작의 제작소가 무방비 상태군. 공격하라!
 rft.marquise.traitor=상인이 배신자로 변했군. 대가를 치르게 될 거다, 강 도둑놈!
 rft.set.service.t2=<color=#397F7F>서비스</color> 가격은 그대로 두자. 문제가 없으면 건드릴 필요 없어!
 rtf.t3.enemy.service=각 적은 매 턴 당신에게서 <color=#397F7F>서비스</color>를 1회 구매할 수 있으며, 자신의 말이 있는 <sprite name="TradePost"><color=#397F7F>거래소</color></sprite>마다 추가로 <color=#397F7F>서비스</color>를 1회 더 구매할 수 있습니다.
-rtf.t3.mercenaries.split=당신의 용병을 구매한 플레이어는 손실을 자신의 말과 고용한 전사 사이에서 균등하게 나누어야 하며, 홀수의 피해가 발생하면 구매자가 부담합니다.
+rtf.t3.mercenaries.split=너의 용병을 구매한 플레이어는 병력 손실을 자신의 말과 고용한 전사 사이에서 골고루 나누어야해 단, 홀수의 피해가 발생하면 구매자가 부담해.
 rtf.alt.craft=우리는 혁신적인 제작 방식이 있어. 제작한 카드의 효과 대신 <color=#397F7F>전사</color>를 <color=#397F7F>지불</color>로 추가할 수 있어. 이 보상을 받으려면 <color=#397F7F>수출</color> 버튼을 사용해.
-rtf.t3.recruit=<sprite name="TradePost"><color=#397F7F>거래소</color>가 파괴될 때마다 우리의 <color=#397F7F>자금</color> 절반(반올림)을 잃습니다. <sprite name="TradePost"><color=#397F7F>거래소</color>를 확실히 방어하기 위해 <color=#397F7F>전사</color>를 추가로 모집합시다.  
-rtf.t3.dividends=새벽 단계 동안, 지도에 <sprite name="TradePost"><color=#397F7F>거래소</color>가 존재하는 한 우리는 배당점을 획득합니다. 배당점은 이전 턴에 사용하지 않은 <color=#397F7F>자금</color> 2개당 <style="vpone">1</style>점을 줍니다. <color=#397F7F>자금</color>을 아끼고 배당점을 얻기 위해 턴을 넘기세요.  
+rtf.t3.recruit=<sprite name="TradePost"><color=#397F7F>거래소</color>가 파괴될 때마다 우리의 <color=#397F7F>기금</color> 절반(반올림)을 잃습니다. <sprite name="TradePost"><color=#397F7F>거래소</color>를 확실히 방어하기 위해 <color=#397F7F>전사</color>를 추가로 모집합시다.  
+rtf.t3.dividends=새벽 단계 동안, 지도에 <sprite name="TradePost"><color=#397F7F>거래소</color>가 존재하는 한 우리는 배당점을 획득합니다. 배당점은 이전 턴에 사용하지 않은 <color=#397F7F>기금</color> 2개당 <style="vpone">1</style>점을 줍니다. <color=#397F7F>기금</color>을 아끼고 배당점을 얻기 위해 턴을 넘기세요.  
 rff.t3.set.service=무역 감각이 뛰어나군요. 원하는 대로 <color=#397F7F>서비스</color>를 설정하세요.  
 rft.bs.protectionism=이번 라운드에는 어떤 대금도 받지 못한 것 같습니다. 괜찮습니다. 위로 차원에서 당신의 공급처에서 전사 2명을 지불 칸으로 옮깁니다.  
 rft.off.rails=<sprite name="TradePost"><color=#397F7F>거래소</color>를 하나 더 세우고 <style="vpnumddteen">15</style>점을 획득하여 우리가 단순한 상인이 아님을 증명하세요.  
@@ -45,7 +45,7 @@ FTT.Riverfolk.removed.TP=파괴된 <sprite name="TradePost"><color=#397F7F>거�
 lct.intro=<color=#748421>도마뱀 교단</color>은 우드랜드 전역에 복음을 전파하고자 합니다. <color=#748421>이단자</color>와 <color=#748421>수도자</color>를 찾아 성전을 벌이고 성소를 수호해야 합니다. 그러나 이는 단순한 힘겨루기가 아닙니다. <sprite name="Garden"><color=#748421>정원</color></sprite>을 가꾸는 것이 신비로운 의식을 통해 승리로 가는 길을 열어 줄 것입니다.
 lct.place.warriors=게임을 시작하면 4명의 <color=#748421>전사</color>와 모퉁이에 위치한 <sprite name="Garden"><color=#748421>정원</color></sprite> 건물을 보유합니다. 이 정원은 후작의 요새와 반대편에 자리합니다.
 lct.adjacent.warriors=추가로, 시작하는 <sprite name="Garden"><color=#748421>정원</color></sprite>과 인접한 각 공터에 <color=#748421>전사</color> 하나씩을 배치합니다.
-lct.explain.reveal=대낮 동안, 손에 있는 카드를 공개하여 <color=#748421>의식</color> 행동을 수행할 수 있습니다.
+lct.explain.reveal=낮 동안, 손에 있는 카드를 공개하여 <color=#748421>의식</color> 행동을 수행할 수 있습니다.
 lct.recruit.intro=<color=#748421>모집</color> 의식을 사용하면 손에서 카드를 공개하여 해당 문양과 일치하는 공터에 <color=#748421>전사</color>를 모집할 수 있습니다.
 lct.reveal.icon=공개한 카드는 <sprite name="eyeicon"> 영역으로 이동하며, 다음 턴이 시작될 때까지 다시 사용할 수 없습니다.
 lct.first.build=손에 있는 다른 카드를 사용하여 또 다른 <color=#748421>의식</color>을 시도해 봅시다. <color=#748421>건설</color> 의식을 수행하면 <sprite name="mouseicon"> 카드를 공개하고, 해당 문양과 일치하며 당신이 지배하는 공터에 <sprite name="Garden"><color=#748421>정원</color></sprite>을 배치할 수 있습니다.
