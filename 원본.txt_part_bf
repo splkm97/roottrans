@@ -43,9 +43,9 @@ tooltip.ui.totalhitdef=총 공격 횟수 (방어자)
 tooltip.ui.totalhitatk=총 공격 횟수 (공격자)
 tooltip.ui.rolledhit=주사위 공격 횟수
 tooltip.ui.factionwarning=이 팩션 조합은 상호작용이 적을 수 있습니다. 플레이에 유의하세요.
-tooltip.ui.victorypoints.practice=<size=125%><b>승점</b></size>\
+tooltip.ui.victorypoints.practice=<size=125%><b>VP</b></size>
 이 연습 게임에서는 먼저 <style="vpnumdd">20</style>점을 획득한 플레이어가 승리합니다.
-tooltip.ui.victorypoints.altwin.challenges=<size=125%><b>승점</b></size>\
+tooltip.ui.victorypoints.altwin.challenges=<size=125%><b>VP</b></size>
 일반적인 게임에서는 먼저 <style="vpnumdd">30</style>점을 획득한 플레이어가 승리합니다. 승리 조건은 우측의 도전 과제 규칙 아이콘을 확인하세요.
 tooltip.ui.hand.reveal.cat=<size=125%><b>고양이 후작 손패</b></size> 마지막 격분 시 공개된 고양이 후작의 손패를 확인합니다.
 tooltip.ui.hand.reveal.eyrie=<size=125%><b>이어리 왕조 손패</b></size> 마지막 격분 시 공개된 이어리 왕조의 손패를 확인합니다.

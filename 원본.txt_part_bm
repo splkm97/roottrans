@@ -2,7 +2,7 @@ Log.Outrage.reveal=[faction name 2]가 [faction name]에게 핸드를 공개하�
 Log.Outrage.reveal.rootbot=[faction name 2]는 핸드가 없어 [faction name]에게 공개할 수 없음. [faction name]은 덱에서 지지자에게 카드를 추가함.
 Log.Outrage.reveal.nocarddrawn=[faction name 2]가 [faction name]에게 핸드를 공개하여 상업 멸시를 유발함. 그러나 덱에 추가할 카드가 없어 지지자에게 카드를 추가할 수 없음.
 Log.Outrage.reveal.rootbot.nocarddrawn=[faction name 2]는 핸드가 없어 [faction name]에게 공개할 수 없음. 또한 덱에 추가할 카드가 없어 지지자에게 카드를 추가할 수 없음.
-Log.Revolt.Intro=[faction name]이(가) [suit icon] 공터에서 봉기를 일으킴.
+Log.Revolt.Intro=[faction name]이(가) [suit icon] 공터에서 반란를 일으킴.
 Log.Revolt.destruction=[faction name]이(가) [pieces]을(를) 잃음.
 Log.Revolt.additions=[faction name]이(가) 장교 1명과 병사 [X]명을 얻음.
 Log.Sympathy=[faction name]이(가) 지지자 [X]장을 사용하여 [suit icon] 공터에 동조를 퍼뜨리고, [X2] <style="vptext">VP</style>을 획득함.
@@ -11,12 +11,12 @@ Log.Organize=[faction name]이(가) [suit icon] 공터에서 병사 1명을 희�
 Log.Organize.AutomatedAlliance=[faction name]이(가) [suit icon] 공터에서 모든 병사를 희생하여 동조를 퍼뜨리고, [X] <style="vptext">VP</style>을 획득함.
 Log.Train=[faction name]이(가) 장교를 훈련함.
 Log.Lost.base=<color=#008D3F>우드랜드 연합</color>의 기지가 제거되었으므로, 장교 [X]명을 잃고 일치하는 지지자 카드 [X2]장을 버림.
-Log.Generate.Wood=[faction name]이(가) 새벽에 목재 [X]개를 생산함.
+Log.Generate.Wood=[faction name]이(가) 아침에 목재 [X]개를 생산함.
 Log.Overwork=[faction name]이(가) 야근을 사용하여 [suit icon] 카드를 버리고 목재 1개를 획득함.
-Log.Field.Hospitals=[faction name]이(가) 야전 병원을 사용하여 전사한 병사 [X]명을 요새로 복귀시킴.
+Log.Field.Hospitals=[faction name]이(가) 야전 병원을 사용하여 병사한 병사 [X]명을 요새로 복귀시킴.
 Log.Hawks=[faction name]이(가) <sprite name="birdicon"> 카드를 버려 추가 행동을 수행함.
 Log.Decree.Assignment=[faction name]이(가) [suit icon]을(를) [name] 규율에 배정함.
-Log.Special.Birdsong.Draw=[faction name]이(가) 핸드가 비어 있어 새벽에 카드를 한 장 뽑음.
+Log.Special.Birdsong.Draw=[faction name]이(가) 핸드가 비어 있어 아침에 카드를 한 장 뽑음.
 Log.Special.Birdsong.Roost=[faction name]이(가) 둥지가 없으므로 [suit icon] 공터에 둥지 하나와 병사 3명을 배치함.
 Log.Turmoil.recruit=[faction name]이(가) [suit icon] 공터에서 모병할 수 없어 혼란에 빠짐.
 Log.Turmoil.move=[faction name]이(가) [suit icon] 공터에서 이동할 수 없어 혼란에 빠짐.
@@ -26,10 +26,10 @@ Log.Turmoil.build.noroosts=[faction name]이(가) 둥지가 남아 있지 않아
 Log.Turmoil.recruit.nowarriors=[faction name]이(가) 병사가 남아 있지 않아 모병할 수 없어 혼란에 빠짐.
 Log.Turmoil.lose.points=[faction name]이(가) 규율을 폐기하고 [X] <style="vptext">VP</style>을 잃음.
 Log.Turmoil.New.Leader=<color=#3a63cb>이어리 왕조</color>가 새로운 지도자로 [name]을(를) 선택하고, [area1] 및 [area2] 규율에 <sprite name="birdicon">을(를) 추가함.
-Log.Despot.Power=[faction name]이(가) 전제 군주의 능력으로 추가로 1 <style="vptext">VP</style>을 획득함.
+Log.Despot.Power=[faction name]이(가) 폭군의 능력으로 추가로 1 <style="vptext">VP</style>을 획득함.
 Log.Charasmatic.Power=[faction name]이(가) 카리스마 지도자의 능력으로 병사를 추가로 배치함.
 Log.Commander.hit=[faction name]이(가) 사령관 능력으로 추가 피해를 줌.
-Log.Favor.Craft=[faction name]이(가) [name]을(를) 제작하여 [suit icon] 공터의 모든 적 조각을 제거함.
+Log.Favor.Craft=[faction name]이(가) [name]을(를) 제작하여 [suit icon] 공터의 모든 적 기물을 제거함.
 Log.Dominance=[faction name]이(가) 우위를 플레이하여 승리 조건을 변경함.
 Log.Armorers=[faction name]이(가) 방어구 제작자를 버려 주사위 피해를 무시함.
 Log.Sappers=[faction name]이(가) 참호병을 버려 추가 피해를 줌.
@@ -47,7 +47,7 @@ log.nightmare.score=[faction name]이(가) 악몽 난이도에서 1 <style="vpte
 log.escalated.daylight=격화된 낮 행동
 log.expand=<color=#CC6633>기계 후작</color>이(가) 확장하여 새로운 명령을 뽑고 낮 행동을 반복함.
 log.evening.score=<color=#CC6633>기계 후작</color>이(가) 건설 트랙에서 [X] <style="vptext">VP</style>을 획득함.
-log.trait.blitz=<color=#CC6633>기계 후작</color>이(가) 기습 특성을 사용하여 이동하고 전투함.Log.trait.Hospitals=<color=#CC6633>메카 후작</color>이 병원 특성을 사용하여 전사한 병사 [X]명을 요새로 되돌립니다.
+log.trait.blitz=<color=#CC6633>기계 후작</color>이(가) 기습 특성을 사용하여 이동하고 전투함.Log.trait.Hospitals=<color=#CC6633>메카 후작</color>이 병원 특성을 사용하여 병사한 병사 [X]명을 요새로 되돌립니다.
 log.trait.relentless=<color=#3a63cb>전기 이어리</color>가 맹공 특성을 사용하여 이어리 병사가 있는 공터에서 방어할 수 없는 적 말을 모두 제거합니다.
 log.trait.swoop=<color=#3a63cb>전기 이어리</color>가 급습 특성을 사용하여 [suit icon] 공터에 병사 두 명을 배치합니다.
 log.trait.nobility=<color=#3a63cb>전기 이어리</color>가 귀족 특성으로 <style="vptext">VP</style> [X]점을 획득합니다.
@@ -89,10 +89,10 @@ Log.DiscardOne.eot=[faction name]이 손패 제한을 맞추기 위해 카드 1�
 Log.DrawOne=[faction name]이 카드 1장을 뽑습니다.
 log.setup.electric.eyrie.one=<color=#3a63cb>전기 이어리</color>가 자신의 규율의 <sprite name="birdicon"> 칸에 <sprite name="birdicon"> 카드 1장을 추가합니다.
 Log.Nonvagabond.Move.one=[faction name]이 [suit icon] 공터로 병사 1명을 이동시킵니다.
-Log.Field.Hospitals.one=[faction name]이 야전 병원을 사용하여 전사한 병사 1명을 요새로 되돌립니다.
+Log.Field.Hospitals.one=[faction name]이 야전 병원을 사용하여 병사한 병사 1명을 요새로 되돌립니다.
 Log.Move.Buddy.one=[faction name]이 [faction name 2]의 병사 1명과 함께 이동합니다.
 log.public.pity.one=<color=#008D3F>자동화 연합</color>이 공개 동정을 사용하여 동조를 1회 확산합니다.
-Log.trait.Hospitals.one=<color=#CC6633>메카 후작</color>이 병원 특성을 사용하여 전사한 병사 1명을 요새로 되돌립니다.
+Log.trait.Hospitals.one=<color=#CC6633>메카 후작</color>이 병원 특성을 사용하여 병사한 병사 1명을 요새로 되돌립니다.
 Log.Sympathy.one=[faction name]이 지지자 1명을 사용하여 [suit icon] 공터로 동조를 확산하고 <style="vptext">VP</style> [X2]점을 획득합니다.
 log.vagabot.quest.one=<color=#436979>방랑자 봇</color>이 1칸 이동하여 [suit icon] 공터에서 퀘스트를 완료합니다. 아이템 2개를 소진하고 <style="vptext">VP</style> 1점을 획득한 후 새로운 퀘스트를 뽑습니다.
 log.hatch=<color=#3a63cb>이어리 왕조</color>가 [suit icon] 공터에서 알을 부화하여 병사 1명을 배치합니다.

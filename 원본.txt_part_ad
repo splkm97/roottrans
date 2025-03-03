@@ -57,29 +57,29 @@ passandplay.defaultplayer4.name=플레이어 4
 pile.reveal.no.units=사용 가능한 카드 없음.
 player.name.self=당신
 playerhand.title={0}의 손패
-playerinfo.alliance.Birdsongrev=1단계: 봉기 - 동일한 문양을 가진 후원자 2장을 사용하여 동조하는 공터에서 봉기를 일으키세요. 해당 공터의 모든 말을 제거하고, 해당 문양의 기지를 배치한 후 동조하는 공터의 총 개수만큼 전사를 배치하세요. 장교 1명을 추가로 얻습니다.
-playerinfo.alliance.Birdsongsym=2단계: 동조 확산 - 후원자를 사용하여 동조를 배치하고, 동조 트랙에서 표시된 만큼 <style="vptext">승점</style>을 획득하세요.
+playerinfo.alliance.Birdsongrev=1단계: 반란 - 동일한 문양을 가진 지지자 2장을 사용하여 동조하는 공터에서 반란를 일으키세요. 해당 공터의 모든 말을 제거하고, 해당 문양의 기지를 배치한 후 동조하는 공터의 총 개수만큼 병사를 배치하세요. 장교 1명을 추가로 얻습니다.
+playerinfo.alliance.Birdsongsym=2단계: 동조 확산 - 지지자를 사용하여 동조를 배치하고, 동조 트랙에서 표시된 만큼 <style="vptext">VP</style>을 획득하세요.
 playerinfo.alliance.daylight=아래 행동을 원하는 만큼 수행할 수 있습니다.<br><line-indent=15%>• 제작<br>• 동원<br>• 훈련
 playerinfo.alliance.evening=1단계: 군사 작전 - 장교 수만큼 행동할 수 있습니다.<br><line-indent=15%>• 이동<br>• 모집<br>• 전투<br>• 조직화<br><br><line-indent=-15%>2단계: 카드 뽑기 - 기본적으로 1장을 뽑고, 지도에 배치된 기지마다 추가로 1장을 뽑습니다. 이후 카드가 5장을 초과하면 버립니다.
-playerinfo.alliance.martiallaw=공격하려는 공터에 상대 전사가 3명 이상 있다면, 후원자 1장을 추가로 사용해야 합니다.
+playerinfo.alliance.martiallaw=공격하려는 공터에 상대 병사가 3명 이상 있다면, 지지자 1장을 추가로 사용해야 합니다.
 playerinfo.alliance.martiallawtitle=계엄령
-playerinfo.autoalliance.autoambush=방어자로 전투할 때, 아군 전사가 있으면 추가로 1점을 입힙니다.
+playerinfo.autoalliance.autoambush=방어자로 전투할 때, 아군 병사가 있으면 추가로 1점을 입힙니다.
 playerinfo.autoalliance.autoambushtitle=자동 매복
-playerinfo.autoalliance.autooutrage=상대가 동조 마커를 제거하거나 동조하는 공터로 전사를 이동시키면, 해당 문양의 카드를 1장 버려야 합니다. 버릴 수 없다면, 당신은 추가로 1점을 획득합니다.
+playerinfo.autoalliance.autooutrage=상대가 동조 마커를 제거하거나 동조하는 공터로 병사를 이동시키면, 해당 문양의 카드를 1장 버려야 합니다. 버릴 수 없다면, 당신은 추가로 1점을 획득합니다.
 playerinfo.autoalliance.autooutragetitle=자동화된 분노
-playerinfo.autoalliance.Birdsong=1단계: 명령 카드 한 장을 공개합니다.<br><br>2단계: 해당 카드에 제작할 수 있는 아이템이 있다면, 1점을 획득하고 제작합니다.<br><br>3단계: 봉기<br>가장 많은 적 조각이 있는, 명령받은 동조 공터에서 모든 적 조각을 제거하고 해당 공터에 명령받은 기지를 배치합니다. 명령 카드가 <sprite name="birdicon">인 경우, 이를 한낮에 수행합니다.<br><br>4단계: 공공의 동정<br>이번 턴에 봉기하지 않았다면, 동조 공터가 4개 이하일 경우 두 번, 5개 이상일 경우 한 번 동조를 확산합니다.
-playerinfo.autoalliance.daylight=1단계: 동조 확산<br>어떤 동조 공터와도 인접한 공터 중 적 전사가 가장 적은 공터에 동조 토큰을 배치합니다. 만약 해당하는 공터가 없다면, 적 조각이 가장 적은 공터에 배치합니다. 만약 동조 토큰을 배치할 수 없다면, <style="vpnum">5</style>점을 획득합니다.<br><br>2단계: 기습 봉기<br>명령 카드가 <sprite name="birdicon">인 경우, 사용되지 않은 기지가 있는 문양의 공터에서 봉기를 일으킵니다.
-playerinfo.autoalliance.evening=1단계: 조직화<br>각 기지가 있는 공터에서 우드랜드 연합 전사가 3명 이상이면, 모든 연합 전사를 제거하고 동조를 확산합니다.<br><br>2단계: 모집<br>각 기지가 있는 공터에 전사 한 명을 배치합니다.
+playerinfo.autoalliance.Birdsong=1단계: 명령 카드 한 장을 공개합니다.<br><br>2단계: 해당 카드에 제작할 수 있는 아이템이 있다면, 1점을 획득하고 제작합니다.<br><br>3단계: 반란<br>가장 많은 적 기물이 있는, 명령받은 동조 공터에서 모든 적 기물을 제거하고 해당 공터에 명령받은 기지를 배치합니다. 명령 카드가 <sprite name="birdicon">인 경우, 이를 낮에 수행합니다.<br><br>4단계: 공공의 동정<br>이번 턴에 반란하지 않았다면, 동조 공터가 4개 이하일 경우 두 번, 5개 이상일 경우 한 번 동조를 확산합니다.
+playerinfo.autoalliance.daylight=1단계: 동조 확산<br>어떤 동조 공터와도 인접한 공터 중 적 병사가 가장 적은 공터에 동조 토큰을 배치합니다. 만약 해당하는 공터가 없다면, 적 기물이 가장 적은 공터에 배치합니다. 만약 동조 토큰을 배치할 수 없다면, <style="vpnum">5</style>점을 획득합니다.<br><br>2단계: 기습 반란<br>명령 카드가 <sprite name="birdicon">인 경우, 사용되지 않은 기지가 있는 문양의 공터에서 반란를 일으킵니다.
+playerinfo.autoalliance.evening=1단계: 조직화<br>각 기지가 있는 공터에서 우드랜드 연합 병사가 3명 이상이면, 모든 연합 병사를 제거하고 동조를 확산합니다.<br><br>2단계: 모집<br>각 기지가 있는 공터에 병사 한 명을 배치합니다.
 playerinfo.autoalliance.title=자동화된 우드랜드 연합
-playerinfo.Birdsong=새벽
+playerinfo.Birdsong=아침
 playerinfo.craftedcards=제작한 카드
 playerinfo.crafteditems=제작한 아이템
-playerinfo.daylight=한낮
+playerinfo.daylight=낮
 playerinfo.electriceyrie.Birdsong=<b>1단계:</b> 명령 카드 한 장을 공개합니다.<br><b>2단계:</b> 해당 카드에 제작할 수 있는 아이템이 있다면, 1점을 획득하고 제작합니다.<br><b>3단계:</b> 명령 카드에 해당하는 칼럼에 추가합니다.
-playerinfo.electriceyrie.daylight=<b>1단계:</b> 명령 실행—왼쪽에서 오른쪽 순서로 모집, 이동, 전투를 수행합니다.<br><br>    <b>- 모집 -</b> 각 칼럼에 카드가 하나 이상 있다면, 해당 문양의 공터 중 둥지가 있는 곳에 전사를 모집합니다.<br><br>        - 공터가 여러 개라면? - 가장 많은 적 조각이 있는 공터, 이어서 가장 적은 이어리 전사가 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>    <b>- 이동 -</b> 자신이 지배하는 해당 문양의 공터 중 가장 많은 이어리 전사가 있는 곳에서 출발합니다. 이동 대상은 둥지가 없는 공터 중 하나이며, 모두 둥지가 있다면 적 조각이 가장 적은 공터로 이동합니다. 출발지에 지배를 유지할 만큼의 전사를 남기거나, 해당 칼럼의 카드 수만큼 남깁니다.<br><br>        - 도착지 선택 - 가장 적은 적 조각이 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>    <b>- 전투 -</b> 해당 문양의 공터에서 전투를 수행합니다. 수비자는 건물이 가장 많은 플레이어입니다. 해당 칼럼의 카드 수가 가장 많다면, 추가 피해를 1점 줍니다.<br><br>        - 전투지 선택 - 둥지가 없는 공터, 이어서 가장 방어력이 낮은 건물이 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>        - 수비자 선택 - 해당 공터에서 조각이 가장 많은 플레이어, 이어서 가장 많은 승점을 가진 플레이어 순으로 선택합니다.<br><br><b>2단계:</b> 둥지 건설<br>자신이 지배하는 공터 중 둥지가 없는 공터 중 우선순위가 가장 높은 곳에 둥지를 건설합니다. 둥지를 놓을 수 없다면 혼란에 빠집니다.
+playerinfo.electriceyrie.daylight=<b>1단계:</b> 명령 실행—왼쪽에서 오른쪽 순서로 모집, 이동, 전투를 수행합니다.<br><br>    <b>- 모집 -</b> 각 칼럼에 카드가 하나 이상 있다면, 해당 문양의 공터 중 둥지가 있는 곳에 병사를 모집합니다.<br><br>        - 공터가 여러 개라면? - 가장 많은 적 기물이 있는 공터, 이어서 가장 적은 이어리 병사가 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>    <b>- 이동 -</b> 자신이 지배하는 해당 문양의 공터 중 가장 많은 이어리 병사가 있는 곳에서 출발합니다. 이동 대상은 둥지가 없는 공터 중 하나이며, 모두 둥지가 있다면 적 기물이 가장 적은 공터로 이동합니다. 출발지에 지배를 유지할 만큼의 병사를 남기거나, 해당 칼럼의 카드 수만큼 남깁니다.<br><br>        - 도착지 선택 - 가장 적은 적 기물이 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>    <b>- 전투 -</b> 해당 문양의 공터에서 전투를 수행합니다. 수비자는 건물이 가장 많은 플레이어입니다. 해당 칼럼의 카드 수가 가장 많다면, 추가 피해를 1점 줍니다.<br><br>        - 전투지 선택 - 둥지가 없는 공터, 이어서 가장 방어력이 낮은 건물이 있는 공터, 이어서 우선순위가 낮은 공터 순으로 선택합니다.<br><br>        - 수비자 선택 - 해당 공터에서 기물이 가장 많은 플레이어, 이어서 가장 많은 승점을 가진 플레이어 순으로 선택합니다.<br><br><b>2단계:</b> 둥지 건설<br>자신이 지배하는 공터 중 둥지가 없는 공터 중 우선순위가 가장 높은 곳에 둥지를 건설합니다. 둥지를 놓을 수 없다면 혼란에 빠집니다.
 playerinfo.electriceyrie.evening=둥지 트랙에서 가장 오른쪽 빈 칸에 적힌 <style="vptext">VP</style>만큼 점수를 획득합니다.
 playerinfo.evening=저녁
-playerinfo.eyriedynasties.Birdsong=1단계: 손에 카드가 없다면, 카드 한 장을 뽑습니다 <sprite name="DrawCard">.<br><br>2단계: 명령에 카드 한 장 또는 두 장을 추가합니다. 단, 새 문양 <sprite name="birdicon"> 카드는 한 장만 추가할 수 있습니다.<br><br>3단계: 둥지가 없다면, 가장 전사가 적은 공터에 둥지와 전사 3명을 배치합니다.
+playerinfo.eyriedynasties.Birdsong=1단계: 손에 카드가 없다면, 카드 한 장을 뽑습니다 <sprite name="DrawCard">.<br><br>2단계: 명령에 카드 한 장 또는 두 장을 추가합니다. 단, 새 문양 <sprite name="birdicon"> 카드는 한 장만 추가할 수 있습니다.<br><br>3단계: 둥지가 없다면, 가장 병사가 적은 공터에 둥지와 병사 3명을 배치합니다.
 playerinfo.eyriedynasties.daylight=1단계: 둥지를 사용하여 제작합니다.<br><br>2단계: 명령을 왼쪽에서 오른쪽으로 실행하며, 해당 문양의 공터에서 명령당 한 번씩 행동을 수행합니다.
 playerinfo.eyriedynasties.decree.battle=전투
 playerinfo.eyriedynasties.decree.battle.desc=...해당 문양의 공터에서 전투를 수행합니다.
@@ -87,14 +87,14 @@ playerinfo.eyriedynasties.decree.build=건설
 playerinfo.eyriedynasties.decree.build.desc=...둥지가 없는, 자신이 지배하는 해당 문양의 공터에서 둥지를 건설합니다.
 playerinfo.eyriedynasties.decree.description=명령에 원하는 행동 칼럼에 카드를 추가하세요.
 playerinfo.eyriedynasties.decree.move=이동
-playerinfo.eyriedynasties.decree.move.desc=...해당 문양의 공터에서 전사를 이동시킵니다.
+playerinfo.eyriedynasties.decree.move.desc=...해당 문양의 공터에서 병사를 이동시킵니다.
 playerinfo.eyriedynasties.decree.recruit=모집
-playerinfo.eyriedynasties.decree.recruit.desc=...둥지가 있는 해당 문양의 공터에 전사를 모집합니다.
+playerinfo.eyriedynasties.decree.recruit.desc=...둥지가 있는 해당 문양의 공터에 병사를 모집합니다.
 playerinfo.eyriedynasties.decree.title=명령
 playerinfo.eyriedynasties.disdainfortrade.description=아이템을 제작할 때, 항상 1점만 획득합니다.
 playerinfo.eyriedynasties.disdainfortrade.title=상업 멸시
 playerinfo.eyriedynasties.evening=1단계: 둥지 트랙에서 현재 위치에 해당하는 <style="vptext">VP</style>를 획득합니다.<br><br>2단계: 카드를 뽑습니다 (둥지 트랙에서 <sprite name="DrawCard"> 기호당 +1장). 이후 손에 5장 초과라면 버립니다.
 playerinfo.eyriedynasties.leader.builder=<b>건축가:</b> 아이템을 제작할 때 "상업 멸시" 능력을 무시합니다.
-playerinfo.eyriedynasties.leader.charismatic=<b>카리스마:</b> 모집 시, 한 번에 전사 두 명을 배치합니다.
+playerinfo.eyriedynasties.leader.charismatic=<b>카리스마:</b> 모집 시, 한 번에 병사 두 명을 배치합니다.
 playerinfo.eyriedynasties.leader.commander=<b>지휘관:</b> 공격 시, 추가 피해 1점을 줍니다.
 playerinfo.eyriedynasties.leader.despot=<b>전제군주:</b> 전투에서 적의 건물 또는 토큰을 하나라도 제거하면, 추가로 1점을 획득합니다.

@@ -4,11 +4,11 @@ playerinfo.eyriedynasties.rooststitle=둥지
 playerinfo.eyriedynasties.summary=한때의 약세를 틈타 고양이 후작이 숲을 장악했습니다. 이제 당신은 다시 힘을 모아, 본래의 영토를 되찾을 준비를 마쳤습니다.
 playerinfo.eyriedynasty.title=이어리 왕조
 playerinfo.label.cardsinhand=손에 든 카드
-playerinfo.label.warriors=남은 전사
+playerinfo.label.warriors=남은 병사
 playerinfo.marquise.Birdsong=각 제재소 <sprite name="CatSawmill">에 목재 <sprite name="Wood">를 하나씩 놓습니다.
-playerinfo.marquise.daylight=1단계: 제작<br>2단계: 최대 3번 행동 수행<br><line-indent=15%>• 전투<br>• 행군<br>• 모집<br>• 건설<br>• 과로
+playerinfo.marquise.daylight=1단계: 제작<br>2단계: 최대 3번 행동 수행<br><line-indent=15%>• 전투<br>• 행군<br>• 모집<br>• 건설<br>• 야근
 playerinfo.marquise.evening=카드를 한 장 뽑습니다 (+모집궤에서 <sprite name="DrawCard">를 얻은 개수만큼 추가). 이후, 손에 든 카드가 5장을 초과하면 버립니다.
-playerinfo.marquisedecat.fieldhospital.description=전사가 사망하면, 같은 문양의 카드를 소모하여 그 전사를 성채로 되돌릴 수 있습니다.
+playerinfo.marquisedecat.fieldhospital.description=병사가 사망하면, 같은 문양의 카드를 소모하여 그 병사를 성채로 되돌릴 수 있습니다.
 playerinfo.marquisedecat.fieldhospital.title=야전 병원
 playerinfo.marquisedecat.keep.description=성채 토큰이 있는 공터에는 오직 당신만이 자신의 말을 배치할 수 있습니다.
 playerinfo.marquisedecat.keep.title=성채
@@ -22,21 +22,21 @@ playerinfo.marquisedecat.workshops.title=공방
 playerinfo.marquisedecat.workshopstitle=공방
 playerinfo.mechmarq.Birdsong=1단계: 명령 카드 한 장을 공개합니다.<br><br>2단계: 해당 카드가 제작 가능한 아이템을 포함하고 있다면, <style="vpone">1</style> 비용으로 제작합니다.
 playerinfo.mechmarq.blitz=<size=125%><b>기습</b></size><br>이동 후, 당신이 지배하는 공터 중 적의 말이 없는 최우선 공터를 찾습니다. 그 공터에서 말을 하나 남기고 나머지를 이동시킨 후, 도착한 공터에서 전투를 시작합니다.
-playerinfo.mechmarq.challenging=<size=125%><b>도전적</b></size><br>- 모집 시, 명령된 공터에서 추가로 전사 2명을 배치합니다.
-playerinfo.mechmarq.daylight=명령 카드가 <sprite name="birdicon"> 카드라면, 강화된 낮 단계를 수행합니다.<br>1단계: 전투<br>각 명령된 공터에서 전투를 수행합니다. 수비자는 해당 공터에 가장 많은 말을 가진 플레이어이며, 동률이면 <style="vptext">승점</style>이 높은 플레이어가 수비자가 됩니다.<br><br>2단계: 모집<br>명령된 공터 중 당신이 지배하는 곳에 전사 4명을 균등하게 배치합니다. 3곳을 지배하고 있다면, 네 번째 전사는 우선순위가 가장 높은 공터에 배치됩니다.<br><br>3단계: 건설<br>당신의 전사가 가장 많은 공터에 건물을 하나 배치합니다. 명령 카드가 <sprite name="ClearingFox">라면 제재소, <sprite name="ClearingRabbit">라면 공방, <sprite name="ClearingMouse">라면 모병소를 배치합니다.<br><br>4단계: 이동<br>각 명령된 공터에서 전사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킵니다.<br><br>5단계: 확장<br>이번 턴에 건물을 배치하지 않았고 지도 위에 건물이 5개 이하라면, 현재 명령 카드를 버리고 새 명령 카드를 뽑아 공개한 후, 제작 없이 낮 단계의 처음으로 돌아갑니다.
-playerinfo.mechmarq.easy=<size=125%><b>쉬움</b></size><br>- 모집 시, 전사 2명만 배치합니다.
-playerinfo.mechmarq.escalateddaylight=1단계: 전투<br>각 공터에서 전투를 수행합니다. 동률 판정은 일반 낮 단계와 동일합니다.<br><br>2단계: 모집<br>우선순위가 가장 낮은 당신이 지배하는 공터 두 곳에 전사 2명씩 배치합니다. 하나의 공터만 지배하고 있다면, 모든 전사를 그곳에 배치합니다.<br><br>3단계: 건설<br>지도 위에서 가장 많은 말을 가진 유형의 건물을, 당신이 지배하는 전사가 가장 많은 공터에 배치합니다. 동률이면 제재소 → 모병소 → 공방 순으로 배치합니다.<br><br>4단계: 이동<br>각 공터에서 전사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킨 후, 그곳에서 전투를 수행합니다.
+playerinfo.mechmarq.challenging=<size=125%><b>도전적</b></size><br>- 모집 시, 명령된 공터에서 추가로 병사 2명을 배치합니다.
+playerinfo.mechmarq.daylight=명령 카드가 <sprite name="birdicon"> 카드라면, 강화된 낮 단계를 수행합니다.<br>1단계: 전투<br>각 명령된 공터에서 전투를 수행합니다. 수비자는 해당 공터에 가장 많은 말을 가진 플레이어이며, 동률이면 <style="vptext">VP</style>이 높은 플레이어가 수비자가 됩니다.<br><br>2단계: 모집<br>명령된 공터 중 당신이 지배하는 곳에 병사 4명을 균등하게 배치합니다. 3곳을 지배하고 있다면, 네 번째 병사는 우선순위가 가장 높은 공터에 배치됩니다.<br><br>3단계: 건설<br>당신의 병사가 가장 많은 공터에 건물을 하나 배치합니다. 명령 카드가 <sprite name="ClearingFox">라면 제재소, <sprite name="ClearingRabbit">라면 공방, <sprite name="ClearingMouse">라면 모병소를 배치합니다.<br><br>4단계: 이동<br>각 명령된 공터에서 병사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킵니다.<br><br>5단계: 확장<br>이번 턴에 건물을 배치하지 않았고 지도 위에 건물이 5개 이하라면, 현재 명령 카드를 버리고 새 명령 카드를 뽑아 공개한 후, 제작 없이 낮 단계의 처음으로 돌아갑니다.
+playerinfo.mechmarq.easy=<size=125%><b>쉬움</b></size><br>- 모집 시, 병사 2명만 배치합니다.
+playerinfo.mechmarq.escalateddaylight=1단계: 전투<br>각 공터에서 전투를 수행합니다. 동률 판정은 일반 낮 단계와 동일합니다.<br><br>2단계: 모집<br>우선순위가 가장 낮은 당신이 지배하는 공터 두 곳에 병사 2명씩 배치합니다. 하나의 공터만 지배하고 있다면, 모든 병사를 그곳에 배치합니다.<br><br>3단계: 건설<br>지도 위에서 가장 많은 말을 가진 유형의 건물을, 당신이 지배하는 병사가 가장 많은 공터에 배치합니다. 동률이면 제재소 → 모병소 → 공방 순으로 배치합니다.<br><br>4단계: 이동<br>각 공터에서 병사 3명을 남기고 나머지를 적이 가장 많은 인접 공터로 이동시킨 후, 그곳에서 전투를 수행합니다.
 playerinfo.mechmarq.escalateddaylighttitle=강화된 낮 단계
 playerinfo.mechmarq.evening=당신의 건물 궤에서 가장 오른쪽의 빈 칸에 적힌 승점을 획득합니다. 명령 카드가 새 카드라면, 가장 높은 승점을 획득할 수 있는 건물 궤를 사용합니다. (고양이 후작과 달리 건물을 배치해도 승점을 얻지 않습니다.)
 playerinfo.mechmarq.fortified=<size=125%><b>요새화</b></size><br>각 건물은 제거되기 위해 두 번의 피해를 받아야 합니다. 건물이 한 번만 피해를 입으면 아무 효과도 없습니다.
 playerinfo.mechmarq.hatesurp=기습을 싫어함
 playerinfo.mechmarq.hatesurpdesc=봇을 대상으로 매복 카드를 사용할 수 없습니다.
 playerinfo.mechmarq.nametitle=기계 후작
-playerinfo.mechmarq.ironwill=<size=125%><b>강철 의지</b></size><br>고조된 낮 동안 모병할 때마다 전사를 두 배로 배치합니다.
+playerinfo.mechmarq.ironwill=<size=125%><b>강철 의지</b></size><br>고조된 낮 동안 모병할 때마다 병사를 두 배로 배치합니다.
 playerinfo.mechmarq.manualdex=서투른 손놀림  
 playerinfo.mechmarq.manualdexdesc=손에 카드를 들고 있지 않습니다. 인간 플레이어가 봇에게서 카드를 가져와야 하는 경우, 대신 카드 한 장을 뽑습니다. 인간 플레이어가 봇에게 카드를 주어야 하는 경우, 대신 <style="vptext">1VP</style>를 획득합니다.
 playerinfo.mechmarq.nametitle=메카 후작  
-playerinfo.mechmarq.nightmare=<size=125%><b>악몽</b></size><br>- 모병할 때마다, 추가로 가장 우선순위가 높은 본인이 지배하는 공터에 전사 두 명을 배치합니다. 저녁 종료 시, 승점 1점을 획득합니다.
+playerinfo.mechmarq.nightmare=<size=125%><b>악몽</b></size><br>- 모병할 때마다, 추가로 가장 우선순위가 높은 본인이 지배하는 공터에 병사 두 명을 배치합니다. 저녁 종료 시, 승점 1점을 획득합니다.
 playerinfo.mechmarq.normal=<size=125%><b>일반</b></size><br>- 변경 사항이 없습니다.
 playerinfo.order=명령 
 playerinfo.traits=특성
@@ -50,7 +50,7 @@ playerinfo.vagabond.eveningsrest.description=저녁에 숲에 있다면 모든 �
 playerinfo.vagabond.hostile.description=전투에서 적군 말을 제거할 때마다 1점을 획득합니다.
 playerinfo.vagabond.hostile.exhaust=적대적인 공터로 이동하려면 추가 부츠를 소진해야 합니다.
 playerinfo.vagabond.hostile.title=적대적 관계
-playerinfo.vagabond.lonewanderer.description=당신의 말을 전사로 취급하지 않으며, 지도에서 제거되지 않고, 공터를 지배하지 않아도 이동할 수 있습니다.
+playerinfo.vagabond.lonewanderer.description=당신의 말을 병사로 취급하지 않으며, 지도에서 제거되지 않고, 공터를 지배하지 않아도 이동할 수 있습니다.
 playerinfo.vagabond.lonewanderer.title=외로운 방랑자
 playerinfo.vagabond.quests.title=퀘스트
 playerinfo.vagabond.refreshformat=회복: {0}
@@ -67,7 +67,7 @@ playerinfo.vagabot.aid=원조
 playerinfo.vagabot.battle=전투
 playerinfo.vagabot.battletrack=전투 기록
 playerinfo.vagabot.Birdsong=<b>1단계:</b> 명령 카드를 공개합니다.<br><br><b>2단계:</b> 명령 카드에 아이템이 있다면 제작하고 <style="vpone">1점</style>을 획득합니다.<br><br><b>3단계:</b> 이동<br>사용할 수 있는 아이템이 두 개 이하라면, 인접한 무작위 숲으로 이동한 후 저녁으로 넘어갑니다.
-playerinfo.vagabot.daylight=주어진 낮 행동을 수행합니다.<br><br><b>탐색</b><br>가장 가까운 폐허로 이동합니다. 이동할 때마다 아이템을 하나 소진하며, 폐허에 도착하면 추가로 하나를 소진하여 폐허에서 아이템을 획득합니다.<br><br><b>퀘스트</b><br>가장 가까운 퀘스트 조건을 충족하는 공터로 이동한 후, 아이템 두 개를 소진하여 퀘스트를 완료하고 <style="vpone">1점</style>을 획득합니다.<br><br><b>원조</b><br>같은 공터에 있는 플레이어 중 아이템을 보유하고 있으며 가장 낮은 <style="vptext">VP</style>를 가진 대상을 선택합니다. 상대의 아이템 개수만큼 아이템을 소진하여 같은 개수의 아이템을 가져오고, 그만큼 <style="vptext">VP</style>를 획득합니다. 이후 상대는 같은 수의 카드를 뽑습니다.<br><br><b>전투</b><br>가장 높은 <style="vptext">VP</style>를 보유한 적이 있는 가장 가까운 공터로 이동한 후, 아이템 하나를 소진하여 해당 플레이어와 전투를 벌입니다. 제거한 적 전사당 <style="vpone">1점</style>을 획득합니다. 추가 전투를 진행할 경우, 전투당 아이템 두 개를 추가로 소진해야 합니다.<br>여러 공터에 대상이 있다면, 건물과 토큰이 가장 많은 곳으로 이동하고, 동일할 경우 전사가 가장 적은 곳을 우선합니다.<br><br><b>수리</b><br>손상된 아이템이 있다면, 아이템 하나를 소진하여 아이템 하나를 수리합니다.<br><br><b>특수 행동</b><br>아이템 하나를 소진하여 특수 능력을 사용합니다.
+playerinfo.vagabot.daylight=주어진 낮 행동을 수행합니다.<br><br><b>탐색</b><br>가장 가까운 폐허로 이동합니다. 이동할 때마다 아이템을 하나 소진하며, 폐허에 도착하면 추가로 하나를 소진하여 폐허에서 아이템을 획득합니다.<br><br><b>퀘스트</b><br>가장 가까운 퀘스트 조건을 충족하는 공터로 이동한 후, 아이템 두 개를 소진하여 퀘스트를 완료하고 <style="vpone">1점</style>을 획득합니다.<br><br><b>원조</b><br>같은 공터에 있는 플레이어 중 아이템을 보유하고 있으며 가장 낮은 <style="vptext">VP</style>를 가진 대상을 선택합니다. 상대의 아이템 개수만큼 아이템을 소진하여 같은 개수의 아이템을 가져오고, 그만큼 <style="vptext">VP</style>를 획득합니다. 이후 상대는 같은 수의 카드를 뽑습니다.<br><br><b>전투</b><br>가장 높은 <style="vptext">VP</style>를 보유한 적이 있는 가장 가까운 공터로 이동한 후, 아이템 하나를 소진하여 해당 플레이어와 전투를 벌입니다. 제거한 적 병사당 <style="vpone">1점</style>을 획득합니다. 추가 전투를 진행할 경우, 전투당 아이템 두 개를 추가로 소진해야 합니다.<br>여러 공터에 대상이 있다면, 건물과 토큰이 가장 많은 곳으로 이동하고, 동일할 경우 병사가 가장 적은 곳을 우선합니다.<br><br><b>수리</b><br>손상된 아이템이 있다면, 아이템 하나를 소진하여 아이템 하나를 수리합니다.<br><br><b>특수 행동</b><br>아이템 하나를 소진하여 특수 능력을 사용합니다.
 playerinfo.vagabot.daylightactions=낮 행동
 playerinfo.vagabot.evening=<b>1단계:</b> 손상된 아이템이 있다면, 사용할 수 있는 아이템 4개를 회복합니다. 손상된 아이템이 없다면 6개를 회복합니다.<br><br><b>2단계:</b> 숲에 있다면 모든 아이템을 수리합니다. 그렇지 않다면 아이템 하나를 수리합니다.
 playerinfo.vagabot.explore=탐색
@@ -84,16 +84,16 @@ playerinfo.woodlandalliance.bases.title=기지
 playerinfo.woodlandalliance.guerrillawar.description=수비자로서 전투 시 주사위에서 높은 값을 사용하고, 공격자는 낮은 값을 사용합니다.
 playerinfo.woodlandalliance.guerrillawar.title=게릴라 전술
 playerinfo.woodlandalliance.officers.label=장교
-playerinfo.woodlandalliance.outrage.description=상대가 동조 토큰을 건드리거나 제거하면, 해당 공터의 문양과 일치하는 카드를 후원자로 추가해야 합니다.
+playerinfo.woodlandalliance.outrage.description=상대가 동조 토큰을 건드리거나 제거하면, 해당 공터의 문양과 일치하는 카드를 지지자로 추가해야 합니다.
 playerinfo.woodlandalliance.outrage.exclaimation=격분!
 playerinfo.woodlandalliance.outrage.title=격분
-playerinfo.woodlandalliance.removingbases.desc=기지가 지도에서 제거되면, 해당 문양(새 포함)의 모든 후원자를 버리고, 장교의 절반(반올림)을 제거합니다. 지도에 기지가 남아 있지 않다면, 후원자 수를 5장 이하로 줄입니다.
+playerinfo.woodlandalliance.removingbases.desc=기지가 지도에서 제거되면, 해당 문양(새 포함)의 모든 지지자를 버리고, 장교의 절반(반올림)을 제거합니다. 지도에 기지가 남아 있지 않다면, 지지자 수를 5장 이하로 줄입니다.
 playerinfo.woodlandalliance.removingbases.title=기지 제거
-playerinfo.woodlandalliance.summary=당신은 민중의 지지를 받습니다. 동조를 확산하고 봉기하여 숲에서 억압자들을 몰아내세요!
-playerinfo.woodlandalliance.supporters.label=후원자
-playerinfo.woodlandalliance.sympathy.martiallaw=<b>계엄령</b>: 목표 공터에 다른 플레이어의 전사가 3명 이상 있다면, 추가로 후원자 한 장을 소모해야 합니다.
+playerinfo.woodlandalliance.summary=당신은 민중의 지지를 받습니다. 동조를 확산하고 반란하여 숲에서 억압자들을 몰아내세요!
+playerinfo.woodlandalliance.supporters.label=지지자
+playerinfo.woodlandalliance.sympathy.martiallaw=<b>계엄령</b>: 목표 공터에 다른 플레이어의 병사가 3명 이상 있다면, 추가로 지지자 한 장을 소모해야 합니다.
 playerinfo.woodlandalliance.sympathy.placementlimits=<b>배치 제한</b>: 각 공터에는 동조 토큰이 하나만 놓일 수 있습니다.
-playerinfo.woodlandalliance.sympathy.title=동조 기록
+playerinfo.woodlandalliance.sympathy.title=동조 트랙
 playerinfo.woodlandalliance.title=우드랜드 연합
 playernames.guestdisplayname=당신
 playerui.craftedcards.label=제작한 카드

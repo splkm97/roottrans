@@ -8,7 +8,7 @@ tutorial.title.tutorial04=동물들의 연합!
 tutorial.description.tutorial04=우드랜드 연합을 플레이하는 법을 배우세요.
 tutorial.title.tutorial05=외로운 방랑자
 tutorial.description.tutorial05=방랑자를 플레이하는 법을 배우세요.
-tutorial.ftt.outrage.nomatch=상대가 <sprite name="Outrage"><color=#008D3F>분노</color></sprite>를 유발한 공터와 같은 문양의 카드를 가지고 있지 않으므로, 손패를 공개하고 대신 무작위 <color=#008D3F>지지자</color>를 제공합니다.
+tutorial.ftt.outrage.nomatch=상대가 <sprite name="Outrage"><color=#008D3F>분노</color>를 유발한 공터와 같은 문양의 카드를 가지고 있지 않으므로, 손패를 공개하고 대신 무작위 <color=#008D3F>지지자</color>를 제공합니다.
 firsttime.openStore=품절된 아이템을 제작할 수 있는 카드를 뽑았습니다. 공급 아이콘을 눌러 사용 가능한 아이템을 확인하세요.
 firsttime.NoItemsToCraft=각 플레이어가 제작한 아이템은 공급에서 가져옵니다. 한 아이템이 품절되면, 해당 아이템을 보상으로 주는 카드는 더 이상 제작할 수 없습니다.
 PracticeGamePrompt.MarquiseEyrie.Header=고양이 후작 vs. 이어리 왕조
@@ -21,30 +21,30 @@ Firsttime.repair=손상된 아이템이 있습니다. <sprite name="hammer">을 
 Secondtime.evenings.rest=아이템 상태가 심각합니다. 저녁 단계에서 숲으로 산책하면 아이템을 수리할 수 있다는 점을 기억하세요.
 tutorial.reserve=예비
 Firsttime.discard=턴이 끝날 때, 손패 제한이 5장이므로 초과한 카드는 버려야 합니다.
-Firsttime.sympathyTokenRemoved=상대가 <sprite name="Sympathy"><color=#008D3F>동조 토큰</color></sprite>을 제거하여 <sprite name="1VP">를 획득했습니다. 토큰은 전투에서 전사처럼 공격받을 수 있지만, 반격할 수는 없습니다.
+Firsttime.sympathyTokenRemoved=상대가 <sprite name="Sympathy"><color=#008D3F>동조 토큰</color>을 제거하여 <sprite name="1VP">를 획득했습니다. 토큰은 전투에서 병사처럼 공격받을 수 있지만, 반격할 수는 없습니다.
 practice.openingLine=이제 연습한 내용을 시험해볼 차례입니다. 이 연습 게임에서 먼저 <style="vpnumdd">20</style>점을 획득하는 팩션이 승리합니다!
 tutorial3.turnthree.turmoil.1.b=혼란이 다가오는 것 같지만, 매 턴 <color=#336699>규율</color>에 카드를 추가해야 합니다. 지금 하나 배치하세요. 너무 고민하지 마세요.
-tutorial3.turnthree.turmoil.1.cats=저번 턴에 사악한 <color=#CC6633>고양이 후작</color>이 <sprite name="Roost"><color=#336699>둥지</color></sprite>를 파괴하여, 더 이상 <sprite name="ClearingFox">여우 공터</sprite>에서 모집할 수 없습니다.
-tutorial3.aiturnthree.use.sappers=제작한 "참호병" 카드를 선택하여 적 전사를 추가로 제거하세요.
-tutorial3.turnfour.goal.1=이제 스스로 해낼 준비가 된 것 같군요. 적 건물을 파괴하고, 카드를 제작하며, <sprite name="Roost"><color=#336699>둥지</color></sprite>를 건설하고 보호하여 <style="vpnumddteen">10</style>점을 획득하면 이 시나리오를 완료할 수 있습니다.
-Firsttime.ally.Marquise=이제 <sprite name="Allied"><color=#4E6F89>동맹</color></sprite> 상태가 되어 <color=#CC6633>고양이 후작</color>과 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color></sprite>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 전사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
-Firsttime.ally.Eyrie=이제 <sprite name="Allied"><color=#4E6F89>동맹</color></sprite> 상태가 되어 <color=#336699>이어리 왕조</color>와 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color></sprite>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 전사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
-Firsttime.ally.Alliance=이제 <sprite name="Allied"><color=#4E6F89>동맹</color></sprite> 상태가 되어 <color=#008D3F>우드랜드 연합</color>과 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color></sprite>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 전사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
+tutorial3.turnthree.turmoil.1.cats=저번 턴에 사악한 <color=#CC6633>고양이 후작</color>이 <sprite name="Roost"><color=#336699>둥지</color>를 파괴하여, 더 이상 <sprite name="ClearingFox">여우 공터에서 모집할 수 없습니다.
+tutorial3.aiturnthree.use.sappers=제작한 "참호병" 카드를 선택하여 적 병사를 추가로 제거하세요.
+tutorial3.turnfour.goal.1=이제 스스로 해낼 준비가 된 것 같군요. 적 건물을 파괴하고, 카드를 제작하며, <sprite name="Roost"><color=#336699>둥지</color>를 건설하고 보호하여 <style="vpnumddteen">10</style>점을 획득하면 이 시나리오를 완료할 수 있습니다.
+Firsttime.ally.Marquise=이제 <sprite name="Allied"><color=#4E6F89>동맹</color> 상태가 되어 <color=#CC6633>고양이 후작</color>과 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 병사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
+Firsttime.ally.Eyrie=이제 <sprite name="Allied"><color=#4E6F89>동맹</color> 상태가 되어 <color=#336699>이어리 왕조</color>와 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 병사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
+Firsttime.ally.Alliance=이제 <sprite name="Allied"><color=#4E6F89>동맹</color> 상태가 되어 <color=#008D3F>우드랜드 연합</color>과 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 병사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
 tutorial4.turn2.craftOrMobilize=손에 있는 카드를 제작하거나 <color=#008D3F>조직화</color>할 수 있습니다. 선택은 당신의 몫입니다.
 tutorial2.turn1.evening2=턴의 단계를 다시 복습해 봅시다.
 tutorial2.turn1.evening2.gamepad=턴 단계를 확인하려면 <sprite name="Switch_LeftBumper">을 누른 후 <sprite name="Switch_RightStickButton">을 누르세요.
-tutorial1.turn2.daylight2=전사를 분산시켜 더 많은 공터를 지배하세요.
+tutorial1.turn2.daylight2=병사를 분산시켜 더 많은 공터를 지배하세요.
 tutorial1.firstbattle.dice.revamp=전투에서 주사위 두 개를 굴려 0~3 사이의 값이 나옵니다. 공격자가 유리하며, 더 높은 주사위 값을 가져가고 방어자는 낮은 값을 가집니다.
-Tutorial1.firstbattle.dice.2.revamp=각 플레이어는 해당 공터에 있는 전사 수만큼만 피해를 줄 수 있습니다.
-tutorial1.firstbattle.remove.revamp=공격을 성공하면 적의 말이 지도에서 제거됩니다. 전사부터 제거되며, 총 피해량은 화면 아래에 표시됩니다.
-ftt.vp.battle=적의 건물이나 토큰을 제거할 때마다 <sprite name="1VP">를 획득합니다. 전사를 제거해도 <style="vptext">VP</style>는 얻을 수 없습니다.
-ftt.hit.reduce.warriors=굴린 주사위 값이 해당 공터의 전사 수보다 높아, 실제로 가할 수 있는 피해량이 전사 수만큼으로 제한되었습니다.
+Tutorial1.firstbattle.dice.2.revamp=각 플레이어는 해당 공터에 있는 병사 수만큼만 피해를 줄 수 있습니다.
+tutorial1.firstbattle.remove.revamp=공격을 성공하면 적의 말이 지도에서 제거됩니다. 병사부터 제거되며, 총 피해량은 화면 아래에 표시됩니다.
+ftt.vp.battle=적의 건물이나 토큰을 제거할 때마다 <sprite name="1VP">를 획득합니다. 병사를 제거해도 <style="vptext">VP</style>는 얻을 수 없습니다.
+ftt.hit.reduce.warriors=굴린 주사위 값이 해당 공터의 병사 수보다 높아, 실제로 가할 수 있는 피해량이 병사 수만큼으로 제한되었습니다.
 ftt.die.swap=훌륭합니다. 공격자의 이점 덕분에 더 높은 주사위 값을 선택할 수 있었습니다.
-FTT.enemy.defenseless=적이 보호받지 못하는 상태입니다. 즉, 그 공터에 전사가 없으므로 추가 피해를 줄 수 있습니다.
-FTT.enemy.defenseless.2=추가 피해는 전사 수에 제한되지 않으므로, 전사 한 명으로도 여러 번 타격을 가할 수 있습니다.
+FTT.enemy.defenseless=적이 보호받지 못하는 상태입니다. 즉, 그 공터에 병사가 없으므로 추가 피해를 줄 수 있습니다.
+FTT.enemy.defenseless.2=추가 피해는 병사 수에 제한되지 않으므로, 병사 한 명으로도 여러 번 타격을 가할 수 있습니다.
 tutorial3.move.1.trunk=<sprite name="birdicon">로 <color=#336699>규율</color>에 배치된 카드는 어느 공터에서나 사용할 수 있습니다.
-tutorial3.move.1.b.trunk=<sprite name="ClearingFox"> 공터로 <color=#336699><sprite name="eyrie">전사</sprite></color> 3명을 이동시키세요. 전사 3명을 모으면 전투에서 주사위의 최대 피해량을 활용할 수 있습니다.
-tutorial2.ftt.encouragement=좋습니다! <sprite name="Roost"> <color=#336699>둥지</color></sprite>를 하나 파괴했군요. 계속 둥지를 공격하고 건물을 배치하여 <style="vptext">VP</style> 목표에 도달하세요.
+tutorial3.move.1.b.trunk=<sprite name="ClearingFox"> 공터로 <color=#336699><sprite name="eyrie">병사</color> 3명을 이동시키세요. 병사 3명을 모으면 전투에서 주사위의 최대 피해량을 활용할 수 있습니다.
+tutorial2.ftt.encouragement=좋습니다! <sprite name="Roost"> <color=#336699>둥지</color>를 하나 파괴했군요. 계속 둥지를 공격하고 건물을 배치하여 <style="vptext">VP</style> 목표에 도달하세요.
 Clockwork.tutorial.intro=기계 병력(AI 봇)은 도전적이고 커스터마이징 가능한 AI 플레이어입니다. 각 팩션의 봇 버전은 실제 플레이어와는 약간 다르게 작동합니다.
 Clockwork.tutorial.orders=봇은 자신의 턴에 명령 카드를 뽑아 공개한 후, 카드의 문양을 바탕으로 행동을 결정합니다.
 Clockwork.tutorial.crafting=명령 카드에 아이템이 포함되어 있으면, 봇은 해당 아이템을 제작합니다. 그러나 카드에 표시된 승점은 무시하고 대신 <sprite name="1VP">만 획득합니다.
@@ -63,7 +63,7 @@ tutorial.title.MechaTutorial=Clockwork 소개
 tutorial.description.MechaTutorial=Clockwork 적대 세력에 대해 배워보세요.
 Clockwork.tutorial.goal.10vp=<style="vptext">VP</style> 10점을 획득하세요.
 tutorial.advanced.separator=확장팩
-ftt.MoveToKeepArea=후작의 야전 병원 능력을 조심하세요. 요새 공터에서 제거된 전사는 지체 없이 회복될 수 있습니다.
+ftt.MoveToKeepArea=후작의 야전 병원 능력을 조심하세요. 요새 공터에서 제거된 병사는 지체 없이 회복될 수 있습니다.
 practice.savedgame=진행 중인 연습 게임이 있습니다. 계속하시겠습니까?
 tutorial.strategic.touch=확대/축소 수준을 조정하려면 두 손가락을 지도에 대고 벌리거나 오므리세요. 화면을 최대한 축소하여 전략 뷰로 전환하세요 (카메라 이동이 잠깁니다).
 tutorial.strategic.mouse=확대/축소 수준을 조정하려면 마우스 휠, 위/아래 방향키 또는 +/- 버튼을 사용하세요. 화면을 최대한 축소하여 전략 뷰로 전환하세요 (카메라 이동이 잠깁니다).
@@ -85,12 +85,12 @@ tooltip.opponent.riverfolk=<size=125%><b>리버포크 주식회사 적</b></size
 tooltip.opponent.lizard=<size=125%><b>도마뱀 교단 적</b></size>
 tooltip.opponent.player=<size=125%><b>{0}</b></size>
 tooltip.ui.shopinventory=<size=125%><b>보급품</b></size>
-tooltip.ui.victorypoints=<size=125%><b>승점</b></size><br>가장 먼저 <style="vpnumddteen"><size=14><space=.1em>30</size></style>점을 획득한 플레이어가 승리합니다.
+tooltip.ui.victorypoints=<size=125%><b>VP</b></size><br>가장 먼저 <style="vpnumddteen"><size=14><space=.1em>30</size></style>점을 획득한 플레이어가 승리합니다.
 tooltip.ui.suitdominanceactive=<size=125%><b>지배 활성화됨</b></size>
 tooltip.ui.birddominanceactive=<size=125%><b>지배 활성화됨</b></size>
 tooltip.ui.coalitionactive=<size=125%><b>연합: {0}</b></size>
 tooltip.ui.advanceday=<size=125%><b>계속</b></size>
-tooltip.ui.cat.warriorcount=<size=125%><b>예비 전사</b></size>
+tooltip.ui.cat.warriorcount=<size=125%><b>예비 병사</b></size>
 tooltip.ui.cat.woodonboard=<size=125%><b>배치된 목재</b></size>
 tooltip.ability.cat.battle=<size=125%><b>전투</b></size>
 tooltip.ability.cat.march=<size=125%><b>행군</b></size>

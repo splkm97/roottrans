@@ -43,7 +43,7 @@ scenario.delivery.tier2description=턴 시작 시, 무작위 공터에 알이 �
 scenario.work.name=일해라! 일해라! 일해라!
 scenario.work.tier1description=초기 건물은 공방 세 개입니다.
 scenario.work.tier2description=초기 건물은 공방 세 개입니다. 상대는 <style="vpnum">5</style>점으로 시작합니다.
-scenario.ww.name=겨울 전사들
+scenario.ww.name=겨울 병사들
 scenario.ww.tier1description=세 명의 병사와 한 명의 장교로 시작하며, 이번 게임에서는 동조 대신 병사를 사용하여 제작합니다. 새 문양 카드를 조직화할 수 없습니다.
 scenario.ww.tier2description=세 명의 병사와 한 명의 장교로 시작하며, 이번 게임에서는 동조 대신 병사를 사용하여 제작합니다. 새 문양 카드를 조직화할 수 없으며, 지지자를 가지고 시작하지 않습니다.
 Log.Eyrie.Selects.Character=<color=#3a63cb>이어리 왕조</color>가 지도자로 [name]을 선택하고, [area1] 및 [area2] 규율에 <sprite name="birdicon">을 추가합니다.
@@ -53,8 +53,8 @@ Log.Keep.Choice=[faction name]이(가) 자신의 요새를 [suit icon] 공터에
 Log.SetupBuilding.Choice=[faction name]이(가) 자신의 [piece]을(를) [suit icon] 공터에 배치했습니다.
 Log.Start.Game=게임 시작
 Log.Start.Turn=[faction name]의 턴
-Log.Birdsong=<sprite name="Birdsong">새벽
-Log.Daylight=<sprite name="Daylight">대낮
+Log.Birdsong=<sprite name="Birdsong">아침
+Log.Daylight=<sprite name="Daylight">낮
 Log.Evening=<sprite name="Evening">저녁
 Log.initiate.battle=[faction name]이(가) [faction name 2]을(를) 상대로 [suit icon] 공터에서 전투를 개시했습니다.
 Log.Ambush=[faction name]이(가) [suit icon] 매복으로 [faction name 2]을(를) 기습했습니다.
@@ -84,14 +84,14 @@ Log.Relationship.1=[faction name]이(가) [faction name 2]와의 관계를 1단�
 Log.Relationship.2=[faction name]이(가) [faction name 2]와의 관계를 2단계로 올리고 2 <style="vptext">VP</style>을(를) 획득했습니다.
 Log.Relationship.3=[faction name]이(가) [faction name 2]와 동맹 관계가 되어 2 <style="vptext">VP</style>을(를) 획득했습니다.
 Log.Relationship.Hostile=[faction name]이(가) [faction name 2]와 적대 관계가 되었습니다.
-Log.Refresh=[faction name]이(가) 새벽에 다음 아이템을 새로고침했습니다: [items]
+Log.Refresh=[faction name]이(가) 아침에 다음 아이템을 활성화했습니다: [items]
 Log.Explore=[faction name]이(가) [suit icon] 공터에서 유적을 탐색했습니다. 1 <style="vptext">VP</style>을(를) 획득하고 [item icon]을(를) 얻었습니다.
 Log.Strike=[faction name]이(가) [suit icon] 공터에서 [faction name 2]의 [piece]을(를) 기습했습니다.
 Log.Repair=[faction name]이(가) <sprite name="hammer">을(를) 소진하여 [item icon]을(를) 수리했습니다.
 Log.Evenings.Rest=[faction name]이(가) 저녁 휴식으로 모든 아이템을 수리했습니다.
 Log.Satchel.Discard=[faction name]이(가) 가방이 넘쳐 다음 아이템을 버렸습니다: [items]
 Log.Steal=[faction name]이(가) 도둑질을 사용하여 <sprite name="torch">을(를) 소진하고 [faction name 2]의 무작위 카드를 가져갔습니다.
-Log.Hideout=[faction name]이(가) 은신처를 사용하여 <sprite name="torch">을(를) 소진하고 [items]을(를) 수리했습니다. 이는 대낮을 종료합니다.
+Log.Hideout=[faction name]이(가) 은신처를 사용하여 <sprite name="torch">을(를) 소진하고 [items]을(를) 수리했습니다. 이는 낮을 종료합니다.
 Log.Day.Labor=[faction name]이(가) 하루 노동을 사용하여 <sprite name="torch">을(를) 소진하고 버린 카드 더미에서 카드를 가져왔습니다.
 Log.Move.Vagabond=[faction name]이(가) <sprite name="boot">을(를) 소진하여 [suit icon] 공터로 이동했습니다.
 Log.Vagabond.item.damage.gen=[faction name]이(가) 다음 아이템을 손상시켰습니다: [items]

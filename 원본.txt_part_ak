@@ -1,6 +1,6 @@
 scenario.shippingempire.tier1description=승점은 획득할 수 없습니다. 모든 강 공터에 교역소를 건설하면 즉시 승리합니다.
-tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations=초기 전사 4명을 배치할 강 공터를 선택하세요.
-tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations.opponent=리버포크 주식회사가 초기 전사를 배치할 강 공터를 선택하고 있습니다.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations=초기 병사 4명을 배치할 강 공터를 선택하세요.
+tuber.canis.actions.RiverfolkCompanyActions.RiverfolkCompanySetup.ChooseStartingWarriorLocations.opponent=리버포크 주식회사가 초기 병사를 배치할 강 공터를 선택하고 있습니다.
 tuber.canis.actions.RiverfolkCompanyActions.SetRiverfolkServicePrices=다음 턴까지의 서비스 가격을 설정하세요.
 tuber.canis.actions.RiverfolkCompanyActions.SetRiverfolkServicePrices.opponent=리버포크 주식회사가 서비스 가격을 설정하고 있습니다.
 tuber.canis.undo.riverfolkCompanySetupUndo=설정을 완료하려면 계속 버튼을 누르세요.
@@ -19,8 +19,8 @@ tuber.canis.actions.RiverfolkCompanyActions.SpendFund=자금을 사용하세요.
 tuber.canis.actions.RiverfolkCompanyActions.SpendFund.opponent=리버포크 주식회사가 자금을 사용하고 있습니다.
 tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkEstablishTradePostAbility=교역소를 배치할 위치를 선택하세요.
 tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkEstablishTradePostAbility.opponent=리버포크 주식회사가 교역소를 배치하는 중입니다.
-tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility=전사를 배치할 강 공터를 선택하세요.
-tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility.opponent=상대가 전사를 배치할 강 공터를 선택하는 중입니다.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility=병사를 배치할 강 공터를 선택하세요.
+tuber.canis.abilities.RiverfolkCompanyAbilities.RiverfolkRecruitAbility.opponent=상대가 병사를 배치할 강 공터를 선택하는 중입니다.
 tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseStarting=정원을 배치할 공터를 선택하세요.
 tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseStarting.opponent=도마뱀 교단이 정원을 배치할 공터를 선택하고 있습니다.
 tuber.canis.actions.LizardCultActions.LizardCultSetup.ChooseOutcast=초기 추방자 문양을 선택하세요.
@@ -50,51 +50,51 @@ tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker=전투�
 tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectAttacker.opponent=방랑자가 전투를 선동할 공격자를 선택하고 있습니다.
 tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender=전투를 선동할 방어자를 선택하세요.
 tuber.canis.abilities.VagabondAbilities.InstigateAbility.SelectDefender.opponent=방랑자가 전투를 선동할 방어자를 선택하고 있습니다.
-tooltip.ui.lizardcult.acolytes=<size=125%><b>신도</b></size>\
-<size=125%><b>뽑기 비율</b></size>\
+tooltip.ui.lizardcult.acolytes=<size=125%><b>신도</b></size>
+<size=125%><b>뽑기 비율</b></size>
 저녁에 이만큼의 카드를 뽑습니다. 정원을 건설하면 추가로 카드를 뽑을 수 있습니다.
-tooltip.ability.lizardcult.build=<size=125%><b>건설</b></size>\
-tooltip.ability.lizardcult.convert=<size=125%><b>개종</b></size>\
-tooltip.ability.lizardcult.crusade=<size=125%><b>성전 (전투)</b></size>\
-tooltip.ability.lizardcult.moveandbattle=<size=125%><b>성전 (이동 및 전투)</b></size>\
-tooltip.ability.lizardcult.recruit=<size=125%><b>모집</b></size>\
-tooltip.ability.lizardcult.sacrifice=<size=125%><b>희생</b></size>\
-tooltip.ability.lizardcult.sanctify=<size=125%><b>축성</b></size>\
-tooltip.ability.lizardcult.score=<size=125%><b>득점</b></size>\
-tooltip.playmat.lizardstack=<size=125%><b>도마뱀 교단 전사</b></size>
-tooltip.playmat.garden=<size=125%><b>정원</b></size>\
+tooltip.ability.lizardcult.build=<size=125%><b>건설</b></size>
+tooltip.ability.lizardcult.convert=<size=125%><b>개종</b></size>
+tooltip.ability.lizardcult.crusade=<size=125%><b>성전 (전투)</b></size>
+tooltip.ability.lizardcult.moveandbattle=<size=125%><b>성전 (이동 및 전투)</b></size>
+tooltip.ability.lizardcult.recruit=<size=125%><b>모집</b></size>
+tooltip.ability.lizardcult.sacrifice=<size=125%><b>희생</b></size>
+tooltip.ability.lizardcult.sanctify=<size=125%><b>축성</b></size>
+tooltip.ability.lizardcult.score=<size=125%><b>득점</b></size>
+tooltip.playmat.lizardstack=<size=125%><b>도마뱀 교단 병사</b></size>
+tooltip.playmat.garden=<size=125%><b>정원</b></size>
 aiplayername.riverfolkCompany=리버포크 주식회사
 aiplayername.lizardCult=도마뱀 교단
 riverfolkWithColor=<color=#397F7F>리버포크 주식회사</color>
 cultWithColor=<color=#748421>도마뱀 교단</color>
 vagabondWithColorAndCharacter=<color=#436979>[character name] 방랑자</color>
 vagabondWithColorAndCharacter2=<color=#436979>[character name 2] 방랑자</color>
-tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>증오받는 추방자</b></size>\
-tooltip.ui.lizardcult.outcast=<size=125%><b>추방자</b></size>\
-log.riverfolk.protectionism=<color=#397F7F>리버포크 주식회사</color>가 새벽 시작 시 자금이 비어 있었기 때문에 [X]명의 전사를 추가로 받습니다.
+tooltip.ui.lizardcult.hatedoutcast=<size=125%><b>증오받는 추방자</b></size>
+tooltip.ui.lizardcult.outcast=<size=125%><b>추방자</b></size>
+log.riverfolk.protectionism=<color=#397F7F>리버포크 주식회사</color>가 아침 시작 시 자금이 비어 있었기 때문에 [X]명의 병사를 추가로 받습니다.
 log.riverfolk.dividends=<color=#397F7F>리버포크 주식회사</color>가 배당금으로 [X] 승점<sprite name="vp">을 획득합니다.
-log.riverfolk.gather=<color=#397F7F>리버포크 주식회사</color>가 [X]명의 전사를 자금으로 이동시킵니다.
-log.riverfolk.move=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [X]명의 전사를 [suit icon] 공터로 이동시킵니다.
-log.riverfolk.move.one=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 전사 1명을 [suit icon] 공터로 이동시킵니다.
+log.riverfolk.gather=<color=#397F7F>리버포크 주식회사</color>가 [X]명의 병사를 자금으로 이동시킵니다.
+log.riverfolk.move=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [X]명의 병사를 [suit icon] 공터로 이동시킵니다.
+log.riverfolk.move.one=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 병사 1명을 [suit icon] 공터로 이동시킵니다.
 log.riverfolk.battle=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [suit icon] 공터에서 [faction name 2]와 전투를 개시합니다.
 Log.riverfolk.Craft.Persistent=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작합니다.
-Log.riverfolk.Craft.Item=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작하고, [item icon]과 [X] <style="vptext">승점</style>을 획득합니다.
+Log.riverfolk.Craft.Item=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작하고, [item icon]과 [X] <style="vptext">VP</style>을 획득합니다.
 Log.Riverfolk.Craft.for.Warriors=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 [name]을(를) 카드 효과 대신 자금으로 제작합니다.
 log.riverfolk.draw=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 카드를 뽑습니다.
-log.riverfolk.recruit=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [suit icon] 공터에서 전사를 모집합니다.
+log.riverfolk.recruit=<color=#397F7F>리버포크 주식회사</color>가 자금 하나를 사용하여 [suit icon] 공터에서 병사를 모집합니다.
 log.riverfolk.trade.post=<color=#397F7F>리버포크 주식회사</color>가 [X] 자금을 사용하여 [suit icon] 공터에 교역소를 세우고, <style="vpnum">2</style> 승점을 획득합니다.
 log.riverfolk.set.price=<color=#397F7F>리버포크 주식회사</color>가 [service name] 서비스 가격을 [X]으로 설정합니다.
-log.riverfolk.setup=<color=#397F7F>리버포크 주식회사</color>가 설정을 위해 [suit icon] 공터에 [X]명의 전사를 추가합니다.
+log.riverfolk.setup=<color=#397F7F>리버포크 주식회사</color>가 설정을 위해 [suit icon] 공터에 [X]명의 병사를 추가합니다.
 log.riverfolk.trade.discard=<color=#397F7F>리버포크 주식회사</color>가 교역소가 제거되어 [X] 자금을 잃습니다.
 log.buy.service.hand=[faction name]이(가) 리버포크 주식회사로부터 핸드 카드 서비스를 [X]의 비용으로 구매하고, [suit icon][name]을(를) 가져갑니다.
 log.buy.service.riverboats=[faction name]이(가) 리버포크 주식회사로부터 보트 서비스를 [X]의 비용으로 구매합니다.
 log.buy.service.mercenaries=[faction name]이(가) 리버포크 주식회사로부터 용병 서비스를 [X]의 비용으로 구매합니다.
-log.cult.setup.garden=<color=#748421>도마뱀 교단</color>이(가) 시작 정원을 배치하고, [suit icon] 공터에 전사 4명을 놓습니다. 또한, 인접한 각 공터에 전사 1명을 배치합니다.
+log.cult.setup.garden=<color=#748421>도마뱀 교단</color>이(가) 시작 정원을 배치하고, [suit icon] 공터에 병사 4명을 놓습니다. 또한, 인접한 각 공터에 병사 1명을 배치합니다.
 log.cult.outcast=추방자가 [suit icon](으)로 변경됩니다.
 log.cult.outcast.hated=[suit icon] 추방자가 이제 증오받는 추방자가 됩니다.
 log.cult.outcast.no.change=증오받는 추방자가 그대로 유지됩니다. ([suit icon])
 log.cult.crusade=<color=#748421>도마뱀 교단</color>이(가) 성전을 위해 신도 [X]명을 소모합니다.
-log.cult.convert=<color=#748421>도마뱀 교단</color>이(가) [suit icon] 공터에서 [faction name]의 전사 한 명을 개종시키고, 도마뱀 교단 전사로 변경합니다.
+log.cult.convert=<color=#748421>도마뱀 교단</color>이(가) [suit icon] 공터에서 [faction name]의 병사 한 명을 개종시키고, 도마뱀 교단 병사로 변경합니다.
 log.cult.sanctify=<color=#748421>도마뱀 교단</color>이(가) [suit icon] 공터에서 [faction name]의 건물을 축성하고, 이를 정원으로 교체합니다.
 log.cult.build=<color=#748421>도마뱀 교단</color>이(가) [name]을(를) 공개하여 [suit icon] 공터에 정원을 건설합니다.
-log.cult.recruit=<color=#748421>도마뱀 교단</color>이(가) [name]을(를) 공개하여 [suit icon] 공터에서 전사를 모집합니다.
+log.cult.recruit=<color=#748421>도마뱀 교단</color>이(가) [name]을(를) 공개하여 [suit icon] 공터에서 병사를 모집합니다.

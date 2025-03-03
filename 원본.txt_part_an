@@ -4,9 +4,9 @@ tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.battle.opponent=[p
 tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.confirmdiscard='이주한 이어리'로 이동하거나 전투하지 못했습니다. 계속을 눌러 카드를 버리세요.
 tuber.canis.abilities.ExilesAndPartisansAbilities.EyrieEmigre.confirmdiscard.opponent=[player]님이 '이주한 이어리'로 이동하거나 전투하지 못하여 버려야 합니다.
 tuber.canis.abilities.FalseOrdersAbility.destination=절반을 이동시킬 공터를 선택하세요.
-tuber.canis.abilities.FalseOrdersAbility.destination.opponent=[player]님이 '거짓 명령'으로 적 전사를 이동시킬 공터를 선택하고 있습니다.
-tuber.canis.abilities.FalseOrdersAbility.origin='거짓 명령'으로 이동시킬 전사를 선택하세요.
-tuber.canis.abilities.FalseOrdersAbility.origin.opponent=[player]님이 '거짓 명령'으로 이동시킬 적 전사를 선택하고 있습니다.
+tuber.canis.abilities.FalseOrdersAbility.destination.opponent=[player]님이 '거짓 명령'으로 적 병사를 이동시킬 공터를 선택하고 있습니다.
+tuber.canis.abilities.FalseOrdersAbility.origin='거짓 명령'으로 이동시킬 병사를 선택하세요.
+tuber.canis.abilities.FalseOrdersAbility.origin.opponent=[player]님이 '거짓 명령'으로 이동시킬 적 병사를 선택하고 있습니다.
 tuber.canis.abilities.ExilesAndPartisansAbilities.InformantsAbility=버릴 더미에서 가져올 매복 카드를 선택하세요.
 tuber.canis.abilities.ExilesAndPartisansAbilities.InformantsAbility.opponent=[player]님이 '첩자'를 사용하여 버린 카드 더미에서 매복 카드를 선택하고 있습니다.
 tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.cost=소모할 아이템을 선택하세요.
@@ -19,10 +19,10 @@ tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility
 tuber.canis.abilities.ExilesAndPartisansAbilities.LeagueOfAdventurousMiceAbility.outcome.opponent=[player]님이 '모험심 강한 생쥐 연맹'으로 이동할지 전투할지를 선택하고 있습니다.
 button.move=이동
 button.battle=전투
-tuber.canis.abilities.PropagandaBureauAbility.warrior=자신의 전사로 대체할 전사를 선택하세요.
-tuber.canis.abilities.PropagandaBureauAbility.warrior.opponent=[player]님이 '선전국'을 사용하여 대체할 전사를 선택하고 있습니다.
-tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond=제거할 전사를 선택하세요.
-tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond.opponent=[player]님이 '선전국'을 사용하여 제거할 전사를 선택하고 있습니다.
+tuber.canis.abilities.PropagandaBureauAbility.warrior=자신의 병사로 대체할 병사를 선택하세요.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.opponent=[player]님이 '선전국'을 사용하여 대체할 병사를 선택하고 있습니다.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond=제거할 병사를 선택하세요.
+tuber.canis.abilities.PropagandaBureauAbility.warrior.vagabond.opponent=[player]님이 '선전국'을 사용하여 제거할 병사를 선택하고 있습니다.
 tuber.canis.abilities.PropagandaBureauAbility.card=버릴 카드를 선택하세요.
 tuber.canis.abilities.PropagandaBureauAbility.card.opponent=[player]님이 '선전국'의 비용을 지불하기 위해 버릴 카드를 선택하고 있습니다.
 tuber.canis.abilities.ExilesAndPartisansAbilities.SaboteursAbility.discard=플레이 중인 적 카드를 버리세요.
@@ -35,23 +35,23 @@ tuber.canis.abilities.SwapMeetAbility.player=카드를 교환할 플레이어를
 tuber.canis.abilities.SwapMeetAbility.player.opponent=[player]님이 '교환 시장'으로 카드를 교환할 플레이어를 선택하고 있습니다.
 Log.BoatBuilders=
 Log.CharmOffensive=[faction name]이(가) '매력적인 선동'을 사용하여 카드를 뽑고 [faction name 2]에게 1 <style="vptext">VP</style>를 부여합니다.
-Log.CoffinMakers.Warriors=[X]명의 제거된 전사가 '관 제작자'에 놓이고 보급으로 돌아가지 않았습니다.
-Log.CoffinMakers.Warriors.One=제거된 전사 1마리가 '관 제작자'에 놓이고 보급으로 돌아가지 않았습니다.
-Log.CoffinMakers.Points=[faction name]이(가) '관 제작자'에서 [X] <style="vptext">VP</style>를 얻습니다. [X2]명의 전사가 보급으로 돌아갑니다.
-Log.CoffinMakers.Points.One=[faction name]이(가) '관 제작자'에서 [X] <style="vptext">VP</style>를 얻습니다. 전사 1마리가 보급으로 돌아갑니다.
-Log.EyrieEmigre.Move=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 [X]명의 전사를 이동시켰으나, 전투하지 않았습니다.
-Log.EyrieEmigre.Move.One=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 전사 1마리를 이동시켰으나, 전투하지 않았습니다.
-Log.EyrieEmigre.Battle=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 [X]명의 전사를 이동시키고 [faction name 2]와(과) 전투했습니다.
-Log.EyrieEmigre.Battle.One=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 전사 1마리를 이동시키고 [faction name 2]와(과) 전투했습니다.
+Log.CoffinMakers.Warriors=[X]명의 제거된 병사가 '관 제작자'에 놓이고 보급으로 돌아가지 않았습니다.
+Log.CoffinMakers.Warriors.One=제거된 병사 1마리가 '관 제작자'에 놓이고 보급으로 돌아가지 않았습니다.
+Log.CoffinMakers.Points=[faction name]이(가) '관 제작자'에서 [X] <style="vptext">VP</style>를 얻습니다. [X2]명의 병사가 보급으로 돌아갑니다.
+Log.CoffinMakers.Points.One=[faction name]이(가) '관 제작자'에서 [X] <style="vptext">VP</style>를 얻습니다. 병사 1마리가 보급으로 돌아갑니다.
+Log.EyrieEmigre.Move=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 [X]명의 병사를 이동시켰으나, 전투하지 않았습니다.
+Log.EyrieEmigre.Move.One=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 병사 1마리를 이동시켰으나, 전투하지 않았습니다.
+Log.EyrieEmigre.Battle=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 [X]명의 병사를 이동시키고 [faction name 2]와(과) 전투했습니다.
+Log.EyrieEmigre.Battle.One=[faction name]이(가) '이주한 이어리'를 사용하여 [suit icon] 문양의 공터로 병사 1마리를 이동시키고 [faction name 2]와(과) 전투했습니다.
 Log.EyrieEmigre.Discard=[faction name]이(가) '이주한 이어리'를 이동 및 전투에 사용하지 못하여 버립니다.
-Log.FalseOrdersAbility=[faction name]이(가) '거짓 명령'을 버려 [faction name 2]의 전사 [X]마리를 [suit icon] 문양의 공터로 이동시켰습니다.
+Log.FalseOrdersAbility=[faction name]이(가) '거짓 명령'을 버려 [faction name 2]의 병사 [X]마리를 [suit icon] 문양의 공터로 이동시켰습니다.
 Log.Informants=[faction name]이(가) '첩자'를 사용하여 버린 카드 더미에서 [suit icon] 문양의 매복 카드를 가져왔습니다.
 Log.LeagueOfAdventurousMice=[faction name]이(가) [item icon]을(를) 소모하여 '모험심 강한 생쥐 연맹'을 사용했습니다.
 Log.MasterEngravers=[faction name]이(가) '명장'을 사용하여 아이템을 제작하고 1 <style="vptext">VP</style>를 얻었습니다.
 Log.MurineBroker=[faction name]이(가) 제작한 아이템으로 인해 쥐 브로커 능력을 사용하여 카드를 1장 뽑았습니다.
 Log.Partisans=[faction name]이(가) [name]의 효과로 추가 타격을 가하기 위해 [cardnames]를 버렸습니다.
-Log.PropagandaBureauAbility=[faction name]이(가) 선전국 능력을 사용하여 [name]을(를) 버리고, [suit icon] 공터에서 [faction name 2]의 전사를 자신의 전사로 교체했습니다.
-Log.PropagandaBureauAbility.NoReplacement=[faction name]이(가) 선전국 능력을 사용하여 [name]을(를) 버리고, [faction name 2]의 전사를 단순히 제거했습니다.
+Log.PropagandaBureauAbility=[faction name]이(가) 선전국 능력을 사용하여 [name]을(를) 버리고, [suit icon] 공터에서 [faction name 2]의 병사를 자신의 병사로 교체했습니다.
+Log.PropagandaBureauAbility.NoReplacement=[faction name]이(가) 선전국 능력을 사용하여 [name]을(를) 버리고, [faction name 2]의 병사를 단순히 제거했습니다.
 Log.SaboteursAbility=[faction name]이(가) 사보추어 능력을 사용하여 [faction name 2]의 [name]을(를) 폐기했습니다.
 Log.SwapMeetAbility=[faction name]이(가) 교환장 능력을 사용하여 [faction name 2]와(과) 카드를 교환했습니다.
 Log.Tunnels=[faction name]이(가) 지하터널을 사용하여 이동했습니다.
@@ -68,33 +68,33 @@ aiplayername.corvidconspiracy=까마귀 모략단
 aiplayername.undergroundduchy=지하 공국
 battledamage.fx.embeddedagents=침투 요원!
 battledamage.fx.offensiveagents=공격 요원!
-cct.Birdsong.t1.recruit=이제 본격적인 게임이 시작됩니다. 새벽 단계에서 손에 든 카드를 1장 버려, 해당 문양과 일치하는 모든 공터에 <sprite name="corvid"><color=#6B5182>전사</color>를 1명씩 배치할 수 있습니다.
-cct.Birdsong.t2.craft=지도 위에 배치된 (공개 여부와 관계없이) <color=#6B5182>음모</color> 토큰은 새벽 단계에서 제작에 사용할 수 있는 문양을 추가로 제공합니다.
-cct.Birdsong.t2.flip.1=다음으로, <sprite name="corvid"><color=#6B5182>전사</color>가 있는 공터에서 <color=#6B5182>음모</color>를 공개할 수 있습니다. 먼저 <sprite name="plot_extortion"> <color=#6B5182>공갈 음모</color>를 공개하여 상대의 카드를 훔치세요.<br>공개된 <sprite name="plot_extortion"> 음모마다 저녁 단계에서 추가 카드를 1장 더 뽑습니다.
+cct.Birdsong.t1.recruit=이제 본격적인 게임이 시작됩니다. 아침 단계에서 손에 든 카드를 1장 버려, 해당 문양과 일치하는 모든 공터에 <sprite name="corvid"><color=#6B5182>병사</color>를 1명씩 배치할 수 있습니다.
+cct.Birdsong.t2.craft=지도 위에 배치된 (공개 여부와 관계없이) <color=#6B5182>음모</color> 토큰은 아침 단계에서 제작에 사용할 수 있는 문양을 추가로 제공합니다.
+cct.Birdsong.t2.flip.1=다음으로, <sprite name="corvid"><color=#6B5182>병사</color>가 있는 공터에서 <color=#6B5182>음모</color>를 공개할 수 있습니다. 먼저 <sprite name="plot_extortion"> <color=#6B5182>공갈 음모</color>를 공개하여 상대의 카드를 훔치세요.<br>공개된 <sprite name="plot_extortion"> 음모마다 저녁 단계에서 추가 카드를 1장 더 뽑습니다.
 cct.Birdsong.t2.flip.2=<sprite name="Plot"> <color=#6B5182>음모</color>를 공개할 때마다, 지도 위에 있는 공개된 <sprite name="Plot"> <color=#6B5182>음모 토큰</color>마다 <sprite name="1VP"> 점수를 얻습니다.
-cct.Birdsong.t2.recruit=마지막으로, 카드를 버리고 한 번 더 전사를 모집하세요. 이번에는 <sprite name="ClearingMouse"> 쥐 공터에서 모집합니다.
+cct.Birdsong.t2.recruit=마지막으로, 카드를 버리고 한 번 더 병사를 모집하세요. 이번에는 <sprite name="ClearingMouse"> 쥐 공터에서 모집합니다.
 cct.Birdsong.t3.flip.1=이번 턴에는 제작할 것이 없으므로, <color=#6B5182>음모</color>를 공개하는 단계로 넘어갑니다. 먼저 <sprite name="plot_snare"> <color=#6B5182>덫 음모</color>를 공개하여 상대의 이동을 차단하고 <sprite name="2VP"> 점수를 얻으세요.
 cct.Birdsong.t3.flip.2=<color=#6B5182>음모</color>를 공개할 때마다, 지도 위에 공개된 <color=#6B5182>음모</color> 토큰마다 <sprite name="1VP"> 점수를 얻습니다. 많은 <color=#6B5182>음모</color>를 공개하고 방어하면 더 높은 점수를 획득할 수 있습니다.
 cct.Birdsong.t3.flip.3=다음으로 <sprite name="plot_raid"> <color=#6B5182>급습 음모</color>를 공개하여 <sprite name="3VP"> 점수를 얻으세요. 급습 음모는 제거될 때 효과가 발동하지만, 공개하는 것만으로도 점수를 획득할 수 있습니다.
-cct.Birdsong.t3.recruit=<sprite name="ClearingMouse"> 쥐 공터에 전사를 모집하세요.
-cct.Birdsong.t4.flip=<sprite name="plot_bomb"> <color=#6B5182>폭탄 음모</color>를 공개하려 했지만, 해당 공터에 <sprite name="corvid"><color=#6B5182>전사</color>가 없습니다. 하지만 걱정하지 마세요! 적의 말이 있는 공터에서 공개하면 더 큰 효과를 볼 수 있습니다.
-cct.Birdsong.t4.recruit=<sprite name="corvid"><color=#6B5182>전사</color>를 <sprite name="ClearingFox"> 여우 공터로 보내세요.
-cct.Daylight.t1.actions=한낮 단계에서는 다음 중 최대 3번의 행동을 수행할 수 있습니다.<br><sprite name="UIMoveToken">이동<br><sprite name="UIBattleToken">전투<br><sprite name="CorvidPlotToken">음모 배치<br><sprite name="CorvidTrickToken">책략 사용<br>
-cct.Daylight.t1.move.1=이동을 사용하여 <sprite name="corvid"><color=#6B5182>전사</color>를 적이 있는 공터로 집결시키세요.
+cct.Birdsong.t3.recruit=<sprite name="ClearingMouse"> 쥐 공터에 병사를 모집하세요.
+cct.Birdsong.t4.flip=<sprite name="plot_bomb"> <color=#6B5182>폭탄 음모</color>를 공개하려 했지만, 해당 공터에 <sprite name="corvid"><color=#6B5182>병사</color>가 없습니다. 하지만 걱정하지 마세요! 적의 말이 있는 공터에서 공개하면 더 큰 효과를 볼 수 있습니다.
+cct.Birdsong.t4.recruit=<sprite name="corvid"><color=#6B5182>병사</color>를 <sprite name="ClearingFox"> 여우 공터로 보내세요.
+cct.Daylight.t1.actions=낮 단계에서는 다음 중 최대 3번의 행동을 수행할 수 있습니다.<br><sprite name="UIMoveToken">이동<br><sprite name="UIBattleToken">전투<br><sprite name="CorvidPlotToken">음모 배치<br><sprite name="CorvidTrickToken">책략 사용<br>
+cct.Daylight.t1.move.1=이동을 사용하여 <sprite name="corvid"><color=#6B5182>병사</color>를 적이 있는 공터로 집결시키세요.
 cct.Daylight.t1.move.2=한 번 더 이동하여 <color=#336699>이어리</color>의 세력권으로 진격하세요.
 cct.Daylight.t1.plot=까마귀 모략단의 특기인 <color=#6B5182>음모</color>를 시작해봅시다!
 cct.Daylight.t1.plot.extortion=<color=#6B5182>공갈</color> 음모를 배치하여 <color=#336699>이어리</color>의 카드 흐름을 방해하세요.
 cct.Daylight.t1.plot.hidden=<color=#336699>이어리</color>는 <color=#6B5182>음모</color>가 배치된 것을 알아챌 수 있지만, 공개 전까지 어떤 음모인지 알 수 없습니다.
-cct.Daylight.t1.plot.sacrifice=<color=#6B5182>음모</color>를 배치하려면 희생이 필요합니다. 턴의 첫 번째 <color=#6B5182>음모</color> 배치는 해당 공터에서 <sprite name="corvid"><color=#6B5182>전사</color> 1명을 제거해야 하며, 이후 추가하는 <color=#6B5182>음모</color>마다 더 많은 전사가 필요합니다.
+cct.Daylight.t1.plot.sacrifice=<color=#6B5182>음모</color>를 배치하려면 희생이 필요합니다. 턴의 첫 번째 <color=#6B5182>음모</color> 배치는 해당 공터에서 <sprite name="corvid"><color=#6B5182>병사</color> 1명을 제거해야 하며, 이후 추가하는 <color=#6B5182>음모</color>마다 더 많은 병사가 필요합니다.
 cct.Daylight.t2.bird.expose=우리 <sprite name="Roost"><color=#336699>둥지</color> 근처에서 무슨 음모를 꾸민 것이냐? 그냥 둘 수 없다! 반드시 폭로해야 한다!
 cct.Daylight.t2.bird.guess=너희 교활한 <sprite name="corvid"> <color=#6B5182>까마귀 모략단</color>이 우리 <sprite name="Roost"><color=#336699>둥지</color>에 <sprite name="plot_snare"> <color=#6B5182>덫</color>을 설치한 게 분명해!
-cct.Daylight.t2.embedded=흔들림 없는 방어! 네가 숨겨둔 <color=#6B5182>음모</color> 토큰이 있는 전투에서 <sprite name="EmbeddedAgents"> <color=#6B5182>잠입 요원</color> 능력</sprite>이 추가 피해를 준다.
+cct.Daylight.t2.embedded=흔들림 없는 방어! 네가 숨겨둔 <color=#6B5182>음모</color> 토큰이 있는 전투에서 <sprite name="EmbeddedAgents"> <color=#6B5182>잠입 요원</color> 능력이 추가 피해를 준다.
 cct.Daylight.t2.exposure.1=저녁에 카드를 뽑기 전, 적은 네 <color=#6B5182>음모</color>의 종류를 정확히 맞혀 <color=#6B5182>폭로</color>할 수 있다. 이때, 해당 공터의 문양과 일치하는 카드를 공개해야 한다.
 cct.Daylight.t2.exposure.2=맞혔다면, 네 <color=#6B5182>음모</color>는 효과 없이 버려진다. 하지만 틀렸다면, 너는 그들이 공개한 카드를 가져온다.
 cct.Daylight.t2.exposure.result=우리를 의심하던 <color=#336699>이어리</color>가 속아 넘어갔다. 그들의 추측이 틀렸고, 우리는 그들의 카드를 빼앗았다.
-cct.Daylight.t2.move.1=첫 번째 낮 행동으로, 네 <sprite name="corvid"><color=#6B5182>전사</color></sprite>들을 <color=#336699>이어리</color>의 시작 <sprite name="Roost"><color=#336699>둥지</color></sprite>로 이동시켜 새로운 <color=#6B5182>음모</color>를 준비하라.
-cct.Daylight.t2.plot.raid=<sprite name="corvid"><color=#6B5182>전사</color></sprite>들을 이동시킨 곳에 <sprite name="plot_raid"> <color=#6B5182>급습 음모</color></sprite>를 배치하라. 만약 적이 이를 공격해 제거하면, 인접한 모든 공터에 <color=#6B5182>전사</color> 한 명씩을 배치할 수 있다.
-cct.Daylight.t2.plot.snare=이제 <sprite name="corvid"><color=#6B5182>전사</color></sprite> 2명을 희생해 <sprite name="plot_snare"> <color=#6B5182>덫 음모</color></sprite>를 <color=#336699>이어리</color>를 겨냥해 설치하라. 한 번 공개되면, 적들은 해당 공터에서 전사를 이동하거나 새로운 조각을 배치할 수 없게 된다.
-cct.Daylight.t3.bird.turmoil=<color=#336699>전제 군주</color>가 우리를 실망시켰다. 이제 진정한 지도자인 <color=#336699>사령관</color>이 나설 차례다.
-cct.Daylight.t3.move=다음 행동으로 네 <sprite name="corvid"><color=#6B5182>전사</color></sprite>들을 집결시켜라.
+cct.Daylight.t2.move.1=첫 번째 낮 행동으로, 네 <sprite name="corvid"><color=#6B5182>병사</color>들을 <color=#336699>이어리</color>의 시작 <sprite name="Roost"><color=#336699>둥지</color>로 이동시켜 새로운 <color=#6B5182>음모</color>를 준비하라.
+cct.Daylight.t2.plot.raid=<sprite name="corvid"><color=#6B5182>병사</color>들을 이동시킨 곳에 <sprite name="plot_raid"> <color=#6B5182>급습 음모</color>를 배치하라. 만약 적이 이를 공격해 제거하면, 인접한 모든 공터에 <color=#6B5182>병사</color> 한 명씩을 배치할 수 있다.
+cct.Daylight.t2.plot.snare=이제 <sprite name="corvid"><color=#6B5182>병사</color> 2명을 희생해 <sprite name="plot_snare"> <color=#6B5182>덫 음모</color>를 <color=#336699>이어리</color>를 겨냥해 설치하라. 한 번 공개되면, 적들은 해당 공터에서 병사를 이동하거나 새로운 기물을 배치할 수 없게 된다.
+cct.Daylight.t3.bird.turmoil=<color=#336699>폭군</color>가 우리를 실망시켰다. 이제 진정한 지도자인 <color=#336699>사령관</color>이 나설 차례다.
+cct.Daylight.t3.move=다음 행동으로 네 <sprite name="corvid"><color=#6B5182>병사</color>들을 집결시켜라.
 cct.Daylight.t3.plot=<color=#6B5182>음모</color>를 배치할 때, 이미 다른 <color=#6B5182>음모</color>가 있는 공터는 선택할 수 없다.

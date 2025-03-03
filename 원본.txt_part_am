@@ -1,8 +1,8 @@
-tooltip.ui.vagabond.secondvagabond_scoundrel=<size=125%><b>악당</b></size>\
+tooltip.ui.vagabond.secondvagabond_scoundrel=<size=125%><b>악당</b></size>
 prompt.tutorial.riverfolk.upsell.title=리버포크 튜토리얼
 prompt.tutorial.riverfolk.upsell.description=리버포크 주식회사와 도마뱀 교단은 *Riverfolk* 확장의 일부입니다. 스토어에서 자세히 알아보시겠습니까?
 tuber.canis.actions.LizardCultActions.LizardCultBirdsongAction.opponent=도마뱀 교단이 음모를 선택 중입니다.
-Firsttime.ally=이제 <sprite name="Allied"><color=#4E6F89>[faction name]</color>과(와) 동맹이 되었습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 자신의 공터에 있는 그들의 전사를 지휘하여 이동하거나 전투를 수행할 수 있습니다.
+Firsttime.ally=이제 <sprite name="Allied"><color=#4E6F89>[faction name]</color>과(와) 동맹이 되었습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 자신의 공터에 있는 그들의 병사를 지휘하여 이동하거나 전투를 수행할 수 있습니다.
 factionnames.RiverfolkCompany=리버포크 주식회사
 aiplayername.secondvagabond=방랑자
 playmat.enlisted=입대 완료!
@@ -12,9 +12,9 @@ playmat.export=수출!
 prompts.gameresults.winner.SecondVagabond=방랑자 승리!
 prompt.selectaplayer=플레이어 선택!
 Log.riverfolk.Favor.Craft=<color=#397F7F>리버포크 주식회사</color>가 [X2] 자금을 사용하여 [name]을(를) 제작했습니다. [suit icon] 공터에 있는 모든 적 말을 제거합니다.
-tooltip.ui.riverfolk.craftedcards=<size=125%><b>제작된 카드</b></size>\
-tooltip.ui.lizards.crafteditems=<size=125%><b>제작된 아이템</b></size>\
-tooltip.ui.lizards.craftedcards=<size=125%><b>제작된 카드</b></size>\
+tooltip.ui.riverfolk.craftedcards=<size=125%><b>제작된 카드</b></size>
+tooltip.ui.lizards.crafteditems=<size=125%><b>제작된 아이템</b></size>
+tooltip.ui.lizards.craftedcards=<size=125%><b>제작된 카드</b></size>
 tuber.canis.abilities.CraftAbility.lizardcult=버려진 문양의 정원을 사용하여 제작할 카드를 선택하세요.
 tuber.canis.abilities.CraftAbility.lizardcult.opponent=도마뱀 교단이 제작할 카드를 선택 중입니다.
 tuber.canis.actions.LizardCultActions.ConfirmScoreForNoPoints=이 카드를 선택하면 점수를 획득하지 못합니다. 계속하시겠습니까?
@@ -42,13 +42,13 @@ Log.Quest.Improvise=[faction name]이(가) 즉흥 연주를 사용하여 [item i
 log.vagabond.ronin.ability=[faction name]이(가) 질풍참을 사용하여 [item icon]을(를) 소모하고 추가 피해를 입혔습니다.
 log.vagabond.harrier.ability=[faction name]이(가) 활공을 사용하여 하늘을 가로질러 이동했습니다.
 tooltip.ability.vagabond.glide=<size=125%><b>활공</b></size> - <sprite name="torch">을(를) 소모하여 아무 공터로 이동할 수 있습니다 (적대적 공터 포함). 동맹을 동반할 수 없으며, 장화를 소모할 필요가 없습니다.
-tooltip.ui.vagabond.Vagabond_Adventurer=<size=125%><b>모험가</b></size>\
-tooltip.ui.vagabond.Vagabond_Harrier=<size=125%><b>하리어</b></size>\
+tooltip.ui.vagabond.Vagabond_Adventurer=<size=125%><b>모험가</b></size>
+tooltip.ui.vagabond.Vagabond_Harrier=<size=125%><b>하리어</b></size>
 <b>활공</b> — <sprite name="torch">을(를) 소모하여 아무 공터로 이동할 수 있습니다 (적대적 공터 포함). 동맹을 동반할 수 없으며, 장화를 소모할 필요가 없습니다.
-tooltip.ui.vagabond.Vagabond_Ronin=<size=125%><b>로닌</b></size>\
-tooltip.ui.vagabond.SecondVagabond_Harrier=<size=125%><b>하리어</b></size>\
-tooltip.ui.vagabond.SecondVagabond_Ronin=<size=125%><b>로닌</b></size>\
-tooltip.ui.vagabond.SecondVagabond_Adventurer=<size=125%><b>모험가</b></size>\
+tooltip.ui.vagabond.Vagabond_Ronin=<size=125%><b>로닌</b></size>
+tooltip.ui.vagabond.SecondVagabond_Harrier=<size=125%><b>하리어</b></size>
+tooltip.ui.vagabond.SecondVagabond_Ronin=<size=125%><b>로닌</b></size>
+tooltip.ui.vagabond.SecondVagabond_Adventurer=<size=125%><b>모험가</b></size>
 vagabond.title.Vagabond_Adventurer=모험가
 vagabond.title.Vagabond_Ronin=로닌
 vagabond.title.Vagabond_Harrier=하리어
@@ -64,19 +64,19 @@ root.cardtext.exilesandpartisans.boatbuilders.any=강을 길처럼 사용할 수
 root.cardname.exilesandpartisans.charmoffensive=매력 공세
 root.cardtext.exilesandpartisans.charmoffensive.any=저녁 단계 시작 시, 카드를 한 장 뽑고 다른 플레이어 한 명을 선택하여 1점을 얻게 할 수 있습니다.
 root.cardname.exilesandpartisans.coffinmakers=관 제작자
-root.cardtext.exilesandpartisans.coffinmakers.any=어떤 전사든 보급처로 돌아갈 때, 대신 이 카드 위에 놓습니다. 새벽 단계 시작 시, 여기에 있는 전사 5마리당 1점을 획득한 후, 모든 전사를 해당 보급처로 되돌립니다.
+root.cardtext.exilesandpartisans.coffinmakers.any=어떤 병사든 보급처로 돌아갈 때, 대신 이 카드 위에 놓습니다. 아침 단계 시작 시, 여기에 있는 병사 5마리당 1점을 획득한 후, 모든 병사를 해당 보급처로 되돌립니다.
 root.cardname.exilesandpartisans.corvidplanners=까마귀 기획자
 root.cardtext.exilesandpartisans.corvidplanners.any=이동할 때 지배를 무시할 수 있습니다.
 root.cardname.exilesandpartisans.eyrieemigre=이어리 이주민
-root.cardtext.exilesandpartisans.eyrieemigre.any=새벽 단계 종료 시, 이동을 한 번 수행한 후, 이동한 공터에서 전투를 시작합니다. 두 행동을 모두 수행하지 않았다면 이 카드를 버립니다.
+root.cardtext.exilesandpartisans.eyrieemigre.any=아침 단계 종료 시, 이동을 한 번 수행한 후, 이동한 공터에서 전투를 시작합니다. 두 행동을 모두 수행하지 않았다면 이 카드를 버립니다.
 root.cardname.exilesandpartisans.falseorders=허위 명령
-root.cardtext.exilesandpartisans.falseorders.any=새벽 단계에서 이 카드를 버려, 선택한 공터에서 적 전사의 절반(올림)을 선택한 공터로 이동시키게 할 수 있습니다. 이때 지배를 무시합니다.
+root.cardtext.exilesandpartisans.falseorders.any=아침 단계에서 이 카드를 버려, 선택한 공터에서 적 병사의 절반(올림)을 선택한 공터로 이동시키게 할 수 있습니다. 이때 지배를 무시합니다.
 root.cardname.exilesandpartisans.foxpartisans=여우당원
 root.cardtext.exilesandpartisans.foxpartisans.any=여우 공터에서의 전투 중 추가 피해를 1회 입힐 수 있습니다. 그 후, 여우 카드를 제외한 모든 카드를 버려야 합니다.
 root.cardname.exilesandpartisans.informants=정보원
 root.cardtext.exilesandpartisans.informants.any=저녁 단계에서 카드를 뽑을 때, 대신 버려진 함정 카드를 가져올 수 있습니다.
 root.cardname.exilesandpartisans.leagueofadventurousmice=모험 쥐 연맹
-root.cardtext.exilesandpartisans.leagueofadventurousmice.any=한낮 단계에서 한 번, 제작된 아이템 칸의 아이템을 하나 소모하여 이동하거나 전투를 수행할 수 있습니다.
+root.cardtext.exilesandpartisans.leagueofadventurousmice.any=낮 단계에서 한 번, 제작된 아이템 칸의 아이템을 하나 소모하여 이동하거나 전투를 수행할 수 있습니다.
 root.cardname.exilesandpartisans.masterengravers=명인 각인사
 root.cardtext.exilesandpartisans.masterengravers.any=아이템을 제작할 때마다 추가로 1점을 획득합니다.
 root.cardname.exilesandpartisans.mousepartisans=쥐당원
@@ -84,15 +84,15 @@ root.cardtext.exilesandpartisans.mousepartisans.any=쥐 공터에서의 전투 �
 root.cardname.exilesandpartisans.murinebroker=설치류 중개업자
 root.cardtext.exilesandpartisans.murinebroker.any=다른 플레이어가 아이템을 제작할 때마다 카드를 한 장 뽑습니다.
 root.cardname.exilesandpartisans.propagandabureau=선전국
-root.cardtext.exilesandpartisans.propagandabureau.any=한낮 단계에서 한 번, 카드를 소모하여 일치하는 공터에서 적 전사 하나를 제거하고 그 자리에 자신의 전사를 배치할 수 있습니다.
+root.cardtext.exilesandpartisans.propagandabureau.any=낮 단계에서 한 번, 카드를 소모하여 일치하는 공터에서 적 병사 하나를 제거하고 그 자리에 자신의 병사를 배치할 수 있습니다.
 root.cardname.exilesandpartisans.rabbitpartisans=토끼당원
 root.cardtext.exilesandpartisans.rabbitpartisans.any=토끼 공터에서의 전투 중 추가 피해를 1회 입힐 수 있습니다. 그 후, 토끼 카드를 제외한 모든 카드를 버려야 합니다.
 root.cardname.exilesandpartisans.saboteurs=파괴공작원
-root.cardtext.exilesandpartisans.saboteurs.any=새벽 단계 시작 시, 이 카드를 버려 적이 제작한 카드 하나를 버릴 수 있습니다.
+root.cardtext.exilesandpartisans.saboteurs.any=아침 단계 시작 시, 이 카드를 버려 적이 제작한 카드 하나를 버릴 수 있습니다.
 root.cardname.exilesandpartisans.soupkitchens=무료급식소
 root.cardtext.exilesandpartisans.soupkitchens.any=이제 당신의 토큰도 지배에 포함되며, 각 토큰은 두 개로 계산됩니다.
 root.cardname.exilesandpartisans.swapmeet=물물교환
-root.cardtext.exilesandpartisans.swapmeet.any=새벽 단계에서 한 번, 다른 플레이어에게서 무작위로 카드 한 장을 가져온 후, 자신의 카드를 한 장 건넬 수 있습니다.
+root.cardtext.exilesandpartisans.swapmeet.any=아침 단계에서 한 번, 다른 플레이어에게서 무작위로 카드 한 장을 가져온 후, 자신의 카드를 한 장 건넬 수 있습니다.
 root.cardname.exilesandpartisans.tunnels=지하 터널
 root.cardtext.exilesandpartisans.tunnels.any=자신의 제작 건물이 있는 공터끼리는 서로 인접한 것으로 간주합니다.
 tuber.canis.abilities.ExilesAndPartisansAbilities.CharmOffensiveAbility=1점을 획득할 플레이어를 선택하세요. <sprite name="1VP">

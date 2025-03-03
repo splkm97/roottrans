@@ -1,10 +1,10 @@
 scenario.burrowwarfare.name=땅굴 전투  
-scenario.burrowwarfare.tier1description=새벽 단계에서 땅굴에 전사를 한 명 덜 추가합니다. 전투에서 제거된 전사는 땅굴로 돌아갑니다.  
-scenario.burrowwarfare.tier2description=새벽 단계에서 땅굴에 전사를 추가하지 않으며, 시타델을 건설할 수 없습니다. 전투에서 제거된 전사는 땅굴로 돌아갑니다.  
-scenario.burrowwarfare.tier2description.balanceupdate=새벽 단계에서 땅굴에 전사를 추가하지 않으며, 시타델을 건설할 수 없습니다. 전투에서 하나 이상의 전사가 제거될 때마다, 전사 한 명을 땅굴로 돌려보냅니다.  
+scenario.burrowwarfare.tier1description=아침 단계에서 대공동에 병사를 한 명 덜 추가합니다. 전투에서 제거된 병사는 대공동로 돌아갑니다.  
+scenario.burrowwarfare.tier2description=아침 단계에서 대공동에 병사를 추가하지 않으며, 시타델을 건설할 수 없습니다. 전투에서 제거된 병사는 대공동로 돌아갑니다.  
+scenario.burrowwarfare.tier2description.balanceupdate=아침 단계에서 대공동에 병사를 추가하지 않으며, 시타델을 건설할 수 없습니다. 전투에서 하나 이상의 병사가 제거될 때마다, 병사 한 명을 대공동로 돌려보냅니다.  
 scenario.canyoudigit.name=땅굴의 달인  
 scenario.canyoudigit.tier1description=보유한 터널의 개수에 제한이 없습니다. 각 모서리 공터에 터널을 하나씩 배치하지 않으면 승리할 수 없습니다.  
-scenario.canyoudigit.tier2description=보유한 터널의 개수에 제한이 없습니다. 각 모서리 공터와 탑이 있는 공터에 터널을 하나씩 배치하지 않으면 승리할 수 없습니다. 적들은 당신의 터널을 방해하려 할 것입니다.  
+scenario.canyoudigit.tier2description=보유한 터널의 개수에 제한이 없습니다. 각 모서리 공터와 탑이 있는 공터에 터널을 하나씩 배치하지 않으면 승리할 수 없습니다. 적들은 당신의 터널 건설을 방해하려 할 것입니다.  
 scenario.corvidcrafting.name=영리한 까마귀  
 scenario.corvidcrafting.tier1description=음모 토큰을 공개할 때, 지도에 있는 공개된 음모 수 대신 제작한 아이템 수만큼 <sprite name="1VP">을 획득합니다. 시작 손패가 아이템으로 가득 차 있습니다.  
 scenario.corvidcrafting.tier2description=음모 토큰을 공개할 때, 지도에 있는 공개된 음모 수 대신 제작한 아이템 수만큼 <sprite name="1VP">을 획득합니다. 그리고 방랑자의 도둑질에 주의하세요!  
@@ -18,27 +18,27 @@ scenario.navalwarfare.name=해상 전투
 scenario.navalwarfare.tier1description=호수와 인접한 공터에서 전투할 때 추가 피해를 줍니다. 호수와 인접하지 않은 공터에서 당신을 공격하는 적은 추가 피해를 줍니다.  
 scenario.navalwarfare.tier2description=나룻배 공터에서 전투할 때 추가 피해를 줍니다. 다른 모든 공터에서 당신을 공격하는 적은 추가 피해를 줍니다.  
 scenario.nolordsbeforeme.name=다른 군주는 필요 없다  
-scenario.nolordsbeforeme.tier1description=게임 시작 시, 군주 한 명을 무료로 회유합니다. 다른 군주는 가질 수 없습니다.  
-scenario.nolordsbeforeme.tier2description=게임 시작 시, 시종 한 명을 무료로 회유합니다. 다른 시종은 가질 수 없습니다.  
-scenario.nolordsbeforeme.tier2description.balance.update=게임 시작 시, 시종 한 명을 무료로 회유합니다. 다른 시종과 군주는 가질 수 없습니다.  
+scenario.nolordsbeforeme.tier1description=게임 시작 시, 군주 한 명을 무료로 임명합니다. 다른 군주는 가질 수 없습니다.  
+scenario.nolordsbeforeme.tier2description=게임 시작 시, 시종 한 명을 무료로 임명합니다. 다른 시종은 가질 수 없습니다.  
+scenario.nolordsbeforeme.tier2description.balance.update=게임 시작 시, 시종 한 명을 무료로 임명합니다. 다른 시종과 군주는 가질 수 없습니다.  
 scenario.offensiveagents.name=공격적 요원  
 scenario.offensiveagents.tier1description=매복 요원 능력이 "공격적 요원: 은밀한 음모 토큰이 있는 공터에서 공격할 때 추가 피해를 줍니다."로 변경됩니다.  
 scenario.offensiveagents.tier2description=매복 요원 능력이 "공격적 요원: 은밀한 음모 토큰이 있는 공터에서 공격할 때 추가 피해를 줍니다."로 변경됩니다. 협박 음모를 사용할 수 없습니다.  
 scenario.theTower.name=탑  
-scenario.theTower.tier1description=탑을 지배하고 있을 때만 <style="vptext">승점</style>을 획득할 수 있습니다.  
-scenario.theTower.tier2description=탑을 지배하고 있을 때만 <style="vptext">승점</style>을 획득할 수 있습니다. 적들은 집요하게 탑을 노릴 것입니다.  
+scenario.theTower.tier1description=탑을 지배하고 있을 때만 <style="vptext">VP</style>을 획득할 수 있습니다.  
+scenario.theTower.tier2description=탑을 지배하고 있을 때만 <style="vptext">VP</style>을 획득할 수 있습니다. 적들은 집요하게 탑을 노릴 것입니다.  
 scenario.trailblazer.name=개척자  
-scenario.trailblazer.tier1description=일반 공터 경로를 통해 한 번에 전사 1명만 이동할 수 있습니다(강, 산길, 터널은 정상적으로 이동 가능).  
+scenario.trailblazer.tier1description=일반 공터 경로를 통해 한 번에 병사 1명만 이동할 수 있습니다(강, 산길, 터널은 정상적으로 이동 가능).  
 scenario.trailblazer.tier2description=일반 공터 경로를 통해 이동할 수 없습니다(강, 산길, 터널은 정상적으로 이동 가능). 상대는 산길을 개척하지 않습니다.  
-tooltip.ability.corvid.exert=<size=125%><b>강행</b></size>\  
-tooltip.ability.corvid.exposure=<size=125%><b>폭로</b></size>\  
-tooltip.ability.corvid.plot=<size=125%><b>음모</b></size>\  
-tooltip.ability.corvid.trick=<size=125%><b>속임수</b></size>\  
-tooltip.ability.duchy.battle=<size=125%><b>전투</b></size>\  
-tooltip.ability.duchy.build=<size=125%><b>건설</b></size>\  
-tooltip.ability.duchy.dig=<size=125%><b>굴착</b></size>\  
-tooltip.ability.duchy.move=<size=125%><b>이동</b></size>\  
-tooltip.ability.duchy.recruit=<size=125%><b>모집</b></size>\  
+tooltip.ability.corvid.exert=<size=125%><b>강행</b></size>  
+tooltip.ability.corvid.exposure=<size=125%><b>폭로</b></size>  
+tooltip.ability.corvid.plot=<size=125%><b>음모</b></size>  
+tooltip.ability.corvid.trick=<size=125%><b>속임수</b></size>  
+tooltip.ability.duchy.battle=<size=125%><b>전투</b></size>  
+tooltip.ability.duchy.build=<size=125%><b>건설</b></size>  
+tooltip.ability.duchy.dig=<size=125%><b>굴착</b></size>  
+tooltip.ability.duchy.move=<size=125%><b>이동</b></size>  
+tooltip.ability.duchy.recruit=<size=125%><b>모집</b></size>  
 tooltip.advancedsetup=<size=125%><b>고급 설정</b></size><br>고급 설정은 팩션을 드래프트하고 배치하는 새로운 방식으로, 다양한 시작 배치를 제공하며 팩션 간의 균형을 조정합니다. 고급 설정을 사용할 경우, 플레이어는 시작 시 카드 5장을 뽑고 2장을 버립니다.  
 tooltip.advancedsetup.locked=<size=125%><b>고급 설정</b></size><br>고급 설정은 팩션을 드래프트하고 배치하는 새로운 방식으로, 다양한 시작 배치를 제공하며 팩션 간의 균형을 조정합니다. 고급 설정을 사용할 경우, 플레이어는 시작 시 카드 5장을 뽑고 2장을 버립니다. 이 모드를 해제하려면 최소 6개의 팩션을 보유해야 합니다.  
 tooltip.advancedsetup.ownedfactions=고급 설정 드래프트에 포함된 팩션은 수동으로 변경할 수 없습니다. 대신, 게임을 생성한 플레이어의 보유 팩션을 반영합니다.  
@@ -54,47 +54,47 @@ tooltip.banned.vagabond=방랑자는 금지됨
 tooltip.corvid.plots.description=각 공터에는 음모 토큰을 하나만 놓을 수 있습니다.
 tooltip.crowns=각 장관 계급(시종, 귀족, 군주)은 게임에서 최대 3번까지 선출할 수 있습니다. 남은 횟수는 왕관으로 표시됩니다.
 tooltip.duchy.burrow.description=지하 은신처는 터널이 있는 모든 공터와 연결됩니다. 당신이 항상 지배하며, 당신만이 출입할 수 있습니다.
-tooltip.duchy.playmat.burrow=<size=125%><b>지하 은신처</b></size>\
+tooltip.duchy.playmat.burrow=<size=125%><b>지하 은신처</b></size>
 tooltip.embeddedagents.battle=<size=125%><b>공격 요원:</b></size><br>숨겨진 음모 토큰이 있는 공터에서 방어할 때, 추가 피해를 입힙니다.
 tooltip.lakemap=<size=125%><b>호수 지도</b></size><br>나룻배를 이용해 넓은 호수를 건너고 추가 카드를 손에 넣으세요.
 tooltip.minister.locked=이 계급의 장관을 선출할 왕관이 남아 있지 않습니다.
 tooltip.minister.moreinfo=장관을 선출하려면 해당 계급에 따라 특정 개수의 카드를 공개해야 합니다(시종 2장, 귀족 3장, 군주 4장). 당신의 말이 있는 공터와 일치하는 카드만 공개할 수 있으며, 각 공터에서는 한 장씩만 공개할 수 있습니다. 장관을 선출하면 해당 계급의 왕관을 하나 잃습니다. 해당 계급의 왕관이 없다면, 해당 유형의 장관을 선출할 수 없습니다.
 tooltip.mountainmap=<size=125%><b>산악 지도</b></size><br>막힌 길을 개척하고 요새를 장악하여 추가 승점을 획득하세요.
-tooltip.mountainmap.tower=<size=125%><b>요새</b></size>\
+tooltip.mountainmap.tower=<size=125%><b>요새</b></size>
 요새 토큰 <sprite name="TowerToken"> <color=#6E5656>이 있는 공터</color>는 "협곡"으로 불립니다. 각 플레이어의 저녁 단계가 끝날 때 협곡을 지배하고 있다면 <sprite name="1VP"> 를 획득합니다.
 tooltip.offensiveagents.battle=<size=125%><b>공격 요원:</b></size><br>숨겨진 음모 토큰이 있는 공터에서 공격할 때, 추가 피해를 입힙니다.
 tooltip.opponent.corvid=<size=125%><b>까마귀 모략단 상대</b></size>
 tooltip.opponent.duchy=<size=125%><b>지하 공국 상대</b></size>
 tooltip.opponent.invalid=<size=125%><b>팩션 없음</b></size>
-tooltip.playmat.citadel=<size=125%><b>성채</b></size>\
+tooltip.playmat.citadel=<size=125%><b>성채</b></size>
 tooltip.playmat.corvidplots=<size=125%><b>까마귀 모략단 음모</b></size>
-tooltip.playmat.corvidstack=<size=125%><b>까마귀 모략단 전사</b></size>
-tooltip.playmat.duchystack=<size=125%><b>지하 공국 전사</b></size>
-tooltip.playmat.Ferry=<size=125%><b>나룻배</b></size>\
-tooltip.playmat.market=<size=125%><b>시장</b></size>\
-tooltip.playmat.plot.Bomb.Down=<size=125%><b>숨겨진 폭탄</b></size>\
-tooltip.playmat.plot.Down.opponent=<size=125%><b>숨겨진 음모</b></size>\
-tooltip.playmat.plot.Extortion.Down=<size=125%><b>숨겨진 강탈</b></size>\
-tooltip.playmat.plot.Extortion.Up=<size=125%><b>드러난 강탈</b></size>\
-tooltip.playmat.plot.Extortion.Up.opponent=<size=125%><b>드러난 강탈</b></size>\
-tooltip.playmat.plot.Raid.Down=<size=125%><b>숨겨진 습격</b></size>\
-tooltip.playmat.plot.Raid.Up=<size=125%><b>드러난 습격</b></size>\
-tooltip.playmat.plot.Raid.Up.opponent=<size=125%><b>드러난 습격</b></size>\
-tooltip.playmat.plot.Snare.Down=<size=125%><b>숨겨진 덫</b></size>\
-tooltip.playmat.plot.Snare.Up=<size=125%><b>드러난 덫</b></size>\
-tooltip.playmat.plot.Snare.Up.opponent=<size=125%><b>드러난 덫</b></size>\
-tooltip.playmat.tunnel=<size=125%><b>터널</b></size>\
+tooltip.playmat.corvidstack=<size=125%><b>까마귀 모략단 병사</b></size>
+tooltip.playmat.duchystack=<size=125%><b>지하 공국 병사</b></size>
+tooltip.playmat.Ferry=<size=125%><b>나룻배</b></size>
+tooltip.playmat.market=<size=125%><b>시장</b></size>
+tooltip.playmat.plot.Bomb.Down=<size=125%><b>숨겨진 폭탄</b></size>
+tooltip.playmat.plot.Down.opponent=<size=125%><b>숨겨진 음모</b></size>
+tooltip.playmat.plot.Extortion.Down=<size=125%><b>숨겨진 강탈</b></size>
+tooltip.playmat.plot.Extortion.Up=<size=125%><b>드러난 강탈</b></size>
+tooltip.playmat.plot.Extortion.Up.opponent=<size=125%><b>드러난 강탈</b></size>
+tooltip.playmat.plot.Raid.Down=<size=125%><b>숨겨진 습격</b></size>
+tooltip.playmat.plot.Raid.Up=<size=125%><b>드러난 습격</b></size>
+tooltip.playmat.plot.Raid.Up.opponent=<size=125%><b>드러난 습격</b></size>
+tooltip.playmat.plot.Snare.Down=<size=125%><b>숨겨진 덫</b></size>
+tooltip.playmat.plot.Snare.Up=<size=125%><b>드러난 덫</b></size>
+tooltip.playmat.plot.Snare.Up.opponent=<size=125%><b>드러난 덫</b></size>
+tooltip.playmat.tunnel=<size=125%><b>터널</b></size>
 tooltip.quickbattle.disabled=성능상의 이유로 3D 전투가 비활성화되었습니다.
 tooltip.revealed.cards.duchy=<size=125%><b>공개된 카드</b></size><br>지하 공국이 가장 최근 턴의 시작 이후 공개한 카드를 확인하세요.
-tooltip.trailblaze=<size=125%><b>길 개척</b></size>\
+tooltip.trailblaze=<size=125%><b>길 개척</b></size>
 낮 단계에서 한 번, 손에서 카드를 한 장 버리고 막힌 산악 길을 개척하면 <sprite name="1VP"> 를 획득할 수 있습니다. 개척하려는 길과 연결된 공터에 당신의 말이 있어야 합니다.
-tooltip.ui.buildmodal.extrawarrior=이 건물을 지으면 조류의 노래 단계에서 지하 은신처에 배치되는 전사의 수가 증가합니다.
-tooltip.ui.corvid.bombplots=<size=125%><b>사용 가능한 폭탄 음모</b></size>\
-tooltip.ui.corvid.cardsinhand=<size=125%><b>손에 든 카드</b></size>\
-tooltip.ui.corvid.craftedcards=<size=125%><b>제작한 카드</b></size>\
-tooltip.ui.corvid.crafteditems=<size=125%><b>제작한 아이템</b></size>\
-tooltip.ui.corvid.extortionplots=<size=125%><b>사용 가능한 강탈 음모</b></size>\
-tooltip.ui.corvid.raidplots=<size=125%><b>사용 가능한 습격 음모</b></size>\
-tooltip.ui.corvid.snareplots=<size=125%><b>사용 가능한 덫 음모</b></size>\
-tooltip.ui.corvid.warriorcount=<size=125%><b>예비 전사</b></size>\
-tooltip.ui.duchy.burrowwarriorcount=<size=125%><b>지하 은신처의 전사</b></size>\
+tooltip.ui.buildmodal.extrawarrior=이 건물을 지으면 조류의 노래 단계에서 지하 은신처에 배치되는 병사의 수가 증가합니다.
+tooltip.ui.corvid.bombplots=<size=125%><b>사용 가능한 폭탄 음모</b></size>
+tooltip.ui.corvid.cardsinhand=<size=125%><b>손에 든 카드</b></size>
+tooltip.ui.corvid.craftedcards=<size=125%><b>제작한 카드</b></size>
+tooltip.ui.corvid.crafteditems=<size=125%><b>제작한 아이템</b></size>
+tooltip.ui.corvid.extortionplots=<size=125%><b>사용 가능한 강탈 음모</b></size>
+tooltip.ui.corvid.raidplots=<size=125%><b>사용 가능한 습격 음모</b></size>
+tooltip.ui.corvid.snareplots=<size=125%><b>사용 가능한 덫 음모</b></size>
+tooltip.ui.corvid.warriorcount=<size=125%><b>예비 병사</b></size>
+tooltip.ui.duchy.burrowwarriorcount=<size=125%><b>지하 은신처의 병사</b></size>

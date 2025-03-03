@@ -1,4 +1,4 @@
-tooltip.ui.alliance.warriorcount=<size=125%><b>남은 병사 (전사 + 장교)</b></size>
+tooltip.ui.alliance.warriorcount=<size=125%><b>남은 병사 (병사 + 장교)</b></size>
 tooltip.ui.alliance.officercount=<size=125%><b>장교</b></size>
 tooltip.ability.alliance.revolt=<size=125%><b>반란</b></size>
 tooltip.ability.alliance.spreadsympathy=<size=125%><b>동조 확산</b></size>

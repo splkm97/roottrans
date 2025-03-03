@@ -4,20 +4,20 @@ log.cult.lost.garden=<color=#748421>도마뱀 교단</color>이(가) 정원이 �
 log.vagabond.explore.failure=[faction name]이(가) [suit icon] 공터에서 탐색을 시도했지만, 획득할 수 있는 적절한 아이템을 찾지 못했습니다.
 log.vagabond.scorched.earth=[faction name]이(가) <sprite name="torch">을(를) 소모하여 [suit icon] 공터에서 초토화 능력을 사용합니다. 제거된 구성 요소: [piece list]
 log.vagabond.vagrant.ability=<color=#4E6F89>방랑자</color>가 <sprite name="torch">을(를) 소모하여 [suit icon] 공터에서 [faction name]과(와) [faction name 2] 간의 전투를 유도합니다.
-log.vagabond.arbiter.ability=[faction name]이(가) <color=#4E6F89>중재자 방랑자</color>의 도움을 받아 전투에서 최대 공격력에 [X]개의 검을 추가합니다. 중재자는 이에 대한 대가로 [X2] <style="vptext">승점</style>을 획득합니다.
+log.vagabond.arbiter.ability=[faction name]이(가) <color=#4E6F89>중재자 방랑자</color>의 도움을 받아 전투에서 최대 공격력에 [X]개의 검을 추가합니다. 중재자는 이에 대한 대가로 [X2] <style="vptext">VP</style>을 획득합니다.
 tooltip.lizardcult.gardens.description=추방자의 문양과 같은 정원은 저녁 단계에서 제작에 기여합니다. 정원이 제거될 때마다, 손에서 무작위 카드를 버려야 합니다.
 tooltip.ui.hand.reveal.liz=<size=125%><b>도마뱀 교단의 손패</b></size> 공개된 도마뱀 교단의 카드를 확인합니다.
 tooltip.ui.lostsouls.liz=잃어버린 영혼들
 playmat.sacrifice=희생!
 ftt.twovagabond.create=이제 두 명의 <color=#4E6F89>방랑자</color>가 있는 게임을 생성할 수 있습니다. 플레이어 수가 많을 때 이를 추천합니다.
 ftt.twovagabond.quest=<color=#4E6F89>방랑자</color>들은 하나의 공용 퀘스트 덱을 공유합니다. 원하는 퀘스트가 있다면 상대보다 먼저 완수하세요.
-ftt.twovagabond.explore=두 명의 <color=#4E6F89>방랑자</color>가 있는 게임에서는 각 <sprite name="Ruins"><color=#4E6F89>유적</color></sprite>에 두 개의 아이템이 놓입니다. 이 아이템들은 2개의 <sprite name="sword">, 2개의 <sprite name="bag">, 2개의 <sprite name="boot">, 2개의 <sprite name="hammer"> 중 무작위로 결정됩니다.
-ftt.twovagabond.explore.2=<sprite name="Ruins"><color=#4E6F89>유적</color></sprite>을 탐색할 때 두 개의 아이템이 있다면, 원하는 아이템을 선택할 수 있습니다. 다만, 유적에서 획득한 기존 아이템과 같은 유형의 아이템은 선택할 수 없습니다.
-ftt.service.intro.1=새벽 시작 시, 플레이어들은 리버포크의 서비스를 구매할 수 있습니다. 서비스를 구매하려면, 플레이어는 서비스 비용만큼의 전사를 보급에서 리버포크의 자금으로 이동시켜야 합니다.
+ftt.twovagabond.explore=두 명의 <color=#4E6F89>방랑자</color>가 있는 게임에서는 각 <sprite name="Ruins"><color=#4E6F89>유적</color>에 두 개의 아이템이 놓입니다. 이 아이템들은 2개의 <sprite name="sword">, 2개의 <sprite name="bag">, 2개의 <sprite name="boot">, 2개의 <sprite name="hammer"> 중 무작위로 결정됩니다.
+ftt.twovagabond.explore.2=<sprite name="Ruins"><color=#4E6F89>유적</color>을 탐색할 때 두 개의 아이템이 있다면, 원하는 아이템을 선택할 수 있습니다. 다만, 유적에서 획득한 기존 아이템과 같은 유형의 아이템은 선택할 수 없습니다.
+ftt.service.intro.1=아침 시작 시, 플레이어들은 리버포크의 서비스를 구매할 수 있습니다. 서비스를 구매하려면, 플레이어는 서비스 비용만큼의 병사를 보급에서 리버포크의 자금으로 이동시켜야 합니다.
 ftt.service.intro.2=핸드 카드: 리버포크의 손패에서 카드를 훔칩니다.
 ftt.service.intro.3=보트: 턴 종료까지 강을 경로처럼 사용할 수 있습니다.
-ftt.service.intro.4=용병: 이번 낮과 저녁 동안, 리버포크 전사를 자신의 전사처럼 취급할 수 있습니다. (지배 및 전투 포함) 방랑자는 이 능력을 사용할 수 없습니다.
-ftt.service.intro.5=방랑자는 새벽 시작 시 갱신 전에 아이템을 소모하여 서비스를 구매합니다. 방랑자가 소모한 각 아이템마다, 리버포크는 해당 전사를 자금으로 추가합니다.
+ftt.service.intro.4=용병: 이번 낮과 저녁 동안, 리버포크 병사를 자신의 병사처럼 취급할 수 있습니다. (지배 및 전투 포함) 방랑자는 이 능력을 사용할 수 없습니다.
+ftt.service.intro.5=방랑자는 아침 시작 시 갱신 전에 아이템을 소모하여 서비스를 구매합니다. 방랑자가 소모한 각 아이템마다, 리버포크는 해당 병사를 자금으로 추가합니다.
 tutorial.title.tutorialR01=신성한 비늘
 tutorial.description.tutorialR01=도마뱀 교단 플레이 방법을 배워보세요.
 tutorial.title.tutorialR02=강 위를 흐르며
@@ -31,7 +31,7 @@ key.handcard=핸드 카드
 key.riverboats=보트
 key.mercenaries=용병
 tuber.canis.abilities.LizardCultAbilities.CultBuildAbility=정원을 배치할 공터를 선택하세요.
-tuber.canis.abilities.LizardCultAbilities.CultRecruitAbility=전사를 모집할 공터를 선택하세요.
+tuber.canis.abilities.LizardCultAbilities.CultRecruitAbility=병사를 모집할 공터를 선택하세요.
 tuber.canis.abilities.LizardCultAbilities.CultScoreAbility=점수로 환산할 카드를 선택하세요.
 tooltip.fish.fox=여우 물고기
 tooltip.fish.rabbit=토끼 물고기
@@ -49,7 +49,7 @@ scenario.shippingempire.name=해상 제국
 achievement.rf.cult.leader=교단 지도자
 achievement.rf.company.man=기업인
 achievement.rf.corner.market=시장 독점
-achievement.rf.feathful.crusader=신실한 성전사
+achievement.rf.feathful.crusader=신실한 성병사
 achievement.rf.peddler=번창하는 행상인
 achievement.rf.connected=모든 것은 연결되어 있다
 achievement.rf.scoundrel=비열한 악당
@@ -69,7 +69,7 @@ playmat.boughtriverboats=보트 구매!
 playmat.boughtmercenaries=용병 구매!
 prompts.gameresults.winner.LizardCult=도마뱀 교단 승리!
 prompts.gameresults.winner.RiverfolkCompany=리버포크 주식회사 승리!
-tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=개종할 전사를 선택하세요.
+tuber.canis.abilities.LizardCultAbilities.CultConvertAbility=개종할 병사를 선택하세요.
 vagabond.title.SecondVagabond_Thief=도둑 방랑자
 vagabond.title.SecondVagabond_Tinker=땜장이 방랑자
 vagabond.title.SecondVagabond_Ranger=레인저 방랑자
@@ -80,21 +80,21 @@ vagabond.title.vagabond_Vagrant=부랑자 방랑자
 vagabond.title.vagabond_Arbiter=중재자 방랑자
 vagabond.title.vagabond_Scoundrel=악당 방랑자
 ftt.servicecost=서비스 비용
-tooltip.ui.liz.warriorcount=<size=125%><b>남은 전사</b></size>\
-tooltip.ui.liz.cardsinhand=<size=125%><b>손패</b></size>\
+tooltip.ui.liz.warriorcount=<size=125%><b>남은 병사</b></size>
+tooltip.ui.liz.cardsinhand=<size=125%><b>손패</b></size>
 tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake=가져갈 아이템을 선택하세요.
 tuber.canis.actions.VagabondActions.Explore.ChooseItemToTake.opponent=방랑자가 유적에서 가져갈 아이템을 선택 중입니다.
-tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>부랑자</b></size>\
+tooltip.ui.vagabond.vagabond_vagrant=<size=125%><b>부랑자</b></size>
 <b>선동</b> — <sprite name="torch">을(를) 소모하여 자신이 있는 공터에서 전투를 시작합니다. 공격자와 방어자를 직접 선택하며, 양쪽의 말을 제거합니다.
-tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>중재자</b></size>\
+tooltip.ui.vagabond.vagabond_arbiter=<size=125%><b>중재자</b></size>
 <b>보호자</b> — 전투에서 주사위를 굴리기 전, 방어자는 중재자가 같은 공터에 있다면 그의 지원을 요청할 수 있습니다. 중재자는 <sprite name="1VP">를 획득하며, 방어자의 최대 공격력에 손상되지 않은 검을 추가합니다.
-tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>악당</b></size>\
+tooltip.ui.vagabond.vagabond_scoundrel=<size=125%><b>악당</b></size>
 <b>초토화</b> — <sprite name="torch">을(를) 버리고 자신이 있는 공터의 모든 적을 제거합니다. 이후 이 공터에는 말을 배치하거나 이동할 수 없습니다.
-tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>레인저</b></size>\
+tooltip.ui.vagabond.secondvagabond_ranger=<size=125%><b>레인저</b></size>
 <b>은신처</b> — <sprite name="torch">을(를) 소모하여 아이템 3개를 수리합니다. 이후 즉시 낮 단계를 종료합니다.
-tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>도둑</b></size>\
+tooltip.ui.vagabond.secondvagabond_thief=<size=125%><b>도둑</b></size>
 <b>훔치기</b> — <sprite name="torch">을(를) 소모하여 같은 공터에 있는 플레이어에게서 무작위로 카드 한 장을 가져옵니다.
-tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>땜장이</b></size>\
+tooltip.ui.vagabond.secondvagabond_tinker=<size=125%><b>땜장이</b></size>
 <b>노동</b> — <sprite name="torch">을(를) 소모하여 자신이 있는 공터의 문양과 일치하는 버려진 카드 한 장을 가져옵니다.
-tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>부랑자</b></size>\
-tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>중재자</b></size>\
+tooltip.ui.vagabond.secondvagabond_vagrant=<size=125%><b>부랑자</b></size>
+tooltip.ui.vagabond.secondvagabond_arbiter=<size=125%><b>중재자</b></size>

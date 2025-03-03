@@ -23,10 +23,10 @@ root.cardname.codebreakers=암호 해독자
 root.cardname.dominance=지배
 root.cardname.coalition=연합
 root.cardname.ambush=매복!
-root.cardtext.favoroftherabbits=토끼 공터의 적 피스들을 모두 제거합니다.
-root.cardtext.favorofthefoxes=여우 공터의 적 피스들을 모두 제거합니다.
-root.cardtext.favorofthemice=들쥐 공터의 적 피스들을 모두 제거합니다.
-root.cardtext.royalclaim=새벽에 이 카드를 버려서 지배하는 공터마다 한 점을 얻을 수 있습니다.
+root.cardtext.favoroftherabbits=토끼 공터의 적 기물들을 모두 제거합니다.
+root.cardtext.favorofthefoxes=여우 공터의 적 기물들을 모두 제거합니다.
+root.cardtext.favorofthemice=들쥐 공터의 적 기물들을 모두 제거합니다.
+root.cardtext.royalclaim=아침에 이 카드를 버려서 지배하는 공터마다 한 점을 얻을 수 있습니다.
 root.cardtext.craftcoinstack=<size=200%><sprite name="coinstack">, <sprite name="3VP"></size>
 root.cardtext.scoutingparty=공격자로서 전투 시, 매복 카드에 영향을 받지 않습니다.
 root.cardtext.armorers=전투 중, 이 카드를 버려서 받은 모든 공격을 무효화할 수 있습니다.
@@ -39,17 +39,17 @@ root.cardtext.craftbag=<size=200%><sprite name="bag">, <sprite name="1VP"></size
 root.cardtext.craftboot=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
 root.cardtext.crossbow=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
 root.cardtext.commandwarren=낮에 시작할 때, 전투를 시작할 수 있습니다.
-root.cardtext.standanddeliver=새벽에, 다른 플레이어로부터 무작위 카드를 한 장 뽑을 수 있습니다. 그 플레이어는 한 점을 얻습니다.
-root.cardtext.betterburrowbank=새벽에, 당신과 다른 플레이어가 각자 카드를 한 장 뽑습니다.
-root.cardtext.taxcollector=낮에 한 번, 전사 한 명을 제거하고 카드를 한 장 뽑을 수 있습니다.
+root.cardtext.standanddeliver=아침에, 다른 플레이어로부터 무작위 카드를 한 장 뽑을 수 있습니다. 그 플레이어는 한 점을 얻습니다.
+root.cardtext.betterburrowbank=아침에, 당신과 다른 플레이어가 각자 카드를 한 장 뽑습니다.
+root.cardtext.taxcollector=낮에 한 번, 병사 한 명을 제거하고 카드를 한 장 뽑을 수 있습니다.
 root.cardtext.cobbler=저녁 시작 시, 한 번 이동할 수 있습니다.
 root.cardtext.codebreakers=낮에 한 번, 다른 플레이어의 손패를 볼 수 있습니다.
 root.cardtext.dominance.suit=문양으로 사용되면, 사용 가능하게 만듭니다.
-root.cardtext.dominance.points=점수가 10점 이상이면 낮에 사용하세요. 더 이상 <style="vptext">승리 점수</style>를 얻을 수 없습니다.
-root.cardtext.dominance.clearingtext.rabbit=새벽에 토끼 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.fox=새벽에 여우 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.mouse=세 개의 쥐 공터를 지배하면, 새벽에 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.bird=새벽에 두 개의 반대편 구석을 지배하면, 게임에서 승리합니다.
+root.cardtext.dominance.points=점수가 10점 이상이면 낮에 사용하세요. 더 이상 <style="vptext">VP</style>를 얻을 수 없습니다.
+root.cardtext.dominance.clearingtext.rabbit=아침에 토끼 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
+root.cardtext.dominance.clearingtext.fox=아침에 여우 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
+root.cardtext.dominance.clearingtext.mouse=세 개의 쥐 공터를 지배하면, 아침에 게임에서 승리합니다.
+root.cardtext.dominance.clearingtext.bird=아침에 두 개의 반대편 구석을 지배하면, 게임에서 승리합니다.
 root.cardtext.dominance.vagabond=4인 이상 게임에서, 방랑자는 동맹 카드를 사용하여 동맹을 형성할 수 있습니다.
 root.cardtext.ambush.any=모든 공터에서 매복을 할 수 있습니다.
 root.cardtext.ambush.fox=여우 공터에서 매복을 할 수 있습니다.
@@ -84,7 +84,7 @@ root.eyrie.commander.text=전투에서 공격자는 추가 타격을 줍니다.
 root.eyrie.despot=폭군
 root.eyrie.despot.text=전투에서 적의 건물이나 토큰을 적어도 하나 제거하면 1점을 얻습니다.
 root.eyrie.charismatic=카리스마
-root.eyrie.charismatic.text=모병할 때 두 명의 전사를 배치합니다.
+root.eyrie.charismatic.text=모병할 때 두 명의 병사를 배치합니다.
 root.eyrie.actions={0} & {1}
 root.eyrie.action.move=이동
 root.eyrie.action.recruit=모병

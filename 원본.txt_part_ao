@@ -1,27 +1,27 @@
-cct.Daylight.t3.plot.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄 음모</color></sprite>를 배치하여 모든 것을 폭파시켜 보자!
-cct.Daylight.t3.trick.1=마지막으로, <color=#336699>이어리</color>를 <color=#336699>혼란</color>에 빠뜨릴 것이다. <color=#6B5182>책략</color>을 사용해 공개된 <sprite name="plot_raid"> <color=#6B5182>급습</color></sprite>과 <sprite name="plot_snare"> <color=#6B5182>덫</color> 음모</sprite>의 위치를 바꿔라.
-cct.Daylight.t3.trick.2=<sprite name="plot_snare"> <color=#6B5182>덫</color></sprite>은 그들이 해당 공터에서 이동하거나 <sprite name="corvid"><color=#6B5182>전사</color></sprite>를 모집하는 것을 막을 것이다. 이로 인해 그들은 대혼란에 빠질 것이다.
+cct.Daylight.t3.plot.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄 음모</color>를 배치하여 모든 것을 폭파시켜 보자!
+cct.Daylight.t3.trick.1=마지막으로, <color=#336699>이어리</color>를 <color=#336699>혼란</color>에 빠뜨릴 것이다. <color=#6B5182>책략</color>을 사용해 공개된 <sprite name="plot_raid"> <color=#6B5182>급습</color>과 <sprite name="plot_snare"> <color=#6B5182>덫</color> 음모의 위치를 바꿔라.
+cct.Daylight.t3.trick.2=<sprite name="plot_snare"> <color=#6B5182>덫</color>은 그들이 해당 공터에서 이동하거나 <sprite name="corvid"><color=#6B5182>병사</color>를 모집하는 것을 막을 것이다. 이로 인해 그들은 대혼란에 빠질 것이다.
 cct.Daylight.t4.battle.1=이제 준비가 끝났다. 전투를 시작하라!
-cct.Daylight.t4.battle.2=그들의 <sprite name="Roost"><color=#336699>둥지</color></sprite>는 무방비 상태다! 공격을 이어가 그들을 완전히 쓰러뜨려라.
-cct.Daylight.t4.move=적의 지도력이 흔들리는 지금이야말로 힘을 과시할 절호의 기회다. <sprite name="corvid"><color=#6B5182>전사</color></sprite>들을 이동시켜 <color=#336699>이어리</color>와 전투를 벌여라.
-cct.Daylight.t4.nimble=정말 민첩한 움직임이다! <color=#4E6F89>방랑자</color>처럼, <sprite name="corvid"><color=#6B5182>까마귀 모략단</color></sprite>의 전사들은 공터 지배 규칙에 관계없이 이동할 수 있다.
-cct.Daylight.t4.offrails=이제 너는 승리할 수 있는 강력한 위치에 있다. <style="vpnumddteen">15</style>점을 득점하거나 <sprite name="plot_bomb"> <color=#6B5182>폭탄</color></sprite>으로 적의 조각을 파괴하여 이 시나리오를 마무리하라.
+cct.Daylight.t4.battle.2=그들의 <sprite name="Roost"><color=#336699>둥지</color>는 무방비 상태다! 공격을 이어가 그들을 완전히 쓰러뜨려라.
+cct.Daylight.t4.move=적의 지도력이 흔들리는 지금이야말로 힘을 과시할 절호의 기회다. <sprite name="corvid"><color=#6B5182>병사</color>들을 이동시켜 <color=#336699>이어리</color>와 전투를 벌여라.
+cct.Daylight.t4.nimble=정말 민첩한 움직임이다! <color=#4E6F89>방랑자</color>처럼, <sprite name="corvid"><color=#6B5182>까마귀 모략단</color>의 병사들은 공터 지배 규칙에 관계없이 이동할 수 있다.
+cct.Daylight.t4.offrails=이제 너는 승리할 수 있는 강력한 위치에 있다. <style="vpnumddteen">15</style>점을 득점하거나 <sprite name="plot_bomb"> <color=#6B5182>폭탄</color>으로 적의 기물을 파괴하여 이 시나리오를 마무리하라.
 cct.Evening.t1.draw=저녁이 찾아왔다. 낮 행동이 끝났으니, 이제 카드를 한 장 뽑고 <color=#336699>이어리</color>에게 턴을 넘길 차례다.
 cct.Evening.t2.end=모든 준비는 끝났다. 하지만 우리의 <color=#6B5182>음모</color>가 실행되기 전, <color=#336699>이어리</color>의 턴을 먼저 지켜보아야 한다.
-cct.Evening.t2.exert=저녁에는 카드를 뽑는 대신 <sprite name="CorvidExertToken"> <color=#6B5182>강행</color></sprite>을 사용해 추가 행동을 할 수 있다. 아직 할 일이 남아 있으니, 강행하자.
-cct.Evening.t2.move=<sprite name="corvid"><color=#6B5182>전사</color></sprite> 한 명을 <sprite name="plot_snare"> <color=#6B5182>덫</color></sprite>이 있는 곳으로 이동시켜, 다음 턴에 음모를 공개할 준비를 하라.
+cct.Evening.t2.exert=저녁에는 카드를 뽑는 대신 <sprite name="CorvidExertToken"> <color=#6B5182>강행</color>을 사용해 추가 행동을 할 수 있다. 아직 할 일이 남아 있으니, 강행하자.
+cct.Evening.t2.move=<sprite name="corvid"><color=#6B5182>병사</color> 한 명을 <sprite name="plot_snare"> <color=#6B5182>덫</color>이 있는 곳으로 이동시켜, 다음 턴에 음모를 공개할 준비를 하라.
 cct.goal.15vp=<style="vpnumddteen">15</style>점 득점 ({0}/{1})<br><br>-또는-<br><br>
-cct.goal.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄</color></sprite>으로 적의 조각 하나 이상을 파괴하라.
+cct.goal.bomb=<sprite name="plot_bomb"> <color=#6B5182>폭탄</color>으로 적의 기물을 하나 이상을 파괴하라.
 cct.intro=환영한다, 신입이여! 오늘부터 너는 <color=#6B5182>까마귀 모략단</color>의 일원이 되었다. 이 숲속 전쟁의 진정한 배후 세력으로서, 우리는 음모를 통해 모든 것을 조종할 것이다.<br><br><color=#6B5182>까마귀 모략단</color>의 일원으로 성공하려면 철저한 계획과 완벽한 비밀 유지가 필요하다. 우리 적들은 우리가 다가오는 것도 모른 채, 온 숲에 퍼진 우리의 음모에 걸려들 것이다.
-cct.setup.warriors=설치 단계에서, 우리는 각 문양의 공터에 <sprite name="corvid"><color=#6B5182>전사</color></sprite> 하나씩을 배치하여 초기 거점을 마련한다.
+cct.setup.warriors=설치 단계에서, 우리는 각 문양의 공터에 <sprite name="corvid"><color=#6B5182>병사</color> 하나씩을 배치하여 초기 거점을 마련한다.
 conspiracyWithColor=<color=#9673B4>까마귀 모략단</color>
-corvid.plot.bomb.description=공개될 때, 해당 공터의 모든 적 조각을 제거한 후 이 토큰도 제거한다.
+corvid.plot.bomb.description=공개될 때, 해당 공터의 모든 적 기물을 제거한 후 이 토큰도 제거한다.
 corvid.plot.bomb.title=폭탄
-corvid.plot.extortion.description=공개될 때, 해당 공터에 조각이 있는 모든 플레이어로부터 무작위로 카드 한 장씩을 가져온다. 공개된 동안, 저녁에 추가로 카드를 한 장 뽑는다.
+corvid.plot.extortion.description=공개될 때, 해당 공터에 기물이 있는 모든 플레이어로부터 무작위로 카드 한 장씩을 가져온다. 공개된 동안, 저녁에 추가로 카드를 한 장 뽑는다.
 corvid.plot.extortion.title=공갈
-corvid.plot.raid.description=제거될 때, 인접한 모든 공터에 전사 한 명씩을 배치한다.
+corvid.plot.raid.description=제거될 때, 인접한 모든 공터에 병사 한 명씩을 배치한다.
 corvid.plot.raid.title=급습
-corvid.plot.snare.description=공개된 동안, 적들은 이 공터에 조각을 배치하거나 이 공터에서 이동할 수 없다.
+corvid.plot.snare.description=공개된 동안, 적들은 이 공터에 기물을 배치하거나 이 공터에서 이동할 수 없다.
 corvid.plot.snare.title=덫
 creategame.advancedsetup=고급 설정
 creategame.extras=추가 요소
@@ -32,37 +32,37 @@ duchy.ministertype.squire=시종
 duchyWithColor=<color=#BD5752>지하 공국</color>
 factionnames.corvidconspiracy=까마귀 모략단
 factionnames.undergroundduchy=지하 공국
-ftt.exposure.intro.1=저녁에 카드를 뽑기 전, <color=#6B5182>폭로</color>를 사용하여 네 조각이 있는 공터에 숨겨진 까마귀 음모를 제거할 수 있다.
+ftt.exposure.intro.1=저녁에 카드를 뽑기 전, <color=#6B5182>폭로</color>를 사용하여 네 기물이 있는 공터에 숨겨진 까마귀 음모를 제거할 수 있다.
 ftt.exposure.intro.2=이를 실행하려면 <color=#6B5182>폭로</color> 버튼을 선택한 후, 해당 공터의 문양과 일치하는 카드를 공개해야 한다. 그런 다음, 해당 음모의 종류를 추측한다. 맞히면 음모를 제거하지만, 틀리면 공개한 카드를 까마귀 모략단에게 넘겨야 한다.
-lake.Ferry=턴당 한 번, 페리가 있는 공터에서 이동하는 플레이어는 원하는 수의 전사와 함께 페리를 이동시켜 다른 해안 공터로 보낼 수 있다. 이후, 카드를 한 장 뽑는다.
-lake.intro=호수에 온 것을 환영한다! 여기서는 페리를 잘 활용하는 것이 핵심이다.
-lake.move.Ferry=이동할 때 페리를 사용하시겠습니까?
+lake.Ferry=턴당 한 번, 나룻배가 있는 공터에서 이동하는 플레이어는 원하는 수의 병사와 함께 나룻배를 이동시켜 다른 해안 공터로 보낼 수 있다. 이후, 카드를 한 장 뽑는다.
+lake.intro=호수에 온 것을 환영한다! 여기서는 나룻배를 잘 활용하는 것이 핵심이다.
+lake.move.Ferry=이동할 때 나룻배를 사용하시겠습니까?
 log.banker=[faction name]이(가) [cardnames]을(를) 버리고 [X] <style="vptext">VP</style>을(를) 획득했다.
 log.brigadier.2battle=[faction name]이(가) 장군을 활성화하여 두 번의 전투를 수행했다.
 log.brigadier.2move=[faction name]이(가) 장군을 활성화하여 두 번 이동했다.
 log.captain=[faction name]이(가) 대장을 활성화하여 전투를 수행했다.
 log.clear.path=[faction name]이(가) [name]을(를) 버려 길을 개척하고 1 <style="vptext">VP</style>을(를) 획득했다.
-log.corvid.move=<color=#9673B4>까마귀 모략단</color>이 [X]명의 전사를 [suit icon] 공터로 이동시켰다.
-log.corvid.move.one=<color=#9673B4>까마귀 모략단</color>이 전사 1명을 [suit icon] 공터로 이동시켰다.
-log.corvid.recruit=[faction name]이(가) [name]을(를) 버려 각 [suit icon] 공터에 전사를 배치했다.
-log.corvid.setup=[faction name]이(가) [suit icon] 공터에 전사를 배치했다.
+log.corvid.move=<color=#9673B4>까마귀 모략단</color>이 [X]명의 병사를 [suit icon] 공터로 이동시켰다.
+log.corvid.move.one=<color=#9673B4>까마귀 모략단</color>이 병사 1명을 [suit icon] 공터로 이동시켰다.
+log.corvid.recruit=[faction name]이(가) [name]을(를) 버려 각 [suit icon] 공터에 병사를 배치했다.
+log.corvid.setup=[faction name]이(가) [suit icon] 공터에 병사를 배치했다.
 log.duchy.build=[faction name]이(가) [name]을(를) 공개하여 [building name]을(를) [suit icon] 공터에 배치했다.
-log.duchy.dig=[faction name]이(가) [name]을(를) 버려 [suit icon] 공터에 터널을 배치했다. [X]명의 전사가 은신처에서 이동했다.
+log.duchy.dig=[faction name]이(가) [name]을(를) 버려 [suit icon] 공터에 터널을 배치했다. [X]명의 병사가 은신처에서 이동했다.
 log.duchy.dig.nomove=[faction name]이(가) [name]을(를) 버리고 [suit icon] 공터에 터널을 놓음.  
 log.duchy.dig.tunnel.removed=[faction name]이(가) [suit icon] 공터에서 터널을 제거함.  
 log.duchy.Evening.step1.bird=[faction name]이(가) 공개한 카드를 손으로 되돌리고, 공개된 새 카드 [cardnames]을(를) 버림.  
 log.duchy.Evening.step1.nobird=[faction name]이(가) 공개한 카드를 손으로 되돌림.  
 log.duchy.failure=[faction name]이(가) 실패의 대가로 [name]을(를) 되돌리고 [cardname]을(를) 버림.  
 log.duchy.lord.score=[faction name]이(가) [name]을(를) 활성화하여 [X] <style="vptext">VP</style>을(를) 획득함.  
-log.duchy.move=<color=#BD5752>지하 공국</color>이(가) [X]명의 전사를 [suit icon] 공터로 이동함.  
-log.duchy.move.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 [X]명의 전사를 [suit icon] 공터로 이동함.  
-log.duchy.move.one=<color=#BD5752>지하 공국</color>이(가) 1명의 전사를 [suit icon] 공터로 이동함.  
-log.duchy.move.one.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 1명의 전사를 [suit icon] 공터로 이동함.  
-log.duchy.recruit=[faction name]이(가) 은신처에 전사를 배치함.  
-log.duchy.setup=[faction name]이(가) 시작 터널과 전사 2명을 [suit icon] 모서리 공터에 배치함. 인접한 각 공터에 전사 2명을 추가로 배치함.  
-log.duchy.sway=[faction name]이(가) [cardnames]을(를) 공개하여 [name]을(를) 포섭하고 [X] <style="vptext">VP</style>을(를) 획득함.  
+log.duchy.move=<color=#BD5752>지하 공국</color>이(가) [X]명의 병사를 [suit icon] 공터로 이동함.  
+log.duchy.move.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 [X]명의 병사를 [suit icon] 공터로 이동함.  
+log.duchy.move.one=<color=#BD5752>지하 공국</color>이(가) 1명의 병사를 [suit icon] 공터로 이동함.  
+log.duchy.move.one.burrow=<color=#BD5752>지하 공국</color>이(가) 은신처에서 1명의 병사를 [suit icon] 공터로 이동함.  
+log.duchy.recruit=[faction name]이(가) 은신처에 병사를 배치함.  
+log.duchy.setup=[faction name]이(가) 시작 터널과 병사 2명을 [suit icon] 모서리 공터에 배치함. 인접한 각 공터에 병사 2명을 추가로 배치함.  
+log.duchy.sway=[faction name]이(가) [cardnames]을(를) 공개하여 [name]을(를) 임명하고 [X] <style="vptext">VP</style>을(를) 획득함.  
 log.embedded.agents=[faction name]이(가) 전투가 벌어진 공터에 숨겨진 음모 토큰이 있어 추가 피해를 줌.  
-log.exert=[faction name]이(가) 압박을 사용하여 저녁에 추가 낮 행동을 수행함. 그 대가로 이번 턴에 카드를 뽑지 않음.  
+log.exert=[faction name]이(가) 강행을 사용하여 저녁에 추가 낮 행동을 수행함. 그 대가로 이번 턴에 카드를 뽑지 않음.  
 log.exposure.failure=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, [name]을(를) 공개하여 [plot token name]이라고 추측함. 추측이 틀렸으며, [faction name 2]이(가) [name]을(를) 가져감.  
 log.exposure.failure.opponent=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, 카드를 공개하여 [plot token name]이라고 추측함. 추측이 틀렸으며, [faction name 2]이(가) 공개된 카드를 가져감.  
 log.exposure.success=[faction name]이(가) [suit icon] 공터의 음모 토큰을 노출시키려 시도하고, [name]을(를) 공개하여 [plot token name]이라고 추측함. 추측이 맞았으며, [plot token name]이(가) 제거됨.  
@@ -71,14 +71,14 @@ log.flip=[faction name]이(가) [suit icon] 공터에서 [plot token name]을(�
 log.flip.resolution.bomb=폭탄이 [faction name]의 [pieces]을(를) 제거함.  
 log.flip.resolution.extortion=[faction name]이(가) [faction name 2]에게서 카드를 빼앗음.  
 log.foremole=[faction name]이(가) 땅두더지를 활성화하여 [name]을(를) 공개하고 [suit icon] 공터에 [building name]을(를) 배치함.  
-log.lake.Ferry=[faction name]이(가) 페리를 이용해 이동한 후 카드를 뽑음.  
+log.lake.Ferry=[faction name]이(가) 나룻배를 이용해 이동한 후 카드를 뽑음.  
 log.marshal=[faction name]이(가) 원수(Marshal)를 활성화하여 이동함.  
 log.mayor=[faction name]이(가) 시장(Mayor)의 능력으로 [name]의 행동을 복제함.  
 log.navalwarfare.hit=[faction name]이(가) 해상 전투에서 추가 피해를 줌.  
 log.playerwon=[faction name]이(가) 승리함!  
-log.plot=[faction name]이(가) [suit icon] 공터에서 전사 [X]명을 제거하고 숨겨진 음모를 배치함.  
-log.plot.one=[faction name]이(가) [suit icon] 공터에서 전사 1명을 제거하고 숨겨진 음모를 배치함.  
-log.spawn.burrow=[X]명의 전사가 은신처에 추가됨.  
+log.plot=[faction name]이(가) [suit icon] 공터에서 병사 [X]명을 제거하고 숨겨진 음모를 배치함.  
+log.plot.one=[faction name]이(가) [suit icon] 공터에서 병사 1명을 제거하고 숨겨진 음모를 배치함.  
+log.spawn.burrow=[X]명의 병사가 은신처에 추가됨.  
 log.Tower.score=[faction name]이(가) <sprite name="TowerToken"> <color=#6E5656>탑</color>이 있는 공터를 지배하여 1 <style="vptext">VP</style>을(를) 획득함.  
 log.trick=[faction name]이(가) 두 개의 음모 토큰 위치를 바꿈.  
 ministertype.lords=영주  
@@ -87,11 +87,11 @@ ministertype.squires=시종
 mountain.intro=산맥에 온 것을 환영합니다! 이곳에서 지배자가 되려면 몇 가지 알아야 할 점이 있습니다.  
 mountain.pass=<sprite name="TowerToken"> <color=#6E5656>탑</color>이 있는 공터는 "협곡"이라 불립니다. 플레이어의 저녁 단계가 끝날 때 협곡을 지배하고 있다면 <sprite name="1VP">을(를) 획득합니다.  
 mountain.path=이곳에는 이동하려면 개척해야 하는 막힌 길이 있습니다. 낮 동안 한 번, 카드를 사용하여 인접한 막힌 길을 개척하고 <sprite name="1VP">을(를) 획득할 수 있습니다.  
-playerinfo.corvid.Birdsong=1단계: 제작 - 공개되었거나 숨겨진 음모를 사용해 제작합니다. <br><br>2단계: 공개 - 까마귀 모략단 전사가 있는 공터에서 원하는 음모 토큰을 공개합니다. 지도에 공개된 음모 토큰 1개당 1VP를 얻고, 공개 효과를 해결합니다. <br><br>3단계: 모집 - 한 번에 원하는 카드를 소비하여 일치하는 공터마다 전사를 1명씩 배치합니다.  
-playerinfo.corvid.Daylight=최대 3회 행동을 수행합니다. <br><br><sprite index=96>음모<br>공터에서 까마귀 모략단 전사 1명(이 턴에 배치한 음모 토큰 1개당 추가 1명)을 제거하고 숨겨진 음모 토큰을 배치합니다. <br><br><sprite index=96>속임수<br>지도에 있는 두 개의 음모 토큰(공개/숨김)을 서로 교환합니다.<br><br><sprite index=96>이동<br><br><sprite index=96>전투  
+playerinfo.corvid.Birdsong=1단계: 제작 - 공개되었거나 숨겨진 음모를 사용해 제작합니다. <br><br>2단계: 공개 - 까마귀 모략단 병사가 있는 공터에서 원하는 음모 토큰을 공개합니다. 지도에 공개된 음모 토큰 1개당 1VP를 얻고, 공개 효과를 해결합니다. <br><br>3단계: 모집 - 한 번에 원하는 카드를 소비하여 일치하는 공터마다 병사를 1명씩 배치합니다.  
+playerinfo.corvid.Daylight=최대 3회 행동을 수행합니다. <br><br><sprite index=96>음모<br>공터에서 까마귀 모략단 병사 1명(이 턴에 배치한 음모 토큰 1개당 추가 1명)을 제거하고 숨겨진 음모 토큰을 배치합니다. <br><br><sprite index=96>속임수<br>지도에 있는 두 개의 음모 토큰(공개/숨김)을 서로 교환합니다.<br><br><sprite index=96>이동<br><br><sprite index=96>전투  
 playerinfo.corvid.embeddedagents.description=숨겨진 음모 토큰이 있는 공터에서 방어자로 전투를 수행할 때, 추가 피해를 입힙니다.  
 playerinfo.corvid.embeddedagents.title=잠입 요원  
-playerinfo.corvid.Evening=1단계: 압박<size=80%> - 추가 낮 행동을 수행할 수 있습니다. 대신, 다음 카드 뽑기 단계에서 카드를 뽑지 않습니다.<br><br></size=80%>2단계: 카드 뽑기 <size=80%>기본 1장 + 지도에 있는 <sprite index=97> 1개당 1장.<br></size=80%><br>손에 있는 카드를 5장 이하로 정리합니다.  
+playerinfo.corvid.Evening=1단계: 강행<size=80%> - 추가 낮 행동을 수행할 수 있습니다. 대신, 다음 카드 뽑기 단계에서 카드를 뽑지 않습니다.<br><br></size=80%>2단계: 카드 뽑기 <size=80%>기본 1장 + 지도에 있는 <sprite index=97> 1개당 1장.<br></size=80%><br>손에 있는 카드를 5장 이하로 정리합니다.  
 playerinfo.corvid.exposure.description=숨겨진 음모 토큰이 있는 공터에 있는 적 플레이어는 공터의 문양과 일치하는 카드를 공개하여 음모의 종류를 추측할 수 있습니다. 추측이 맞으면 음모가 제거됩니다. 틀리면 공개된 카드를 가져갑니다.  
 playerinfo.corvid.exposure.title=노출  
 playerinfo.corvid.nimble.description=해당 공터를 지배하는 세력과 관계없이 이동할 수 있습니다.  

@@ -33,9 +33,9 @@ auto.update.body=업데이트가 가능합니다.
 auto.update.body.forced=게임을 계속 진행하려면 업데이트가 필요합니다.  
 auto.update.cancel=닫기  
 auto.update.confirm=업데이트  
-Automated.Alliance.Challenging=<b>도전적:</b> 자동화 연합이 있는 공터에 2명 이상의 연합 전사가 있을 경우 조직합니다.  
-Automated.Alliance.Easy=<b>쉬움:</b> 자동화 연합이 있는 공터에 4명 이상의 연합 전사가 있을 경우 조직합니다.  
-Automated.Alliance.Nightmare=<b>악몽:</b> 자동화 연합이 있는 공터에 2명 이상의 연합 전사가 있을 경우 조직합니다. 저녁 단계가 끝날 때마다 1점의 승점(VP)을 획득합니다.  
+Automated.Alliance.Challenging=<b>도전적:</b> 자동화 연합이 있는 공터에 2명 이상의 연합 병사가 있을 경우 조직합니다.  
+Automated.Alliance.Easy=<b>쉬움:</b> 자동화 연합이 있는 공터에 4명 이상의 연합 병사가 있을 경우 조직합니다.  
+Automated.Alliance.Nightmare=<b>악몽:</b> 자동화 연합이 있는 공터에 2명 이상의 연합 병사가 있을 경우 조직합니다. 저녁 단계가 끝날 때마다 1점의 승점(VP)을 획득합니다.  
 automatedallianceWithColor=<color=#008D3F>자동화 연합</color>  
 battledamage.fx.ambush=매복!  
 battledamage.fx.autoambush=자동화된 매복!  

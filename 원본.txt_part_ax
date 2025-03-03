@@ -1,24 +1,24 @@
-lht.2.8.gamepad=<sprite name="Stronghold"><color=#B40518>주둔지</color>를 사용하여 지난 턴에 뽑은 <sprite name="bag">가방</sprite>을 제작하세요.
+lht.2.8.gamepad=<sprite name="Stronghold"><color=#B40518>주둔지</color>를 사용하여 지난 턴에 뽑은 <sprite name="bag">가방을 제작하세요.
 tuber.canis.actions.ContinueToEvening.opponent=[player]가 이동 중입니다.
-kiit.goal.figure=<sprite name="RelicFigure">유물</sprite>을 회수하세요.
-kiit.goal.tablet=<sprite name="RelicTablet">유물</sprite>을 회수하세요.
+kiit.goal.figure=<sprite name="RelicFigure">유물을 회수하세요.
+kiit.goal.tablet=<sprite name="RelicTablet">유물을 회수하세요.
 kiit.goal.15vp=<style="vpnumddteen">15</style> 점을 얻으세요 ({0}/{1})
 Log.Hundreds.Start.Location=[faction name]은/는 [suit icon] 공터에 전쟁군주와 주둔지를 배치합니다.
-Log.Keepers.Start.Location=[faction name]은/는 [suit icon] 공터에 전사 4명을 배치합니다.
+Log.Keepers.Start.Location=[faction name]은/는 [suit icon] 공터에 병사 4명을 배치합니다.
 Log.exile.start=추방자 용병이 숲에 배치됩니다.
-Log.uprising.start=봉기의 주사위가 [suit icon]을/를 굴리고, 봉기의 전사가 해당 공터에 배치됩니다.
-Log.dynasty.start=5명의 왕조 전사가 지도 가장자리에 있는 [suit icon] 공터에 배치됩니다.
-log.patrol.start=각 공터에 순찰 전사가 배치됩니다.
-log.band.start=밴드 전사들이 두 개의 다른 공터에 배치됩니다.
-log.vault.keepers.start=2명의 수호자 전사와 금고가 [suit icon] 공터에 배치됩니다.
-log.bearers.start=2명의 전달자 전사가 공터에 배치됩니다.
-log.encamp=[faction name]은/는 [suit icon] 공터에 [type] 주둔지로 전사를 교체합니다.
-log.decamp=[faction name]은/는 [suit icon] 공터에 있는 [type] 주둔지를 전사로 교체합니다.
-log.recruit.keepers=[faction name]은/는 [card]를 사용하여 [suit icon] 공터에 전사 2명을 모집합니다.
+Log.uprising.start=반란의 주사위가 [suit icon]을/를 굴리고, 반란의 병사가 해당 공터에 배치됩니다.
+Log.dynasty.start=5명의 왕조 병사가 지도 가장자리에 있는 [suit icon] 공터에 배치됩니다.
+log.patrol.start=각 공터에 순찰 병사가 배치됩니다.
+log.band.start=밴드 병사들이 두 개의 다른 공터에 배치됩니다.
+log.vault.keepers.start=2명의 수호자 병사와 금고가 [suit icon] 공터에 배치됩니다.
+log.bearers.start=2명의 전달자 병사가 공터에 배치됩니다.
+log.encamp=[faction name]은/는 [suit icon] 공터에 [type] 주둔지로 병사를 교체합니다.
+log.decamp=[faction name]은/는 [suit icon] 공터에 있는 [type] 주둔지를 병사로 교체합니다.
+log.recruit.keepers=[faction name]은/는 [card]를 사용하여 [suit icon] 공터에 병사 2명을 모집합니다.
 log.delve=[faction name]은/는 [suit icon] 공터에서 델브하여 [X] [type] 유물을 발견합니다.
 log.retinue.lost=[faction name]은/는 [type] Retinue에서 [card]를 버립니다.
 log.recover=[faction name]은/는 [type] 유물을 회수하여 [X] <style=""vptext"">VP</style>를 얻습니다.
-log.live.off.land=[faction name]은/는 <color=#575757>자원을 수확</color>으로 인해 [suit icon] 공터에서 전사 1명이 제거됩니다.
+log.live.off.land=[faction name]은/는 <color=#575757>자원을 수확</color>으로 인해 [suit icon] 공터에서 병사 1명이 제거됩니다.
 log.gather.retinue=[faction name]은/는 [type] Retinue에 [card]를 추가합니다.
 log.shift.retinue=[faction name]은/는 [type1] Retinue에서 [type2] Retinue로 [suit icon]을 이동시킵니다.
 log.move.relic=[faction name]은/는 [type] 유물을 [suit icon] 공터로 이동시킵니다.
@@ -35,15 +35,15 @@ log.incite=[faction name]은/는 [suit icon] 공터에서 폭도를 선동합니
 log.oppress=[faction name]은/는 [X]개의 공터를 억압하여 [X2] <style=""vptext"">VP</style>를 얻습니다.
 log.loot=[faction name]은/는 [faction name 2]로부터 [item icon]을 약탈합니다.
 log.stubborn=[faction name]은/는 고집스럽게 1회 적은 피해를 받습니다!
-log.bitter=[faction name]은/는 [suit icon] 공터에서 폭도를 제거하여 전사를 모집합니다.
-log.lavish=[faction name]은/는 [items]를 보관소에서 제거하여 [X]명의 전사를 모집합니다.
+log.bitter=[faction name]은/는 [suit icon] 공터에서 폭도를 제거하여 병사를 모집합니다.
+log.lavish=[faction name]은/는 [items]를 보관소에서 제거하여 [X]명의 병사를 모집합니다.
 log.wrathful=[faction name]은/는 Wrathful로 인해 1회 더 많은 피해를 받습니다!
-log.winterschill=[faction name]은/는 Winter's Chill로 인해 [suit icon] 공터에서 전사 1명이 제거됩니다.
+log.winterschill=[faction name]은/는 Winter's Chill로 인해 [suit icon] 공터에서 병사 1명이 제거됩니다.
 log.infiltration=[faction name]은/는 [X]개의 공터를 침투하여 [X2] <style=""vptext"">VP</style>를 얻습니다.
 log.deliverymission.recover=[faction name]은/는 유물을 회수하여 [X] <style=""vptext"">VP</style>를 얻습니다.
 log.move.warlord=[faction name]은/는 전쟁군주를 [suit icon] 공터로 이동시킵니다.
-tooltip.ui.hundreds.warriorcount=<size=125%><b>예비 전사 수</b></size>\
-tooltip.ui.hundreds.drawrate=<size=125%><b>손에 든 카드 수</b></size>\
+tooltip.ui.hundreds.warriorcount=<size=125%><b>예비 병사 수</b></size>
+tooltip.ui.hundreds.drawrate=<size=125%><b>손에 든 카드 수</b></size>
 tooltip.ui.hundreds.strongholds=<size=125%><b>주둔지</b></size>
 tooltip.ui.hundreds.mob=<size=125%><b>폭도</b></size>
 tooltip.ui.hundreds.command=<size=125%><b>명령</b></size><br>턴마다 수차례 Hundreds(이동, 전투, 건설)를 명령할 수 있는 횟수입니다.
@@ -51,32 +51,32 @@ tooltip.ui.hundreds.prowess=<size=125%><b>기량</b></size><br>턴마다 전쟁�
 tooltip.ui.hundreds.oppression=<size=125%><b>억압된 공터</b></size>
 tooltip.ui.hundreds.infiltration=<size=125%><b>침투된 공터</b></size>
 tooltip.ui.hundreds.moods=<size=125%><b>기분</b></size>
-tooltip.ui.hundreds.protectwarlord=<size=125%><b>전쟁군주 보호</b></size>\
-tooltip.ui.keepers.warriorcount=<size=125%><b>예비 전사 수</b></size>\
-tooltip.ui.keepers.drawrate=<size=125%><b>카드 드로우 속도</b></size>\
-tooltip.ui.keepers.cardsinhand=<size=125%><b>손에 든 카드 수</b></size>\
+tooltip.ui.hundreds.protectwarlord=<size=125%><b>전쟁군주 보호</b></size>
+tooltip.ui.keepers.warriorcount=<size=125%><b>예비 병사 수</b></size>
+tooltip.ui.keepers.drawrate=<size=125%><b>카드 드로우 속도</b></size>
+tooltip.ui.keepers.cardsinhand=<size=125%><b>손에 든 카드 수</b></size>
 tooltip.ui.keepers.waystations.tablet=<size=125%><b>유물 주둔지</b></size>
 tooltip.ui.keepers.waystations.figure=<size=125%><b>인물 주둔지</b></size>
 tooltip.ui.keepers.waystations.jewelry=<size=125%><b>보석 주둔지</b></size>
 tooltip.ui.keepers.relics.tablet=<size=125%><b>유물(석판)</b></size>
 tooltip.ui.keepers.relics.figure=<size=125%><b>유물(인물)</b></size>
 tooltip.ui.keepers.relics.jewelry=<size=125%><b>유물(보석)</b></size>
-tooltip.ui.keepers.retinue.moveorrecover=<size=125%><b>이동 또는 회수</b></size>\
-tooltip.ui.keepers.retinue.battleanddelve=<size=125%><b>전투 후 델브</b></size>\
-tooltip.ui.keepers.retinue.move=<size=125%><b>이동</b></size>\
+tooltip.ui.keepers.retinue.moveorrecover=<size=125%><b>이동 또는 회수</b></size>
+tooltip.ui.keepers.retinue.battleanddelve=<size=125%><b>전투 후 델브</b></size>
+tooltip.ui.keepers.retinue.move=<size=125%><b>이동</b></size>
 tooltip.keepersiniron.relics.description=<size=125%><b>유물</b></size>
 tooltip.keepersiniron.waystations.description=<size=125%><b>주둔지</b></size>
-tooltip.ui.keepers.crafteditems=<size=125%><b>제작된 아이템</b></size>\
-tooltip.ui.keepers.craftedcards=<size=125%><b>제작된 카드</b></size>\
-tooltip.ui.hundreds.craftedcards=<size=125%><b>제작된 카드</b></size>\
+tooltip.ui.keepers.crafteditems=<size=125%><b>제작된 아이템</b></size>
+tooltip.ui.keepers.craftedcards=<size=125%><b>제작된 카드</b></size>
+tooltip.ui.hundreds.craftedcards=<size=125%><b>제작된 카드</b></size>
 tooltip.ui.hundreds.warriormovementtoggle=활성화되면 전쟁군주가 있는 공터에서 이동할 때마다 전쟁군주를 이동하는 것이 기본 설정입니다.
 tooltip.hangar.hirelings.ability=<b>능력</b><br><br>능력은 항상 활성화되어 있지만, 어떤 능력은 발동 시점을 설명합니다.
 tooltip.hangar.hirelings.whenhiredaction=<b>고용 시 행동</b><br><br>고용자가 고용된 후, 해당 플레이어는 이 행동을 취해야 합니다.
-tooltip.hangar.hirelings.startofbirdsongaction=<b>새벽 행동</b><br><br>새벽이 시작될 때, 해당 플레이어는 이 행동을 해야 하거나 할 수 있습니다.
+tooltip.hangar.hirelings.startofbirdsongaction=<b>아침 행동</b><br><br>아침이 시작될 때, 해당 플레이어는 이 행동을 해야 하거나 할 수 있습니다.
 tooltip.hangar.hirelings.onceperdaylightaction=<b>하루에 한 번 행동</b><br><br>낮 시간 동안, 해당 플레이어는 이 행동을 취할 수 있습니다.
-tooltip.playmat.relic.tablet=<size=125%><b>유물(석판)</b></size>\
-tooltip.playmat.relic.figure=<size=125%><b>유물(인물)</b></size>\
-tooltip.playmat.relic.jewelry=<size=125%><b>유물(보석)</b></size>\
+tooltip.playmat.relic.tablet=<size=125%><b>유물(석판)</b></size>
+tooltip.playmat.relic.figure=<size=125%><b>유물(인물)</b></size>
+tooltip.playmat.relic.jewelry=<size=125%><b>유물(보석)</b></size>
 tooltip.playmat.stronghold=<size=125%><b>주둔지</b></size>
 tooltip.playmat.mob=<size=125%><b>폭도</b></size>
 tooltip.playmat.waystation=주둔지
@@ -93,8 +93,8 @@ tooltip.playerinfo.keepers.relic.jewelry=<sprite name="RelicJewelry"> 유물
 tooltip.playerinfo.keepers.relic.jewelry.empty=<sprite name="RelicJewelry"> 유물 (비어 있음)
 tooltip.playerinfo.keepers.relic.tablet=<sprite name="RelicTablet"> 유물
 tooltip.playerinfo.keepers.relic.tablet.empty=<sprite name="RelicTablet"> 유물 (비어 있음)
-tooltip.playerinfo.hundreds.oppress=<b>억압된 공터</b><br>당신이 지배하는 공터에서 Hundreds 조각이 있고 적의 조각이 없는 공터입니다.
-tooltip.playerinfo.hundreds.infiltration.normal=<b>침투된 공터</b><br>적이 지배하는 공터에서 Hundreds 전사나 전쟁군주가 있는 공터입니다.
-tooltip.playerinfo.hundreds.infiltration.heroic=<b>침투된 공터</b><br>적이 지배하는 공터에서 적의 조각이 4개 이상 있는 공터에서 Hundreds 전사나 전쟁군주가 있는 공터입니다.
-tooltip.playmat.keeperstack=<size=125%><b>수호자 전사</b></size>
-tooltip.playmat.hundredsstack=<size=125%><b>Hundreds 전사</b></size>
+tooltip.playerinfo.hundreds.oppress=<b>억압된 공터</b><br>당신이 지배하는 공터에서 Hundreds 기물이 있고 적의 기물이 없는 공터입니다.
+tooltip.playerinfo.hundreds.infiltration.normal=<b>침투된 공터</b><br>적이 지배하는 공터에서 Hundreds 병사나 전쟁군주가 있는 공터입니다.
+tooltip.playerinfo.hundreds.infiltration.heroic=<b>침투된 공터</b><br>적이 지배하는 공터에서 적의 기물이 4개 이상 있는 공터에서 Hundreds 병사나 전쟁군주가 있는 공터입니다.
+tooltip.playmat.keeperstack=<size=125%><b>수호자 병사</b></size>
+tooltip.playmat.hundredsstack=<size=125%><b>Hundreds 병사</b></size>

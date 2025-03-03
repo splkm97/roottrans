@@ -1,7 +1,7 @@
 tuber.canis.abilities.CraftAbility.opponent=[player]이(가) 제작할 카드를 선택하는 중입니다.
 tuber.canis.abilities.StandAndDeliverAbility.opponent=[player]이(가) '강탈'로부터 카드를 훔칠 플레이어를 선택하는 중입니다.
 tuber.canis.abilities.TaxCollectorAbility.opponent=[player]이(가) '징세관' 능력으로 카드를 얻기 위해 희생할 병사를 선택하는 중입니다.
-tuber.canis.entities.PlayableClasses.ChoosePiecesToRemove.opponent=[player]이(가) 전사자를 선택하는 중입니다.
+tuber.canis.entities.PlayableClasses.ChoosePiecesToRemove.opponent=[player]이(가) 병사자를 선택하는 중입니다.
 tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Recruit.opponent=이어리가 모집할 공터를 선택하는 중입니다.
 tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Move.opponent=이어리가 이동할 공터를 선택하는 중입니다.
 tuber.canis.actions.EyrieDynastiesActions.EyrieDynastiesDaylightAction_Battle.opponent=이어리가 전투를 시작할 공터를 선택하는 중입니다.

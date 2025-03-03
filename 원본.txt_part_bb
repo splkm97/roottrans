@@ -1,40 +1,40 @@
-tutorial1.destroyroost=잘 했어요! 그들의 <sprite name="Roost"><color=#336699>둥지</color></sprite>를 파괴했습니다. 숲은 지금은 우리의 것...입니다.
-tutorial2.faction.info=침략하는 <color=#CC6633>고양이 후작</color>은 숲의 방대한 자원을 활용하여 경제적이고 군사적인 기계를 구축하려 합니다. 그녀는 숲에 건물을 건설하여 승리 점수 <style="vptext">VP</style>를 얻습니다. <br><br>일반적인 게임에서는 첫 번째로 <style="vpnumdd">30</style> 점을 얻은 플레이어가 승리합니다! 이번 시나리오에서는 <style="vpnumddteen">12</style> 점을 얻을 수 있는지 확인해보세요.
-tutorial2.setup.keep=게임을 시작할 때 <color=#CC6633>고양이 후작</color>은 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 코너에 있는 청소 한 곳에 배치합니다.
-tutorial2.setup.keep2=<sprite name="KeepToken"> <color=#CC6633>요새</color></sprite>는 당신 왕국의 근본입니다. 적들은 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>가 있는 청소에서 건물을 짓거나 조각을 배치할 수 없지만, 이동은 가능합니다.
-tutorial2.setup.keep3=지금 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 배치하세요.
-tutorial2.setup.warriors=<color=#CC6633>고양이 후작</color>의 군대는 다른 팩션들보다 매우 많은 숫자를 자랑합니다. 당신은 <sprite name="marquise"><color=#CC6633>전사</color></sprite>를 <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>를 제외한 모든 청소에 배치합니다. 그 청소는 <color=#336699>이어리</color> 영토입니다.
-tutorial2.setup.buildings=마지막으로, <sprite name="KeepToken"><color=#CC6633>요새</color></sprite>가 있는 청소나 그와 인접한 곳에 건물 하나씩 배치해야 합니다.
-tutorial2.setup.eyrie=<color=#336699>이어리</color>가 나타나서 빈 청소에 <sprite name="Roost"><color=#336699>둥지</color></sprite>를 지었습니다. 꽤 잘 방어되고 있습니다.
-tutorial2.turn1.workshops=낮 시간이 시작될 때, 당신은 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>을 사용하여 손에 있는 카드를 제작할 기회를 가집니다.
-tutorial2.turn1.craftcost.a=<sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>은 각각 그 청소의 문양을 제공하여 제작 비용을 지불하는 데 기여합니다. 예를 들어, 두 개의 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>이 <sprite name="foxicon"> 청소에 있다면, 이 <sprite name="ArmsTrader">무기 상인</sprite> 카드를 제작할 수 있습니다.
-tutorial2.turn1.craftcost=당신은 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>이 있는 <sprite name="mouseicon">청소에서 <sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>을 사용하여 밀수상 길을 제작할 수 있습니다. 이 카드는 1 <sprite name="mouseicon">에 해당합니다.
+tutorial1.destroyroost=잘 했어요! 그들의 <sprite name="Roost"><color=#336699>둥지</color>를 파괴했습니다. 숲은 지금은 우리의 것...입니다.
+tutorial2.faction.info=침략하는 <color=#CC6633>고양이 후작</color>은 숲의 방대한 자원을 활용하여 경제적이고 군사적인 기계를 구축하려 합니다. 그녀는 숲에 건물을 건설하여 VP <style="vptext">VP</style>를 얻습니다. <br><br>일반적인 게임에서는 첫 번째로 <style="vpnumdd">30</style> 점을 얻은 플레이어가 승리합니다! 이번 시나리오에서는 <style="vpnumddteen">12</style> 점을 얻을 수 있는지 확인해보세요.
+tutorial2.setup.keep=게임을 시작할 때 <color=#CC6633>고양이 후작</color>은 <sprite name="KeepToken"><color=#CC6633>요새</color>를 코너에 있는 청소 한 곳에 배치합니다.
+tutorial2.setup.keep2=<sprite name="KeepToken"> <color=#CC6633>요새</color>는 당신 왕국의 근본입니다. 적들은 <sprite name="KeepToken"><color=#CC6633>요새</color>가 있는 청소에서 건물을 짓거나 기물을 배치할 수 없지만, 이동은 가능합니다.
+tutorial2.setup.keep3=지금 <sprite name="KeepToken"><color=#CC6633>요새</color>를 배치하세요.
+tutorial2.setup.warriors=<color=#CC6633>고양이 후작</color>의 군대는 다른 팩션들보다 매우 많은 숫자를 자랑합니다. 당신은 <sprite name="marquise"><color=#CC6633>병사</color>를 <sprite name="KeepToken"><color=#CC6633>요새</color>를 제외한 모든 청소에 배치합니다. 그 청소는 <color=#336699>이어리</color> 영토입니다.
+tutorial2.setup.buildings=마지막으로, <sprite name="KeepToken"><color=#CC6633>요새</color>가 있는 청소나 그와 인접한 곳에 건물 하나씩 배치해야 합니다.
+tutorial2.setup.eyrie=<color=#336699>이어리</color>가 나타나서 빈 청소에 <sprite name="Roost"><color=#336699>둥지</color>를 지었습니다. 꽤 잘 방어되고 있습니다.
+tutorial2.turn1.workshops=낮 시간이 시작될 때, 당신은 <sprite name="CatWorkshop"><color=#CC6633>작업장</color>을 사용하여 손에 있는 카드를 제작할 기회를 가집니다.
+tutorial2.turn1.craftcost.a=<sprite name="CatWorkshop"><color=#CC6633>작업장</color>은 각각 그 청소의 문양을 제공하여 제작 비용을 지불하는 데 기여합니다. 예를 들어, 두 개의 <sprite name="CatWorkshop"><color=#CC6633>작업장</color>이 <sprite name="foxicon"> 청소에 있다면, 이 <sprite name="ArmsTrader">무기 상인 카드를 제작할 수 있습니다.
+tutorial2.turn1.craftcost=당신은 <sprite name="CatWorkshop"><color=#CC6633>작업장</color>이 있는 <sprite name="mouseicon">청소에서 <sprite name="CatWorkshop"><color=#CC6633>작업장</color>을 사용하여 밀수상 길을 제작할 수 있습니다. 이 카드는 1 <sprite name="mouseicon">에 해당합니다.
 tutorial2.turn1.suit=카드를 제작할 비용은 그 문양 아래 나무 판에 표시됩니다.
-tutorial2.turn1.victorypoints=밀수상 길을 제작함으로써 당신은 <style="vptext">VP</style> 승리 점수를 얻었습니다! 이제 <style="vpnumddteen">12</style> 점 목표를 향해 나아가고 있습니다.
+tutorial2.turn1.victorypoints=밀수상 길을 제작함으로써 당신은 <style="vptext">VP</style> VP를 얻었습니다! 이제 <style="vpnumddteen">12</style> 점 목표를 향해 나아가고 있습니다.
 tutorial2.goal.15VP=<style="vpnumddteen">12</style> 점을 얻으세요. ({0}/{1})
-tutorial2.turn1.moz=손에 있는 카드의 텍스트를 검토하려면 마우스를 그 위에 올려놓으세요. 지금 <sprite name="ArmsTrader">무기 상인</sprite> 카드를 검토하세요.
-tutorial2.turn1.moz.gamepad=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하거나 <sprite name="Switch_Action4">무기 상인</sprite> 카드를 검토하세요.
-tutorial2.turn1.moz.gamepad.switch=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하거나 <sprite name="Switch_Action3">무기 상인</sprite> 카드를 검토하세요.
-tutorial2.turn1.moz.touch=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하세요. 지금 <sprite name="ArmsTrader">무기 상인</sprite> 카드를 검토하세요.
+tutorial2.turn1.moz=손에 있는 카드의 텍스트를 검토하려면 마우스를 그 위에 올려놓으세요. 지금 <sprite name="ArmsTrader">무기 상인 카드를 검토하세요.
+tutorial2.turn1.moz.gamepad=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하거나 <sprite name="Switch_Action4">무기 상인 카드를 검토하세요.
+tutorial2.turn1.moz.gamepad.switch=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하거나 <sprite name="Switch_Action3">무기 상인 카드를 검토하세요.
+tutorial2.turn1.moz.touch=손에 있는 카드의 텍스트를 검토하려면 손가락으로 눌러서 검토하세요. 지금 <sprite name="ArmsTrader">무기 상인 카드를 검토하세요.
 tutorial2.turn1.actions=제작 후, <color=#CC6633>고양이 후작</color>은 <color=#CC6633>3개의 행동</color>을 취할 수 있습니다.
 tutorial2.turn1.build=<color=#CC6633>고양이 후작</color>은 건물을 지을 때도 <style="vptext">VP</style>를 얻습니다.
-tutorial2.turn1.buildslot=당신은 <color=#CC6633>건물</color></sprite>을 자신이 지배하는 청소에 있는 사용 가능한 건물 슬롯에만 배치할 수 있습니다.
-tutorial2.turn1.recruit=이제 두 개의 <sprite name="CatRecruiter"><color=#CC6633>모병소</color></sprite>가 있으므로 한 번의 모병 행동으로 두 개의 <sprite name="marquise"><color=#CC6633>전사</color></sprite>를 모집할 수 있습니다.
-tutorial2.turn1.workshopinfo=<sprite name="CatWorkshop"><color=#CC6633>작업장</color></sprite>은 손에 있는 카드를 제작할 수 있게 도와줍니다.
-tutorial2.turn1.sawmillinfo=<sprite name="CatSawmill"><color=#CC6633>제재소</color></sprite>는 나무를 생산하여 더 많은 건물을 지을 수 있도록 도와줍니다.
-tutorial2.turn1.recruitinfo=<sprite name="CatRecruiter"><color=#CC6633>모병소</color></sprite>는 전사를 모집하는 데 도움을 줍니다. 방어를 강화하기 위해 모병소를 건설합시다.
-tutorial2.turn1.move=전사들을 전선으로 이동시켜 <color=#336699>이어리</color>를 방어하세요.
-tutorial2.turn1.move2=이제 <sprite name="marquise"><color=#CC6633>전사</color></sprite>를 한 번의 이동 행동으로 원하는 만큼 이동시킬 수 있습니다. 두 명을 이동시켜봅시다.
+tutorial2.turn1.buildslot=당신은 <color=#CC6633>건물</color>을 자신이 지배하는 청소에 있는 사용 가능한 건물 슬롯에만 배치할 수 있습니다.
+tutorial2.turn1.recruit=이제 두 개의 <sprite name="CatRecruiter"><color=#CC6633>모병소</color>가 있으므로 한 번의 모병 행동으로 두 개의 <sprite name="marquise"><color=#CC6633>병사</color>를 모집할 수 있습니다.
+tutorial2.turn1.workshopinfo=<sprite name="CatWorkshop"><color=#CC6633>작업장</color>은 손에 있는 카드를 제작할 수 있게 도와줍니다.
+tutorial2.turn1.sawmillinfo=<sprite name="CatSawmill"><color=#CC6633>제재소</color>는 나무를 생산하여 더 많은 건물을 지을 수 있도록 도와줍니다.
+tutorial2.turn1.recruitinfo=<sprite name="CatRecruiter"><color=#CC6633>모병소</color>는 병사를 모집하는 데 도움을 줍니다. 방어를 강화하기 위해 모병소를 건설합시다.
+tutorial2.turn1.move=병사들을 전선으로 이동시켜 <color=#336699>이어리</color>를 방어하세요.
+tutorial2.turn1.move2=이제 <sprite name="marquise"><color=#CC6633>병사</color>를 한 번의 이동 행동으로 원하는 만큼 이동시킬 수 있습니다. 두 명을 이동시켜봅시다.
 tutorial2.turn1.move3=기억하세요, 이동 행동을 선택할 때 두 번의 이동을 할 수 있습니다. 두 번째 이동을 사용하여 <color=#336699>이어리</color>에 점점 더 가까워지세요.
-tutorial2.turn1.move4=두 명의 <sprite name="marquise"><color=#CC6633>전사</color></sprite>를 이동시킵니다.
+tutorial2.turn1.move4=두 명의 <sprite name="marquise"><color=#CC6633>병사</color>를 이동시킵니다.
 tutorial2.turn1.controlmove=이동하려면 이동하려는 청소나 이동 출발 청소 중 하나를 지배해야 합니다. 이는 적진 깊숙한 곳으로 이동할 때 상당한 군대가 필요할 수 있음을 의미합니다.
 tutorial2.turn1.evening=저녁이 되면 카드 1장을 뽑습니다. <sprite name="DrawCard"> 추가 카드를 뽑으려면 맵에 더 많은 <sprite name="CatRecruiter"><color=#CC6633>모병소</color>가 있어야 합니다.
 tutorial2.aiturn1.Birdsong=<color=#CC6633>고양이 후작</color>는 신흥 세력입니다! <color=#336699>이어리 왕조</color>의 혈통은 반드시 숲을 되찾을 것입니다.
 tutorial2.aiturn1.factions=<color=#336699>이어리</color>는 <color=#336699>규율</color>에 행동을 할당하고 있습니다. 각 팩션은 고유한 능력을 가지고 있으며, 그들만의 방식으로 행동을 취합니다.
 tutorial2.aiturn1.factions2=<color=#336699>이어리</color>는 아직 많아 보이지 않을 수 있지만, 그들의 계속 성장하는 <color=#336699>규율</color>은 리더가 권력을 유지하는 한 매 턴마다 점점 더 많은 행동을 할 수 있게 해줍니다.
 tutorial2.aiturn1.battle=그들은 우리의 방어에서 약점을 찾았습니다. 싸울 준비를 하세요!
-tutorial2.aiturn1.fieldhospital=우리가 싸움을 잃었을지라도, <sprite name="KeepToken"><color=#CC6633>요새</color>가 여전히 남아 있다면, <sprite name="FieldHospital"><color=#CC6633>야전 병원</color>을 통해 쓰러진 전사들을 치료할 수 있습니다.
-tutorial2.turn2.fhdiscard=전사들이 패배한 공터의 문양과 일치하는 카드를 버려 <sprite name="KeepToken"><color=#CC6633>요새</color>로 전사들을 돌려보내세요.
+tutorial2.aiturn1.fieldhospital=우리가 싸움을 잃었을지라도, <sprite name="KeepToken"><color=#CC6633>요새</color>가 여전히 남아 있다면, <sprite name="FieldHospital"><color=#CC6633>야전 병원</color>을 통해 쓰러진 병사들을 치료할 수 있습니다.
+tutorial2.turn2.fhdiscard=병사들이 패배한 공터의 문양과 일치하는 카드를 버려 <sprite name="KeepToken"><color=#CC6633>요새</color>로 병사들을 돌려보내세요.
 tutorial2.turn2.refrence=자신의 팩션 고유의 특수 능력을 확인하려면 아바타를 탭하세요. 예를 들어, <sprite name="FieldHospital"><color=#CC6633>야전 병원</color>을 확인할 수 있습니다.
 tutorial2.turn2.refrence.gamepad=자신의 팩션 고유의 특수 능력을 확인하려면 <sprite name="Switch_LeftBumper"> 버튼을 눌러 아바타를 확인하세요.
 tutorial2.playerturn2.action1=지금 바로 보복하지 마세요. 건물을 두 개 더 지어 <style="vptext">VP</style>를 계속 얻으세요.
@@ -48,7 +48,7 @@ tutorial2.turn2.prebuildingincrease=건물에 대한 추가 정보를 보려면 
 tutorial2.buildingincrease=특정 건물 유형을 많이 지을수록 그 건물의 비용은 증가하며, <style="vptext">VP</style>도 더 많이 얻을 수 있습니다.
 tutorial2.playerturn2.action4=행동이 부족합니다. <sprite name="birdicon"> 카드를 버리면 추가 행동을 할 수 있습니다.
 tutorial2.playerturn2.action5=이번 턴에 모병을 하지 않은 것 같습니다. 마지막 행동으로 모병을 해봅시다.
-tutorial2.aiturn2.recruit=매일 더 많은 <sprite name="eyrie"><color=#336699>전사</color>들이 도착합니다. <color=#336699>이어리</color>는 이를 사용해 당신의 미약한 세력을 압도할 것입니다!
+tutorial2.aiturn2.recruit=매일 더 많은 <sprite name="eyrie"><color=#336699>병사</color>들이 도착합니다. <color=#336699>이어리</color>는 이를 사용해 당신의 미약한 세력을 압도할 것입니다!
 tutorial2.aiturn2.battle=<color=#336699>새들</color>은 함정에 빠졌습니다! <sprite name="foxicon">매복! 카드로 두 명의 공격자를 처치할 수 있습니다. 지금 사용하세요.
 tutorial2.aiturn2.ambush=매복? 이 고양이들은 생각보다 더 영리하군요!
 tutorial2.playerturn3.sendoff=건물을 파괴하고 <sprite name="Roost"><color=#336699>둥지</color>를 없애고, <sprite name="Roost"><color=#336699>둥지</color>를 파괴하며, <style="vptext">VP</style>를 보상으로 주는 아이템을 제작하여 <color=#336699>이어리</color>를 물리쳐 점수를 계속 얻으세요.
@@ -57,14 +57,14 @@ tutorial.woodFlag=나무 공급
 tutorial2.craftingcost.label=제작 비용
 tutorial2.suit.label=문양
 tutorial.clearingindicator=공터 문양
-tutorial2.victorypoints=승리 점수
+tutorial2.victorypoints=VP
 tutorial.towerbanner=탑
-tutorial.ferrybanner=페리
+tutorial.ferrybanner=나룻배
 tutorial.mountainpassbanner=산악 통로
 tutorial3.goal.1=3개의 <sprite name="Roost"> <color=#336699>둥지</color>를 건설하세요 ({0}/{1})
 tutorial3.opening.1=자랑스러운 <color=#336699>이어리 왕조</color>는 한때 위대한 귀족의 영광을 되찾고 고양이 후작에게서 숲을 되찾기를 원합니다. 그들은 매 턴마다 숲 속에서 둥지를 세우고 보호하여 점수를 얻습니다.
-tutorial3.opening.2=당신은 <sprite name="Roost"> <color=#336699>둥지</color>와 6명의 <sprite name="eyrie"><color=#336699>전사</color>들</sprite>로 시작합니다.
-tutorial3.opening.roosts.info=<sprite name="Roost"><color=#336699>둥지</color>는 이어리 왕조의 유일한 건축물입니다. 둥지는 손에 있는 카드를 제작하고, 전사를 모집하며, 매 턴 <style="vptext">VP</style>를 얻는 데 사용됩니다.
+tutorial3.opening.2=당신은 <sprite name="Roost"> <color=#336699>둥지</color>와 6명의 <sprite name="eyrie"><color=#336699>병사</color>들로 시작합니다.
+tutorial3.opening.roosts.info=<sprite name="Roost"><color=#336699>둥지</color>는 이어리 왕조의 유일한 건축물입니다. 둥지는 손에 있는 카드를 제작하고, 병사를 모집하며, 매 턴 <style="vptext">VP</style>를 얻는 데 사용됩니다.
 tutorial3.opening.3=카 카! 우리 새 제국을 확장할 수 있는 지도자가 필요합니다! <color=#336699>독재자</color>를 선택해 봅시다. 그는 우리가 첫 턴부터 <color=#336699>건설</color>할 수 있게 해줍니다.
 tutorial3.opening.4=<color=#336699>이어리</color>는 매 턴 <color=#336699>규율</color>을 따라야 합니다! 규율의 각 열은 다른 행동에 해당합니다.
 tutorial3.opening.5=당신의 지도자는 <color=#336699>규율</color>에서 초기 행동을 결정합니다: 이 경우 <sprite name="EyrieMove"> <color=#336699>이동</color>과 <sprite name="EyrieBuild"> <color=#336699>건설</color>입니다.
@@ -72,29 +72,29 @@ tutorial3.Birdsong.1=매 턴마다 우리는 1장 또는 2장의 카드를 <colo
 tutorial3.Birdsong.2=당신의 <color=#336699>규율</color>이 성장함에 따라 매 턴 할 수 있는 일이 점점 많아집니다.
 tutorial3.Birdsong.2.b=카드를 <color=#336699>규율</color>에 할당할 때, 그 카드의 문양만 적용됩니다. 카드의 효과를 사용하려면 제작 단계에서 해당 카드를 저장해야 합니다.
 tutorial3.craft.0=주간 동안, 당신은 손에 있는 카드를 <sprite name="Roost"> <color=#336699>둥지</color>를 이용해 제작할 수 있습니다. 각 <color=#336699>둥지</color>는 해당 공터의 문양을 사용하여 비용을 지불하는 데 기여합니다. 이는 <color=#CC6633>고양이 후작의 작업장</color>과 비슷합니다.
-tutorial3.craft.1=당신의 <sprite name="Roost"> <color=#336699>둥지</color>는 <sprite name="ClearingMouse">공터</sprite>에서 사파들을 제작할 수 있게 해줍니다. 이 카드는 당신이 공격받을 경우 유용할 것입니다.
-tutorial3.recruit.1=주간 동안, 당신의 <color=#336699>규율</color>은 왼쪽에서 오른쪽으로 해결됩니다. <sprite name="eyrie"><color=#336699>전사</color>를 <sprite name="Roost"><color=#336699>둥지</color>에서 모집하려면 해당 공터의 문양을 규율에서 할당해야 합니다.
-tutorial3.move.1=<sprite name="birdicon">이 규율에 할당된 카드는 어떤 공터에도 사용할 수 있습니다. 3명의 <color=#336699><sprite name="eyrie">전사</color>를 아래의 <sprite name="ClearingFox">공터</sprite>로 이동시키세요.
+tutorial3.craft.1=당신의 <sprite name="Roost"> <color=#336699>둥지</color>는 <sprite name="ClearingMouse">공터에서 사파들을 제작할 수 있게 해줍니다. 이 카드는 당신이 공격받을 경우 유용할 것입니다.
+tutorial3.recruit.1=주간 동안, 당신의 <color=#336699>규율</color>은 왼쪽에서 오른쪽으로 해결됩니다. <sprite name="eyrie"><color=#336699>병사</color>를 <sprite name="Roost"><color=#336699>둥지</color>에서 모집하려면 해당 공터의 문양을 규율에서 할당해야 합니다.
+tutorial3.move.1=<sprite name="birdicon">이 규율에 할당된 카드는 어떤 공터에도 사용할 수 있습니다. 3명의 <color=#336699><sprite name="eyrie">병사</color>를 아래의 <sprite name="ClearingFox">공터로 이동시키세요.
 tutorial3.battle.1=우리는 <sprite name="EyrieBattle"> <color=#336699>전투</color> 행동을 건너뛰었습니다. 규율의 전투 열에 카드가 없기 때문입니다.
 tutorial3.build.1=마지막으로 두 번째 <sprite name="EyrieBuild"> <color=#336699>둥지</color>를 건설합니다.
 tutorial3.score.2=저녁이 시작되면, 당신은 <sprite name="Roost"> <color=#336699>둥지</color>로 승점을 얻습니다. 더 자세한 정보를 보려면 아바타를 선택하세요.
 tutorial3.score.2.gamepad=저녁이 시작되면, 당신은 <sprite name="Roost"> <color=#336699>둥지</color>로 승점을 얻습니다. <sprite name="Switch_LeftBumper">를 눌러 자세한 정보를 보세요.
 tutorial3.score.1=<color=#336699>둥지 추적기</color>는 숲을 되찾기 위한 우리의 진행 상황을 보여줍니다. 더 많은 <sprite name="Roost"> <color=#336699>둥지</color>를 가질수록 매 턴 더 많은 <style="vptext">VP</style>를 얻습니다!
 tutorial3.aiturn.1=이 새들, 숲을 되찾을 수 있다고 생각하나? 우리 사냥터에서 그럴 일은 없을 것이다!
-tutorial3.turntwo.decree.1=새로운 하루, 새로운 기회로 규율에 카드를 추가할 수 있습니다! 이제 전사를 모집할 수 있도록 <color=#336699>모집</color> 카드를 추가해 봅시다.
-tutorial3.turntwo.decree.2=매 턴, 규율에 두 번째 카드를 할당할 수 있습니다. <sprite name="mouseicon"> 카드를 <sprite name="EyrieBattle">전투 열</sprite>에 할당하여 고양이 후작과 <sprite name="mouseicon">공터</sprite>에서 싸울 수 있도록 합시다.
+tutorial3.turntwo.decree.1=새로운 하루, 새로운 기회로 규율에 카드를 추가할 수 있습니다! 이제 병사를 모집할 수 있도록 <color=#336699>모집</color> 카드를 추가해 봅시다.
+tutorial3.turntwo.decree.2=매 턴, 규율에 두 번째 카드를 할당할 수 있습니다. <sprite name="mouseicon"> 카드를 <sprite name="EyrieBattle">전투 열에 할당하여 고양이 후작과 <sprite name="mouseicon">공터에서 싸울 수 있도록 합시다.
 tutorial3.turntwo.craft.1=이번 턴에는 제작할 것이 없습니다. 괜찮아요! 당신의 <color=#336699>상업 멸시</color>는 아이템 제작 보상을 단 하나의 <sprite name="1VP">로 제한합니다. 무역은 당신에게 여러모로 적합하지 않으니, 당연한 결과입니다.
 tutorial3.turntwo.fight=이제 고양이들에게 비행의 힘을 보여줄 때입니다!
-tutorial3.turntwo.move=고양이 후작의 <sprite name="CatRecruiter"><color=#CC6633>모병소</color></sprite>가 있는 <sprite name="ClearingMouse">공터</sprite>로 3명의 <sprite name="eyrie"><color=#336699>전사</color>를 이동시켜 전투를 준비합니다.
+tutorial3.turntwo.move=고양이 후작의 <sprite name="CatRecruiter"><color=#CC6633>모병소</color>가 있는 <sprite name="ClearingMouse">공터로 3명의 <sprite name="eyrie"><color=#336699>병사</color>를 이동시켜 전투를 준비합니다.
 tutorial3.turntwo.ai.fowl=무슨 냄새지? 이어리가 다가오는 건가?
-tutorial3.turntwo.battle=전투 시간입니다. 흙 속에 사는 자들이 당신의 공중 전사들 앞에서 떨게 만들 시간입니다.
-tutorial3.turntwo.control.2=정말 멋진 전투였습니다! 우리는 <sprite name="Roost"> <color=#336699>둥지</color>를 공터에 놓기 위해서는 그 공터를 지배해야 합니다. 전사와 건물은 공터의 지배권에 기여하며, 이어리는 항상 동점을 이깁니다.
+tutorial3.turntwo.battle=전투 시간입니다. 흙 속에 사는 자들이 당신의 공중 병사들 앞에서 떨게 만들 시간입니다.
+tutorial3.turntwo.control.2=정말 멋진 전투였습니다! 우리는 <sprite name="Roost"> <color=#336699>둥지</color>를 공터에 놓기 위해서는 그 공터를 지배해야 합니다. 병사와 건물은 공터의 지배권에 기여하며, 이어리는 항상 동점을 이깁니다.
 tutorial3.turntwo.goal.1=좋은 일입니다! 적의 건물을 파괴하고, 카드를 제작하고, 당신의 <sprite name="Roost"><color=#336699>둥지</color>를 지배하여 15점을 얻고 이 시나리오를 완료하세요.
 tutorial3.goal.2=승점 <style="vpnumddteen">10</style> 획득 ({0}/{1})
 tutorial3.turmoilReminder=과욕을 부리지 마세요. 만약 규율에 할당된 행동을 수행할 수 없다면, 당신의 새 떼는 <color=#336699>혼란</color>에 빠집니다.
 tutorial3.extraCardDraw=매 3개의 <sprite name="Roost"> <color=#336699>둥지</color>마다, 당신은 저녁에 추가 카드를 드로우 합니다.
 tutorial3.Turmoil.1=꽥! 우리는 <color=#336699>혼란</color>에 빠졌습니다. 왜냐하면 규율에 할당된 모든 행동을 수행할 수 없었기 때문입니다!
-tutorial3.Turmoil.2=<color=#336699>혼란</color> 중에는 규율의 모든 카드를 버리고, 버린 <sprite name="birdicon"> 카드</sprite>마다 <sprite name="1VP">를 잃습니다. 그런 다음 새로운 지도자를 선택하고 저녁으로 넘어갑니다.
+tutorial3.Turmoil.2=<color=#336699>혼란</color> 중에는 규율의 모든 카드를 버리고, 버린 <sprite name="birdicon"> 카드마다 <sprite name="1VP">를 잃습니다. 그런 다음 새로운 지도자를 선택하고 저녁으로 넘어갑니다.
 tutorial3.Turmoil.3=<color=#336699>혼란</color>을 피하려면, 규율에 카드를 신중하게 배치해야 합니다. 상호작용할 공터의 문양을 맞추는 것이 중요합니다.
 tutorial3.Turmoil.4=<sprite name="birdicon">카드는 <color=#336699>혼란</color> 중에 승점을 잃을 수 있지만, 유연성을 제공하여 혼란을 피하는 데 도움이 될 수 있습니다.
 tutorial3.turn4.hint.1=규율에 어떤 카드를 할당할지 고민이 된다면, 항상 규율을 최소화하고 지도를 확인해 보세요.
