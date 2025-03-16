@@ -45,7 +45,7 @@ battledamage.fx.commander=<sprite name="eyrie"> 지휘관!
 battledamage.fx.defenseless=무방비 상태!
 battledamage.fx.electriceyrie=명령 추가!
 battledamage.fx.format=-$amount
-battledamage.fx.sappers=참호병!
+battledamage.fx.sappers=공병!
 battledamage.fx.swiftstrike=날렵한 일격!
 battledamage.fx.wrathful=분노!
 battledamage.fx.stubborn=완고한 수비!
@@ -652,7 +652,7 @@ prompts.relentless.title=끈질김
 prompts.revolt.title=반란
 prompts.selectfaction.title=세력 선택
 prompts.shop.availableitems=제작 가능한 아이템
-prompts.shop.claim=획득
+prompts.shop.claim=획득하기
 prompts.shop.dominance=사용 가능한 지배 카드
 prompts.shop.title=공급처
 prompts.turmoil.faileddecree.battle=<nobr><size=150%><sprite name="EyrieBattle"></size> 전투</nobr>를 <nobr><size=150%><sprite name="{0}"></size> 공터</nobr>에서 수행할 수 없음
@@ -824,17 +824,17 @@ playerinfo.lizardcult.revenge.description=방어 중 제거된 병사들은 신�
 playerinfo.lizardcult.conquest.title=정복
 playerinfo.lizardcult.conquest.description=공격 시, 전투에서 제거한 적 병사는 신도가 됨.
 playerinfo.lizardcult.hatredofbirds.title=조류 혐오
-playerinfo.lizardcult.hatredofbirds.description=새 카드는 의식에서 와일드카드로 사용할 수 없음.
+playerinfo.lizardcult.hatredofbirds.description=의식에서 새 카드를 조커 카드처럼 사용할 수 없음.
 playerinfo.lizardcult.pilgrims.title=순례자
 playerinfo.lizardcult.pilgrims.description=정원이 있는 공터를 자동으로 지배함.
 playerinfo.lizardcult.theoutcast.title=난민
 playerinfo.lizardcult.gardens.title=정원
 tooltip.lizardcult.theoutcast.description=새 문양을 제외한 길 잃은 영혼 중 가장 많은 문양이 난민이 됨. 기존 난민과 같다면 미움 받는 난민로 변경.<br><br><i>난민이 증오받는 상태라면, 모든 의식 비용이 1 감소.</i>
 playerinfo.riverfolkcompany.services.title=용역
-playerinfo.riverfolkcompany.handcard.title=손 카드
+playerinfo.riverfolkcompany.handcard.title=손 패
 playerinfo.riverfolkcompany.riverboats.title=보트
 playerinfo.riverfolkcompany.mercenaries.title=용병
-playerinfo.riverfolkcompany.commitments.title=약속
+playerinfo.riverfolkcompany.commitments.title=위탁
 playerinfo.riverfolkcompany.funds.title=기금
 playerinfo.riverfolkcompany.payments.title=지불
 playerinfo.riverfolkcompany.forsale.title=판매 중
@@ -873,11 +873,11 @@ tooltip.ui.riverfolk.riverboats=<size=125%><b>보트</b></size><br>구매자는 
 tooltip.ui.riverfolk.mercenaries=<size=125%><b>용병</b></size><br>이번 턴의 낮과 저녁 단계 동안, 구매자는 리버포크 병사를 자신의 지배 판정에 포함할 수 있습니다. 또한 이번 턴에는 리버포크를 제외한 다른 세력과만 전투할 수 있습니다. 전투 중 피해를 받을 경우, 구매자는 리버포크 병사와 자신의 부대를 균등하게 나누어 피해를 배분해야 하며, 홀수 피해는 구매자가 감당합니다.
 tooltip.ui.riverfolk.commitments=<size=125%><b>위탁</b></size>이 칸의 병사들은 이번 턴 동안 위탁되었습니다. 이 칸의 병사들은 아침에 기금 칸으로 옮겨집니다.
 tooltip.ui.riverfolk.funds=<size=125%><b>기금</b></size>기금 칸에 놓인 병사를 기금이라고 합니다. 리버포크는 기금을 위탁하거나 소모해 액션합니다.
-tooltip.ui.riverfolk.payments=<size=125%><b>지불</b></size>
-tooltip.ui.riverfolk.cardsinhand=<size=125%><b>손패 카드 수</b></size>
-tooltip.ui.riverfolk.warriorcount=<size=125%><b>예비 병사</b></size>
-tooltip.ui.riverfolk.crafteditems=<size=125%><b>제작된 아이템</b></size>
-tooltip.ui.riverfolk.tradeposts=<size=125%><b>교역소</b></size>
+tooltip.ui.riverfolk.payments=<size=125%><b>지불</b></size> 용역을 구매하기 위해 지불된 병사들은 이 칸으로 이동합니다. 지불칸의 병사들은 아침에 기금칸으로 옮겨집니다.
+tooltip.ui.riverfolk.cardsinhand=<size=125%><b>카드 뽑기</b></size> 리버포크는 기금을 위탁해 카드를 추가로 뽑습니다.
+tooltip.ui.riverfolk.warriorcount=<size=125%><b>남은 병사</b></size> 만약 남은 병사에 병사가 다 떨어졌다면, 새로운 병사를 모병할 수 없습니다.
+tooltip.ui.riverfolk.crafteditems=<size=125%><b>제작된 아이템들</b></size> 방랑자는 리버포크에게 카드를 지원하고 이 아이템들을 가져올 수 있습니다. 리버포크는 교역소를 이용해 아이템을 제작합니다.
+tooltip.ui.riverfolk.tradeposts=<size=125%><b>교역소</b></size> 교역소를 놓으면 2점을 얻습니다. 교역소와 같은 공터에 기물이 있는 세력은 리버포크의 용역을 추가로 구매할 수 있습니다. 게임판에 교역소가 없으면 배당금으로 득점할 수 없습니다. 교역소가 제거되면 남은 기금의 절반을 올림해 잃습니다. 교역소는 제거되어도 공급처로 되돌아가지 않습니다. 각 공터에 교역소를 한 개까지 놓을 수 있습니다. (교역소가 제거될 경우 같은 공터에 다시 놓을 수도 있습니다.)
 settings.skins.title=스킨
 settings.controls.title=조작
 settings.controls.lefttrigger=확대 : <sprite name="Switch_LeftTrigger">
@@ -908,52 +908,52 @@ playerinfo.used.title=사용됨
 settings.gameplay.title=게임플레이
 button.commit=확정
 RFT.Thematic.Intro=<color=#397F7F>리버포크 컴퍼니</color>는 우드랜드를 가로지르는 강을 따라 상점을 열었습니다. 다른 세력이 <color=#397F7F>용역</color>를 구매하면, <color=#397F7F>리버포크</color>는 이를 기금으로 삼아 숲 곳곳에 교역소를 설립할 수 있습니다. 이러한 교역소를 건설하면 승점이 쌓이며, 부를 축적하여 배당금을 얻는 것도 또 다른 승리 전략입니다.
-RFT.character.intro=어이, 친구. 잠깐만 기다려 줘. 손에서 조개 냄새가 나서 좀 씻어야겠어.
-RFT.set.up=그동안 설정을 마무리해 줘. 강을 따라 공터 4곳에 <color=#397F7F>병사</color>를 배치해 줘.
-RFT.services.1=우리 <color=#397F7F>용역</color>는 우드랜드 최고야!
-RFT.services.2=각 상대는 자신들의 아침 시작 시 <color=#397F7F>용역</color>을 구매할 수 있으며, 이를 위해 자신의 보급처에서 병사를 가져와 너의 <color=#397F7F>지불</color> 칸에 추가해야 해.
-RFT.services.3=이 <color=#397F7F>지불</color>이 바로 <color=#397F7F>기금</color>이 되어, 너의 턴 동안 수행할 수 있는 액션을 결정하게 돼.
-rft.set.price=설정 중 및 매 저녁 단계에서 <color=#397F7F>용역</color> 가격을 조정할 수 있어. 이번엔 세게 나가 보자. 전부 3으로 설정하자.
-rft.bs.intro.funds=<color=#397F7F>용역</color> 가격이 너무 높아서 아무도 구매하지 않았어. 하지만 게임을 시작할 때마다 병사 아이콘으로 표시된 <color=#397F7F>지불</color> 3개를 기본으로 받게 돼.
-rft.gather.funds=아침 단계에서 모든 <color=#397F7F>지불</color>을 <color=#397F7F>기금</color>으로 옮겨, 낮 동안 액션하는 데 사용할 수 있어.
-rft.basic.funds=<color=#397F7F>기금</color>을 소모하여 이동, 전투, 카드 드로우를 할 수 있어. 사용한 <color=#397F7F>기금</color>은 <color=#397F7F>소모</color> 영역으로 이동하며, 다음 턴까지 다시 사용할 수 없어.
-rft.basic.battle=<color=#397F7F>기금</color> 하나를 소모해 네가 위치한 <sprite name="ClearingRabbit"> 공터에서 후작 나부랭이들과 전투를 벌여. 더 많은 병사를 모병하기 전에 말이야..
-rft.battle.2=잘했어! 생각보다 싸움을 잘하는군!
-rft.battle.enemy=후작 가문을 건드리다니, 위험한 선택이야!
-rft.recruit=전투를 벌인 공터에서 <color=#397F7F>병사</color>를 모병해, 전투 중 잃은 전력을 보충하자.
-rft.recruit.2=모병에는 큰 비용이 들어. <color=#397F7F>기금</color>을 사용해 모병하면, 그 <color=#397F7F>기금</color>은 <color=#397F7F>소모</color>가 아니라 보급처로 돌아가. 즉, 다음 턴에 다시 사용할 수 없어.
-rft.draw=다른 많은 세력과 달리, 너는 턴 종료 시 카드를 뽑지 않아. 카드를 뽑으려면 <color=#397F7F>기금</color> 하나를 소모해 드로우 액션을 해야 해.
+RFT.character.intro=안녕, 친구! 잠깐만 기다려 줘. 손에서 조개 냄새가 나서 좀 씻어야겠어.
+RFT.set.up=그동안 세팅을 마무리 해 줘. 강으로 이어진 공터에 <color=#397F7F>병사</color> 넷을 배치하면 돼.
+RFT.services.1=우리의 <color=#397F7F>용역</color>서비스는 우드랜드에서 최고야!
+RFT.services.2=상대들은 자신의 아침 단계를 시작할 때 <color=#397F7F>용역</color>을 구매할 수 있고, 이를 위해선 자신의 보급처에서 병사를 가져와서 우리의 <color=#397F7F>지불</color> 칸에 놓아야 해.
+RFT.services.3=이 <color=#397F7F>지불</color>이 <color=#397F7F>기금</color>이 되어서, 우리의 턴 동안 할 수 있는 행동이 돼.
+rft.set.price=세팅할 때와 매 저녁 단계에서 <color=#397F7F>용역</color>의 가격을 조정할 수 있어. 이번엔 조금 강하게 나가보자. 용역 가격을 전부 3으로 조정해 봐.
+rft.bs.intro.funds=이번에는 <color=#397F7F>용역</color>의 가격이 너무 높아서 아무도 용역을 구매하지 않았어. 하지만 게임을 시작할 때 우리의 병사 아이콘으로 표시된 <color=#397F7F>지불</color> 3개를 기본으로 받게 돼.
+rft.gather.funds=아침 단계에 모든 <color=#397F7F>지불</color>을 <color=#397F7F>기금</color>으로 옮겨서 낮 동안 행동하는 데 사용할 수 있어.
+rft.basic.funds=<color=#397F7F>기금</color>을 위탁해서 이동, 전투, 카드 뽑기를 할 수 있어. 위탁한 <color=#397F7F>기금</color>은 <color=#397F7F>위탁</color>칸으로 이동하며, 다음 턴까지 다시 사용할 수 없어.
+rft.basic.battle=<color=#397F7F>기금</color> 하나를 위탁하면서 네가 있는 <sprite name="ClearingRabbit"> 공터의 후작의 병사 나부랭이들과 전투하자. 후작이 더 많은 병사를 모병하기 전에 말이야..
+rft.battle.2=잘했어! 생각보다 더 전투를 잘하는데!
+rft.battle.enemy=후작을 건드리다니, 위험한 선택이야!
+rft.recruit=전투를 벌인 공터에서 <color=#397F7F>병사</color>를 모병하고, 전투 중 잃은 전력을 보충하자.
+rft.recruit.2=모병에는 큰 비용이 들어. <color=#397F7F>기금</color>을 소모해 모병하면, 그 <color=#397F7F>기금</color>은 <color=#397F7F>위탁</color>칸으로 돌아가지 않고 보급처로 돌아가. 즉, 다음 턴에 다시 사용할 수 없어.
+rft.draw=다른 세력들과 다르게 우리는 턴 종료 시 카드를 뽑지 않아. 카드를 뽑으려면 <color=#397F7F>기금</color>을 위탁해 카드 뽑기 행동을 해야 해.
 rft.set.cost=저녁 단계에서는 <color=#397F7F>용역</color>의 가격을 조정할 수 있어. 이번에는 세일을 해보자! <color=#397F7F>보트</color> 가격을 1로, 나머지 <color=#397F7F>용역</color> 가격을 2로 낮추자.
-rtf.marquise.hand.card=네가 파는 빵이 맛있어 보이는군!
-rtf.marquise.hand.card.2=또 조개 케이크야? 잠깐 헤어볼 좀 뱉고....
-rft.lizard.riverboats=너의 <color=#397F7F>보트</color>는 교단에게 아주 유용할 거야. 비늘의 축복이 있기를.
-rft.enemy.funds=장사를 잘 한 덕분에 <color=#397F7F>기금</color>을 다양하게 확보했어. 이번 턴에 사용할 수 있겠군.
-rft.trade.post=공터를 지배하는 세력과 일치하는 <color=#397F7F>기금</color> 2개를 소모하면 <sprite name="TradePost"><color=#397F7F>교역소</color> 토큰과 <color=#397F7F>병사</color>를 그 공터에 배치할 수 있어. 단, 이미 <color=#397F7F>교역소</color>가 있는 공터에는 배치할 수 없어.
-rft.trade.post.2=<color=#397F7F>교역소</color>를 건설하면 <style="vpnum">2</style>점을 얻어. 또한, <sprite name="TradePost"><color=#397F7F>교역소</color>를 사용해 제작할 수 있고, 배당금을 얻을 수 있으며, 다른 플레이어들이 너의 <color=#397F7F>용역</color>를 추가로 구매할 수 있어.
-rtf.craft=각 <sprite name="TradePost"><color=#397F7F>교역소</color>는 제작 시 그 문양에 기여해.
-rtf.fund.choice=제작에 사용할 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 <color=#397F7F>기금</color> 하나를 소모해야 해. 어느 세력의 기금을 사용할지 선택해.
-RFT.Swimmers=우리는 훌륭한 수영 실력을 가지고 있어. 이동할 때 강을 길처럼 사용할 수 있으며, 강을 따라 이동할 때 지배 제한을 무시해.
-rtf.trade.post.protect=<sprite name="TradePost"><color=#397F7F>교역소</color>를 보호하기 위해 강을 따라 <color=#397F7F>병사</color> 2명을 이동시키자.
-rtf.battle.workshop=후작의 제작소가 무방비 상태군. 공격하라!
-rft.marquise.traitor=상인이 배신자로 변했군. 대가를 치르게 될 거다, 강 도둑놈!
+rtf.marquise.hand.card=네놈이 파는 빵이 맛있어 보이는구나!
+rtf.marquise.hand.card.2=또 조개 케이크이느냐? 잠깐, 헤어볼 좀 뱉고....
+rft.lizard.riverboats=그대의 <color=#397F7F>보트</color>는 교단에게 실로 유용할 것이오. 그대에게 비늘의 축복이 있기를.
+rft.enemy.funds=장사가 성공적이야! 이번에는 <color=#397F7F>기금</color>의 종류를 다양하게 확보했어. 이번 턴에 이 기금들을 사용할 수 있겠네.
+rft.trade.post=공터를 지배하는 세력과 일치하는 <color=#397F7F>기금</color> 2개를 소모하면 <sprite name="TradePost"><color=#397F7F>교역소</color> 토큰과 <color=#397F7F>병사</color> 하나를 그 공터에 놓을 수 있어. 단, 이미 <color=#397F7F>교역소</color>가 있는 공터에는 교역소를 또 배치할 수 없어.
+rft.trade.post.2=<color=#397F7F>교역소</color>를 놓으면 <style="vpnum">2</style>점을 얻어. 또한, <sprite name="TradePost"><color=#397F7F>교역소</color>를 사용해 카드를 제작할 수 있고, 배당금 점수를 얻을 수 있으며, 다른 플레이어들이 너의 <color=#397F7F>용역</color>을 추가로 구매할 수 있어.
+rtf.craft=각 문양의 <sprite name="TradePost"><color=#397F7F>교역소</color>를 놓을 때마다 카드를 제작 시 해당하는 문양의 제작 비용으로 사용할 수 있어. 교역소가 파괴되어도 제작에서는 유지된다구
+rtf.fund.choice=제작에 사용할 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 <color=#397F7F>기금</color> 하나를 위탁해야 해. 어느 세력의 기금을 위탁할지 선택하자.
+RFT.Swimmers=우리는 훌륭한 수영 선수야. 이동을 할 때 강을 길처럼 쓸 수 있어. 강을 따라 이동할 때는 지배권을 무시해.
+rtf.trade.post.protect=<sprite name="TradePost"><color=#397F7F>교역소</color>를 보호하기 위해 강을 따라 <color=#397F7F>병사</color> 둘을 이동시키자.
+rtf.battle.workshop=후작의 작업장이 무방비 상태야. 공격하자!
+rft.marquise.traitor=상인놈들이 배신했구나. 대가를 치르게 될 거다, 이 수적놈들!
 rft.set.service.t2=<color=#397F7F>용역</color> 가격은 그대로 두자. 문제가 없으면 건드릴 필요 없어!
-rtf.t3.enemy.service=각 적은 매 턴 당신에게서 <color=#397F7F>용역</color>를 1회 구매할 수 있으며, 자신의 말이 있는 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 추가로 <color=#397F7F>용역</color>을 1회 더 구매할 수 있습니다.
-rtf.t3.mercenaries.split=너의 용병을 구매한 플레이어는 병력 손실을 자신의 말과 고용한 병사 사이에서 골고루 나누어야해 단, 홀수의 피해가 발생하면 구매자가 부담해.
-rtf.alt.craft=우리는 혁신적인 제작 방식이 있어. 제작한 카드의 효과 대신 <color=#397F7F>병사</color>를 <color=#397F7F>지불</color>로 추가할 수 있어. 이 보상을 받으려면 <color=#397F7F>수출</color> 버튼을 사용해.
-rtf.t3.recruit=<sprite name="TradePost"><color=#397F7F>교역소</color>가 파괴될 때마다 우리의 <color=#397F7F>기금</color> 절반(반올림)을 잃습니다. <sprite name="TradePost"><color=#397F7F>교역소</color>를 확실히 방어하기 위해 <color=#397F7F>병사</color>를 추가로 모병합시다.
-rtf.t3.dividends=아침 단계 동안, 지도에 <sprite name="TradePost"><color=#397F7F>교역소</color>가 존재하는 한 우리는 배당점을 획득합니다. 배당점은 이전 턴에 사용하지 않은 <color=#397F7F>기금</color> 2개당 <style="vpone">1</style>점을 줍니다. <color=#397F7F>기금</color>을 아끼고 배당점을 얻기 위해 턴을 넘기세요.
-rff.t3.set.service=무역 감각이 뛰어나군요. 원하는 대로 <color=#397F7F>용역</color>을 설정하세요.
-rft.bs.protectionism=이번 라운드에는 어떤 대금도 받지 못한 것 같습니다. 괜찮습니다. 위로 차원에서 당신의 공급처에서 병사 2명을 지불 칸으로 옮깁니다.
-rft.off.rails=<sprite name="TradePost"><color=#397F7F>교역소</color>를 하나 더 세우고 <style="vpnumddteen">15</style>점을 획득하여 우리가 단순한 상인이 아님을 증명하세요.
+rtf.t3.enemy.service=각 세력들은 매 턴 우리에게서 <color=#397F7F>용역</color>을 한 번 구매할 수 있고, 자신의 기물과 같이 있는 <sprite name="TradePost"><color=#397F7F>교역소</color>마다 <color=#397F7F>용역</color>을 한 번씩 추가로 구매할 수 있어.
+rtf.t3.mercenaries.split=용병을 구매한 플레이어는 병력 손실을 자신의 말과 고용한 병사 사이에서 골고루 나누어야 해. 단, 홀수의 피해가 발생할 경우, 나누어 떨어지지 않는 피해는 구매자가 부담해.
+rtf.alt.craft=우리에게는 혁신적인 제작 방식이 있어! 제작한 카드의 효과를 얻는 대신 <color=#397F7F>병사</color> 하나를 <color=#397F7F>지불</color>칸에 놓을 수 있어. 이렇게 하려면 <color=#397F7F>수출</color> 버튼을 사용하면 돼.
+rtf.t3.recruit=<sprite name="TradePost"><color=#397F7F>교역소</color>가 파괴될 때마다 우리는  <color=#397F7F>기금</color> 절반(반올림)을 잃게 돼. <sprite name="TradePost"><color=#397F7F>교역소</color>를 확실히 방어하기 위해 <color=#397F7F>병사</color>를 추가로 모병하자.
+rtf.t3.dividends=아침에 게임판에 <sprite name="TradePost"><color=#397F7F>교역소</color>가 존재하면 배당금 점수를 얻을 수 있어. 배당금은 이전 턴에 사용하지 않은 <color=#397F7F>기금</color> 2개당 <style="vpone">1</style>점이야. <color=#397F7F>기금</color>을 아끼고 배당금 점수를 얻기 위해 턴을 넘기자.
+rff.t3.set.service=너 장사 센스가 좋은데? 원하는 대로 <color=#397F7F>용역</color>의 가격을 설정해봐.
+rft.bs.protectionism=이번 라운드에는 지불 대금을 받지 못한 것 같아. 괜찮아. 위로 차원에서 우리의 공급처에서 병사 2명이 지불 칸으로 옮겨져.
+rft.off.rails=<sprite name="TradePost"><color=#397F7F>교역소</color>를 하나 더 세우고 <style="vpnumddteen">15</style>점을 획득해서 우리가 단순한 상인이 아님을 증명하자.
 rft.goal.vp=<style="vpnumddteen">15</style>점 획득 ({0}/{1})
-rft.goal.tradepost=<sprite name="TradePost"><color=#397F7F>교역소</color>를 하나 더 건설하세요.
-FTT.Riverfolk.removed.TP=파괴된 <sprite name="TradePost"><color=#397F7F>교역소</color>는 공급처로 돌아가지 않지만, 지도에서 사라져도 여전히 제작 능력을 제공합니다.
-lct.intro=<color=#748421>도마뱀 교단</color>은 우드랜드 전역에 복음을 전파하고자 합니다. <color=#748421>난민</color>과 <color=#748421>신도</color>를 찾아 성전을 벌이고 성소를 수호해야 합니다. 그러나 이는 단순한 힘겨루기가 아닙니다. <sprite name="Garden"><color=#748421>정원</color>을 가꾸는 것이 신비로운 의식을 통해 승리로 가는 길을 열어 줄 것입니다.
-lct.place.warriors=게임을 시작하면 4명의 <color=#748421>병사</color>와 모퉁이에 위치한 <sprite name="Garden"><color=#748421>정원</color> 건물을 보유합니다. 이 정원은 후작의 요새와 반대편에 자리합니다.
-lct.adjacent.warriors=추가로, 시작하는 <sprite name="Garden"><color=#748421>정원</color>과 인접한 각 공터에 <color=#748421>병사</color> 하나씩을 배치합니다.
-lct.explain.reveal=낮 동안, 손에 있는 카드를 공개하여 <color=#748421>의식</color> 액션을 수행할 수 있습니다.
-lct.recruit.intro=<color=#748421>모병</color> 의식을 사용하면 손에서 카드를 공개하여 해당 문양과 일치하는 공터에 <color=#748421>병사</color>를 모병할 수 있습니다.
-lct.reveal.icon=공개한 카드는 <sprite name="eyeicon"> 영역으로 이동하며, 다음 턴이 시작될 때까지 다시 사용할 수 없습니다.
+rft.goal.tradepost=<sprite name="TradePost"><color=#397F7F>교역소</color>를 하나 더 건설하자.
+FTT.Riverfolk.removed.TP=파괴된 <sprite name="TradePost"><color=#397F7F>교역소</color>는 공급처로 돌아가지 않지만, 게임판에서 사라져도 여전히 제작 능력을 제공해.
+lct.intro=우리 <color=#748421>도마뱀 교단</color>은 우드랜드 전역에 복음을 전파하고자 하오. <color=#748421>난민</color>과 <color=#748421>신도</color>를 찾아 성전을 치르고, 성소를 지켜 주시길 바라오. 그러나 이는 단순한 힘겨루기가 아니오. <sprite name="Garden"><color=#748421>정원</color>을 가꾸는 것이 신비로운 의식을 통하여 승리로 가는 길을 열어 줄 것이오.
+lct.place.warriors=게임을 시작하면 그대는 네 명의 <color=#748421>병사</color>와 모퉁이에 자리한 <sprite name="Garden"><color=#748421>정원</color>을 갖게 될 것이오. 이 <color=#748421>정원</color>은 후작의 요새와 반대편에 위치하게 되오.
+lct.adjacent.warriors=그리고 그대의 첫 <sprite name="Garden"><color=#748421>정원</color>과 인접한 각각의 공터에 <color=#748421>병사</color>를 하나씩 배치하게 될 것이오.
+lct.explain.reveal=낮 동안, 손에 있는 카드를 공개하여 <color=#748421>의식</color> 액션을 수행할 수 있소.
+lct.recruit.intro=<color=#748421>모병</color> 의식을 행하면, 손에 있는 카드를 공개하여 해당 문양과 일치하는 공터에 <color=#748421>병사</color>를 모병할 수 있을 것이오.
+lct.reveal.icon=공개한 카드는 <sprite name="eyeicon"> 영역으로 옮겨지며, 다음 턴이 시작될 때까지 다시 사용할 수 없을 것이오.
 lct.first.build=손에 있는 다른 카드를 사용하여 또 다른 <color=#748421>의식</color>을 시도해 봅시다. <color=#748421>건설</color> 의식을 수행하면 <sprite name="mouseicon"> 카드를 공개하고, 해당 문양과 일치하며 당신이 지배하는 공터에 <sprite name="Garden"><color=#748421>정원</color>을 배치할 수 있습니다.
 lct.pilgrims=<sprite name="Garden"><color=#748421>정원</color>이 있는 공터에서는 자동으로 지배권을 갖습니다. 신앙을 갖지 않은 자들조차도 그 신성한 기운에 감탄할 수밖에 없습니다.
 lct.garden=<sprite name="Garden"><color=#748421>정원</color>을 이용해 <color=#748421>득점</color> 의식을 수행하고 점수를 얻을 수 있습니다. 아바타를 눌러 <sprite name="Garden"><color=#748421>정원</color>에 대해 더 알아보세요.
@@ -1436,8 +1436,8 @@ lake.Ferry=턴당 한 번, 나룻배가 있는 공터에서 이동하는 플레�
 lake.intro=호수에 온 것을 환영한다! 여기서는 나룻배를 잘 활용하는 것이 핵심이다.
 lake.move.Ferry=이동할 때 나룻배를 사용하시겠습니까?
 log.banker=[faction name]이(가) [cardnames]을(를) 버리고 [X] <style="vptext">VP</style>을(를) 획득했다.
-log.brigadier.2battle=[faction name]이(가) 장군을 활성화하여 두 번의 전투를 수행했다.
-log.brigadier.2move=[faction name]이(가) 장군을 활성화하여 두 번 이동했다.
+log.brigadier.2battle=[faction name]이(가) 여단장을 활성화하여 두 번의 전투를 수행했다.
+log.brigadier.2move=[faction name]이(가) 여단장을 활성화하여 두 번 이동했다.
 log.captain=[faction name]이(가) 대장을 활성화하여 전투를 수행했다.
 log.clear.path=[faction name]이(가) [name]을(를) 버려 길을 개척하고 1 <style="vptext">VP</style>을(를) 획득했다.
 log.corvid.move=<color=#9673B4>까마귀 모략단</color>이 [X]명의 병사를 [suit icon] 공터로 이동시켰다.
@@ -1707,8 +1707,8 @@ tooltip.ui.randomclearingsuits=<size=125%><b>무작위 공터 문양</b></size><
 tooltip.ui.reset.disabled=고급 설정이 활성화된 상태에서는 세력을 초기화할 수 없습니다.
 tooltip.ui.swayedministers=<size=125%><b>설득된 관료</b></size>
 tooltip.ui.unswayedministers=<size=125%><b>임명되지 않은 관료</b></size>
-tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility=대결할 상대를 선택하세요.
-tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility.opponent=[player]이(가) 대결할 상대를 선택하고 있습니다.
+tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility=전투할 상대를 선택하세요.
+tuber.canis.abilities.CorvidConspiracyAbilities.BattleAbility.opponent=[player]이(가) 전투할 상대를 선택하고 있습니다.
 tuber.canis.abilities.CorvidConspiracyAbilities.plotAbility=모략을 배치할 공터를 선택하세요.
 tuber.canis.abilities.CorvidConspiracyAbilities.plotAbility.opponent=[player]이(가) 모략을 배치할 공터를 선택하고 있습니다.
 tuber.canis.abilities.CorvidConspiracyAbilities.TrickAbility=교환할 모략 토큰을 선택하세요.
@@ -1717,8 +1717,8 @@ tuber.canis.abilities.ExposureAbility=폭로할 모략을 선택하세요.
 tuber.canis.abilities.ExposureAbility.opponent=[player]이(가) 폭로할 모략을 선택하고 있습니다.
 tuber.canis.abilities.TrailblazingAbility=버릴 카드를 선택하세요.
 tuber.canis.abilities.TrailblazingAbility.opponent=[player]이(가) 길을 개척하기 위해 버릴 카드를 선택하고 있습니다.
-tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility=대결할 적을 선택하세요.
-tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility.opponent=[player]이(가) 대결할 적을 선택하고 있습니다.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility=전투할 적을 선택하세요.
+tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBattleAbility.opponent=[player]이(가) 전투할 적을 선택하고 있습니다.
 tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBuildAbility=건설할 공터를 선택하세요.
 tuber.canis.abilities.UndergroundDuchyAbilities.DuchyBuildAbility.opponent=[player]이(가) 건설할 공터를 선택하고 있습니다.
 tuber.canis.abilities.UndergroundDuchyAbilities.DuchyChooseBuilding=건설할 건물을 선택하세요.
@@ -1828,48 +1828,48 @@ playerinfo.keepersiniron.daylight.deliverymission=1단계: 제작 <size=80%>휴�
 playerinfo.keepersiniron.evening=1단계: Live Off the Land<size=80%> 각 공터에 4명 이상의 Keeper 병사가 있으면 1명을 제거해야 합니다.<br><br></size>2단계: Gather Retinue<size=80%> 최대 10장의 카드를 모을 수 있습니다. 손에서 카드를 원하는 만큼 추가하거나, 하나의 카드를 교체할 수 있습니다.<br><br></size>3단계: Draw<size=80%> 표시된 <sprite index=31>만큼 1장의 카드를 뽑습니다.<br></size><br>Discard<size=80%> 5장까지 버립니다.</size>
 playerinfo.keepersiniron.evening.huddle=1단계: Huddle Up<size=80%> 각 공터에서 다른 Keeper 병사가 없는 Keeper 병사를 모두 제거해야 합니다.<br><br></size>2단계: Gather Retinue<size=80%> 최대 10장의 카드를 모을 수 있습니다. 손에서 카드를 원하는 만큼 추가하거나, 하나의 카드를 교체할 수 있습니다.<br><br></size>3단계: Draw<size=80%> 표시된 <sprite index=31>만큼 1장의 카드를 뽑습니다.<br></size><br>Discard<size=80%> 5장까지 버립니다.</size>
 playerinfo.keepersiniron.evening.famine=1단계: Relic Bound<size=80%> 각 공터에 유물이 없는 곳에서 Keeper 병사를 1명 제거해야 합니다.<br><br></size>2단계: Gather Retinue<size=80%> 최대 10장의 카드를 모을 수 있습니다. 손에서 카드를 원하는 만큼 추가하거나, 하나의 카드를 교체할 수 있습니다.<br><br></size>3단계: Draw<size=80%> 표시된 <sprite index=31>만큼 1장의 카드를 뽑습니다.<br></size><br>Discard<size=80%> 5장까지 버립니다.</size>
-playerinfo.lordofthehundreds.thewarlord.title=전쟁의 군주
-playerinfo.lordofthehundreds.thewarlord.description=전쟁의 군주는 전투 외에는 제거할 수 없고, 턴 외에는 이동할 수 없으며, 정화만으로 배치할 수 있는 병사입니다.
+playerinfo.lordofthehundreds.thewarlord.title=전쟁군주
+playerinfo.lordofthehundreds.thewarlord.description=전쟁군주는 전투로만 제거할 수 있으며, 본인의 턴 외에는 이동시킬 수 없으며, 정화만으로 배치할 수 있는 병사입니다.
 playerinfo.lordofthehundreds.contemptfortrade.title=무역 경멸
-playerinfo.lordofthehundreds.contemptfortrade.description=아이템을 제작할 때, 아이템을 얻되 점수는 얻지 않으며, 아이템을 제거하여 점수를 얻을 수 있습니다.
+playerinfo.lordofthehundreds.contemptfortrade.description=아이템을 제작할 때, 아이템을 얻되 점수는 얻지 않으며, 아이템을 버려야만 점수를 얻을 수 있습니다.
 playerinfo.lordofthehundreds.looters.title=약탈자들
-playerinfo.lordofthehundreds.looters.description=전투 시작 시 공격자로서 적을 약탈한다고 선언할 수 있습니다. 굴려진 주사위에 대해서 상대의 피해는 없으며, 들쥐는 피해를 입습니다. 전투가 끝났을 때, 전투 공터를 지배하면 적의 제작 아이템 중 하나를 가져옵니다.
+playerinfo.lordofthehundreds.looters.description=전투 시작 시 공격자로서 적을 약탈한다고 선언할 수 있습니다. 상대는 굴려진 주사위 피해를 무시하며, 들쥐는 피해를 입습니다. 전투가 끝났을 때, 전투 공터를 지배하고 있다면 적의 제작 아이템 중 하나를 가져옵니다.
 playerinfo.lordofthehundreds.moods.title=기분
 playerinfo.lordofthehundreds.thehoard.title=보물 창고
 playerinfo.lordofthehundreds.oppressedspaces.title=억압된 공터: {0}
 playerinfo.lordofthehundreds.infiltratedspaces.title=침투된 공터: {0}
-playerinfo.lordofthehundreds.birdsong=1단계: **Raze**<size=80%> - 각 군중에서 적의 건물과 토큰을 모두 제거하고, 잔해에서 아이템을 가져옵니다. 군중을 해결한 후, 군중 주사위를 굴려 인접한 군중이 없는 공터에 군중을 배치합니다.<br><br></size>2단계: 모병<size=80%> 전쟁군주 공터에서 군주의 기량만큼 병사를 모병하고, 각 주둔지에서 1명의 병사를 모병합니다.<br><br></size>3단계: **Anoint**<size=80%> 오프맵에 있는 수백마리 들쥐 병사를 새로운 전쟁군주로 임명합니다. 불가능한 경우, 전쟁군주를 공터에 배치합니다.<br><br></size>4단계: 보물 창고에 아이템이 표시되지 않은 다른 기분을 선택합니다.</size>
-playerinfo.lordofthehundreds.daylight=1단계: 제작<size=80%> 주둔지를 사용하여 아이템을 제작합니다.<br><br></size>2단계: 수백마리 들쥐 명령<size=80%> 군주의 명령만큼 반복 가능합니다.<br><br><sprite name="hundredswarrior"> 이동<br><br><sprite name="hundredswarrior"> 전투<br><br><sprite name="hundredswarrior"> 건설<br><br></size>3단계: 전쟁군주 진격<size=80%> 군주의 기량만큼 반복 가능합니다.<br><br>당신은 전쟁군주와 함께 수백마리 들쥐 병사들을 이동시킨 후, 전쟁군주 공터에서 전투를 할 수 있습니다.</size>
-playerinfo.lordofthehundreds.evening=1단계: **Incite**<size=80%> - 여러 번 가능합니다. 카드를 사용하여 Hundreds 병사나 군주가 있지만 군중이 없는 공터에 군중을 배치합니다.<br><br></size>2단계: **Oppress**<size=80%> 당신이 지배하는 공터에서 Hundreds 기물이 있고 적의 기물이 없는 곳을 억압합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 버리고<br> 5장까지 카드를 버립니다.</size>
-playerinfo.lordofthehundreds.evening.infiltrate.normal=1단계: **Incite**<size=80%> - 여러 번 가능합니다. 카드를 사용하여 Hundreds 병사나 군주가 있지만 군중이 없는 공터에 군중을 배치합니다.<br><br></size>2단계: **Infiltrate**<size=80%> 상대가 지배하는 공터에서 Hundreds 병사나 군주가 있는 공터를 침투합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 버리고<br> 5장까지 카드를 버립니다.</size>
-playerinfo.lordofthehundreds.evening.infiltrate.heroic=1단계: **Incite**<size=80%> - 여러 번 가능합니다. 카드를 사용하여 Hundreds 병사나 군주가 있지만 군중이 없는 공터에 군중을 배치합니다.<br><br></size>2단계: **Infiltrate**<size=80%> 상대가 지배하는 공터에서 최소 4개의 기물이 있는 공터를 침투합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 버리고<br> 5장까지 카드를 버립니다.</size>
-playerinfo.lordofthehundreds.protectthewarlord=전쟁의 군주 보호
+playerinfo.lordofthehundreds.birdsong=1단계: 초토화<size=80%> - 각 군중 토큰마다 해당 공터에 있는 모든 적 건물과 토큰을 제거하고, 폐허에 아이템이 있다면 가져옵니다. 모든 군중 토큰을 해결한 후, 군중 주사위를 굴려 인접한 군중 토큰이 있는 공터 중 군중 토큰이 없는 공터에 군중 토큰을 놓습니다.<br><br></size>2단계: 모병<size=80%> 전쟁군주 공터에서 군주의 기량만큼 병사를 모병하고, 각 주둔지에서 병사 하나를 모병합니다.<br><br></size>3단계: 찬탈<size=80%> 들쥐 병사 하나를 골라 새로운 전쟁군주 자리에 올립니다. 불가능한 경우, 전쟁군주를 공터에 배치합니다.<br><br></size>4단계: 보물 창고에 아이템이 표시되지 않은 다른 기분을 선택합니다.</size>
+playerinfo.lordofthehundreds.daylight=1단계: 제작<size=80%> 주둔지를 제작 비용으로 사용하여 아이템을 제작합니다.<br><br></size>2단계: 수백마리 들쥐 명령<size=80%> 군주의 명령 수치만큼 반복 가능합니다.<br><br><sprite name="hundredswarrior"> 이동<br><br><sprite name="hundredswarrior"> 전투<br><br><sprite name="hundredswarrior"> 건설<br><br></size>3단계: 전쟁군주 진격<size=80%> 군주의 기량 수치만큼 반복 가능합니다.<br><br>전쟁군주와 함께 들쥐 병사들을 이동시키고, 도착지 공터에서 전투를 할 수 있습니다.</size>
+playerinfo.lordofthehundreds.evening=1단계: 선동<size=80%> - 여러 번 가능합니다. 카드를 사용하여 들쥐 병사나 전쟁군주가 있지만 군중 토큰이 없는 공터에 군중 토큰을 배치합니다.<br><br></size>2단계: 억압<size=80%> 당신이 지배하는 공터에서 들쥐 기물이 있고 적의 기물이 없는 곳을 억압합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 뽑고<br> 5장까지 카드를 버립니다.</size>
+playerinfo.lordofthehundreds.evening.infiltrate.normal=1단계: 선동<size=80%> - 여러 번 가능합니다. 카드를 사용하여 들쥐 병사나 전쟁군주가 있지만 군중 토큰이 없는 공터에 군중 토큰을 배치합니다.<br><br></size>2단계: 억압<size=80%> 들쥐가 지배하는 공터에서 들쥐 기물이 있고 다른 세력의 기물이 없는 곳을 억압합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 뽑고<br> 5장까지 카드를 버립니다.</size>
+playerinfo.lordofthehundreds.evening.infiltrate.heroic=1단계: 선동<size=80%> - 여러 번 가능합니다. 카드를 사용하여 들쥐 병사나 전쟁군주가 있지만 군중 토큰이 없는 공터에 군중 토큰을 배치합니다.<br><br></size>2단계: 억압<size=80%> 들쥐가 지배하는 공터에서 들쥐 기물이 최소 4개 있고 다른 세력의 기물이 없는 곳을 억압합니다.<br><br>1-2: <sprite name="1VP_White"> 3-4: <sprite name="2VP_White"><br><br>5: <sprite name="3VP_White"> 6+: <sprite name="4VP_White"><br></size><br>카드를 1장 뽑고<br> 5장까지 카드를 버립니다.</size>
+playerinfo.lordofthehundreds.protectthewarlord=전쟁군주 보호
 hundreds.moods.selection.title=기분 선택
 hundreds.moods.selection.no.moods=사용할 수 있는 기분 없음
 hundreds.moods.selection.newmood=새로운 기분
 hundreds.moods.selection.oldmood=기존 기분
 hundreds.moods.grandiose=거창한
-hundreds.moods.desc.grandiose=전쟁군주 진행과 Hundreds 지휘 단계를 교환합니다.
+hundreds.moods.desc.grandiose=전쟁군주 진격 단계와 명령 단계 순서를 바꿉니다.
 hundreds.moods.stubborn=완고한
 hundreds.moods.desc.stubborn=전쟁군주와 전투 시 첫 번째 피해를 무시합니다.
-hundreds.moods.bitter=격렬한
+hundreds.moods.bitter=씁쓸한
 hundreds.moods.desc.bitter=전쟁군주와 전투 시, 전투를 시작하기 전에 전투 공터와 인접한 공터에서 군중을 제거한 만큼 전투 공터에 병사를 배치합니다.
 hundreds.moods.lavish=호화로운
-hundreds.moods.desc.lavish=아침 끝에, 당신은 보물 창고에서 아이템을 제거하여 제거된 각 아이템당 전쟁의 군주 공터에 병사 두 명을 놓을 수 있습니다.
+hundreds.moods.desc.lavish=아침 끝에, 당신은 보물 창고에서 아이템을 제거하여 제거된 각 아이템당 전쟁군주가 있는 공터에 병사 두 명을 놓을 수 있습니다.
 hundreds.moods.relentless=끈질긴
-hundreds.moods.desc.relentless=전쟁의 군주를 진군시킬 때, 이동과 전투를 모두 할 수 있습니다. <i>(진군의 절반처럼 이동하거나 전투를 진행할 수 있습니다.)</i>
+hundreds.moods.desc.relentless=전쟁군주를 진격시켜 이동과 전투를 모두 수행했다면, 추가로 전쟁군주를 이동하거나 전투할 수 있습니다
 hundreds.moods.wrathful=격노한
-hundreds.moods.desc.wrathful=전투에서 전쟁군주가 공격자로 있을 때, 추가 피해를 입힙니다. <i>(약탈 시에도 이 피해를 입힙니다.)</i>
+hundreds.moods.desc.wrathful=전투에서 전쟁군주가 공격자로 있을 때, 추가 피해를 입힙니다. <i>(약탈 시에도 추가 피해는 적용됩니다.)</i>
 hundreds.moods.jubilant=즐거운
-hundreds.moods.desc.jubilant=전쟁군주 공터에서 군중을 일으킨 후, 군중 주사위를 굴려 최대 네 번까지 군중을 배치할 수 있습니다. <i>(Raze 단계에서 설명한 대로)</i>
+hundreds.moods.desc.jubilant=전쟁군주가 있는 공터에서 선동한 후, 초토화 단계에서처럼 군중 주사위를 최대 네 번 굴려 군중 토큰을 놓을 수 있습니다.
 hundreds.moods.rowdy=떠들썩한
-hundreds.moods.desc.rowdy=저녁 단계에서 카드를 한 장 더 뽑을 수 있습니다. 만약 전쟁군주 공터에 적의 기물이 세 개 이상 있으면, 두 장 더 뽑을 수 있습니다.
+hundreds.moods.desc.rowdy=저녁에 카드를 한 장 추가로 뽑을 수 있습니다. 만약 전쟁군주가 있는 공터에 적 기물이 세 개 이상 있으면, 두 장 더 뽑을 수 있습니다.
 hundreds.movewarlord.prompt.title=전쟁군주를 이동시킬까요?
 keepers.faithfulretainers=충성스러운 수행원
 keepers.faithfulretainers.desc=이 카드를 버릴 때, 영구적으로 제거됩니다.
 hundreds.command=명령
 hundreds.prowess=기량
-hundreds.lavish.desc=당신은 보물 창고에서 아이템을 제거하여 제거된 각 아이템당 전쟁의 군주 공터에 병사 두 명을 배치할 수 있습니다.
+hundreds.lavish.desc=당신은 보물 창고에서 아이템을 제거하여 제거된 각 아이템당 전쟁군주가 있는 공터에 병사 둘을 배치할 수 있습니다.
 hundreds.lavish.title=아이템을 제거하여 사치스러운 효과를 발동시킬까요?
 hundreds.contemptfortrade.button.victorypoints=<style="vptext">VP</style>
 hundreds.contemptfortrade.button.hoard=보물 창고
@@ -1881,16 +1881,16 @@ playerinfo.keepersiniron.retinue.desc=당신은 손에서 원하는 만큼 카�
 playerinfo.keepersiniron.retinue.move.title=이동
 playerinfo.keepersiniron.retinue.battleanddelve.title=<size=20><i>전투해야 함</i></size> <size=20><i>가능하면</i></size> 탐색
 playerinfo.keepersiniron.retinue.battleanddelve.desc=...같은 문양의 공터에서
-playerinfo.keepersiniron.retinue.moveorrecover.title=이동 또는 회복
+playerinfo.keepersiniron.retinue.moveorrecover.title=이동 또는 회수
 playerinfo.keepersiniron.retinue.moveorrecover.desc=...같은 문양의 공터에서
 playerinfo.keepersiniron.retinue.recruit.title=모병
 playerinfo.keepersiniron.retinue.recruit.desc=...같은 문양의 공터에서
-playerinfo.keepersiniron.buildwaystations.title=배치할 웨이스테이션을 선택하세요.
+playerinfo.keepersiniron.buildwaystations.title=배치할 중계역을 선택하세요.
 playerinfo.keepersiniron.buildwaystations.desc=
-playerinfo.keepersiniron.buildwaystations.tablet=태블릿
+playerinfo.keepersiniron.buildwaystations.tablet=석판
 playerinfo.keepersiniron.buildwaystations.jewelry=보석
 playerinfo.keepersiniron.buildwaystations.figure=조각상
-playerinfo.keepersiniron.buildwaystations.prompt.title=웨이스테이션 선택
+playerinfo.keepersiniron.buildwaystations.prompt.title=중계역 선택
 playerinfo.keepersiniron.moverelic.prompt.title=유물을 이동시킬까요?
 playerinfo.keepersiniron.recoverrelic.prompt.title=유물
 playerinfo.keepersiniron.recoverrelic.prompt.button=회수
@@ -1993,43 +1993,43 @@ tooltip.playmat.relicstack=<size=125%><b>유물</b></size>
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRaze=계속하기를 누르세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMobClearing=무리를 배치할 공터를 선택하세요.
 tuber.canis.actions.LordOfTheHundredsActions.NoClearingsForMob=무리를 배치할 공터가 없습니다. 계속하기를 누르세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze=무리 토큰이 부족합니다! 계속하기를 누르세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze=군중 토큰이 부족합니다! 계속하기를 누르세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRazeTakeItem=폐허에서 아이템을 선택하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRecruit=계속하기를 눌러주세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitClearing=강화를 선택하여 병사를 모병하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitClearing=주둔지를 선택하여 병사를 모병하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToAnoint=계속하기를 눌러주세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointClearing=장군을 배치할 공터를 선택하세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointWarrior=Hundreds 병사가 있는 공터를 선택하여 그 중 한 명을 장군으로 교체하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointClearing=전쟁군주를 놓을 공터를 선택하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseAnointWarrior=들쥐 병사가 있는 공터를 선택하고 병사 하나를 전쟁군주로 교체하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.AnointAlreadyPresent=계속하기를 눌러주세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMood=기분을 선택하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToLavish=계속하기를 눌러주세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseLavish=아이템을 호드에서 제거하여 각각 2명의 병사를 배치하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseLavish=보물창고에서 아이템을 제거하고, 각각 아이템마다 들쥐 병사 둘을 놓으세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToBirdsongEnd=계속하기를 눌러주세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCraftMode=아이템을 호드에 추가하거나 [X]를 얻을 수 있도록 제작하세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraft=제작할 카드가 없습니다. 계속하기를 눌러주세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCommand=명령을 선택하세요.
-hundredsWithColor=<color=#B40518>수백마리 들쥐 군주</color>
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCraftMode=아이템을 제작해 보물창고에 추가하거나 [X]점을 얻으세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseNoCraft=제작 가능한 카드가 없습니다. 계속하기를 눌러주세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseCommand=수행할 명령을 선택하세요.
+hundredsWithColor=<color=#B40518>수백마리 들쥐의 군주</color>
 keepersWithColor=<color=#575757>강철의 수호자</color>
-tuber.canis.actions.LordOfTheHundredsActions.HundredsHoardDiscard=호드에서 아이템을 하나 선택하여 제거하고 1 <style="vptext">VP</style>를 얻으세요.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLoot=전투에서 굴린 공격이 없습니다. 대신, 전투 후 해당 공터를 지배하면 다음 아이템 중 하나를 획득하세요:
-tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLootItem=획득할 아이템을 선택하세요.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsBattleBitter=인접한 집단을 제거하여 그만큼 병사를 전투에 추가하세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildClearing=강화할 공터를 선택하세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildCard=카드를 사용하여 지배하는 공터에 강화를 배치하세요.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsBattleAbility=전투할 적을 선택하세요.
-tuber.canis.actions.LordOfTheHundredsActions.HundredsDaylightRelentless=끈질기게! 병사나 장군을 이동하거나 전투할 수 있습니다.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteClearing=카드와 일치하는 공터에서 집단을 선동하세요.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteCard=선동에 사용할 일치하는 카드를 선택하세요.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteCard=일치하는 카드를 보유하지 않습니다. 계속하기를 눌러주세요.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteMob=선동할 집단이 없습니다. 계속하기를 눌러주세요.
-tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.JubilantChooseRoll=집단을 배치하려면 굴려야 합니다. ([X] 남음)
-keepers.prompt.mobdie.title=집단 죽음
+tuber.canis.actions.LordOfTheHundredsActions.HundredsHoardDiscard=보물 창고에서 아이템을 하나 선택하여 제거하고 1 <style="vptext">VP</style>를 얻으세요.
+tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLoot=이 전투에서 주사위 공격 피해를 주지 못 합니다. 그 대신, 전투 후에도 이 공터를 지배하고 있다면 다음 아이템 중 하나를 가져옵니다.:
+tuber.canis.actions.LordOfTheHundredsActions.HundredsChooseLootItem=약탈로 가져올 아이템을 고르세요.
+tuber.canis.actions.LordOfTheHundredsActions.HundredsBattleBitter=전투를 하기 전에 인접한 공터에 있는 군중 토큰을 제거하여 병사를 놓으세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildClearing=문양이 일치하는 공터 중, 주둔지를 놓을 곳을 고르세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseBuildCard=카드를 소모해서 지배하는 공터에 주둔지를 놓으세요.
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsBattleAbility=전투할 대상을 선택하세요.
+tuber.canis.actions.LordOfTheHundredsActions.HundredsDaylightRelentless=끈질김! 군주을 포함해서 병사를 움직이거나 전투하시겠습니까?
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteClearing=군중 토큰을 놓을 공터를 선택하세요 (문양이 일치하는 카드를 소모합니다.)
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.ChooseInciteCard=군중 토큰을 놓기 위해 소모할 카드를 선택하세요.
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteCard=군중 토큰을 놓기 위해 소모 할 수 있는 문양이 맞는 카드가 없습니다. 계속하기를 눌러주세요.
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.NoInciteMob=공급처에 남은 군중 토큰이 없습니다. 계속하기를 눌러주세요.
+tuber.canis.abilities.LordOfTheHundredsPlayer.HundredsInciteAbility.JubilantChooseRoll=군중 토큰을 놓기 위해 주사위를 굴리시겠습니까? ([X] 남음)
+keepers.prompt.mobdie.title=군중 주사위
 playerinfo.lordofthehundreds.command=명령
-playerinfo.lordofthehundreds.prowess=능력
-prompts.keepersbuild.waystation=전초기지
-prompts.hundredsbuild.stronghold=강화
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseMoveWarlord=장군을 이동할 병사 수와 함께 이동할 공터를 선택하세요.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoWarlord=이동할 장군이 없습니다.
+playerinfo.lordofthehundreds.prowess=기량
+prompts.keepersbuild.waystation=중계역
+prompts.hundredsbuild.stronghold=주둔지
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.ChooseMoveWarlord=전쟁군주와 함께 이동시킬 병사 수를 선택하세요.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceNoWarlord=진격 액션을 수행할 전쟁군주가 없습니다.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOrBattle=장군과 함께 병사를 이동하거나 적과 전투할 공터를 선택하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceMoveOnly=장군과 병사를 이동할 공터를 선택하세요.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsDaylightAction.AdvanceBattleOnly=장군과 병사를 사용하여 적과 전투할 공터를 선택하세요.
@@ -2069,7 +2069,7 @@ tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.Con
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseMobClearing.opponent=[player]는 공터를 선택하여 무리를 배치하고 있습니다.
 tuber.canis.actions.LordOfTheHundredsActions.NoClearingsForMob.opponent=[player]는 공터를 선택하여 무리를 배치하고 있습니다.
 tuber.canis.actions.LordOfTheHundredsActions.NoMobTokens.opponent=[player]는 공터를 선택하여 무리를 배치하고 있습니다.
-tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze.opponent=[player]는 공터를 선택하여 무리를 배치하고 있습니다.
+tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.NoMobsForRaze.opponent=[player]는 공터를 선택하여 군중를 배치하고 있습니다.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRazeTakeItem.opponent=[player]는 폐허에서 아이템을 선택하고 있습니다.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ContinueToRecruit.opponent=[player]는 모병을 진행 중입니다.
 tuber.canis.actions.LordOfTheHundredsActions.LordOfTheHundredsBirdsongAction.ChooseRecruitClearing.opponent=[player]는 모병 공터를 선택하고 있습니다.
@@ -2320,9 +2320,9 @@ log.gather.retinue=[faction name]은/는 [type] Retinue에 [card]를 추가합�
 log.shift.retinue=[faction name]은/는 [type1] Retinue에서 [type2] Retinue로 [suit icon]을 이동시킵니다.
 log.move.relic=[faction name]은/는 [type] 유물을 [suit icon] 공터로 이동시킵니다.
 log.prized.relic=[faction name]은/는 유물을 제거하여 Prized Trophies로 추가 1 <style=""vptext"">VP</style>를 얻고, 그것을 숲에 다시 배치합니다.
-log.raze=[faction name]은/는 [suit icon] 공터를 파괴하여 모든 폐허와 적의 건물 및 토큰을 제거합니다.
+log.raze=[faction name]은/는 [suit icon] 공터를 초토화하여 모든 폐허와 적의 건물 및 토큰을 제거합니다.
 log.razeitem=[faction name]은/는 [suit icon] 공터의 폐허를 파괴하고, [item icon]을 얻습니다.
-log.razeitem.noitems=[faction name]은/는 [suit icon] 공터의 폐허를 파괴했지만 아이템이 없습니다.
+log.razeitem.noitems=[faction name]은/는 [suit icon] 공터의 폐허를 초토화시켰지만 아이템이 없습니다.
 log.mob.spread=[faction name]의 군중이 [suit icon] 공터로 확산됩니다.
 log.anoint=[faction name]은/는 [suit icon] 공터에서 새로운 지도자를 임명합니다.
 log.mood=[faction name]이/가 [name]이 됩니다.
@@ -2484,104 +2484,104 @@ scenario.pacifist.name=평화주의자
 scenario.winwin.name=윈-윈
 scenario.baseofsupport.name=지지의 기지
 scenario.statehood.name=국가의 상태
-root.attribute.mouse=들쥐
+root.attribute.mouse=생쥐
 root.attribute.fox=여우
 root.attribute.rabbit=토끼
-root.cardname.favorofthefoxes=여우의 호의
-root.cardname.favorofthemice=들쥐의 호의
-root.cardname.favoroftherabbits=토끼의 호의
-root.cardname.royalclaim=왕의 주장
+root.cardname.favorofthefoxes=여우들의 협력
+root.cardname.favorofthemice=생쥐들의 협력
+root.cardname.favoroftherabbits=토끼들의 협력
+root.cardname.royalclaim=왕실의 권리
 root.cardname.bakesale=빵 바자회
 root.cardname.investments=투자
 root.cardname.protectionracket=보호료 징수
 root.cardname.scoutingparty=정찰대
-root.cardname.armorers=무기 제작자
-root.cardname.brutaltactics=잔혹한 전술
-root.cardname.sword=검
+root.cardname.armorers=병기 제작자
+root.cardname.brutaltactics=악랄한 전술
+root.cardname.sword=양손검
 root.cardname.armstrader=무기 상인
 root.cardname.foxfolksteel=여우 종족의 강철
 root.cardname.roottea=뿌리 차
 root.cardname.anvil=모루
-root.cardname.sappers=지뢰병
-root.cardname.smugglerstrail=밀수꾼의 길
-root.cardname.birdybindle=새의 보따리
+root.cardname.sappers=공병
+root.cardname.smugglerstrail=밀수꾼의 흔적
+root.cardname.birdybindle=작은 새의 보따리
 root.cardname.gentlyusedknapsack=곱게 쓴 자루
-root.cardname.mouseinasack=배낭 속 들쥐
+root.cardname.mouseinasack=생쥐가 든 자루
 root.cardname.travelgear=여행 장비
 root.cardname.woodlandrunners=밀수꾼
 root.cardname.avisittofriends=친구 방문
 root.cardname.crossbow=석궁
-root.cardname.commandwarren=전투 지휘소
-root.cardname.standanddeliver=죽거나 싸워라!
-root.cardname.betterburrowbank=더 나은 굴 은행
-root.cardname.taxcollector=세금 징수자
-root.cardname.cobbler=구두 수선공
-root.cardname.codebreakers=암호 해독자
+root.cardname.commandwarren=민병대 사령관
+root.cardname.standanddeliver=가진 거 다 내놔!
+root.cardname.betterburrowbank=토끼 굴 은행
+root.cardname.taxcollector=세금 징수원
+root.cardname.cobbler=신발 수선공
+root.cardname.codebreakers=암호 해독가
 root.cardname.dominance=지배
 root.cardname.coalition=연합
 root.cardname.ambush=매복!
-root.cardtext.favoroftherabbits=토끼 공터의 적 기물들을 모두 제거합니다.
-root.cardtext.favorofthefoxes=여우 공터의 적 기물들을 모두 제거합니다.
-root.cardtext.favorofthemice=들쥐 공터의 적 기물들을 모두 제거합니다.
-root.cardtext.royalclaim=아침에 이 카드를 버려서 지배하는 공터마다 한 점을 얻을 수 있습니다.
+root.cardtext.favoroftherabbits=토끼 공터의 적 기물들을 모두 제거하고 이 카드를 버립니다.
+root.cardtext.favorofthefoxes=여우 공터의 적 기물들을 모두 제거하고 이 카드를 버립니다.
+root.cardtext.favorofthemice=들쥐 공터의 적 기물들을 모두 제거하고 이 카드를 버립니다.
+root.cardtext.royalclaim=아침에 이 카드를 버리고 지배하는 공터마다 1점씩 얻을 수 있습니다.
 root.cardtext.craftcoinstack=<size=200%><sprite name="coinstack">, <sprite name="3VP"></size>
-root.cardtext.scoutingparty=공격자로서 전투 시, 매복 카드에 영향을 받지 않습니다.
-root.cardtext.armorers=전투 중, 이 카드를 버려서 받은 모든 공격을 무효화할 수 있습니다.
-root.cardtext.brutaltactics=공격자로서 전투 중, 추가 공격을 할 수 있지만 수비자는 한 점을 얻습니다.
+root.cardtext.scoutingparty=전투에서 공격할 때, 매복 카드의 영향을 받지 않습니다.
+root.cardtext.armorers=전투 중, 이 카드를 버리면 주사위로 인한 모든 피해를 무시합니다.
+root.cardtext.brutaltactics=전투에서 공격할 때, 추가로 피해 1을 입힐 수 있습니다. 대신 방어자는 1점을 얻습니다
 root.cardtext.craftsword=<size=200%><sprite name="sword">, <sprite name="2VP"></size>
 root.cardtext.roottea=<size=200%><sprite name="teapot">, <sprite name="2VP"></size>
 root.cardtext.anvil=<size=200%><sprite name="hammer">, <sprite name="2VP"></size>
-root.cardtext.sappers=수비자로서 전투 중, 이 카드를 버려서 추가 공격을 할 수 있습니다.
+root.cardtext.sappers=전투에서 방어할 때, 이 카드를 버리면 피해 1을 추가로 입합니다.
 root.cardtext.craftbag=<size=200%><sprite name="bag">, <sprite name="1VP"></size>
 root.cardtext.craftboot=<size=200%><sprite name="boot">, <sprite name="1VP"></size>
 root.cardtext.crossbow=<size=200%><sprite name="crossbow">, <sprite name="1VP"></size>
-root.cardtext.commandwarren=낮에 시작할 때, 전투를 시작할 수 있습니다.
-root.cardtext.standanddeliver=아침에, 다른 플레이어로부터 무작위 카드를 한 장 뽑을 수 있습니다. 그 플레이어는 한 점을 얻습니다.
-root.cardtext.betterburrowbank=아침에, 당신과 다른 플레이어가 각자 카드를 한 장 뽑습니다.
-root.cardtext.taxcollector=낮에 한 번, 병사 한 명을 제거하고 카드를 한 장 뽑을 수 있습니다.
-root.cardtext.cobbler=저녁 시작 시, 한 번 이동할 수 있습니다.
-root.cardtext.codebreakers=낮에 한 번, 다른 플레이어의 손패를 볼 수 있습니다.
-root.cardtext.dominance.suit=문양으로 사용되면, 사용 가능하게 만듭니다.
-root.cardtext.dominance.points=점수가 10점 이상이면 낮에 사용하세요. 더 이상 <style="vptext">VP</style>를 얻을 수 없습니다.
-root.cardtext.dominance.clearingtext.rabbit=아침에 토끼 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.fox=아침에 여우 공터 세 곳을 지배하고 있으면 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.mouse=세 개의 쥐 공터를 지배하면, 아침에 게임에서 승리합니다.
-root.cardtext.dominance.clearingtext.bird=아침이 시작될 때, 마주보고 있는 두 곳의 모서리 공터를 지배하고 있다면 게임에서 승리합니다.
-root.cardtext.dominance.vagabond=4인 이상 게임에서, 방랑자는 동맹 카드를 사용하여 동맹을 형성할 수 있습니다.
-root.cardtext.ambush.any=모든 공터에서 매복 카드를 사용할 수 있습니다.
-root.cardtext.ambush.fox=여우 공터에서 매복 카드를 사용할 수 있습니다.
-root.cardtext.ambush.mouse=쥐 공터에서 매복 카드를 사용할 수 있습니다.
-root.cardtext.ambush.rabbit=토끼 공터에서 매복 카드를 사용할 수 있습니다.
-root.cardtext.ambush.startofbattle=전투 시작 시, 수비자는 즉시 2 피해를 줄 수 있습니다. 공격자가 동일한 매복 카드를 사용하면 취소됩니다.
+root.cardtext.commandwarren=낮이 시작될 때, 한 번 전투 할 수 있습니다.
+root.cardtext.standanddeliver=아침에 다른 세력 하나를 골라 카드 1장을 무작위로 빼앗을 수 있습니다. 그 세력은 1점을 얻습니다.
+root.cardtext.betterburrowbank=아침이 시작될 때, 한 세력을 골라 함께 카드를 1장씩 뽑습니다.
+root.cardtext.taxcollector=낮 동안, 차례 당 한 번 자기 병사 하나를 제거하고 카드 1장을 뽑을 수 있습니다.
+root.cardtext.cobbler=저녁이 시작될 때, 한 번 이동할 수 있습니다.
+root.cardtext.codebreakers=낮 동안, 한 세력을 골라 손에 든 카드를 모두 볼 수 있습니다.
+root.cardtext.dominance.suit=문양에 맞게 소모하려 할 때, 사용 가능합니다.
+root.cardtext.dominance.points=점수가 10점 이상이면 낮에 이 카드를 사용할 수 있습니다. 더 이상 <style="vptext">VP</style>를 얻을 수 없습니다.
+root.cardtext.dominance.clearingtext.rabbit=아침이 시작될 때, 토끼 공터 세 곳 이상을 지배하고 있다면 승리합니다.
+root.cardtext.dominance.clearingtext.fox=아침이 시작될 때, 여우 공터 세 곳 이상을 지배하고 있다면 승리합니다.
+root.cardtext.dominance.clearingtext.mouse=아침이 시작될 때, 생쥐 공터 세 곳 이상을 지배하고 있다면 승리합니다.
+root.cardtext.dominance.clearingtext.bird=아침이 시작될 때, 마주보고 있는 두 곳의 모서리 공터를 지배하고 있다면 승리합니다.
+root.cardtext.dominance.vagabond=4인 이상 게임에서 방랑자는 지배 카드를 사용하여 연합 정부를 구성할 수 있습니다.
+root.cardtext.ambush.any=아무 공터에서나 사용
+root.cardtext.ambush.fox=여우 공터에서 사용
+root.cardtext.ambush.mouse=생쥐 공터에서 사용
+root.cardtext.ambush.rabbit=토끼 공터에서 사용
+root.cardtext.ambush.startofbattle=전투가 시작 될 때 방어자는 이 카드를 사용해서 즉시 피해 2를 입할 수 있습니다. 그럴 경우 이 카드를 버립니다. 이때 공격자가 공터에 맞는 매복 카드를 사용하면 무효가 됩니다.
 root.quest.header=퀘스트 카드
 root.quest.clearingtype.rabbit=토끼 공터에서
 root.quest.clearingtype.fox=여우 공터에서
-root.quest.clearingtype.mouse=쥐 공터에서
-root.quest.claimtext=이 퀘스트를 획득하고 보상을 선택하세요.
+root.quest.clearingtype.mouse=생쥐 공터에서
+root.quest.claimtext=이 퀘스트를 완수하고 보상을 선택하세요.
 root.quest.eitheror=또는
 root.quest.requireditems=필요한 아이템
-root.quest.drawtwo=카드 두 장을 드로우 <size=200%><sprite name="twocards"></size>
+root.quest.drawtwo=카드 두 장 뽑기<size=200%><sprite name="twocards"></size>
 root.quest.foxvp=<size=200%><sprite name="1VP"></size> 여우 퀘스트당
-root.quest.mousevp=<size=200%><sprite name="1VP"></size> 쥐 퀘스트당
+root.quest.mousevp=<size=200%><sprite name="1VP"></size>생쥐 퀘스트당
 root.quest.rabbitvp=<size=200%><sprite name="1VP"></size> 토끼 퀘스트당
-root.quest.repairashed=창고 수리
-root.quest.logisticshelp=물류 지원
-root.quest.guardduty=경비 근무
+root.quest.repairashed=헛간 수리
+root.quest.logisticshelp=배달하기
+root.quest.guardduty=보초 서기
 root.quest.giveaspeech=연설하기
-root.quest.fundraising=모금 활동
-root.quest.fendoffabear=곰 퇴치
-root.quest.expelbandits=도적 제거
-root.quest.escort=호위
-root.quest.errand=심부름
+root.quest.fundraising=모금하기
+root.quest.fendoffabear=곰을 물리치기
+root.quest.expelbandits=산적 퇴치하기
+root.quest.escort=호위하기
+root.quest.errand=심부름하기
 root.eyrie.leader=이어리 왕조 지도자
 root.eyrie.builder=건축가
-root.eyrie.builder.text=아이템을 제작할 때 상업 멸시를 무시합니다.
+root.eyrie.builder.text=아이템을 제작할 때 교역 멸시를 무시합니다.
 root.eyrie.commander=사령관
-root.eyrie.commander.text=전투에서 공격자는 추가 피해를 줍니다.
+root.eyrie.commander.text=공격자로서 전투할 때, 추가로 피해 1을 줍니다.
 root.eyrie.despot=폭군
-root.eyrie.despot.text=전투에서 적의 건물이나 토큰을 적어도 하나 제거하면 1점을 얻습니다.
-root.eyrie.charismatic=카리스마
-root.eyrie.charismatic.text=모병할 때 두 명의 병사를 배치합니다.
+root.eyrie.despot.text=전투 중 적의 건물이나 토큰을 적어도 하나라도 제거하면 1점을 얻습니다.
+root.eyrie.charismatic=카리스마 있는 지도자
+root.eyrie.charismatic.text=모병할 때 병사를 1개가 아니라 2개씩 놓습니다.
 root.eyrie.actions={0} & {1}
 root.eyrie.action.move=이동
 root.eyrie.action.recruit=모병
@@ -2590,18 +2590,18 @@ root.eyrie.action.battle=전투
 root.eyrie.loyalvizier=충성스러운 부관
 root.vagabond.ranger=레인저
 root.vagabond.ranger.ability.title=은신처
-root.vagabond.ranger.ability.text=세 개의 아이템을 수리합니다. 그 후 즉시 낮 시간을 종료합니다.
+root.vagabond.ranger.ability.text=아이템 세 개를 수리하고 즉시 낮을 마침
 root.vagabond.tinker=땜장이
-root.vagabond.tinker.ability.title=일용직
-root.vagabond.tinker.ability.text=자신의 공터에 맞는 버린 카드 한 장을 드로우합니다.
+root.vagabond.tinker.ability.title=날품팔이
+root.vagabond.tinker.ability.text=버린 카드 더미에서 현재 공터의 문양에 맞는 카드 1장을 얻음
 root.vagabond.thief=도둑
 root.vagabond.thief.ability.title=훔치기
-root.vagabond.thief.ability.text=당신의 공터에 있는 플레이어로부터 무작위 카드를 한 장 뽑습니다.
+root.vagabond.thief.ability.text=공터에 함께 있는 다른 세력의 손에서 무작위로 카드 1장 획득
 root.vagabond.startingitems=시작 아이템
-root.cardtext.dominance.clearingtext.rabbit.override.vagabond=4인 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 동맹을 맺을 수 있습니다. <i><br> 그들이 이기면, 당신도 이깁니다. </i>
-root.cardtext.dominance.clearingtext.fox.override.vagabond=4인 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 동맹을 맺을 수 있습니다. <i><br> 그들이 이기면, 당신도 이깁니다. </i>
-root.cardtext.dominance.clearingtext.mouse.override.vagabond=4인 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 동맹을 맺을 수 있습니다. <i><br> 그들이 이기면, 당신도 이깁니다. </i>
-root.cardtext.dominance.clearingtext.bird.override.vagabond=4인 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 동맹을 맺을 수 있습니다. <i><br> 그들이 이기면, 당신도 이깁니다. </i>
+root.cardtext.dominance.clearingtext.rabbit.override.vagabond=4인 이상의 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 연합정부를 선언할 수 있습니다. <i><br> 그 플레이어가 승리하면, 당신도 승리합니다. </i>
+"root.cardtext.dominance.clearingtext.fox.override.vagabond=4인 이상의 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 연합정부를 선언할 수 있습니다. <i><br> 그 플레이어가 승리하면, 당신도 승리합니다. </i>
+root.cardtext.dominance.clearingtext.mouse.override.vagabond=4인 이상의 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 연합정부를 선언할 수 있습니다. <i><br> 그 플레이어가 승리하면, 당신도 승리합니다. </i>
+root.cardtext.dominance.clearingtext.bird.override.vagabond=4인 이상의 게임에서, <style="vptext">VP</style>가 가장 적은 플레이어와 연합정부를 선언할 수 있습니다. <i><br> 그 플레이어가 승리하면, 당신도 승리합니다. </i>
 root.cardtext.craftcoinstack.override.eyrie=<size=200%><sprite name="coinstack">, <sprite name="DisdainVP"></size>
 root.cardtext.craftsword.override.eyrie=<size=200%><sprite name="sword">, <sprite name="DisdainVP"></size>
 root.cardtext.roottea.override.eyrie=<size=200%><sprite name="teapot">, <sprite name="DisdainVP"></size>
@@ -2671,19 +2671,19 @@ root.vagabot.difficulty.easy=쉬움
 root.vagabot.difficulty.normal=보통
 root.difficulty.challenging=어려움
 root.difficulty.nightmare=악몽
-root.suit.mouse=쥐
+root.suit.mouse=생쥐
 root.suit.fox=여우
 root.suit.rabbit=토끼
-tutorial1.turn1.preintro=Root에 오신 것을 환영합니다. 이 게임은 전쟁과 모험이 펼쳐지는 게임으로, 네 개의 독특한 세력이 광대한 숲을 차지하기 위해 싸웁니다.
-tutorial1.turn1.intro=이번 시나리오에서는 야망이 넘치는 <color=#CC6633>고양이 후작</color>으로 플레이하게 됩니다. <color=#CC6633>후작</color>은 오늘날 군사력과 산업력에서 강력한 세력으로 성장했지만, 그들이 숲에 도착했을 때는 적은 수의 병사와 몇 개의 소박한 건물만 있었습니다.
+tutorial1.turn1.preintro=루트에 오신 것을 환영합니다. 이 게임은 전쟁과 모험이 펼쳐지는 게임으로, 네 개의 독특한 세력이 광대한 숲을 차지하기 위해 싸웁니다.
+tutorial1.turn1.intro=이번 시나리오에서 야망이 넘치는 <color=#CC6633>고양이 후작</color>으로 플레이하게 됩니다. 지금처럼 강력한 군사·산업 대국이 되기 전에, <color=#CC6633>후작</color>은 몇 명의 병사들과 몇 채의 작은 건물만을 가지고 숲으로 들어왔습니다.
 tutorial1.turn1.movelesson=<sprite name="marquise"><color=#CC6633>병사</color>를 이웃 공터로 이동시켜 지배 영역을 확장하세요.
-tutorial1.turn1.suits=각 공터에는 해당 지역에서 살아가는 생물들을 대표하는 "문양"이 있습니다: 쥐 <sprite name="ClearingMouse">, 여우 <sprite name="ClearingFox">, 토끼 <sprite name="ClearingRabbit">.
+tutorial1.turn1.suits=각 공터에는 해당 지역에서 살아가는 생물들을 대표하는 "문양"이 있습니다: 생쥐 <sprite name="ClearingMouse">, 여우 <sprite name="ClearingFox">, 토끼 <sprite name="ClearingRabbit">.
 tutorial1.turn1.control=훌륭합니다! 그 공터에서 적보다 더 많은 기물을 보유하고 있기 때문에, 당신은 그 공터를 지배하고 있습니다.
-tutorial1.turn1.movelesson.2=행군 액션을 사용할 때 두 번 이동할 수 있습니다. 이제 한 번 더 이동해 보세요.
+tutorial1.turn1.movelesson.2=행군 액션을 하면 병사를 두 번 이동할 수 있습니다. 이제 한 번 더 이동해 보세요.
 tutorial1.turn1.endofturn=턴을 끝내고 휴식을 취합시다. 이제 큰 하루가 기다리고 있습니다. 건설을 시작합시다.
-tutorial1.turn2.wood=<sprite name="CatSawmill"><color=#CC6633>제재소</color>는 당신의 턴 시작 시 1 <sprite name="Wood"><color=#CC6633>목재</color>를 생성합니다. <sprite name="Wood"><color=#CC6633>목재</color>는 건물을 만드는 데 사용됩니다.
-tutorial1.turn2.build=<sprite name="CatRecruiter"><color=#CC6633>모병소</color>를 만들어 더 많은 <sprite name="marquise"><color=#CC6633>병사</color>를 숲에 배치합시다. 건설 버튼을 선택하세요.
-tutorial1.turn2.recruiter=이 공터는 완벽합니다. 1 <sprite name="Wood"><color=#CC6633>목재</color>를 사용하여 <sprite name="CatRecruiter"><color=#CC6633>모병소</color>를 건설하세요.
+tutorial1.turn2.wood=<sprite name="CatSawmill"><color=#CC6633>제재소</color>는 턴 시작 시 <sprite name="Wood"><color=#CC6633>목재</color>를 하나 생성합니다. <sprite name="Wood"><color=#CC6633>목재</color>는 건물을 건설하는 데 사용됩니다.
+tutorial1.turn2.build=<sprite name="CatRecruiter"><color=#CC6633>모병소</color>를 만들어 더 많은 <sprite name="marquise"><color=#CC6633>병사</color>를 모병합시다. 건설 버튼을 누르세요.
+tutorial1.turn2.recruiter=이 공터는 완벽합니다. 1 <sprite name="Wood"><color=#CC6633>목재</color>를 소모해 <sprite name="CatRecruiter"><color=#CC6633>모병소</color>를 건설하세요.
 tutorial1.turn2.daylight=모병 액션을 사용하여 <sprite name="marquise"><color=#CC6633>병사</color>를 각 <sprite name="CatRecruiter"><color=#CC6633>모병소</color> 건물에 배치하세요.
 tutorial1.turn2.goal=저 멀리서 날개 짓 소리가 들립니다. 날렵한 적들, <color=#336699>이어리</color>가 오기 전에 숲을 차지하십시오.
 tutorial1.goal.clearings=5개의 공터 지배하기 ({0}/{1})
@@ -2696,7 +2696,7 @@ tutorial1.roostintroduction=<color=#336699>이어리</color>는 <sprite name="Ro
 tutorial1.goal.destroy2roosts=<sprite name="Roost"><color=#336699>보금자리</color> 두 개 파괴하기
 tutorial1.roostbattle=전투 중, 당신의 피해는 먼저 적의 <sprite name="eyrie"><color=#336699>병사</color>를 처치합니다. 남은 피해는 <sprite name="Roost"><color=#336699>둥지</color>로 전달됩니다.
 tutorial1.destroyroost=잘 했어요! 그들의 <sprite name="Roost"><color=#336699>둥지</color>를 파괴했습니다. 숲은 지금은 우리의 것...입니다.
-tutorial2.faction.info=침략하는 <color=#CC6633>고양이 후작</color>은 숲의 방대한 자원을 활용하여 경제적이고 군사적인 기계를 구축하려 합니다. 그녀는 숲에 건물을 건설하여 VP <style="vptext">VP</style>를 얻습니다. <br><br>일반적인 게임에서는 첫 번째로 <style="vpnumdd">30</style> 점을 얻은 플레이어가 승리합니다! 이번 시나리오에서는 <style="vpnumddteen">12</style> 점을 얻을 수 있는지 확인해보세요.
+tutorial2.faction.info=나는 <color=#CC6633>고양이 후작(Marquise de Cat)</color>, 이 숲을 지배할 몸이다. 울창한 숲의 자원은 나의 경제력과 군사력을 강화하는 원동력이 될 것이다. 이 몸은 공터에 건물을 세워 <style="vptext">점수(VP)</style>를 얻는다. <br><br> 보통은 먼저 <style="vpnumdd">30</style>점을 얻는 자가 승리를 거머쥘 것이다. 이번에는 <style="vpnumdd">12</style>점을 얻는 것을 목표로 하거라.
 tutorial2.setup.keep=게임을 시작할 때 <color=#CC6633>고양이 후작</color>은 <sprite name="KeepToken"><color=#CC6633>요새</color>를 코너에 있는 공터 한 곳에 배치합니다.
 tutorial2.setup.keep2=<sprite name="KeepToken"> <color=#CC6633>요새</color>는 당신 왕국의 근본입니다. 적들은 <sprite name="KeepToken"><color=#CC6633>요새</color>가 있는 공터에서 건물을 짓거나 기물을 배치할 수 없지만, 이동은 가능합니다.
 tutorial2.setup.keep3=지금 <sprite name="KeepToken"><color=#CC6633>요새</color>를 배치하세요.
@@ -2922,7 +2922,7 @@ Firsttime.sympathyTokenRemoved=상대가 <sprite name="Sympathy"><color=#008D3F>
 practice.openingLine=이제 연습한 내용을 시험해볼 차례입니다. 이 연습 게임에서 먼저 <style="vpnumdd">20</style>점을 획득하는 세력이 승리합니다!
 tutorial3.turnthree.turmoil.1.b=혼란이 다가오는 것 같지만, 매 턴 <color=#336699>규율</color>에 카드를 추가해야 합니다. 지금 하나 배치하세요. 너무 고민하지 마세요.
 tutorial3.turnthree.turmoil.1.cats=저번 턴에 사악한 <color=#CC6633>고양이 후작</color>이 <sprite name="Roost"><color=#336699>둥지</color>를 파괴하여, 더 이상 <sprite name="ClearingFox">여우 공터에서 모병할 수 없습니다.
-tutorial3.aiturnthree.use.sappers=제작한 "참호병" 카드를 선택하여 적 병사를 추가로 제거하세요.
+tutorial3.aiturnthree.use.sappers=제작한 "공병" 카드를 선택하여 적 병사를 추가로 제거하세요.
 tutorial3.turnfour.goal.1=이제 스스로 해낼 준비가 된 것 같군요. 적 건물을 파괴하고, 카드를 제작하며, <sprite name="Roost"><color=#336699>둥지</color>를 건설하고 보호하여 <style="vpnumddteen">10</style>점을 획득하면 이 시나리오를 완료할 수 있습니다.
 Firsttime.ally.Marquise=이제 <sprite name="Allied"><color=#4E6F89>동맹</color> 상태가 되어 <color=#CC6633>고양이 후작</color>과 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 병사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
 Firsttime.ally.Eyrie=이제 <sprite name="Allied"><color=#4E6F89>동맹</color> 상태가 되어 <color=#336699>이어리 왕조</color>와 협력할 수 있습니다. 이들에게 <sprite name="heart"> <color=#4E6F89>지원</color>할 때마다 <style="vptext">VP</style>를 획득합니다. 또한, 같은 공터에 있는 이들의 병사를 지휘하여 이동시키거나 전투를 수행할 수 있습니다.
@@ -3134,7 +3134,7 @@ tooltip.ui.phase.cancel=<size=125%><b>취소</b></size>
 tooltip.ui.defenseless=무방비
 tooltip.ui.commander=사령관
 tooltip.ui.brutaltactics=잔혹한 전술
-tooltip.ui.sappers=공병대
+tooltip.ui.sappers=공병
 tooltip.ui.armorers=갑옷 제작자
 tooltip.ui.totalhitdef=총 공격 횟수 (방어자)
 tooltip.ui.totalhitatk=총 공격 횟수 (공격자)
@@ -3175,7 +3175,7 @@ tooltip.electriceyrie.battle=<size=125%><b>추가 공격</b></size><br>메카 �
 tooltip.brutaltactics.battle=<size=125%><b>잔혹한 전술:</b></size><br>추가 피해를 가합니다. 방어자는 <style="vptext">1점</style>을 획득합니다.
 tooltip.defenseless.battle=<size=125%><b>무방비:</b></size><br>방어자가 해당 공터에 병사를 보유하지 않아 추가 피해를 가합니다.
 tooltip.commander.battle=<size=125%><b>사령관:</b></size><br>공격자로서 전투 시 추가 피해를 가합니다.
-tooltip.sappers.battle=<size=125%><b>공병대:</b></size><br>방어자가 추가 피해를 가합니다.
+tooltip.sappers.battle=<size=125%><b>공병:</b></size><br>방어자가 추가 피해를 가합니다.
 tooltip.autoambush.battle=<size=125%><b>자동 매복:</b></size><br>방어자가 연합 병사와의 전투에서 추가 피해를 가합니다.
 tooltip.arbiterprotector.battle=<size=125%><b>수호자:</b></size><br>중재자의 손상되지 않은 검 개수만큼 방어자의 최대 주사위 공격 횟수가 증가합니다.
 tooltip.settingsmenu=<b>설정</b>
@@ -3415,13 +3415,13 @@ rules.hundreds.daylight.2=∙<b>이동:</b> 한 번 이동합니다.<br>∙<b>�
 rules.hundreds.daylight.3=<b>셋째, 전쟁군주 진격.</b> 기량만큼 전쟁군주를 진격시킬 수 있습니다. 진격할 때마다 이동 후 전투를 수행할 수 있습니다(둘 다 선택 사항). 이동 시 전쟁군주는 반드시 포함되어야 하지만, 병사들과 함께 이동할 수도 있습니다. 전투는 전쟁군주가 있는 공터에서만 가능합니다.
 rules.hundreds.evening.1=<style=RSH><sprite index=64>저녁</style> <br><br><b>첫째, 선동.</b> 원하는 횟수만큼 카드를 소모하여 수백마리 들쥐 군주 병사가 있는(전쟁군주 포함) 일치하는 공터에 군중 토큰을 배치할 수 있습니다. 한 공터에는 군중 하나만 배치할 수 있습니다.
 rules.hundreds.evening.2=군중 주사위를 굴려 난동 단계를 수행할 때처럼 군중을 인접한 공터에 배치할 필요는 없습니다.
-rules.hundreds.evening.3=<b>둘째, 탄압.</b> 수백마리 들쥐 군주 말이나 건물, 적의 병사 및 토큰이 전혀 없는 공터 수에 따라 점수를 획득합니다.
+rules.hundreds.evening.3=<b>둘째, 억압.</b> 수백마리 들쥐 군주 말이나 건물, 적의 병사 및 토큰이 전혀 없는 공터 수에 따라 점수를 획득합니다.
 rules.hundreds.evening.4=<b>셋째, 카드 뽑기와 버리기.</b> 카드를 한 장 뽑습니다. 카드가 다섯 장을 초과하면 다섯 장이 될 때까지 버립니다.
 rules.hundreds.evening.5=더 많은 카드를 뽑고 싶다면, '떠들썩한' 기분을 선택하세요!
 rules.hundreds.ability.1=<style=RSH>약탈자 능력</style> <br><br>이 능력은 다음과 같이 작동합니다. 공격자로서 전투할 때, 상대를 약탈할 수 있습니다. 주사위를 굴리지만, 굴린 피해를 가하지 않으며, 상대는 정상적으로 피해를 가합니다. 전투가 끝난 후, 해당 공터를 지배하고 있다면, 상대의 제작된 아이템 중 하나를 가져올 수 있습니다.
 rules.hundreds.ability.2=단, 방랑자는 제작된 아이템 보관함이 없으므로 약탈할 수 없습니다.
 rules.keepers.desc=강철의 수호자는 과거 숲에서 추방된 신앙심 깊은 기사단으로, 잃어버린 유물을 회수하기 위해 돌아왔습니다. 이들은 유물을 회수하여 중간 기지에 보관함으로써 점수를 획득합니다.
-rules.hundreds.desc=수백마리 들쥐 군주는 어리석음을 용납하지 않으며, 어떠한 반란도 허용하지 않습니다. 저녁 단계에서, 적을 탄압한 정도에 따라 점수를 획득합니다. 수백마리 들쥐 군주 말이 있고 적의 병사, 토큰, 건물이 전혀 없는 공터를 더 많이 지배할수록 더 많은 점수를 얻습니다.
+rules.hundreds.desc=수백마리 들쥐 군주는 어리석음을 용납하지 않으며, 어떠한 반란도 허용하지 않습니다. 저녁 단계에서, 적을 억압한 정도에 따라 점수를 획득합니다. 수백마리 들쥐 군주 말이 있고 적의 병사, 토큰, 건물이 전혀 없는 공터를 더 많이 지배할수록 더 많은 점수를 얻습니다.
 emote.dominance.marquise=왼쪽으로 돌진하고, 오른쪽을 강타하라!
 emote.dominance.eyrie=깃털을 꽉 잡아라. 새로운 승리의 길이 열린다.
 emote.dominance.alliance=계획 변경이다, 친구들. 놈들은 무슨 일이 벌어졌는지도 모를 거야!
@@ -3828,7 +3828,7 @@ Log.Commander.hit=[faction name]이(가) 사령관 능력으로 추가 피해를
 Log.Favor.Craft=[faction name]이(가) [name]을(를) 제작하여 [suit icon] 공터의 모든 적 기물을 제거함.
 Log.Dominance=[faction name]이(가) 우위를 플레이하여 승리 조건을 변경함.
 Log.Armorers=[faction name]이(가) 방어구 제작자를 버려 주사위 피해를 무시함.
-Log.Sappers=[faction name]이(가) 참호병을 버려 추가 피해를 줌.
+Log.Sappers=[faction name]이(가) 공병을 버려 추가 피해를 줌.
 Log.BrutalTactics=[faction name]이(가) 잔혹한 전술을 사용하여 추가 피해를 줌. 방어자는 1<style="vptext">VP</style>을 획득함.
 Log.RoyalClaim=[faction name]이(가) 왕실 소유권을 버려 자신이 지배하는 공터마다 1 <style="vptext">VP</style>을 획득함. 총 [X] <style="vptext">VP</style> 획득.
 Log.StandandDeliver=[faction name]이(가) "항복하고 내놔!"를 사용하여 [faction name 2]의 무작위 카드를 빼앗음. 그 플레이어는 1 <style="vptext">VP</style>을 획득함.
